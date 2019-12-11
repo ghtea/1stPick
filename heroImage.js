@@ -3,8 +3,8 @@ var widthEntire = window.screen.width * window.devicePixelRatio;
 var widthContent = 0;
 
 
-if (widthEntire > 700) {
-	widthContent = 700;
+if (widthEntire > 720) {
+	widthContent = 720;
 } else {
 	widthContent = widthEntire;
 };
@@ -55,9 +55,12 @@ var Hero = {
 	}
 };
 
+    
+    var numSizeWin = 8;
+    var numSizePlay = 5;
 
 	var newRect = document.createElement("div");
-	newRect.style = "width:" + Hero.BG.BG01.win * 10 + "px;height:" +  Hero.BG.BG01.play * 5 + "px; background:#1cd93c; position: absolute; left: 90px; top:18px;  z-index: 1;"
+	newRect.style = "width:" + Hero.BG.BG01.win * numSizeWin + "px;height:" +  Hero.BG.BG01.play * numSizePlay + "px; background:#1cd93c; position: absolute; left: 90px; top:18px;  z-index: 1;"
 	currentDiv.appendChild(newRect);
 	
 }
