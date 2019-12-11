@@ -61,14 +61,13 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 	border-radius: 50%;
 	width: 60px;
 	height: 60px;
-    padding:10px;
+    padding:8px;
 }
 
 
 
-.cb:checked + .cbLabel {
-
-    border-width: 8px;
+.cb:checked + .cbLabel > image {
+    border-width: 5px;
     border-style: solid;
     border-color: white;
 }
