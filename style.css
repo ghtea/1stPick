@@ -5,12 +5,12 @@ html{font-size:18px;}
 
 
 body {color:white; background-color: #170039; margin: auto;}
-body{width: 700px ;}
+body{width: 700px ; }
 //@media (max-width:1400px){body{font-size:21px;}}
 //@media (max-width:700px){body{width: 700px ;}}
 
 
-ㄴdiv# {background-color:#ffffff;}
+div# {background-color:#ffffff;}
 
 div#role {position: relative; height:90px;}
 
@@ -32,8 +32,8 @@ p.pHT {font-size: 1.2rem; color:#cccccc; position: absolute;}
 p#pRank {left: 0px;}
 p#pHero {left: 70px;}
 p#pWinPlay {left: 180px;}
-p#pWin {left:610px;}
-p#pPlay {left:720px;}
+p#pWin {left:510px;}
+p#pPlay {left:620px;}
 
 
 p.pRank {position: absolute; left:20px; top:0px; font-size: 36px; color:#000000; z-index:15;}
@@ -48,7 +48,8 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 36px; color:#000000;
 	
 	
 #cbAll {
-  display: none;
+    display: none;
+    border-width: 0px;
 }
 
 
