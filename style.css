@@ -60,7 +60,7 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 	background-image: url(heroImages/hero02.jpg);
 	display: inline-block;
 	//background-position: left center;
-	background-size: auto 100%;
+	//background-size: auto 100%;
 	
 	border-radius: 50%;
 	width: 40px;
