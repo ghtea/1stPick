@@ -63,7 +63,9 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 	border-radius: 50%;
 	width: 56px;
 	height: 56px;
-    margin:5px;
+    margin-top: auto;
+    margin-left: 5px;
+    margin-right: 5px;
 }
 
 
