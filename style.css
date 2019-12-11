@@ -1,0 +1,64 @@
+body {color:white; background-color: #170039;}
+
+
+//div# {background-color:#ffffff;}
+
+div#role {position: relative; height:90px;}
+
+div#rank01 {background-color:#000000;}
+
+div#rank03 {background-color:#000000;}
+
+
+
+
+
+input#role {}
+input#ratio {position: relative; left:140px;}
+
+div#headText {position: relative; height:70px;}
+p#pRank, p#pHero, p#pWinPlay, p#pWin, p#pPlay {font-size: 24px; color:#cccccc; position: absolute;}
+
+p#pRank {left: 0px;}
+p#pHero {left: 70px;}
+p#pWinPlay {left: 180px;}
+p#pWin {left:610px;}
+p#pPlay {left:720px;}
+
+
+p.pRank {position: absolute; left:20px; top:0px; font-size: 36px; color:#000000; z-index:15;}
+
+
+
+
+
+
+
+
+	
+	
+#cbAll {
+  display: none;
+}
+
+
+
+.cb {
+	background-image: url(heroImages/hero02.jpg);
+	display: inline-block;
+	//background-position: left center;
+	background-size: auto 100%;
+	
+	border-radius: 50%;
+	width: 80px;
+	height: 80px;
+	background-repeat: no-repeat;
+}
+
+
+
+#cbAll:checked + .cb {
+  //background-position: right center;
+	background-image: url(heroImages/hero03.jpg);
+
+}
