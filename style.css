@@ -1,7 +1,11 @@
-body {color:white; background-color: #170039;}
+html{font-size:24px;}
+//@media (max-width:700px){html{font-size:24px;}}
 
 
-//div# {background-color:#ffffff;}
+body {color:white; background-color: #170039; margin: auto;}
+
+
+ㄴdiv# {background-color:#ffffff;}
 
 div#role {position: relative; height:90px;}
 
@@ -17,7 +21,8 @@ input#role {}
 input#ratio {position: relative; left:140px;}
 
 div#headText {position: relative; height:70px;}
-p#pRank, p#pHero, p#pWinPlay, p#pWin, p#pPlay {font-size: 24px; color:#cccccc; position: absolute;}
+
+p.pHT {font-size: 24px; color:#cccccc; position: absolute;}
 
 p#pRank {left: 0px;}
 p#pHero {left: 70px;}

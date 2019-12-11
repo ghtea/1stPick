@@ -1,7 +1,7 @@
 
 var widthEntire = window.screen.width * window.devicePixelRatio;
 var widthContent = 0;
-var leftNum = 0;
+
 
 if (widthEntire > 700) {
 	widthContent = 700;
@@ -9,11 +9,8 @@ if (widthEntire > 700) {
 	widthContent = widthEntire;
 };
 
-leftNum = (widthEntire - widthContent) / 2;
 
 var body = document.querySelector("body");
-body.style.marginLeft = leftNum + "px";
-body.style.marginRight = leftNum + "px";
 
 
 addHero("#rank01");
