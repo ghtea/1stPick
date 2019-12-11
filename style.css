@@ -1,22 +1,24 @@
-html{font-size:18px;}
+html{font-size:18px;
+    font-family: Helvetica, Arial, sans-serif;
+}
 @media (max-width:1400px){html{font-size:21px;}}
 @media (max-width:700px){html{font-size:24px;}}
 
 
 
 body {color:white; background-color: #170039; margin: auto;}
-body{width: 700px ; }
-//@media (max-width:1400px){body{font-size:21px;}}
-//@media (max-width:700px){body{width: 700px ;}}
+body{width: 720px ; }
+//@media (max-width:1200px){body{;}}
+//@media (max-width:720px){body{width: 720px ;}}
 
 
 div# {background-color:#ffffff;}
 
 div#role {position: relative; height:90px;}
 
-div#rank01 {background-color:#000000;}
+div.dRank {background-color:#000000;}
 
-div#rank03 {background-color:#000000;}
+
 
 
 
