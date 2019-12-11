@@ -50,8 +50,8 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 	
 	
 #cbAll {
-    display: none;
-    border-width: 0px;
+    opacity: 0;
+    
 }
 
 
