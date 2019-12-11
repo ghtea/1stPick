@@ -14,7 +14,7 @@ body{width: 720px ; }
 
 div# {background-color:#ffffff;}
 
-div#role {position: relative; height:90px;}
+div#role {position: relative; height:70px;}
 
 div.dRank {background-color:#000000;}
 
@@ -61,15 +61,15 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 
 .cbLabel > img  {
 	border-radius: 50%;
-	width: 60px;
-	height: 60px;
-    padding:8px;
+	width: 56px;
+	height: 56px;
+    margin:5px;
 }
 
 
 
 .cb:checked + label > img {
-    border-width: 5px;
+    border-width: 3px;
     border-style: solid;
     border-color: white;
 }
