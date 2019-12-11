@@ -13,8 +13,12 @@ if (widthEntire > 700) {
 var body = document.querySelector("body");
 
 
-addHero("#rank01");
-addHero("#rank02");
+var numRank = 10;
+// ex addHero("#dRank03")
+for (var i = 1; i<numRank+1; i++ ){
+    var formattedNumRank = ("0" + numRank).slice(-2);
+    addHero("#dRank"+ formattedNumRank);
+}
 
 function addHero(rankNum) {
 	var currentDiv = document.querySelector(rankNum);
