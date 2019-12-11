@@ -63,15 +63,17 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 	background-size: auto 100%;
 	
 	border-radius: 50%;
-	width: 80px;
-	height: 80px;
+	width: 40px;
+	height: 40px;
 	background-repeat: no-repeat;
 }
 
 
 
 #cbAll:checked + .cb {
-  //background-position: right center;
-	background-image: url(heroImages/hero03.jpg);
-
+    //background-position: right center;
+    //background-image: url(heroImages/hero03.jpg);
+    border-width: 8px;
+    border-style: solid;
+    border-color: white;
 }
