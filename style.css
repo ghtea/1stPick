@@ -38,7 +38,7 @@ p#pWin {left:510px;}
 p#pPlay {left:620px;}
 
 
-p.pRank {position: absolute; left:20px; top:0px; font-size: 36px; color:#000000; z-index:15;}
+p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#000000; z-index:15;}
 
 
 
