@@ -55,7 +55,9 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
     
 }
 
-
+.cbLabel {
+    display: inline-block;
+}
 
 .cbLabel > img  {
 	border-radius: 50%;
@@ -66,7 +68,7 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 
 
 
-.cb:checked + .cbLabel > image {
+.cb:checked + .cbLabel > img {
     border-width: 5px;
     border-style: solid;
     border-color: white;
