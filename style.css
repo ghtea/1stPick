@@ -38,6 +38,7 @@ p#pWin {left:510px;}
 p#pPlay {left:620px;}
 
 
+h1 {font-size: 1.8rem;}
 p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#000000; z-index:15;}
 
 
@@ -59,8 +60,6 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 .cbLabel {
 	background-image: url(heroImages/hero02.jpg);
 	display: inline-block;
-	//background-position: left center;
-	//background-size: auto 100%;
 	
 	border-radius: 50%;
 	width: 40px;
@@ -71,8 +70,7 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 
 
 .cb:checked + .cbLabel {
-    //background-position: right center;
-    //background-image: url(heroImages/hero03.jpg);
+
     border-width: 8px;
     border-style: solid;
     border-color: white;
