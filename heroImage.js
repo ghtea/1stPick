@@ -28,8 +28,8 @@ var body = document.querySelector("body");
 
 var entireRank = 10;
 // ex addHero("#dRank03")
-for (var i = 1; i<entireRank+1; i++ ){
-    var formattedNumRank = ("0" + numRank).slice(-2);
+for (var i = 1; i <= entireRank; i++ ) {
+    var formattedNumRank = ("0" + i ).slice(-2);
     addHero("#dRank"+ formattedNumRank);
 }
 
