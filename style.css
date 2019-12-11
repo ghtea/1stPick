@@ -1,8 +1,13 @@
-html{font-size:24px;}
-//@media (max-width:700px){html{font-size:24px;}}
+html{font-size:18px;}
+@media (max-width:1400px){html{font-size:21px;}}
+@media (max-width:700px){html{font-size:24px;}}
+
 
 
 body {color:white; background-color: #170039; margin: auto;}
+body{width: 700px ;}
+//@media (max-width:1400px){body{font-size:21px;}}
+//@media (max-width:700px){body{width: 700px ;}}
 
 
 ㄴdiv# {background-color:#ffffff;}
@@ -22,7 +27,7 @@ input#ratio {position: relative; left:140px;}
 
 div#headText {position: relative; height:70px;}
 
-p.pHT {font-size: 24px; color:#cccccc; position: absolute;}
+p.pHT {font-size: 1.2rem; color:#cccccc; position: absolute;}
 
 p#pRank {left: 0px;}
 p#pHero {left: 70px;}
