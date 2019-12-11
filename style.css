@@ -49,14 +49,14 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 
 	
 	
-#cbAll {
+.cb{
     opacity: 0;
     
 }
 
 
 
-.cb {
+.cbLabel {
 	background-image: url(heroImages/hero02.jpg);
 	display: inline-block;
 	//background-position: left center;
