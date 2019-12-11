@@ -70,7 +70,7 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 
 
 
-#cbAll:checked + .cb {
+.cb:checked + .cbLabel {
     //background-position: right center;
     //background-image: url(heroImages/hero03.jpg);
     border-width: 8px;
