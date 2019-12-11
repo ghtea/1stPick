@@ -15,7 +15,7 @@ var body = document.querySelector("body");
 
 var entireRank = 10;
 // ex addHero("#dRank03")
-for (var i = 1; i<numRank+1; i++ ){
+for (var i = 1; i<entireRank+1; i++ ){
     var formattedNumRank = ("0" + numRank).slice(-2);
     addHero("#dRank"+ formattedNumRank);
 }
