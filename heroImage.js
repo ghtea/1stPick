@@ -43,6 +43,7 @@ var www = 40;
 
 var Hero = {
 	ID: "who",
+    imgUrl: "",
 	releaseNum: 0,
 	role: "Healer",
 	BG: {
