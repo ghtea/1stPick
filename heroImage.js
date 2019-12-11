@@ -1,7 +1,20 @@
+/* load data */
+var rows;
+d3.csv("data/Heroes - Map - Sheet1.csv", function(loadedRows) {
+  rows = loadedRows;
+  doSomethingWithRows();
+});
+
+
+
+function doSomethingWithRows() {
+  // do something with rows
+}
+
+
 
 var widthEntire = window.screen.width * window.devicePixelRatio;
 var widthContent = 0;
-
 
 if (widthEntire > 720) {
 	widthContent = 720;
@@ -67,6 +80,9 @@ var Hero = {
 }
 
 
+var test = rows[0]
+var divTest = document.querySelector("#divTest");
+divTest.innerHTML="<p>" + test + "</p>";
 
 
 
