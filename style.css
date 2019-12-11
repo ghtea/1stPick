@@ -6,7 +6,7 @@ html{font-size:15px;
 
 
 
-body {color:white; background-color: #000218; margin: auto;}
+body {color:white; background-color: #000321; margin: auto;}
 body{width: 720px ; }
 //@media (max-width:1200px){body{;}}
 //@media (max-width:720px){body{width: 720px ;}}
@@ -68,7 +68,7 @@ p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#00000
 
 
 
-.cb:checked + .cbLabel > img {
+.cb:checked + label > img {
     border-width: 5px;
     border-style: solid;
     border-color: white;
