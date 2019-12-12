@@ -10,7 +10,7 @@ body {color:white; background-color: #000531; margin: auto; width: 700px ; }
 @media (min-width:1400px){bodywidth: 1400px ;}}
 
 
-div# {background-color:#ffffff;}
+/*div# {background-color:#ffffff;}*/
 
 div#role {position: relative; height:70px;}
 
