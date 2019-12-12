@@ -82,7 +82,8 @@ var Hero = {
 
 var test = rows[0];
 var divTest = document.querySelector("#divTest");
-divTest.innerHTML="<p>" + test + "</p>";
+var pTest = document.querySelector("#pTest");
+pTest.innerHTML= test;
 divTest.style = "position: relative; height: 150px;"
 
 
