@@ -1,21 +1,28 @@
 /* load data */
+/*
 var rows;
 d3.csv("data/Heroes - Map - Sheet1.csv", function(loadedRows) {
   rows = loadedRows;
   doSomethingWithRows();
 });
+*/
 
 var Hero = {
 	id: "who",
     name: "who",
-    imgUrl: "",
-	role: "Healer",
-	mapAPwin,
+    imgUrl: "heroImages/hero02.jpg",
+	role: "which"
+    /*
+	mapAPwin
     mapAPplay,
     mapAPban,
     mapAPpoint
+    */
 };
 
+/*
+for (var i = 1, i<) {}
+*/
 
 
 function doSomethingWithRows() {
@@ -23,7 +30,7 @@ function doSomethingWithRows() {
 };
 
 
-
+/*
 var widthEntire = window.screen.width * window.devicePixelRatio;
 var widthContent = 0;
 
@@ -32,7 +39,7 @@ if (widthEntire > 720) {
 } else {
 	widthContent = widthEntire;
 };
-
+*/
 
 var body = document.querySelector("body");
 
