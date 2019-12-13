@@ -49,19 +49,24 @@ for (var i = 1; i <= entireRank; i++ ) {
 }
 */
 
-addHero();
-function addHero() {
-    var table = document.getElementById("myTable");
-    var row = table.insertRow(0);
-    var cell1 = row.insertCell(0);
-    var cell2 = row.insertCell(1);
-    var cell3 = row.insertCell(2);
-    var cell4 = row.insertCell(3);
-    var cell5 = row.insertCell(4);
-    cell1.innerHTML = "#1";
-    cell2.innerHTML = "<img src='heroImages/hero02.jpg'>";
-
+rowCreate();
+function rowCreate() {
+    var tbl = document.querySelector('#tblGood');
+    tbl.style.width = '100%';
+    tbl.setAttribute('border', '1');
     
+    var tbdy = document.querySelector('#tbdyGood');
+    var tr = document.createElement('tr');
+    var td = document.createElement('td');
+    td.appendChild(document.createTextNode('#1'));
+    tr.appendChild(td)
+  
+tbdy.appendChild(tr);
+  tbl.appendChild(tbdy);
+  body.appendChild(tbl)
+}
+
+/*
     var numSizeWin = 8;
     var numSizePlay = 5;
 
@@ -70,8 +75,8 @@ function addHero() {
 	cell3.appendChild(newRect);
 	
     var test = rows[0];
-    cell4..innerHTML= test;
-}
+    cell4.innerHTML= test;
+*/
 
 
 
