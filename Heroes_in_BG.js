@@ -40,15 +40,17 @@ if (widthEntire > 720) {
 
 var body = document.querySelector("body");
 
-
+/*
 var entireRank = 10;
 // ex addHero("#dRank03")
 for (var i = 1; i <= entireRank; i++ ) {
     var formattedNumRank = ("0" + i ).slice(-2);
     addHero("#dRank"+ formattedNumRank);
 }
+*/
 
-function addHero(idCurrentRank) {
+addHero();
+function addHero() {
     var table = document.getElementById("myTable");
     var row = table.insertRow(0);
     var cell1 = row.insertCell(0);
