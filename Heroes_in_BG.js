@@ -1,13 +1,13 @@
 /* load data */
 /*
-var rows;
-d3.csv("data/Heroes - Map - Sheet1.csv", function(loadedRows) {
-  rows = loadedRows;
-  doSomethingWithRows();
+var dataHeroInfo;
+d3.csv("Heroes - Map - Hero Info.csv", function(loadedRows) {
+  dataHeroInfo = loadedRows;
 });
 */
 
-var Hero = {
+
+var Hero2 = {
 	id: "who",
     name: "who",
     imgUrl: "heroImages/hero02.jpg",
@@ -20,14 +20,18 @@ var Hero = {
     */
 };
 
+var Hero = [];
+
 /*
-for (var i = 1, i<) {}
+for (var i = 1; i<=88; i++) {
+    Hero[i].id = dataHeroInfo[i][1] 
+    Hero[i].name = dataHeroInfo[i][0] 
+    Hero[i].imgUrl = dataHeroInfo[i][0] 
+    Hero[i].role = dataHeroInfo[i][2] 
+}
 */
 
 
-function doSomethingWithRows() {
-  // do something with rows
-};
 
 
 /*
