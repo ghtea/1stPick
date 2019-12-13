@@ -47,14 +47,16 @@ for (var i = 1; i <= entireRank; i++ ) {
 
 var test = rows[0];
 
-var tbl = document.querySelector('#tblGood');
+
+var tbl  = document.querySelector('#tblGood');
+var tblRef = tbl.querySelector('#tbdyGood')[0];
+
 tbl.style.width = '100%';
 tbl.setAttribute('border', '1');
-var tbdy = document.querySelector('#tbdyGood');
 
 rowCreate();
 function rowCreate() {
-    var row = tbl.insertRow(0);
+    var row = tblRef.insertRow(0);
     var cell1 = row.insertCell(0);
     var cell2 = row.insertCell(1);
     var cell3 = row.insertCell(2);
