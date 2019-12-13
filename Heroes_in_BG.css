@@ -1,0 +1,75 @@
+html{font-size:15px;
+    font-family: Helvetica, Arial, sans-serif;
+}
+@media (max-width:1400px){html{font-size:18px;}}
+@media (max-width:700px){html{font-size:27px;}}
+
+
+
+body {color:white; background-color: #000531; margin: auto; max-width: 700px; }
+/*@media (min-width:1400px){bodywidth: 1400px ;}}*/
+
+
+/*div# {background-color:#ffffff;}*/
+
+div#role {position: relative; height:70px;}
+
+div.dRank {background-color:#000000;}
+
+
+
+
+
+
+
+input#role {}
+input#ratio {position: relative; left:140px;}
+
+div#headText {position: relative; height:70px;}
+
+p.pHT {font-size: 1.2rem; color:#cccccc; position: absolute;}
+
+p#pRank {left: 0px;}
+p#pHero {left: 70px;}
+p#pWinPlay {left: 180px;}
+p#pWin {left:510px;}
+p#pPlay {left:620px;}
+
+
+h1 {font-size: 1.8rem;}
+p.pRank {position: absolute; left:20px; top:0px; font-size: 1.5rem; color:#000000; z-index:15;}
+
+
+
+
+
+
+
+
+	
+	
+.cb{
+    opacity: 0;
+    
+}
+
+.cbLabel {
+    display: inline-block;
+}
+
+.cbLabel > img  {
+	border-radius: 50%;
+	width: 56px;
+	height: 56px;
+    margin-top: auto;
+    margin-left: 5px;
+    margin-right: 5px;
+    
+    border: 3px solid transparent;
+}
+
+
+
+.cb:checked + .cbLabel > img {
+    border: 3px solid white;
+}

@@ -5,6 +5,21 @@ d3.csv("data/Heroes - Map - Sheet1.csv", function(loadedRows) {
   doSomethingWithRows();
 });
 
+var Hero = {
+	ID: "who",
+    imgUrl: "",
+	releaseNum: 0,
+	role: "Healer",
+	BG: {
+		BG01: {
+			win: 53.0,
+			play: 10.0,
+			ban: 10,
+			rmPoint: 0
+		}
+	}
+};
+
 
 
 function doSomethingWithRows() {
@@ -38,25 +53,11 @@ function addHero(idCurrentRank) {
     var row = table.insertRow(0);
     var cell1 = row.insertCell(0);
     var cell2 = row.insertCell(1);
+    var cell3 = row.insertCell(2);
+    var cell4 = row.insertCell(3);
+    var cell5 = row.insertCell(4);
     cell1.innerHTML = "#1";
     cell2.innerHTML = "<img src='heroImages/hero02.jpg'>";
-
-    
-
-var Hero = {
-	ID: "who",
-    imgUrl: "",
-	releaseNum: 0,
-	role: "Healer",
-	BG: {
-		BG01: {
-			win: 53.0,
-			play: 10.0,
-			ban: 10,
-			rmPoint: 0
-		}
-	}
-};
 
     
     var numSizeWin = 8;
@@ -64,16 +65,12 @@ var Hero = {
 
 	var newRect = document.createElement("div");
 	newRect.style = "width:" + Hero.BG.BG01.win * numSizeWin + "px;height:" +  Hero.BG.BG01.play * numSizePlay + "px; background:#1cd93c; position: absolute; left: 90px; top:18px;  z-index: 1;"
-	currentDiv.appendChild(newRect);
+	cell3.appendChild(newRect);
 	
+    var test = rows[0];
+    cell4..innerHTML= test;
 }
 
-
-var test = rows[0];
-var divTest = document.querySelector("#divTest");
-var pTest = document.querySelector("#pTest");
-pTest.innerHTML= test;
-divTest.style = "position: relative; height: 150px;"
 
 
 
