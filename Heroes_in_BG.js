@@ -57,13 +57,30 @@ function rowCreate() {
     
     var tbdy = document.querySelector('#tbdyGood');
     var tr = document.createElement('tr');
-    var td = document.createElement('td');
-    td.appendChild(document.createTextNode('#1'));
-    tr.appendChild(td)
+    
+    var td1 = document.createElement('td1');
+    td1.appendChild(document.createTextNode('#1'));
+    tr.appendChild(td1);
+    
+    var td2 = document.createElement('td2');
+    td2.appendChild(document.createTextNode('#1'));
+    tr.appendChild(td2);
+    
+    var td3 = document.createElement('td3');
+    td3.appendChild(document.createTextNode('#1'));
+    tr.appendChild(td3);
+    
+    var td4 = document.createElement('td4');
+    td4.appendChild(document.createTextNode('#1'));
+    tr.appendChild(td4);
+    
+    var td5 = document.createElement('td5');
+    td5.appendChild(document.createTextNode('#1'));
+    tr.appendChild(td5);
   
-tbdy.appendChild(tr);
-  tbl.appendChild(tbdy);
-  body.appendChild(tbl)
+    tbdy.appendChild(tr);
+    tbl.appendChild(tbdy);
+    body.appendChild(tbl)
 }
 
 /*
