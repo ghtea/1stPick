@@ -56,14 +56,14 @@ var test = rows[0];
 
 
 var tbl  = document.querySelector('#tblGood');
-var tblRef = tbl.querySelector('#tbdyGood')[0];
+var tbdy = tbl.querySelector('#tbdyGood');
 
 tbl.style.width = '100%';
 tbl.setAttribute('border', '1');
 
 rowCreate();
 function rowCreate() {
-    var row = tblRef.insertRow(0);
+    var row = tbdy.insertRow(0);
     var cell1 = row.insertCell(0);
     var cell2 = row.insertCell(1);
     var cell3 = row.insertCell(2);
