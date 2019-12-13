@@ -10,21 +10,17 @@ var Hero = {
     name: "who",
     imgUrl: "",
 	role: "Healer",
-	BG: {
-		BG01: {
-			win: 53.0,
-			play: 10.0,
-			ban: 10,
-			rmPoint: 0
-		}
-	}
+	mapAPwin,
+    mapAPplay,
+    mapAPban,
+    mapAPpoint
 };
 
 
 
 function doSomethingWithRows() {
   // do something with rows
-}
+};
 
 
 
@@ -66,7 +62,7 @@ function rowCreate() {
     var cell5 = row.insertCell(4);
     cell1.innerHTML = "#1";
     cell2.innerHTML=test;
-}
+};
 
 /*
 function rowCreate() {
