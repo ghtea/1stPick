@@ -6,9 +6,9 @@ d3.csv("data/Heroes - Map - Sheet1.csv", function(loadedRows) {
 });
 
 var Hero = {
-	ID: "who",
+	id: "who",
+    name: "who",
     imgUrl: "",
-	releaseNum: 0,
 	role: "Healer",
 	BG: {
 		BG01: {
