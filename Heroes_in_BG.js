@@ -61,9 +61,6 @@ for (var i = 1; i <= entireRank; i++ ) {
 
 var tbl  = document.querySelector('#tblGood');
 
-tbl.style.width = '100%';
-tbl.setAttribute('border', '1');
-
 rowCreate();
 function rowCreate() {
     var row = tbl.insertRow(-1);
