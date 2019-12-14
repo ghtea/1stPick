@@ -71,3 +71,11 @@ tblGood {
     table-layout: fixed;
     width: 100%;
 }
+
+td > img {
+    border: 8px solid #170039; 
+    border-radius: 15%; 
+    width: 90px; 
+    height = 90px; 
+    /*position: absolute; top:0; left:50px; z-index: 10;";*/
+}
