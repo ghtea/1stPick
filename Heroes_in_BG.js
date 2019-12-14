@@ -74,13 +74,14 @@ function rowCreate() {
     var cell5 = row.insertCell(4);
     cell1.innerHTML = "#1";
     cell2.innerHTML= "<img src=" + "heroImages/hero02.jpg" + ">";
-    
+    /*
     var Rect = document.createElement("div");
 	Rect.style = "width:" + 53.2 * numSizeWin + "px;height:" +  10.1 * numSizePlay + "px; background:#1cd93c;"
     cell3.appendChild(Rect);
     
     cell4.innerHTML = 53.2 + ''%";
     cell5.innerHTML = "once in " + 100 / 10.1 + " games";
+    */
 };
 
 /*
