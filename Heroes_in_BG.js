@@ -61,8 +61,8 @@ for (var i = 1; i <= entireRank; i++ ) {
 
 var tbl  = document.querySelector('#tblGood');
 
-var numSizeWin = 8;
-var numSizePlay = 5;
+var numSizeWin = 3;
+var numSizePlay = 1;
 
 rowCreate();
 function rowCreate() {
@@ -75,12 +75,17 @@ function rowCreate() {
     cell1.innerHTML = "#1";
     cell2.innerHTML= "<img src=" + "heroImages/" + "Alarak" +  ".png" + ">";
     
+    
     var Rect = document.createElement("div");
-	Rect.style = "width:" + 400 + "px;height:" +  50 + "px; background:#1cd93c;"
+	var RectWidth = 53.2 * numSizeWin;
+    var RectHeight = 10 * numSizePlay;
+    Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:#1cd93c;"
     cell3.appendChild(Rect);
     
     cell4.innerHTML = 53.2;
-    cell5.innerHTML = "once in " + 10 + " games";
+    
+    var neededGames = 100/10;
+    cell5.innerHTML = "once in " + neededGames + " games";
 };
 
 /*
