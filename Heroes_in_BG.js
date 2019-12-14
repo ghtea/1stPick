@@ -80,7 +80,7 @@ function rowCreate() {
     cell3.appendChild(Rect);
     
     cell4.innerHTML = 53.2 + ''%";
-    cell5.innerHTML = "once in " + 1 / (10.1 / 100) + " games"
+    cell5.innerHTML = "once in " + 100 / 10.1 + " games";
 };
 
 /*
