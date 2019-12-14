@@ -13,7 +13,7 @@ body {color:white; background-color: #000531; margin: auto; max-width: 700px; }
 
 
 .col1 {width:40px;}
-.col2 {width:70px;}
+.col2 {width:50px;}
 .col3 {width:550px;}
 .col4 {width:70px;}
 .col5 {width:70px;}
@@ -75,7 +75,7 @@ tblGood {
 td > img {
     border: 8px solid #170039; 
     border-radius: 15%; 
-    width: 70px; 
-    height : 70px; 
+    width: 50px; 
+    height : 50px; 
     /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
