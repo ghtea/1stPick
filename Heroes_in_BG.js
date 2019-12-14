@@ -76,11 +76,11 @@ function rowCreate() {
     cell2.innerHTML= "<img src=" + "heroImages/" + "Alarak" +  ".png" + ">";
     
     var Rect = document.createElement("div");
-	Rect.style = "width:" + 53.2 * 8 + "px;height:" +  10.1 * 5 + "px; background:#1cd93c;"
+	Rect.style = "width:" + 400 + "px;height:" +  50 + "px; background:#1cd93c;"
     cell3.appendChild(Rect);
     
-    cell4.innerHTML = 53.2 + ''%";
-    cell5.innerHTML = "once in " + 100 / 10.1 + " games";
+    cell4.innerHTML = 53.2;
+    cell5.innerHTML = "once in " + 10 + " games";
 };
 
 /*
