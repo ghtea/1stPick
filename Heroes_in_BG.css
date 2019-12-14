@@ -12,7 +12,7 @@ body {color:white; background-color: #000531; margin: auto; max-width: 700px; }
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
 
-.col1 {width:40px;}
+.col1 {width:20px;}
 .col2 {width:50px;}
 .col3 {width:550px;}
 .col4 {width:70px;}
