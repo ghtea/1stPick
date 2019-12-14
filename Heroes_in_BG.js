@@ -70,7 +70,7 @@ function rowCreate() {
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
     cell1.innerHTML = "#1";
-    cell2.innerHTML= "test";
+    cell2.innerHTML= "<img src=" + "heroImages/hero02.jpg" + ">";
 };
 
 /*

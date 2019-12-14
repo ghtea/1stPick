@@ -25,7 +25,7 @@ body {color:white; background-color: #000531; margin: auto; max-width: 700px; }
 /*div# {background-color:#ffffff;}*/
 
 div#divRole {position: relative; height:70px;}
-input.cb {margin-left: 0px; margin-right: 8px;}
+label.cbLabel {margin-left: 0px; margin-right: 8px;}
 
 input#ratio {position: relative; left:140px;}
 
