@@ -73,7 +73,7 @@ function rowCreate() {
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
     cell1.innerHTML = "#1";
-    cell2.innerHTML= "<img src=" + "heroImages/" + "Alarak" +  ".jpg" + ">";
+    cell2.innerHTML= "<img src=" + "heroImages/" + "Alarak" +  ".png" + ">";
     
     var Rect = document.createElement("div");
 	Rect.style = "width:" + 53.2 * numSizeWin + "px;height:" +  10.1 * numSizePlay + "px; background:#1cd93c;"
