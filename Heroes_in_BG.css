@@ -47,6 +47,7 @@ td > img {
 
 /*range input css*/
 
+
 input[type=range] {
   height: 25px;
   -webkit-appearance: none;
@@ -137,4 +138,10 @@ input[type=range]:focus::-ms-fill-lower {
 }
 input[type=range]:focus::-ms-fill-upper {
   background: #2497E3;
+}
+
+
+
+#divRatio > #ratio {
+    margin-left:0px;
 }
