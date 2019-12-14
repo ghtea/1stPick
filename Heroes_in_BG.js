@@ -56,7 +56,7 @@ for (var i = 1; i <= entireRank; i++ ) {
 }
 */
 
-var test = rows[0];
+/* var test = rows[0]; */
 
 
 var tbl  = document.querySelector('#tblGood');
@@ -73,7 +73,7 @@ function rowCreate() {
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
     cell1.innerHTML = "#1";
-    cell2.innerHTML=test;
+    cell2.innerHTML= "test";
 };
 
 /*
