@@ -1,0 +1,93 @@
+<!DOCTYPE html><html>
+
+
+<head>
+	<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+	<title>Heroes in Battleground</title>
+
+	<link rel="stylesheet" href="Heroes_in_BG.css" />
+</head>
+
+<body>
+    <div id="content"> 
+    
+	<h1>Heroes in Battleground</h1>
+	
+	<div id="divRole"> 
+        
+		<label for="cbAll" class ="cbLabel">
+			<input type="checkbox" id="cbAll" class="cb"/>
+            <img src="heroImages/hero02.jpg">
+		</label>
+         
+		<label for="cbTank" class ="cbLabel">
+            <input type="checkbox" id="cbTank"  class="cb"/>
+			<img src="heroImages/hero02.jpg">
+		</label>
+         
+		<label for="cbBruiser" class ="cbLabel">
+            <input type="checkbox" id="cbBruiser" class="cb" />
+			<img src="heroImages/hero02.jpg">
+		</label>
+         
+		<label for="cbMA" class ="cbLabel">
+            <input type="checkbox" id="cbMA" class="cb" />
+			<img src="heroImages/hero02.jpg">
+		</label>
+         
+
+		<label for="cbRA" class ="cbLabel">
+            <input type="checkbox" id="cbRA" class="cb" />
+			<img src="heroImages/hero02.jpg">
+		</label>
+         
+		<label for="cbSupport" class ="cbLabel">
+			<input type="checkbox" id="cbSupport" class="cb" />
+            <img src="heroImages/hero02.jpg">
+		</label>
+         
+
+		<label for="cbHealer" class ="cbLabel">
+			<input type="checkbox" id="cbHealer" class="cb" />
+            <img src="heroImages/hero02.jpg">
+		</label>
+        
+        
+	</div>
+	
+	
+	<div id="playWin"> </div>
+	
+	
+	
+
+	
+	<input id="ratio" type="range">
+
+	
+    
+    <table id="tblGood">
+        <colgroup>
+            <col class="col1">
+            <col class="col2">
+            <col class="col3">
+            <col class="col4">
+            <col class="col5">
+    </colgroup>
+            <tr>
+                <th></th>
+                <th>Hero</th>
+                <th>Win/Play</th>
+                <th>Winrate</th>
+                <th>Playrate</th>
+            </tr>
+    </table>
+	
+    <script src="others/d3/d3.min.js"></script>
+    <script src="Heroes_in_BG.js"></script>
+        
+    </div>
+</body>
+
+</html>

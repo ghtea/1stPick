@@ -14,59 +14,41 @@
     
 	<h1>Heroes in Battleground</h1>
 	
-	<div id="divRole"> 
-        
-		<label for="cbAll" class ="cbLabel">
-			<input type="checkbox" id="cbAll" class="cb"/>
-            <img src="heroImages/hero02.jpg">
-		</label>
-         
-		<label for="cbTank" class ="cbLabel">
-            <input type="checkbox" id="cbTank"  class="cb"/>
-			<img src="heroImages/hero02.jpg">
-		</label>
-         
-		<label for="cbBruiser" class ="cbLabel">
-            <input type="checkbox" id="cbBruiser" class="cb" />
-			<img src="heroImages/hero02.jpg">
-		</label>
-         
-		<label for="cbMA" class ="cbLabel">
-            <input type="checkbox" id="cbMA" class="cb" />
-			<img src="heroImages/hero02.jpg">
-		</label>
-         
-
-		<label for="cbRA" class ="cbLabel">
-            <input type="checkbox" id="cbRA" class="cb" />
-			<img src="heroImages/hero02.jpg">
-		</label>
-         
-		<label for="cbSupport" class ="cbLabel">
-			<input type="checkbox" id="cbSupport" class="cb" />
-            <img src="heroImages/hero02.jpg">
-		</label>
-         
-
-		<label for="cbHealer" class ="cbLabel">
-			<input type="checkbox" id="cbHealer" class="cb" />
-            <img src="heroImages/hero02.jpg">
-		</label>
-        
-        
+	<div id="divMap"> 
+       <select>
+           <option value="AP">Alterac Pass</option>
+           <option value="BoE">Battlefield of Eternity</option>
+           <option value="BH">Braxis Holdout</option>
+           <option value="CH">Cursed Hollow</option>
+           <option value="DS">Dragon Shire</option>
+           <option value="HT">Hanamura Temple</option>
+           <option value="IS">Infernal Shrines</option>
+           <option value="ST">Sky Temple</option>
+           <option value="TotSQ">Tomb of the Spider Queen</option>
+           <option value="ToD">Towers of Doom</option>
+           <option value="VF">Volskaya Foundry</option>
+        </select>
+	</div>
+	
+    <div id="divRole"> 
+       <select>
+           <option value="All">All</option>
+           <option value="Tank">Tank</option>
+           <option value="mercedes">Bruiser</option>
+           <option value="audi">Melee Assassin</option>
+           <option value="audi">Ranged Assassin</option>
+           <option value="audi">Healer</option>
+           <option value="audi">Support</option>
+        </select>
 	</div>
 	
 	
-	<div id="playWin"> </div>
-	
-	
-	
-
-	
-	<input id="ratio" type="range">
-
+	<div id="divRatio"> 
+        <input id="ratio" type="range">
+    </div>
 	
     
+        
     <table id="tblGood">
         <colgroup>
             <col class="col1">
