@@ -17,8 +17,8 @@ updatePage(currentMap);
 
 function updatePage (whichMap){
     let idxStart = whichMap * numHero;
-    let idxEnd = whichMap * numHero + numHero - 1 ;
-    dataMap  = dataOriginal.slice(idxStart, idxEnd+1);
+    let idxEnd = whichMap * numHero + numHero ;
+    dataMap  = dataOriginal.slice(idxStart, idxEnd);
 }
 
 console.log(dataMap[87]['PlayRate']);
