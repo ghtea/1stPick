@@ -22,7 +22,7 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data){
    data_global=data;
    });
 setTimeout(function(){
-console.log(dataset);
+console.log(data_global);
 },200);
 
 
