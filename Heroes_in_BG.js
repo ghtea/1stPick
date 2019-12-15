@@ -1,8 +1,5 @@
 /* load data */
 
-
-var data_global=[];
-
 /*
 d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
   return {
