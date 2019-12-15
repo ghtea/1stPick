@@ -18,6 +18,13 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
 
 var test = data_global[2];
 
+/*88: hero number*/
+var data2d = listToMatrix(data_global, 88)
+
+/*11: map number */
+
+
+
 var Hero2 = {
 	id: "who",
     name: "who",
