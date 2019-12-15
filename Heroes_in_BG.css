@@ -39,7 +39,8 @@ td > img {
 }
 
 .boxWG {
-    background-image: linear-gradient(128deg, rgba(129,250,177,1) 0%, rgba(59,230,20,1) 50%, rgba(59,230,20,1) 100%);
+    background-color: #56EE56;
+    /*background-image: linear-gradient(128deg, rgba(129,250,177,1) 0%, rgba(59,230,20,1) 50%, rgba(59,230,20,1) 100%);*/
 }
 
 
