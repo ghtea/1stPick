@@ -36,5 +36,7 @@ td > img {
     /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
 
-
+#divRatio > p, #divRatio > input {
+    position: static;
+}
 
