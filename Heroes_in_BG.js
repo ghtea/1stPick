@@ -23,7 +23,7 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data){
    });
 setTimeout(function(){
 console.log(data_global);
-},200);
+},500);
 
 /*88: hero number*/
 /*var data2d = listToMatrix(data_global, 88);*/
