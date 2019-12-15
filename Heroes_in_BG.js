@@ -5,15 +5,21 @@ var dataOriginal = [{"HeroID":"Abathur","Map":"Alterac Pass","WinRate":"47.88","
 console.log(dataOriginal[1]['HeroID']);
 var test = dataOriginal[1]['BanRate'];
 
+
+var currentMap = document.querySelector("sltMap").value;
+
 var numHero = 88;
 var dataMap = [];
-for (var i = 0; i<11; i++){
-    let idxStart = i * numHero;
-    let idxEnd = i * numHero + numHero - 1 ;
-    dataMap[i]  = dataOriginal.slice(idxStart, idxEnd+1);
+
+update(currentMap);
+
+function update (whichMap){
+    let idxStart = whichMap * numHero;
+    let idxEnd = whichMap * numHero + numHero - 1 ;
+    dataMap  = dataOriginal.slice(idxStart, idxEnd+1);
 }
 
-console.log(dataMap[10][87]['PlayRate']);
+console.log(dataMap[87]['PlayRate']);
 
 var Hero2 = {
 	id: "who",
