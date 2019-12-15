@@ -11,11 +11,11 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
       BanRate : +data.BanRate
   };
 }).then(function(data) {
-  console.log(data[0]);
+    window.data = data;
+    console.log(data);
 });
 
-/*var test = dataHeroInfo[0][0];*/
-
+console.log(data[2]);
 
 var Hero2 = {
 	id: "who",
