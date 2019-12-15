@@ -39,8 +39,8 @@ function updatePage (){
     var currentMap = document.querySelector("#sltMap").value;
     var ratio = document.querySelector("#rgRatio").value;
 
-    var idxStart = whichMap * numHero;
-    var idxEnd = whichMap * numHero + numHero ;
+    var idxStart = currentMap * numHero;
+    var idxEnd = currentMap * numHero + numHero ;
     dataMap  = dataOriginal.slice(idxStart, idxEnd);
 
     for (var i = 0; i<88; i++) {
