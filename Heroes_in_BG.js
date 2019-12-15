@@ -3,6 +3,7 @@
 
 var data_global=[];
 
+/*
 d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
   return {
       HeroID : data.HeroID,
@@ -16,6 +17,16 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
     console.log(data);
     console.log(typeof data);
 });
+*/
+
+var data_global;
+
+d3.csv("data/Heroes - Map - Heros x Map.csv", function(data){
+   data_global=data;
+   });
+setTimeout(function(){
+console.log(dataset);
+},200);
 
 
 /*88: hero number*/
