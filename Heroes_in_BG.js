@@ -68,9 +68,11 @@ function rowCreate(size) {
         Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:#1cd93c;"
         cell3.appendChild(Rect);
     
-        var neededGames = 100/data10[i]['PlayRate'] ;
-        cell4.innerHTML = data10[i]['WinRate'] + "%" + "<br> 1 in " + neededGames;
-        cell5.innerHTML = data10[i]['Point']; 
+        var txtGames = (100/data10[i]['PlayRate']).toFixed(1);
+        cell4.innerHTML = data10[i]['WinRate'] + "%" + "<br> 1 in " + txtGames;
+        
+        var txtPoint = data10[i]['Point'].toFixed(1);
+        cell5.innerHTML = txtPoint; 
     };
 };
    
