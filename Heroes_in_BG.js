@@ -80,8 +80,7 @@ function updatePage (){
         var RectHeight = (dataSliced[i]['PlayRate'] + dataSliced[i]['BanRate']) * numSizePlay;
         Rect.style.width = RectWidth + "px;" ;
         Rect.style.height = RectHeight + "px;" ;
-        Rect.style.backgroundColor =  "rgb(129,250,177);" ;
-        Rect.style.backgroundColor =   "linear-gradient(128deg, rgba(129,250,177,1) 0%, rgba(59,230,20,1) 50%, rgba(59,230,20,1) 100%);" ;
+        Rect.setAttribute("class", "boxWG");
         cell3.appendChild(Rect);
     
         var txtGames = (100/dataSliced[i]['PlayRate']).toFixed(1);
