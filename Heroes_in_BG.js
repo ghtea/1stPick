@@ -78,7 +78,7 @@ function updatePage (){
         var Rect = document.createElement("div");
         var RectWidth = (dataSliced[i]['WinRate'] - 40) * numSizeWin;
         var RectHeight = (dataSliced[i]['PlayRate'] + dataSliced[i]['BanRate']) * numSizePlay;
-        Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:linear-gradient(128deg, rgba(110,247,156,1) 0%, rgba(59,230,20,1) 40%, rgba(59,230,20,1) 100%);";
+        Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background: linear-gradient(240deg, rgba(110,247,156,1) 0%, rgba(59,230,20,1) 40%, rgba(59,230,20,1) 100%);";
     
         /* followings don't work
         Rect.style.width = RectWidth + "px;" ;
