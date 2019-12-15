@@ -38,11 +38,6 @@ td > img {
     /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
 
-.boxWG {
-    background-color: #56EE56;
-    /*background-image: linear-gradient(128deg, rgba(129,250,177,1) 0%, rgba(59,230,20,1) 50%, rgba(59,230,20,1) 100%);*/
-}
-
 
 #divRatio > p, #divRatio > input, #divContact > p, #divContact > a {
     position: static;
