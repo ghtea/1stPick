@@ -11,9 +11,9 @@ var currentMap = document.querySelector("sltMap").value;
 var numHero = 88;
 var dataMap = [];
 
-update(currentMap);
+updatePage(currentMap);
 
-function update (whichMap){
+function updatePage (whichMap){
     let idxStart = whichMap * numHero;
     let idxEnd = whichMap * numHero + numHero - 1 ;
     dataMap  = dataOriginal.slice(idxStart, idxEnd+1);
