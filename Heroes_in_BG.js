@@ -7,7 +7,7 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(loadedRows) {
 });
 
 
-var test = dataHeroInfo[0];
+var test = dataHeroInfo[0][0];
 
 
 var Hero2 = {

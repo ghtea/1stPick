@@ -14,10 +14,12 @@ Brightwing,Alterac Pass,50.02,16.76,3.47
 Cassia,Alterac Pass,48.64,5.94,0.54
 Chen,Alterac Pass,51.09,4.9,2.4
 Cho,Alterac Pass,42.65,1.4,0.68
+Chromie,Alterac Pass,50.81,11.11,2.25
 Deathwing,Alterac Pass,68.4,3.69,3.09
 Deckard,Alterac Pass,47.03,6.61,0.66
 Dehaka,Alterac Pass,46.5,10.23,3.13
 Diablo,Alterac Pass,46.95,47.5,27.33
+Dva,Alterac Pass,49.69,3.5,0.17
 Etc,Alterac Pass,53.52,30.51,10.94
 Falstad,Alterac Pass,52.85,19.33,3.91
 Fenix,Alterac Pass,54.2,7.74,0.49
@@ -44,8 +46,8 @@ Ltmorales,Alterac Pass,48.94,9.77,2.59
 Lucio,Alterac Pass,53.79,21.01,4.96
 Lunara,Alterac Pass,52.19,9.65,0.7
 Maiev,Alterac Pass,47.29,7.59,2.88
-Malganis,Alterac Pass,51.78,10.17,3.29
 Malfurion,Alterac Pass,48.67,8.55,1.2
+Malganis,Alterac Pass,51.78,10.17,3.29
 Malthael,Alterac Pass,51.22,7.68,1.24
 Medivh,Alterac Pass,44.67,4.73,0.71
 Mephisto,Alterac Pass,47.53,5.07,0.31
@@ -85,8 +87,6 @@ Zagara,Alterac Pass,46.62,5.63,0.91
 Zarya,Alterac Pass,51.41,5.07,0.35
 Zeratul,Alterac Pass,51.02,18.82,10.88
 Zuljin,Alterac Pass,51.43,16.05,2.5
-Chromie,Alterac Pass,50.81,11.11,2.25
-Dva,Alterac Pass,49.69,3.5,0.17
 Abathur,Battlefield of Eternity,46.06,6.65,3.17
 Alarak,Battlefield of Eternity,55.09,23.77,11.96
 Alexstrasza,Battlefield of Eternity,46.29,8.63,1.83
@@ -102,10 +102,12 @@ Brightwing,Battlefield of Eternity,49.8,11.7,2.08
 Cassia,Battlefield of Eternity,47.85,7.51,0.84
 Chen,Battlefield of Eternity,49.28,5.51,2.3
 Cho,Battlefield of Eternity,41.1,1.63,0.65
+Chromie,Battlefield of Eternity,52.87,8.78,1.27
 Deathwing,Battlefield of Eternity,63.35,3.72,3.07
 Deckard,Battlefield of Eternity,42.93,5.08,0.5
 Dehaka,Battlefield of Eternity,43.69,2.31,0.36
 Diablo,Battlefield of Eternity,45.53,54.06,31.52
+Dva,Battlefield of Eternity,45.6,2.69,0.12
 Etc,Battlefield of Eternity,53.59,29.4,8.84
 Falstad,Battlefield of Eternity,49.53,7.03,0.73
 Fenix,Battlefield of Eternity,52.23,7.05,0.5
@@ -132,8 +134,8 @@ Ltmorales,Battlefield of Eternity,52.05,14.77,3.62
 Lucio,Battlefield of Eternity,54.8,19.82,4.33
 Lunara,Battlefield of Eternity,50.27,15.99,2.18
 Maiev,Battlefield of Eternity,50.99,6.86,3.1
-Malganis,Battlefield of Eternity,50.25,7.9,2.28
 Malfurion,Battlefield of Eternity,51.46,8.1,1.13
+Malganis,Battlefield of Eternity,50.25,7.9,2.28
 Malthael,Battlefield of Eternity,48.99,10.73,2.06
 Medivh,Battlefield of Eternity,44.48,3.45,0.52
 Mephisto,Battlefield of Eternity,48.98,3.34,0.18
@@ -173,8 +175,6 @@ Zagara,Battlefield of Eternity,43.93,2.69,0.19
 Zarya,Battlefield of Eternity,48.57,4.86,0.36
 Zeratul,Battlefield of Eternity,46.16,15.01,9.83
 Zuljin,Battlefield of Eternity,53.17,22.94,5.08
-Chromie,Battlefield of Eternity,52.87,8.78,1.27
-Dva,Battlefield of Eternity,45.6,2.69,0.12
 Abathur,Braxis Holdout,44.9,3.94,2.02
 Alarak,Braxis Holdout,51.49,24.12,14.65
 Alexstrasza,Braxis Holdout,44.92,7.92,1.36
@@ -190,10 +190,12 @@ Brightwing,Braxis Holdout,51.19,13.67,2.6
 Cassia,Braxis Holdout,47.78,4.19,0.29
 Chen,Braxis Holdout,50.35,6.62,3.34
 Cho,Braxis Holdout,41.48,1.48,0.57
+Chromie,Braxis Holdout,51.29,10.36,2.13
 Deathwing,Braxis Holdout,64.19,3.47,2.88
 Deckard,Braxis Holdout,46.35,5.48,0.42
 Dehaka,Braxis Holdout,47.95,4.82,1.17
 Diablo,Braxis Holdout,44.12,34.38,17.54
+Dva,Braxis Holdout,45.99,2.93,0.21
 Etc,Braxis Holdout,53.29,23.19,7.99
 Falstad,Braxis Holdout,51.07,7.53,0.9
 Fenix,Braxis Holdout,54.16,10.75,1.28
@@ -220,8 +222,8 @@ Ltmorales,Braxis Holdout,54.62,12.26,2.76
 Lucio,Braxis Holdout,51.63,15.9,3.54
 Lunara,Braxis Holdout,50.21,7.17,0.51
 Maiev,Braxis Holdout,49.49,5.87,2.09
-Malganis,Braxis Holdout,51.85,7.87,2.5
 Malfurion,Braxis Holdout,51.24,8.39,1.11
+Malganis,Braxis Holdout,51.85,7.87,2.5
 Malthael,Braxis Holdout,50.84,7.82,1.71
 Medivh,Braxis Holdout,47.32,2.6,0.44
 Mephisto,Braxis Holdout,50.35,3.51,0.17
@@ -261,8 +263,6 @@ Zagara,Braxis Holdout,53.36,6.86,1.01
 Zarya,Braxis Holdout,52.19,4.37,0.44
 Zeratul,Braxis Holdout,50.92,7.32,4.1
 Zuljin,Braxis Holdout,54.44,15.97,2.06
-Chromie,Braxis Holdout,51.29,10.36,2.13
-Dva,Braxis Holdout,45.99,2.93,0.21
 Abathur,Cursed Hollow,50.27,40.3,23.22
 Alarak,Cursed Hollow,51.55,30.5,18.63
 Alexstrasza,Cursed Hollow,50,11.76,2.25
@@ -278,10 +278,12 @@ Brightwing,Cursed Hollow,48.32,30.63,7.71
 Cassia,Cursed Hollow,50.84,7.32,0.71
 Chen,Cursed Hollow,50.36,6.76,2.79
 Cho,Cursed Hollow,41.42,1.37,0.67
+Chromie,Cursed Hollow,48.22,10.35,1.97
 Deathwing,Cursed Hollow,69.77,3.64,3.09
 Deckard,Cursed Hollow,44.62,6.72,0.55
 Dehaka,Cursed Hollow,49.05,29.69,10.98
 Diablo,Cursed Hollow,47.41,65.09,36.27
+Dva,Cursed Hollow,47.55,3.45,0.15
 Etc,Cursed Hollow,53.06,40.1,13.69
 Falstad,Cursed Hollow,51.7,42.74,11.54
 Fenix,Cursed Hollow,52.4,8.81,0.45
@@ -308,8 +310,8 @@ Ltmorales,Cursed Hollow,47.83,11.83,3.07
 Lucio,Cursed Hollow,51.63,23.57,4.98
 Lunara,Cursed Hollow,52.91,11.29,0.83
 Maiev,Cursed Hollow,48.84,8.27,3.27
-Malganis,Cursed Hollow,53.5,11.39,3.46
 Malfurion,Cursed Hollow,48.06,9.87,1.3
+Malganis,Cursed Hollow,53.5,11.39,3.46
 Malthael,Cursed Hollow,51.66,10.01,1.28
 Medivh,Cursed Hollow,46.28,5.88,0.95
 Mephisto,Cursed Hollow,47.35,5.2,0.28
@@ -349,8 +351,6 @@ Zagara,Cursed Hollow,50.37,9.11,1.57
 Zarya,Cursed Hollow,49.21,5.58,0.34
 Zeratul,Cursed Hollow,48.96,24.4,14.17
 Zuljin,Cursed Hollow,50.7,15.8,2.48
-Chromie,Cursed Hollow,48.22,10.35,1.97
-Dva,Cursed Hollow,47.55,3.45,0.15
 Abathur,Dragon Shire,45.83,15.28,8.48
 Alarak,Dragon Shire,53.2,31.88,19.15
 Alexstrasza,Dragon Shire,45.93,9.71,2.05
@@ -366,10 +366,12 @@ Brightwing,Dragon Shire,52,33.44,8.66
 Cassia,Dragon Shire,47.7,6.76,0.59
 Chen,Dragon Shire,49.26,8.99,4.27
 Cho,Dragon Shire,41.79,1.38,0.66
+Chromie,Dragon Shire,50.11,9.76,1.88
 Deathwing,Dragon Shire,62.9,3.64,3.07
 Deckard,Dragon Shire,44.97,5.63,0.49
 Dehaka,Dragon Shire,50.1,22.5,10.1
 Diablo,Dragon Shire,48.17,57.78,32.71
+Dva,Dragon Shire,49.55,3.02,0.16
 Etc,Dragon Shire,52.13,37.05,13.16
 Falstad,Dragon Shire,52.73,35.75,10.71
 Fenix,Dragon Shire,51.77,9.33,0.57
@@ -396,8 +398,8 @@ Ltmorales,Dragon Shire,49.03,11.96,3.16
 Lucio,Dragon Shire,49.33,20.75,4.84
 Lunara,Dragon Shire,49.84,11.71,0.91
 Maiev,Dragon Shire,49.8,8.58,3.51
-Malganis,Dragon Shire,47.88,10.46,3.34
 Malfurion,Dragon Shire,48.77,9.63,1.34
+Malganis,Dragon Shire,47.88,10.46,3.34
 Malthael,Dragon Shire,52.94,10.5,1.86
 Medivh,Dragon Shire,46.64,4.74,0.79
 Mephisto,Dragon Shire,47.78,4.07,0.22
@@ -437,8 +439,6 @@ Zagara,Dragon Shire,52.53,8.6,1.19
 Zarya,Dragon Shire,49.76,4.63,0.35
 Zeratul,Dragon Shire,49.38,21.84,13.13
 Zuljin,Dragon Shire,52.8,19.34,2.84
-Chromie,Dragon Shire,50.11,9.76,1.88
-Dva,Dragon Shire,49.55,3.02,0.16
 Abathur,Hanamura Temple,46.63,9.83,6.11
 Alarak,Hanamura Temple,51.58,30.59,20.07
 Alexstrasza,Hanamura Temple,48.14,7.36,1.6
@@ -454,10 +454,12 @@ Brightwing,Hanamura Temple,47.18,14.1,3.29
 Cassia,Hanamura Temple,50.55,6.06,0.65
 Chen,Hanamura Temple,51.1,9.07,4.27
 Cho,Hanamura Temple,35.17,1.87,0.79
+Chromie,Hanamura Temple,50.05,6.93,1.22
 Deathwing,Hanamura Temple,62.26,3.62,3.08
 Deckard,Hanamura Temple,43.85,4.68,0.51
 Dehaka,Hanamura Temple,42.76,3.05,0.84
 Diablo,Hanamura Temple,42.87,40.68,26.84
+Dva,Hanamura Temple,45.37,2.8,0.19
 Etc,Hanamura Temple,54.88,34.14,13.85
 Falstad,Hanamura Temple,49.96,11.97,2.34
 Fenix,Hanamura Temple,52.71,7.52,0.52
@@ -484,8 +486,8 @@ Ltmorales,Hanamura Temple,53.02,10.12,2.97
 Lucio,Hanamura Temple,53.55,20.82,5.62
 Lunara,Hanamura Temple,54.14,11.29,1.08
 Maiev,Hanamura Temple,48.84,6.38,2.6
-Malganis,Hanamura Temple,53.84,9.68,2.89
 Malfurion,Hanamura Temple,49.49,7.79,1.19
+Malganis,Hanamura Temple,53.84,9.68,2.89
 Malthael,Hanamura Temple,48.66,8.33,1.78
 Medivh,Hanamura Temple,46.16,4.16,0.8
 Mephisto,Hanamura Temple,50.37,4.97,0.39
@@ -525,8 +527,6 @@ Zagara,Hanamura Temple,47.68,4.11,0.67
 Zarya,Hanamura Temple,51.45,5.42,0.72
 Zeratul,Hanamura Temple,47.28,15.29,10.48
 Zuljin,Hanamura Temple,50.36,16.94,3.01
-Chromie,Hanamura Temple,50.05,6.93,1.22
-Dva,Hanamura Temple,45.37,2.8,0.19
 Abathur,Infernal Shrines,46.86,18,9.93
 Alarak,Infernal Shrines,50.57,32.27,19.71
 Alexstrasza,Infernal Shrines,48.36,23.1,6
@@ -542,10 +542,12 @@ Brightwing,Infernal Shrines,48.61,17.52,3.42
 Cassia,Infernal Shrines,48.09,6.79,0.64
 Chen,Infernal Shrines,43.81,6.93,3.02
 Cho,Infernal Shrines,48.89,2.09,0.93
+Chromie,Infernal Shrines,48.24,9.75,2.11
 Deathwing,Infernal Shrines,61.68,3.62,3.07
 Deckard,Infernal Shrines,45.27,7.83,0.7
 Dehaka,Infernal Shrines,48.02,9.85,2.16
 Diablo,Infernal Shrines,45.5,66.15,38.95
+Dva,Infernal Shrines,51.6,5.69,0.33
 Etc,Infernal Shrines,53.51,38.64,14.05
 Falstad,Infernal Shrines,52.23,17.43,2.37
 Fenix,Infernal Shrines,52.3,10.41,0.63
@@ -572,8 +574,8 @@ Ltmorales,Infernal Shrines,48.95,12.03,3.19
 Lucio,Infernal Shrines,50.08,23.59,5.2
 Lunara,Infernal Shrines,51.28,11.15,0.89
 Maiev,Infernal Shrines,50.12,10.9,4.37
-Malganis,Infernal Shrines,50.94,12.04,3.83
 Malfurion,Infernal Shrines,49.62,10.61,1.55
+Malganis,Infernal Shrines,50.94,12.04,3.83
 Malthael,Infernal Shrines,55.04,12.38,2.07
 Medivh,Infernal Shrines,42.04,5.8,0.94
 Mephisto,Infernal Shrines,49.91,6.43,0.4
@@ -613,8 +615,6 @@ Zagara,Infernal Shrines,51.17,5.49,0.76
 Zarya,Infernal Shrines,52.33,6.72,0.37
 Zeratul,Infernal Shrines,49.89,24.08,14.82
 Zuljin,Infernal Shrines,50.58,18.29,2.8
-Chromie,Infernal Shrines,48.24,9.75,2.11
-Dva,Infernal Shrines,51.6,5.69,0.33
 Abathur,Sky Temple,49.87,34.33,20.73
 Alarak,Sky Temple,49.67,31.73,19.19
 Alexstrasza,Sky Temple,49.38,10.97,2.11
@@ -630,10 +630,12 @@ Brightwing,Sky Temple,49.41,33.39,8.4
 Cassia,Sky Temple,48.4,7.97,0.73
 Chen,Sky Temple,51.25,7.71,3.26
 Cho,Sky Temple,39.14,1.55,0.71
+Chromie,Sky Temple,46.14,8.8,1.64
 Deathwing,Sky Temple,60.09,3.64,3.04
 Deckard,Sky Temple,46.29,6.05,0.55
 Dehaka,Sky Temple,49.19,25.21,10.57
 Diablo,Sky Temple,46.41,61.89,36.48
+Dva,Sky Temple,48.63,3.71,0.24
 Etc,Sky Temple,53.61,42.24,14.02
 Falstad,Sky Temple,53.61,44.79,13.08
 Fenix,Sky Temple,53.93,9.95,0.54
@@ -660,8 +662,8 @@ Ltmorales,Sky Temple,48.26,12.53,3.33
 Lucio,Sky Temple,51.73,24.8,5.5
 Lunara,Sky Temple,50.52,12.88,0.91
 Maiev,Sky Temple,47,9.27,3.72
-Malganis,Sky Temple,49.85,11.54,3.61
 Malfurion,Sky Temple,47.84,10.27,1.38
+Malganis,Sky Temple,49.85,11.54,3.61
 Malthael,Sky Temple,51.71,10.94,1.58
 Medivh,Sky Temple,43.63,5.42,1.01
 Mephisto,Sky Temple,45.06,4.73,0.27
@@ -701,8 +703,6 @@ Zagara,Sky Temple,50.87,9.32,1.5
 Zarya,Sky Temple,50.58,5.84,0.35
 Zeratul,Sky Temple,52.04,24.63,14.56
 Zuljin,Sky Temple,46.37,17.2,2.78
-Chromie,Sky Temple,46.14,8.8,1.64
-Dva,Sky Temple,48.63,3.71,0.24
 Abathur,Tomb of the Spider Queen,42.1,6.52,3.29
 Alarak,Tomb of the Spider Queen,52.6,33.46,19.68
 Alexstrasza,Tomb of the Spider Queen,47.85,11.03,2.4
@@ -718,10 +718,12 @@ Brightwing,Tomb of the Spider Queen,50.1,15.22,2.91
 Cassia,Tomb of the Spider Queen,47.07,6.65,0.66
 Chen,Tomb of the Spider Queen,50.14,6.93,3.19
 Cho,Tomb of the Spider Queen,40.83,2.15,1.03
+Chromie,Tomb of the Spider Queen,47.29,8.65,1.83
 Deathwing,Tomb of the Spider Queen,63.01,3.65,3.08
 Deckard,Tomb of the Spider Queen,47.82,7.48,0.72
 Dehaka,Tomb of the Spider Queen,51.25,4.23,0.63
 Diablo,Tomb of the Spider Queen,45.65,63.7,38.11
+Dva,Tomb of the Spider Queen,47.13,4.2,0.18
 Etc,Tomb of the Spider Queen,53.79,37.06,13.78
 Falstad,Tomb of the Spider Queen,52.02,10.64,1.11
 Fenix,Tomb of the Spider Queen,54.51,10.58,0.68
@@ -748,8 +750,8 @@ Ltmorales,Tomb of the Spider Queen,50.28,12.33,3.25
 Lucio,Tomb of the Spider Queen,50.39,24.92,6.18
 Lunara,Tomb of the Spider Queen,52.51,11.82,0.93
 Maiev,Tomb of the Spider Queen,52.44,11.32,4.55
-Malganis,Tomb of the Spider Queen,49.96,10.48,3.67
 Malfurion,Tomb of the Spider Queen,51.62,12.15,1.8
+Malganis,Tomb of the Spider Queen,49.96,10.48,3.67
 Malthael,Tomb of the Spider Queen,50.12,10.29,1.8
 Medivh,Tomb of the Spider Queen,44.03,5.45,1
 Mephisto,Tomb of the Spider Queen,48.68,4.87,0.36
@@ -789,8 +791,6 @@ Zagara,Tomb of the Spider Queen,50.55,6.07,1.13
 Zarya,Tomb of the Spider Queen,46.52,6.21,0.38
 Zeratul,Tomb of the Spider Queen,51.19,21.61,13.54
 Zuljin,Tomb of the Spider Queen,52.84,18.63,2.82
-Chromie,Tomb of the Spider Queen,47.29,8.65,1.83
-Dva,Tomb of the Spider Queen,47.13,4.2,0.18
 Abathur,Towers of Doom,49.55,28.39,17.42
 Alarak,Towers of Doom,53.45,33.89,19.82
 Alexstrasza,Towers of Doom,47.12,10.91,2.3
@@ -806,10 +806,12 @@ Brightwing,Towers of Doom,48.58,28.24,6.78
 Cassia,Towers of Doom,48.04,7.46,0.67
 Chen,Towers of Doom,50.56,7.5,3.14
 Cho,Towers of Doom,43.45,1.63,0.77
+Chromie,Towers of Doom,47.9,16.11,4.14
 Deathwing,Towers of Doom,60.36,3.59,3.02
 Deckard,Towers of Doom,45.63,6.56,0.6
 Dehaka,Towers of Doom,48.8,23.38,8.81
 Diablo,Towers of Doom,46.61,65.61,38.08
+Dva,Towers of Doom,46.55,4.01,0.18
 Etc,Towers of Doom,52.86,39.61,13.45
 Falstad,Towers of Doom,51.19,33,8.27
 Fenix,Towers of Doom,54.61,9.89,0.58
@@ -836,8 +838,8 @@ Ltmorales,Towers of Doom,50.06,12.06,2.98
 Lucio,Towers of Doom,51.85,25.02,5.66
 Lunara,Towers of Doom,53.4,12.67,0.91
 Maiev,Towers of Doom,51.95,9.69,3.85
-Malganis,Towers of Doom,51.57,11.51,3.54
 Malfurion,Towers of Doom,49.62,11.01,1.49
+Malganis,Towers of Doom,51.57,11.51,3.54
 Malthael,Towers of Doom,54.34,11.6,1.85
 Medivh,Towers of Doom,47.87,6.98,1.21
 Mephisto,Towers of Doom,47.07,5.33,0.3
@@ -877,8 +879,6 @@ Zagara,Towers of Doom,51.89,6.55,1.05
 Zarya,Towers of Doom,49.62,6.53,0.41
 Zeratul,Towers of Doom,49.75,26.09,15.45
 Zuljin,Towers of Doom,52.65,17.67,2.76
-Chromie,Towers of Doom,47.9,16.11,4.14
-Dva,Towers of Doom,46.55,4.01,0.18
 Abathur,Volskaya Foundry,48.84,8.93,5.1
 Alarak,Volskaya Foundry,53.02,25.07,16.09
 Alexstrasza,Volskaya Foundry,47.36,10.69,2.42
@@ -894,10 +894,12 @@ Brightwing,Volskaya Foundry,50.12,11.01,2.07
 Cassia,Volskaya Foundry,45.51,4.49,0.41
 Chen,Volskaya Foundry,50.23,4.93,2.65
 Cho,Volskaya Foundry,40.86,1.19,0.52
+Chromie,Volskaya Foundry,50.6,11.19,2.5
 Deathwing,Volskaya Foundry,66.06,3.63,3.07
 Deckard,Volskaya Foundry,49.64,6.33,0.61
 Dehaka,Volskaya Foundry,47.1,2.54,0.49
 Diablo,Volskaya Foundry,46.32,33.71,18.88
+Dva,Volskaya Foundry,47.51,3.47,0.23
 Etc,Volskaya Foundry,51.2,25.12,9.69
 Falstad,Volskaya Foundry,50.26,7.84,0.96
 Fenix,Volskaya Foundry,52.06,5.93,0.29
@@ -924,8 +926,8 @@ Ltmorales,Volskaya Foundry,49.41,8.3,2.21
 Lucio,Volskaya Foundry,50.03,17.8,4.3
 Lunara,Volskaya Foundry,49.88,7.39,0.65
 Maiev,Volskaya Foundry,52.03,7.05,2.47
-Malganis,Volskaya Foundry,50.38,8.95,2.9
 Malfurion,Volskaya Foundry,50.18,7.69,1.1
+Malganis,Volskaya Foundry,50.38,8.95,2.9
 Malthael,Volskaya Foundry,49.56,5.94,1
 Medivh,Volskaya Foundry,46.08,3.76,0.5
 Mephisto,Volskaya Foundry,50.43,4.77,0.27
@@ -965,5 +967,3 @@ Zagara,Volskaya Foundry,48.93,3.37,0.5
 Zarya,Volskaya Foundry,48.92,5.24,0.35
 Zeratul,Volskaya Foundry,51.5,11.15,5.95
 Zuljin,Volskaya Foundry,56.01,16.59,2.61
-Chromie,Volskaya Foundry,50.6,11.19,2.5
-Dva,Volskaya Foundry,47.51,3.47,0.23
