@@ -1,0 +1,6778 @@
+﻿[
+  {
+    "HeroID": "Abathur",
+    "Map": "Alterac Pass",
+    "WinRate": "47.88",
+    "PlayRate": "22.57",
+    "BanRate": "13.7"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Alterac Pass",
+    "WinRate": "51.46",
+    "PlayRate": "26.85",
+    "BanRate": "16.45"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Alterac Pass",
+    "WinRate": "49.8",
+    "PlayRate": "10.71",
+    "BanRate": "2.14"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Alterac Pass",
+    "WinRate": "52",
+    "PlayRate": "32.83",
+    "BanRate": "17.49"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Alterac Pass",
+    "WinRate": "45.77",
+    "PlayRate": "21.53",
+    "BanRate": "8.51"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Alterac Pass",
+    "WinRate": "51.5",
+    "PlayRate": "34.74",
+    "BanRate": "19.81"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Alterac Pass",
+    "WinRate": "49.67",
+    "PlayRate": "14.65",
+    "BanRate": "2.03"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Alterac Pass",
+    "WinRate": "51.22",
+    "PlayRate": "17.56",
+    "BanRate": "4.11"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Alterac Pass",
+    "WinRate": "51.03",
+    "PlayRate": "8.38",
+    "BanRate": "1.11"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Alterac Pass",
+    "WinRate": "51.22",
+    "PlayRate": "26.91",
+    "BanRate": "15.5"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Alterac Pass",
+    "WinRate": "48.08",
+    "PlayRate": "5.92",
+    "BanRate": "0.34"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Alterac Pass",
+    "WinRate": "50.02",
+    "PlayRate": "16.76",
+    "BanRate": "3.47"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Alterac Pass",
+    "WinRate": "48.64",
+    "PlayRate": "5.94",
+    "BanRate": "0.54"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Alterac Pass",
+    "WinRate": "51.09",
+    "PlayRate": "4.9",
+    "BanRate": "2.4"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Alterac Pass",
+    "WinRate": "42.65",
+    "PlayRate": "1.4",
+    "BanRate": "0.68"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Alterac Pass",
+    "WinRate": "50.81",
+    "PlayRate": "11.11",
+    "BanRate": "2.25"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Alterac Pass",
+    "WinRate": "68.4",
+    "PlayRate": "3.69",
+    "BanRate": "3.09"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Alterac Pass",
+    "WinRate": "47.03",
+    "PlayRate": "6.61",
+    "BanRate": "0.66"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Alterac Pass",
+    "WinRate": "46.5",
+    "PlayRate": "10.23",
+    "BanRate": "3.13"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Alterac Pass",
+    "WinRate": "46.95",
+    "PlayRate": "47.5",
+    "BanRate": "27.33"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Alterac Pass",
+    "WinRate": "49.69",
+    "PlayRate": "3.5",
+    "BanRate": "0.17"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Alterac Pass",
+    "WinRate": "53.52",
+    "PlayRate": "30.51",
+    "BanRate": "10.94"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Alterac Pass",
+    "WinRate": "52.85",
+    "PlayRate": "19.33",
+    "BanRate": "3.91"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Alterac Pass",
+    "WinRate": "54.2",
+    "PlayRate": "7.74",
+    "BanRate": "0.49"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Alterac Pass",
+    "WinRate": "42.65",
+    "PlayRate": "1.1",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Alterac Pass",
+    "WinRate": "45.38",
+    "PlayRate": "33.13",
+    "BanRate": "20.73"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Alterac Pass",
+    "WinRate": "52.25",
+    "PlayRate": "3.93",
+    "BanRate": "0.32"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Alterac Pass",
+    "WinRate": "41.63",
+    "PlayRate": "8.46",
+    "BanRate": "2.2"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Alterac Pass",
+    "WinRate": "48.24",
+    "PlayRate": "9.4",
+    "BanRate": "1.09"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Alterac Pass",
+    "WinRate": "47.64",
+    "PlayRate": "13.05",
+    "BanRate": "2.45"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Alterac Pass",
+    "WinRate": "48.02",
+    "PlayRate": "17.83",
+    "BanRate": "3.19"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Alterac Pass",
+    "WinRate": "49.14",
+    "PlayRate": "7.04",
+    "BanRate": "1.77"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Alterac Pass",
+    "WinRate": "47.23",
+    "PlayRate": "12.4",
+    "BanRate": "1.26"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Alterac Pass",
+    "WinRate": "52.26",
+    "PlayRate": "24.48",
+    "BanRate": "4.84"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Alterac Pass",
+    "WinRate": "51.36",
+    "PlayRate": "34.58",
+    "BanRate": "10.97"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Alterac Pass",
+    "WinRate": "47.16",
+    "PlayRate": "12.31",
+    "BanRate": "2.54"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Alterac Pass",
+    "WinRate": "51.85",
+    "PlayRate": "51.96",
+    "BanRate": "34.69"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Alterac Pass",
+    "WinRate": "50.68",
+    "PlayRate": "14.74",
+    "BanRate": "6.38"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Alterac Pass",
+    "WinRate": "53.84",
+    "PlayRate": "3.7",
+    "BanRate": "0.34"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Alterac Pass",
+    "WinRate": "50.17",
+    "PlayRate": "5.28",
+    "BanRate": "0.12"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Alterac Pass",
+    "WinRate": "50.71",
+    "PlayRate": "8.86",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Alterac Pass",
+    "WinRate": "48.8",
+    "PlayRate": "22.53",
+    "BanRate": "6.16"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Alterac Pass",
+    "WinRate": "46.51",
+    "PlayRate": "24.58",
+    "BanRate": "4.4"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Alterac Pass",
+    "WinRate": "48.94",
+    "PlayRate": "9.77",
+    "BanRate": "2.59"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Alterac Pass",
+    "WinRate": "53.79",
+    "PlayRate": "21.01",
+    "BanRate": "4.96"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Alterac Pass",
+    "WinRate": "52.19",
+    "PlayRate": "9.65",
+    "BanRate": "0.7"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Alterac Pass",
+    "WinRate": "47.29",
+    "PlayRate": "7.59",
+    "BanRate": "2.88"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Alterac Pass",
+    "WinRate": "48.67",
+    "PlayRate": "8.55",
+    "BanRate": "1.2"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Alterac Pass",
+    "WinRate": "51.78",
+    "PlayRate": "10.17",
+    "BanRate": "3.29"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Alterac Pass",
+    "WinRate": "51.22",
+    "PlayRate": "7.68",
+    "BanRate": "1.24"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Alterac Pass",
+    "WinRate": "44.67",
+    "PlayRate": "4.73",
+    "BanRate": "0.71"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Alterac Pass",
+    "WinRate": "47.53",
+    "PlayRate": "5.07",
+    "BanRate": "0.31"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Alterac Pass",
+    "WinRate": "47.77",
+    "PlayRate": "22.72",
+    "BanRate": "2.09"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Alterac Pass",
+    "WinRate": "48.71",
+    "PlayRate": "3.74",
+    "BanRate": "0.53"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Alterac Pass",
+    "WinRate": "50.16",
+    "PlayRate": "15.73",
+    "BanRate": "1.43"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Alterac Pass",
+    "WinRate": "45.1",
+    "PlayRate": "4.03",
+    "BanRate": "0.34"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Alterac Pass",
+    "WinRate": "49.21",
+    "PlayRate": "12.73",
+    "BanRate": "2.67"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Alterac Pass",
+    "WinRate": "54.02",
+    "PlayRate": "1.05",
+    "BanRate": "0.15"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Alterac Pass",
+    "WinRate": "48.39",
+    "PlayRate": "23.7",
+    "BanRate": "18.58"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Alterac Pass",
+    "WinRate": "52.6",
+    "PlayRate": "8.98",
+    "BanRate": "1.6"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Alterac Pass",
+    "WinRate": "53.02",
+    "PlayRate": "19.99",
+    "BanRate": "2.16"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Alterac Pass",
+    "WinRate": "51.39",
+    "PlayRate": "14.24",
+    "BanRate": "1.26"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Alterac Pass",
+    "WinRate": "54.19",
+    "PlayRate": "7.71",
+    "BanRate": "1.63"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Alterac Pass",
+    "WinRate": "51.14",
+    "PlayRate": "3.35",
+    "BanRate": "0.87"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Alterac Pass",
+    "WinRate": "51.37",
+    "PlayRate": "3.43",
+    "BanRate": "0.81"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Alterac Pass",
+    "WinRate": "49.13",
+    "PlayRate": "7.06",
+    "BanRate": "0.56"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Alterac Pass",
+    "WinRate": "47.89",
+    "PlayRate": "17.53",
+    "BanRate": "2.24"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Alterac Pass",
+    "WinRate": "51.43",
+    "PlayRate": "14.12",
+    "BanRate": "3.43"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Alterac Pass",
+    "WinRate": "50.89",
+    "PlayRate": "18.18",
+    "BanRate": "3.61"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Alterac Pass",
+    "WinRate": "45.9",
+    "PlayRate": "2.63",
+    "BanRate": "0.28"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Alterac Pass",
+    "WinRate": "52.15",
+    "PlayRate": "7.28",
+    "BanRate": "1.71"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Alterac Pass",
+    "WinRate": "45.13",
+    "PlayRate": "2.46",
+    "BanRate": "1.03"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Alterac Pass",
+    "WinRate": "52.11",
+    "PlayRate": "19.08",
+    "BanRate": "1.02"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Alterac Pass",
+    "WinRate": "48.05",
+    "PlayRate": "4.19",
+    "BanRate": "0.55"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Alterac Pass",
+    "WinRate": "47.9",
+    "PlayRate": "9.22",
+    "BanRate": "1.08"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Alterac Pass",
+    "WinRate": "51.54",
+    "PlayRate": "5.86",
+    "BanRate": "0.25"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Alterac Pass",
+    "WinRate": "47.69",
+    "PlayRate": "8.52",
+    "BanRate": "1.21"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Alterac Pass",
+    "WinRate": "52.37",
+    "PlayRate": "10.84",
+    "BanRate": "1.45"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Alterac Pass",
+    "WinRate": "46.9",
+    "PlayRate": "3.44",
+    "BanRate": "0.53"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Alterac Pass",
+    "WinRate": "51.76",
+    "PlayRate": "13.42",
+    "BanRate": "1.42"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Alterac Pass",
+    "WinRate": "51.51",
+    "PlayRate": "29.94",
+    "BanRate": "10.4"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Alterac Pass",
+    "WinRate": "49.77",
+    "PlayRate": "4.9",
+    "BanRate": "0.46"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Alterac Pass",
+    "WinRate": "49.01",
+    "PlayRate": "2.84",
+    "BanRate": "0.1"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Alterac Pass",
+    "WinRate": "44.76",
+    "PlayRate": "2.63",
+    "BanRate": "0.13"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Alterac Pass",
+    "WinRate": "46.62",
+    "PlayRate": "5.63",
+    "BanRate": "0.91"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Alterac Pass",
+    "WinRate": "51.41",
+    "PlayRate": "5.07",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Alterac Pass",
+    "WinRate": "51.02",
+    "PlayRate": "18.82",
+    "BanRate": "10.88"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Alterac Pass",
+    "WinRate": "51.43",
+    "PlayRate": "16.05",
+    "BanRate": "2.5"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.06",
+    "PlayRate": "6.65",
+    "BanRate": "3.17"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "55.09",
+    "PlayRate": "23.77",
+    "BanRate": "11.96"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.29",
+    "PlayRate": "8.63",
+    "BanRate": "1.83"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.82",
+    "PlayRate": "35.75",
+    "BanRate": "20.57"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.9",
+    "PlayRate": "23.02",
+    "BanRate": "8.44"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.73",
+    "PlayRate": "42.14",
+    "BanRate": "26.39"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.45",
+    "PlayRate": "54.41",
+    "BanRate": "16.91"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.71",
+    "PlayRate": "21.02",
+    "BanRate": "5.02"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.63",
+    "PlayRate": "10.55",
+    "BanRate": "1.54"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.98",
+    "PlayRate": "19.34",
+    "BanRate": "11.51"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "47.54",
+    "PlayRate": "5.35",
+    "BanRate": "0.31"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.8",
+    "PlayRate": "11.7",
+    "BanRate": "2.08"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "47.85",
+    "PlayRate": "7.51",
+    "BanRate": "0.84"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.28",
+    "PlayRate": "5.51",
+    "BanRate": "2.3"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "41.1",
+    "PlayRate": "1.63",
+    "BanRate": "0.65"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.87",
+    "PlayRate": "8.78",
+    "BanRate": "1.27"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "63.35",
+    "PlayRate": "3.72",
+    "BanRate": "3.07"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "42.93",
+    "PlayRate": "5.08",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "43.69",
+    "PlayRate": "2.31",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.53",
+    "PlayRate": "54.06",
+    "BanRate": "31.52"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.6",
+    "PlayRate": "2.69",
+    "BanRate": "0.12"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "53.59",
+    "PlayRate": "29.4",
+    "BanRate": "8.84"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.53",
+    "PlayRate": "7.03",
+    "BanRate": "0.73"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.23",
+    "PlayRate": "7.05",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "41.1",
+    "PlayRate": "1.33",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.83",
+    "PlayRate": "32.22",
+    "BanRate": "17.84"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.01",
+    "PlayRate": "3.99",
+    "BanRate": "0.32"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "39.73",
+    "PlayRate": "7.95",
+    "BanRate": "2.1"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.59",
+    "PlayRate": "25.44",
+    "BanRate": "6.36"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.58",
+    "PlayRate": "10.32",
+    "BanRate": "1.42"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.52",
+    "PlayRate": "25.34",
+    "BanRate": "8.14"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.63",
+    "PlayRate": "5.03",
+    "BanRate": "1.13"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.72",
+    "PlayRate": "12.18",
+    "BanRate": "1.28"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.63",
+    "PlayRate": "22.3",
+    "BanRate": "3.73"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.91",
+    "PlayRate": "36.81",
+    "BanRate": "10.89"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "47.41",
+    "PlayRate": "3.35",
+    "BanRate": "0.26"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.97",
+    "PlayRate": "47.28",
+    "BanRate": "30.71"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "54.63",
+    "PlayRate": "11.18",
+    "BanRate": "3.71"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.25",
+    "PlayRate": "2.88",
+    "BanRate": "0.3"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.37",
+    "PlayRate": "7.93",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.6",
+    "PlayRate": "7.34",
+    "BanRate": "0.53"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.6",
+    "PlayRate": "29.79",
+    "BanRate": "7.77"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.94",
+    "PlayRate": "35.6",
+    "BanRate": "5.31"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.05",
+    "PlayRate": "14.77",
+    "BanRate": "3.62"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "54.8",
+    "PlayRate": "19.82",
+    "BanRate": "4.33"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.27",
+    "PlayRate": "15.99",
+    "BanRate": "2.18"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.99",
+    "PlayRate": "6.86",
+    "BanRate": "3.1"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.46",
+    "PlayRate": "8.1",
+    "BanRate": "1.13"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.25",
+    "PlayRate": "7.9",
+    "BanRate": "2.28"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.99",
+    "PlayRate": "10.73",
+    "BanRate": "2.06"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "44.48",
+    "PlayRate": "3.45",
+    "BanRate": "0.52"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.98",
+    "PlayRate": "3.34",
+    "BanRate": "0.18"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.46",
+    "PlayRate": "27.64",
+    "BanRate": "2.39"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.19",
+    "PlayRate": "1.72",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.95",
+    "PlayRate": "10.67",
+    "BanRate": "1.06"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.45",
+    "PlayRate": "3.69",
+    "BanRate": "0.31"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.69",
+    "PlayRate": "9.95",
+    "BanRate": "1.94"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.42",
+    "PlayRate": "0.88",
+    "BanRate": "0.14"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.21",
+    "PlayRate": "13.73",
+    "BanRate": "10.75"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "47.64",
+    "PlayRate": "3.8",
+    "BanRate": "0.42"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.59",
+    "PlayRate": "34.68",
+    "BanRate": "6.14"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.92",
+    "PlayRate": "14.64",
+    "BanRate": "1.17"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "54.82",
+    "PlayRate": "5.27",
+    "BanRate": "0.9"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.62",
+    "PlayRate": "3.28",
+    "BanRate": "0.58"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.54",
+    "PlayRate": "5.52",
+    "BanRate": "1.2"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.44",
+    "PlayRate": "8.29",
+    "BanRate": "0.55"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.43",
+    "PlayRate": "14.3",
+    "BanRate": "1.47"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.14",
+    "PlayRate": "12.82",
+    "BanRate": "2.66"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.87",
+    "PlayRate": "20.04",
+    "BanRate": "4.45"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "42.73",
+    "PlayRate": "2.64",
+    "BanRate": "0.32"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "47.58",
+    "PlayRate": "5.88",
+    "BanRate": "1.48"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "41.35",
+    "PlayRate": "0.56",
+    "BanRate": "0.29"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "53.59",
+    "PlayRate": "20.54",
+    "BanRate": "1.06"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.38",
+    "PlayRate": "3.69",
+    "BanRate": "0.46"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.46",
+    "PlayRate": "8.54",
+    "BanRate": "1.25"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "50.08",
+    "PlayRate": "6.43",
+    "BanRate": "0.3"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "49.51",
+    "PlayRate": "17.04",
+    "BanRate": "2.98"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "51.04",
+    "PlayRate": "10.27",
+    "BanRate": "1.23"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.43",
+    "PlayRate": "3.05",
+    "BanRate": "0.46"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.83",
+    "PlayRate": "56.24",
+    "BanRate": "17.34"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "52.23",
+    "PlayRate": "34.39",
+    "BanRate": "10.52"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "44.92",
+    "PlayRate": "3.89",
+    "BanRate": "0.28"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "45.71",
+    "PlayRate": "1.44",
+    "BanRate": "0.07"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "42.46",
+    "PlayRate": "2.4",
+    "BanRate": "0.1"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "43.93",
+    "PlayRate": "2.69",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "48.57",
+    "PlayRate": "4.86",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "46.16",
+    "PlayRate": "15.01",
+    "BanRate": "9.83"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Battlefield of Eternity",
+    "WinRate": "53.17",
+    "PlayRate": "22.94",
+    "BanRate": "5.08"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Braxis Holdout",
+    "WinRate": "44.9",
+    "PlayRate": "3.94",
+    "BanRate": "2.02"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.49",
+    "PlayRate": "24.12",
+    "BanRate": "14.65"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Braxis Holdout",
+    "WinRate": "44.92",
+    "PlayRate": "7.92",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.91",
+    "PlayRate": "26.28",
+    "BanRate": "11.36"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Braxis Holdout",
+    "WinRate": "46.58",
+    "PlayRate": "12.43",
+    "BanRate": "4.62"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Braxis Holdout",
+    "WinRate": "53.37",
+    "PlayRate": "22.09",
+    "BanRate": "10.21"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.12",
+    "PlayRate": "13.21",
+    "BanRate": "1.94"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.51",
+    "PlayRate": "13.61",
+    "BanRate": "2.48"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.22",
+    "PlayRate": "12.23",
+    "BanRate": "2.13"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.49",
+    "PlayRate": "18.1",
+    "BanRate": "9.42"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.28",
+    "PlayRate": "4.74",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.19",
+    "PlayRate": "13.67",
+    "BanRate": "2.6"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.78",
+    "PlayRate": "4.19",
+    "BanRate": "0.29"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.35",
+    "PlayRate": "6.62",
+    "BanRate": "3.34"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Braxis Holdout",
+    "WinRate": "41.48",
+    "PlayRate": "1.48",
+    "BanRate": "0.57"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.29",
+    "PlayRate": "10.36",
+    "BanRate": "2.13"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Braxis Holdout",
+    "WinRate": "64.19",
+    "PlayRate": "3.47",
+    "BanRate": "2.88"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Braxis Holdout",
+    "WinRate": "46.35",
+    "PlayRate": "5.48",
+    "BanRate": "0.42"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.95",
+    "PlayRate": "4.82",
+    "BanRate": "1.17"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Braxis Holdout",
+    "WinRate": "44.12",
+    "PlayRate": "34.38",
+    "BanRate": "17.54"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Braxis Holdout",
+    "WinRate": "45.99",
+    "PlayRate": "2.93",
+    "BanRate": "0.21"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Braxis Holdout",
+    "WinRate": "53.29",
+    "PlayRate": "23.19",
+    "BanRate": "7.99"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.07",
+    "PlayRate": "7.53",
+    "BanRate": "0.9"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Braxis Holdout",
+    "WinRate": "54.16",
+    "PlayRate": "10.75",
+    "BanRate": "1.28"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Braxis Holdout",
+    "WinRate": "41.48",
+    "PlayRate": "1.17",
+    "BanRate": "0.26"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Braxis Holdout",
+    "WinRate": "53.17",
+    "PlayRate": "30.52",
+    "BanRate": "17.48"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.44",
+    "PlayRate": "3.57",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Braxis Holdout",
+    "WinRate": "46.08",
+    "PlayRate": "9.19",
+    "BanRate": "2.7"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.58",
+    "PlayRate": "6.67",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.53",
+    "PlayRate": "29.25",
+    "BanRate": "7.35"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Braxis Holdout",
+    "WinRate": "44.49",
+    "PlayRate": "10.56",
+    "BanRate": "1.66"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Braxis Holdout",
+    "WinRate": "44.42",
+    "PlayRate": "2.86",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.43",
+    "PlayRate": "9.22",
+    "BanRate": "1.24"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.01",
+    "PlayRate": "19.84",
+    "BanRate": "3.43"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.28",
+    "PlayRate": "29.84",
+    "BanRate": "9.1"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.1",
+    "PlayRate": "7.55",
+    "BanRate": "0.96"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.64",
+    "PlayRate": "45.46",
+    "BanRate": "27.62"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Braxis Holdout",
+    "WinRate": "53.71",
+    "PlayRate": "16.12",
+    "BanRate": "5.54"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.99",
+    "PlayRate": "2.49",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.12",
+    "PlayRate": "3.34",
+    "BanRate": "0.11"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.92",
+    "PlayRate": "8.27",
+    "BanRate": "0.67"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.31",
+    "PlayRate": "16.52",
+    "BanRate": "4.38"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.07",
+    "PlayRate": "12.92",
+    "BanRate": "2.47"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Braxis Holdout",
+    "WinRate": "54.62",
+    "PlayRate": "12.26",
+    "BanRate": "2.76"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.63",
+    "PlayRate": "15.9",
+    "BanRate": "3.54"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.21",
+    "PlayRate": "7.17",
+    "BanRate": "0.51"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.49",
+    "PlayRate": "5.87",
+    "BanRate": "2.09"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.24",
+    "PlayRate": "8.39",
+    "BanRate": "1.11"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.85",
+    "PlayRate": "7.87",
+    "BanRate": "2.5"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.84",
+    "PlayRate": "7.82",
+    "BanRate": "1.71"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.32",
+    "PlayRate": "2.6",
+    "BanRate": "0.44"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.35",
+    "PlayRate": "3.51",
+    "BanRate": "0.17"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Braxis Holdout",
+    "WinRate": "47.24",
+    "PlayRate": "16.34",
+    "BanRate": "1.29"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Braxis Holdout",
+    "WinRate": "43.94",
+    "PlayRate": "1.43",
+    "BanRate": "0.3"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Braxis Holdout",
+    "WinRate": "45.27",
+    "PlayRate": "8.92",
+    "BanRate": "0.86"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Braxis Holdout",
+    "WinRate": "46.99",
+    "PlayRate": "2.43",
+    "BanRate": "0.2"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.64",
+    "PlayRate": "9.09",
+    "BanRate": "1.59"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Braxis Holdout",
+    "WinRate": "52.74",
+    "PlayRate": "1.21",
+    "BanRate": "0.13"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.52",
+    "PlayRate": "21.57",
+    "BanRate": "16.44"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.3",
+    "PlayRate": "24.88",
+    "BanRate": "10.42"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.54",
+    "PlayRate": "17.72",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.91",
+    "PlayRate": "8.93",
+    "BanRate": "0.63"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Braxis Holdout",
+    "WinRate": "60.36",
+    "PlayRate": "29.74",
+    "BanRate": "15.22"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Braxis Holdout",
+    "WinRate": "45.19",
+    "PlayRate": "1.52",
+    "BanRate": "0.29"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Braxis Holdout",
+    "WinRate": "52.79",
+    "PlayRate": "3.89",
+    "BanRate": "0.71"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.48",
+    "PlayRate": "8.21",
+    "BanRate": "0.97"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Braxis Holdout",
+    "WinRate": "49.28",
+    "PlayRate": "14.37",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.48",
+    "PlayRate": "14.58",
+    "BanRate": "3.57"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.12",
+    "PlayRate": "16.85",
+    "BanRate": "3.31"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Braxis Holdout",
+    "WinRate": "39.04",
+    "PlayRate": "1.85",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.54",
+    "PlayRate": "4.55",
+    "BanRate": "1.11"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Braxis Holdout",
+    "WinRate": "29.49",
+    "PlayRate": "0.37",
+    "BanRate": "0.17"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.99",
+    "PlayRate": "14.02",
+    "BanRate": "0.88"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Braxis Holdout",
+    "WinRate": "43.5",
+    "PlayRate": "2.07",
+    "BanRate": "0.25"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.89",
+    "PlayRate": "6.68",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.82",
+    "PlayRate": "3.3",
+    "BanRate": "0.14"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Braxis Holdout",
+    "WinRate": "52.97",
+    "PlayRate": "6.11",
+    "BanRate": "0.68"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.3",
+    "PlayRate": "6.31",
+    "BanRate": "0.7"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.91",
+    "PlayRate": "2.3",
+    "BanRate": "0.3"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Braxis Holdout",
+    "WinRate": "48.64",
+    "PlayRate": "12.31",
+    "BanRate": "1.23"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Braxis Holdout",
+    "WinRate": "51.04",
+    "PlayRate": "23.69",
+    "BanRate": "8.2"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Braxis Holdout",
+    "WinRate": "45.89",
+    "PlayRate": "3.97",
+    "BanRate": "0.31"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Braxis Holdout",
+    "WinRate": "45.53",
+    "PlayRate": "2.01",
+    "BanRate": "0.12"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Braxis Holdout",
+    "WinRate": "44.96",
+    "PlayRate": "2.29",
+    "BanRate": "0.18"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Braxis Holdout",
+    "WinRate": "53.36",
+    "PlayRate": "6.86",
+    "BanRate": "1.01"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Braxis Holdout",
+    "WinRate": "52.19",
+    "PlayRate": "4.37",
+    "BanRate": "0.44"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Braxis Holdout",
+    "WinRate": "50.92",
+    "PlayRate": "7.32",
+    "BanRate": "4.1"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Braxis Holdout",
+    "WinRate": "54.44",
+    "PlayRate": "15.97",
+    "BanRate": "2.06"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.27",
+    "PlayRate": "40.3",
+    "BanRate": "23.22"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.55",
+    "PlayRate": "30.5",
+    "BanRate": "18.63"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Cursed Hollow",
+    "WinRate": "50",
+    "PlayRate": "11.76",
+    "BanRate": "2.25"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.37",
+    "PlayRate": "39.04",
+    "BanRate": "21.65"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.41",
+    "PlayRate": "26.52",
+    "BanRate": "10.07"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.15",
+    "PlayRate": "45.45",
+    "BanRate": "27.23"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.98",
+    "PlayRate": "18.04",
+    "BanRate": "2.3"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.7",
+    "PlayRate": "22.14",
+    "BanRate": "5.46"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.01",
+    "PlayRate": "9.24",
+    "BanRate": "1.1"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.37",
+    "PlayRate": "31.93",
+    "BanRate": "18.57"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.2",
+    "PlayRate": "6.19",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.32",
+    "PlayRate": "30.63",
+    "BanRate": "7.71"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.84",
+    "PlayRate": "7.32",
+    "BanRate": "0.71"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.36",
+    "PlayRate": "6.76",
+    "BanRate": "2.79"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Cursed Hollow",
+    "WinRate": "41.42",
+    "PlayRate": "1.37",
+    "BanRate": "0.67"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.22",
+    "PlayRate": "10.35",
+    "BanRate": "1.97"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Cursed Hollow",
+    "WinRate": "69.77",
+    "PlayRate": "3.64",
+    "BanRate": "3.09"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Cursed Hollow",
+    "WinRate": "44.62",
+    "PlayRate": "6.72",
+    "BanRate": "0.55"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.05",
+    "PlayRate": "29.69",
+    "BanRate": "10.98"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.41",
+    "PlayRate": "65.09",
+    "BanRate": "36.27"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.55",
+    "PlayRate": "3.45",
+    "BanRate": "0.15"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Cursed Hollow",
+    "WinRate": "53.06",
+    "PlayRate": "40.1",
+    "BanRate": "13.69"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.7",
+    "PlayRate": "42.74",
+    "BanRate": "11.54"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.4",
+    "PlayRate": "8.81",
+    "BanRate": "0.45"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Cursed Hollow",
+    "WinRate": "41.26",
+    "PlayRate": "1.08",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Cursed Hollow",
+    "WinRate": "45.64",
+    "PlayRate": "34.99",
+    "BanRate": "20.99"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Cursed Hollow",
+    "WinRate": "53.15",
+    "PlayRate": "4.56",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Cursed Hollow",
+    "WinRate": "45.44",
+    "PlayRate": "11.54",
+    "BanRate": "2.81"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.89",
+    "PlayRate": "14.96",
+    "BanRate": "1.53"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Cursed Hollow",
+    "WinRate": "44.13",
+    "PlayRate": "13.87",
+    "BanRate": "2.27"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Cursed Hollow",
+    "WinRate": "46.91",
+    "PlayRate": "23.68",
+    "BanRate": "4.01"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.34",
+    "PlayRate": "14.45",
+    "BanRate": "3.92"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.66",
+    "PlayRate": "13.39",
+    "BanRate": "1.35"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.64",
+    "PlayRate": "30.07",
+    "BanRate": "5.68"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.2",
+    "PlayRate": "38.5",
+    "BanRate": "11.91"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Cursed Hollow",
+    "WinRate": "45.71",
+    "PlayRate": "8.05",
+    "BanRate": "0.86"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.65",
+    "PlayRate": "61.73",
+    "BanRate": "40.99"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Cursed Hollow",
+    "WinRate": "45.87",
+    "PlayRate": "14.45",
+    "BanRate": "6.48"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.61",
+    "PlayRate": "4.48",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.5",
+    "PlayRate": "7.29",
+    "BanRate": "0.25"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.67",
+    "PlayRate": "9.7",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.52",
+    "PlayRate": "28.04",
+    "BanRate": "7.46"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.9",
+    "PlayRate": "31.5",
+    "BanRate": "5.16"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.83",
+    "PlayRate": "11.83",
+    "BanRate": "3.07"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.63",
+    "PlayRate": "23.57",
+    "BanRate": "4.98"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.91",
+    "PlayRate": "11.29",
+    "BanRate": "0.83"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.84",
+    "PlayRate": "8.27",
+    "BanRate": "3.27"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.06",
+    "PlayRate": "9.87",
+    "BanRate": "1.3"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Cursed Hollow",
+    "WinRate": "53.5",
+    "PlayRate": "11.39",
+    "BanRate": "3.46"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.66",
+    "PlayRate": "10.01",
+    "BanRate": "1.28"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Cursed Hollow",
+    "WinRate": "46.28",
+    "PlayRate": "5.88",
+    "BanRate": "0.95"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.35",
+    "PlayRate": "5.2",
+    "BanRate": "0.28"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.14",
+    "PlayRate": "28.97",
+    "BanRate": "2.57"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.6",
+    "PlayRate": "5.44",
+    "BanRate": "0.7"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.27",
+    "PlayRate": "17.42",
+    "BanRate": "1.69"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Cursed Hollow",
+    "WinRate": "46.79",
+    "PlayRate": "5.74",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.88",
+    "PlayRate": "14.7",
+    "BanRate": "2.67"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Cursed Hollow",
+    "WinRate": "46.9",
+    "PlayRate": "1.02",
+    "BanRate": "0.15"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Cursed Hollow",
+    "WinRate": "47.65",
+    "PlayRate": "22.91",
+    "BanRate": "17.76"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Cursed Hollow",
+    "WinRate": "56.09",
+    "PlayRate": "9.67",
+    "BanRate": "1.39"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Cursed Hollow",
+    "WinRate": "53.69",
+    "PlayRate": "24.27",
+    "BanRate": "2.38"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.87",
+    "PlayRate": "18.86",
+    "BanRate": "1.34"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Cursed Hollow",
+    "WinRate": "55.52",
+    "PlayRate": "7.57",
+    "BanRate": "1.2"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.89",
+    "PlayRate": "4.64",
+    "BanRate": "1.08"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.32",
+    "PlayRate": "3.55",
+    "BanRate": "0.75"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.71",
+    "PlayRate": "8.89",
+    "BanRate": "0.54"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Cursed Hollow",
+    "WinRate": "44.95",
+    "PlayRate": "17.96",
+    "BanRate": "1.78"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.09",
+    "PlayRate": "14.06",
+    "BanRate": "3.09"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.33",
+    "PlayRate": "21.45",
+    "BanRate": "4.05"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Cursed Hollow",
+    "WinRate": "44.57",
+    "PlayRate": "2.86",
+    "BanRate": "0.28"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.39",
+    "PlayRate": "9.41",
+    "BanRate": "2.18"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.97",
+    "PlayRate": "4.22",
+    "BanRate": "1.41"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.07",
+    "PlayRate": "19.49",
+    "BanRate": "1"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.04",
+    "PlayRate": "5.26",
+    "BanRate": "0.67"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.52",
+    "PlayRate": "11.1",
+    "BanRate": "1.27"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Cursed Hollow",
+    "WinRate": "52.1",
+    "PlayRate": "8.55",
+    "BanRate": "0.45"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.53",
+    "PlayRate": "11.78",
+    "BanRate": "1.8"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Cursed Hollow",
+    "WinRate": "55.21",
+    "PlayRate": "14.14",
+    "BanRate": "2.03"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Cursed Hollow",
+    "WinRate": "46.94",
+    "PlayRate": "4.93",
+    "BanRate": "0.73"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.88",
+    "PlayRate": "16.31",
+    "BanRate": "1.63"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Cursed Hollow",
+    "WinRate": "51.49",
+    "PlayRate": "34.91",
+    "BanRate": "11.87"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Cursed Hollow",
+    "WinRate": "46.48",
+    "PlayRate": "5.23",
+    "BanRate": "0.49"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.3",
+    "PlayRate": "3.24",
+    "BanRate": "0.1"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Cursed Hollow",
+    "WinRate": "45.37",
+    "PlayRate": "2.64",
+    "BanRate": "0.12"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.37",
+    "PlayRate": "9.11",
+    "BanRate": "1.57"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Cursed Hollow",
+    "WinRate": "49.21",
+    "PlayRate": "5.58",
+    "BanRate": "0.34"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Cursed Hollow",
+    "WinRate": "48.96",
+    "PlayRate": "24.4",
+    "BanRate": "14.17"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Cursed Hollow",
+    "WinRate": "50.7",
+    "PlayRate": "15.8",
+    "BanRate": "2.48"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Dragon Shire",
+    "WinRate": "45.83",
+    "PlayRate": "15.28",
+    "BanRate": "8.48"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Dragon Shire",
+    "WinRate": "53.2",
+    "PlayRate": "31.88",
+    "BanRate": "19.15"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Dragon Shire",
+    "WinRate": "45.93",
+    "PlayRate": "9.71",
+    "BanRate": "2.05"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Dragon Shire",
+    "WinRate": "47.21",
+    "PlayRate": "37.05",
+    "BanRate": "20.96"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Dragon Shire",
+    "WinRate": "45.34",
+    "PlayRate": "24.85",
+    "BanRate": "9.54"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Dragon Shire",
+    "WinRate": "53.56",
+    "PlayRate": "41.38",
+    "BanRate": "25.58"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Dragon Shire",
+    "WinRate": "48.26",
+    "PlayRate": "18.34",
+    "BanRate": "2.57"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Dragon Shire",
+    "WinRate": "51.22",
+    "PlayRate": "19.47",
+    "BanRate": "4.65"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Dragon Shire",
+    "WinRate": "53.42",
+    "PlayRate": "9.57",
+    "BanRate": "1.34"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Dragon Shire",
+    "WinRate": "50.05",
+    "PlayRate": "25.61",
+    "BanRate": "14.99"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Dragon Shire",
+    "WinRate": "48.81",
+    "PlayRate": "5.66",
+    "BanRate": "0.34"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Dragon Shire",
+    "WinRate": "52",
+    "PlayRate": "33.44",
+    "BanRate": "8.66"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Dragon Shire",
+    "WinRate": "47.7",
+    "PlayRate": "6.76",
+    "BanRate": "0.59"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Dragon Shire",
+    "WinRate": "49.26",
+    "PlayRate": "8.99",
+    "BanRate": "4.27"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Dragon Shire",
+    "WinRate": "41.79",
+    "PlayRate": "1.38",
+    "BanRate": "0.66"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Dragon Shire",
+    "WinRate": "50.11",
+    "PlayRate": "9.76",
+    "BanRate": "1.88"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Dragon Shire",
+    "WinRate": "62.9",
+    "PlayRate": "3.64",
+    "BanRate": "3.07"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Dragon Shire",
+    "WinRate": "44.97",
+    "PlayRate": "5.63",
+    "BanRate": "0.49"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Dragon Shire",
+    "WinRate": "50.1",
+    "PlayRate": "22.5",
+    "BanRate": "10.1"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Dragon Shire",
+    "WinRate": "48.17",
+    "PlayRate": "57.78",
+    "BanRate": "32.71"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Dragon Shire",
+    "WinRate": "49.55",
+    "PlayRate": "3.02",
+    "BanRate": "0.16"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Dragon Shire",
+    "WinRate": "52.13",
+    "PlayRate": "37.05",
+    "BanRate": "13.16"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Dragon Shire",
+    "WinRate": "52.73",
+    "PlayRate": "35.75",
+    "BanRate": "10.71"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Dragon Shire",
+    "WinRate": "51.77",
+    "PlayRate": "9.33",
+    "BanRate": "0.57"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Dragon Shire",
+    "WinRate": "41.94",
+    "PlayRate": "1.11",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Dragon Shire",
+    "WinRate": "46.51",
+    "PlayRate": "37.81",
+    "BanRate": "22.05"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Dragon Shire",
+    "WinRate": "53",
+    "PlayRate": "5.08",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Dragon Shire",
+    "WinRate": "43.14",
+    "PlayRate": "10.63",
+    "BanRate": "2.8"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Dragon Shire",
+    "WinRate": "50.78",
+    "PlayRate": "12.48",
+    "BanRate": "1.27"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Dragon Shire",
+    "WinRate": "48.34",
+    "PlayRate": "13.54",
+    "BanRate": "2.13"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Dragon Shire",
+    "WinRate": "45.97",
+    "PlayRate": "20.39",
+    "BanRate": "3.47"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Dragon Shire",
+    "WinRate": "46.18",
+    "PlayRate": "8.74",
+    "BanRate": "2.15"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Dragon Shire",
+    "WinRate": "46.37",
+    "PlayRate": "13.7",
+    "BanRate": "1.57"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Dragon Shire",
+    "WinRate": "52.99",
+    "PlayRate": "29.15",
+    "BanRate": "5.09"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Dragon Shire",
+    "WinRate": "51.86",
+    "PlayRate": "36.43",
+    "BanRate": "12.06"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Dragon Shire",
+    "WinRate": "49.93",
+    "PlayRate": "8.28",
+    "BanRate": "0.99"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Dragon Shire",
+    "WinRate": "52.17",
+    "PlayRate": "58.5",
+    "BanRate": "38"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Dragon Shire",
+    "WinRate": "49.01",
+    "PlayRate": "14.19",
+    "BanRate": "5.75"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Dragon Shire",
+    "WinRate": "54.5",
+    "PlayRate": "4.61",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Dragon Shire",
+    "WinRate": "50.82",
+    "PlayRate": "6.84",
+    "BanRate": "0.22"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Dragon Shire",
+    "WinRate": "51.89",
+    "PlayRate": "11.02",
+    "BanRate": "0.85"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Dragon Shire",
+    "WinRate": "49.2",
+    "PlayRate": "25.99",
+    "BanRate": "7.01"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Dragon Shire",
+    "WinRate": "43.47",
+    "PlayRate": "26.06",
+    "BanRate": "4.43"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Dragon Shire",
+    "WinRate": "49.03",
+    "PlayRate": "11.96",
+    "BanRate": "3.16"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Dragon Shire",
+    "WinRate": "49.33",
+    "PlayRate": "20.75",
+    "BanRate": "4.84"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Dragon Shire",
+    "WinRate": "49.84",
+    "PlayRate": "11.71",
+    "BanRate": "0.91"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Dragon Shire",
+    "WinRate": "49.8",
+    "PlayRate": "8.58",
+    "BanRate": "3.51"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Dragon Shire",
+    "WinRate": "48.77",
+    "PlayRate": "9.63",
+    "BanRate": "1.34"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Dragon Shire",
+    "WinRate": "47.88",
+    "PlayRate": "10.46",
+    "BanRate": "3.34"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Dragon Shire",
+    "WinRate": "52.94",
+    "PlayRate": "10.5",
+    "BanRate": "1.86"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Dragon Shire",
+    "WinRate": "46.64",
+    "PlayRate": "4.74",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Dragon Shire",
+    "WinRate": "47.78",
+    "PlayRate": "4.07",
+    "BanRate": "0.22"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Dragon Shire",
+    "WinRate": "49.25",
+    "PlayRate": "27.86",
+    "BanRate": "2.79"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Dragon Shire",
+    "WinRate": "54.12",
+    "PlayRate": "4.57",
+    "BanRate": "0.68"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Dragon Shire",
+    "WinRate": "48.71",
+    "PlayRate": "18.14",
+    "BanRate": "1.49"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Dragon Shire",
+    "WinRate": "47.95",
+    "PlayRate": "5.39",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Dragon Shire",
+    "WinRate": "49.24",
+    "PlayRate": "13.91",
+    "BanRate": "2.38"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Dragon Shire",
+    "WinRate": "52.93",
+    "PlayRate": "1.21",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Dragon Shire",
+    "WinRate": "43.75",
+    "PlayRate": "23.29",
+    "BanRate": "17.99"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Dragon Shire",
+    "WinRate": "54.66",
+    "PlayRate": "6.63",
+    "BanRate": "0.97"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Dragon Shire",
+    "WinRate": "51.79",
+    "PlayRate": "23.82",
+    "BanRate": "2.49"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Dragon Shire",
+    "WinRate": "55.22",
+    "PlayRate": "17.83",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Dragon Shire",
+    "WinRate": "59.16",
+    "PlayRate": "25.51",
+    "BanRate": "10.81"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Dragon Shire",
+    "WinRate": "51.93",
+    "PlayRate": "3.82",
+    "BanRate": "0.76"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Dragon Shire",
+    "WinRate": "49.12",
+    "PlayRate": "3.57",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Dragon Shire",
+    "WinRate": "50.58",
+    "PlayRate": "9.9",
+    "BanRate": "0.82"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Dragon Shire",
+    "WinRate": "47.79",
+    "PlayRate": "18.26",
+    "BanRate": "1.87"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Dragon Shire",
+    "WinRate": "47.7",
+    "PlayRate": "11.88",
+    "BanRate": "2.47"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Dragon Shire",
+    "WinRate": "50.1",
+    "PlayRate": "21.06",
+    "BanRate": "3.69"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Dragon Shire",
+    "WinRate": "47.44",
+    "PlayRate": "2.8",
+    "BanRate": "0.29"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Dragon Shire",
+    "WinRate": "51.17",
+    "PlayRate": "9.6",
+    "BanRate": "2.13"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Dragon Shire",
+    "WinRate": "52.13",
+    "PlayRate": "1.75",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Dragon Shire",
+    "WinRate": "49.64",
+    "PlayRate": "20.82",
+    "BanRate": "1.35"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Dragon Shire",
+    "WinRate": "46.53",
+    "PlayRate": "4.72",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Dragon Shire",
+    "WinRate": "49.41",
+    "PlayRate": "11.74",
+    "BanRate": "1.46"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Dragon Shire",
+    "WinRate": "49.17",
+    "PlayRate": "6.46",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Dragon Shire",
+    "WinRate": "51.88",
+    "PlayRate": "11.28",
+    "BanRate": "1.64"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Dragon Shire",
+    "WinRate": "54.71",
+    "PlayRate": "12.94",
+    "BanRate": "1.91"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Dragon Shire",
+    "WinRate": "48.49",
+    "PlayRate": "4.97",
+    "BanRate": "0.72"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Dragon Shire",
+    "WinRate": "49.17",
+    "PlayRate": "17.55",
+    "BanRate": "1.74"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Dragon Shire",
+    "WinRate": "49.11",
+    "PlayRate": "34.56",
+    "BanRate": "12.06"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Dragon Shire",
+    "WinRate": "48.21",
+    "PlayRate": "5.11",
+    "BanRate": "0.45"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Dragon Shire",
+    "WinRate": "50.88",
+    "PlayRate": "3.52",
+    "BanRate": "0.18"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Dragon Shire",
+    "WinRate": "45.71",
+    "PlayRate": "3.64",
+    "BanRate": "0.23"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Dragon Shire",
+    "WinRate": "52.53",
+    "PlayRate": "8.6",
+    "BanRate": "1.19"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Dragon Shire",
+    "WinRate": "49.76",
+    "PlayRate": "4.63",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Dragon Shire",
+    "WinRate": "49.38",
+    "PlayRate": "21.84",
+    "BanRate": "13.13"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Dragon Shire",
+    "WinRate": "52.8",
+    "PlayRate": "19.34",
+    "BanRate": "2.84"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.63",
+    "PlayRate": "9.83",
+    "BanRate": "6.11"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.58",
+    "PlayRate": "30.59",
+    "BanRate": "20.07"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.14",
+    "PlayRate": "7.36",
+    "BanRate": "1.6"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.37",
+    "PlayRate": "30.01",
+    "BanRate": "19.77"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Hanamura Temple",
+    "WinRate": "47",
+    "PlayRate": "29.92",
+    "BanRate": "11.42"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.48",
+    "PlayRate": "34.9",
+    "BanRate": "24.15"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Hanamura Temple",
+    "WinRate": "54.24",
+    "PlayRate": "22.78",
+    "BanRate": "5.13"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.93",
+    "PlayRate": "17.42",
+    "BanRate": "5.16"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.04",
+    "PlayRate": "8.49",
+    "BanRate": "1.39"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.6",
+    "PlayRate": "20.93",
+    "BanRate": "12.93"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.04",
+    "PlayRate": "5.67",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.18",
+    "PlayRate": "14.1",
+    "BanRate": "3.29"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.55",
+    "PlayRate": "6.06",
+    "BanRate": "0.65"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.1",
+    "PlayRate": "9.07",
+    "BanRate": "4.27"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Hanamura Temple",
+    "WinRate": "35.17",
+    "PlayRate": "1.87",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.05",
+    "PlayRate": "6.93",
+    "BanRate": "1.22"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Hanamura Temple",
+    "WinRate": "62.26",
+    "PlayRate": "3.62",
+    "BanRate": "3.08"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Hanamura Temple",
+    "WinRate": "43.85",
+    "PlayRate": "4.68",
+    "BanRate": "0.51"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Hanamura Temple",
+    "WinRate": "42.76",
+    "PlayRate": "3.05",
+    "BanRate": "0.84"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Hanamura Temple",
+    "WinRate": "42.87",
+    "PlayRate": "40.68",
+    "BanRate": "26.84"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Hanamura Temple",
+    "WinRate": "45.37",
+    "PlayRate": "2.8",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Hanamura Temple",
+    "WinRate": "54.88",
+    "PlayRate": "34.14",
+    "BanRate": "13.85"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.96",
+    "PlayRate": "11.97",
+    "BanRate": "2.34"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Hanamura Temple",
+    "WinRate": "52.71",
+    "PlayRate": "7.52",
+    "BanRate": "0.52"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Hanamura Temple",
+    "WinRate": "35.17",
+    "PlayRate": "1.46",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.59",
+    "PlayRate": "32.86",
+    "BanRate": "21.44"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.91",
+    "PlayRate": "3",
+    "BanRate": "0.29"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Hanamura Temple",
+    "WinRate": "43.57",
+    "PlayRate": "9.05",
+    "BanRate": "2.85"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.1",
+    "PlayRate": "11.46",
+    "BanRate": "1.5"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.3",
+    "PlayRate": "13.1",
+    "BanRate": "2.5"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Hanamura Temple",
+    "WinRate": "44.34",
+    "PlayRate": "14.41",
+    "BanRate": "3.5"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.23",
+    "PlayRate": "6.22",
+    "BanRate": "1.77"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.4",
+    "PlayRate": "11.09",
+    "BanRate": "1.49"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.84",
+    "PlayRate": "23.57",
+    "BanRate": "5.43"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Hanamura Temple",
+    "WinRate": "52.87",
+    "PlayRate": "35.43",
+    "BanRate": "13.31"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Hanamura Temple",
+    "WinRate": "45.19",
+    "PlayRate": "5.99",
+    "BanRate": "0.9"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.63",
+    "PlayRate": "51.78",
+    "BanRate": "37.11"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.25",
+    "PlayRate": "13.86",
+    "BanRate": "6.81"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.08",
+    "PlayRate": "3.26",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.17",
+    "PlayRate": "4.68",
+    "BanRate": "0.2"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.35",
+    "PlayRate": "7.68",
+    "BanRate": "0.64"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.63",
+    "PlayRate": "22.36",
+    "BanRate": "6.83"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.57",
+    "PlayRate": "25.85",
+    "BanRate": "5.05"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.02",
+    "PlayRate": "10.12",
+    "BanRate": "2.97"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.55",
+    "PlayRate": "20.82",
+    "BanRate": "5.62"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Hanamura Temple",
+    "WinRate": "54.14",
+    "PlayRate": "11.29",
+    "BanRate": "1.08"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.84",
+    "PlayRate": "6.38",
+    "BanRate": "2.6"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.49",
+    "PlayRate": "7.79",
+    "BanRate": "1.19"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.84",
+    "PlayRate": "9.68",
+    "BanRate": "2.89"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.66",
+    "PlayRate": "8.33",
+    "BanRate": "1.78"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.16",
+    "PlayRate": "4.16",
+    "BanRate": "0.8"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.37",
+    "PlayRate": "4.97",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.92",
+    "PlayRate": "24.21",
+    "BanRate": "2.85"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.84",
+    "PlayRate": "1.97",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Hanamura Temple",
+    "WinRate": "43.91",
+    "PlayRate": "10.21",
+    "BanRate": "1.18"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.36",
+    "PlayRate": "4.8",
+    "BanRate": "0.44"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.32",
+    "PlayRate": "10.67",
+    "BanRate": "1.96"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Hanamura Temple",
+    "WinRate": "50",
+    "PlayRate": "0.65",
+    "BanRate": "0.11"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Hanamura Temple",
+    "WinRate": "43.98",
+    "PlayRate": "24.46",
+    "BanRate": "19.24"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.39",
+    "PlayRate": "4.41",
+    "BanRate": "0.8"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.07",
+    "PlayRate": "20.59",
+    "BanRate": "2.63"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Hanamura Temple",
+    "WinRate": "53.84",
+    "PlayRate": "13.33",
+    "BanRate": "1.35"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Hanamura Temple",
+    "WinRate": "59.32",
+    "PlayRate": "12.22",
+    "BanRate": "4.64"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.51",
+    "PlayRate": "3.28",
+    "BanRate": "0.93"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.83",
+    "PlayRate": "2.66",
+    "BanRate": "0.64"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.08",
+    "PlayRate": "7.73",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.6",
+    "PlayRate": "13.73",
+    "BanRate": "1.7"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Hanamura Temple",
+    "WinRate": "52.69",
+    "PlayRate": "11.89",
+    "BanRate": "2.89"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.25",
+    "PlayRate": "18.93",
+    "BanRate": "4.94"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Hanamura Temple",
+    "WinRate": "44.8",
+    "PlayRate": "2.8",
+    "BanRate": "0.32"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.99",
+    "PlayRate": "7.1",
+    "BanRate": "2.11"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Hanamura Temple",
+    "WinRate": "40.18",
+    "PlayRate": "0.61",
+    "BanRate": "0.32"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.84",
+    "PlayRate": "20.54",
+    "BanRate": "1.67"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.31",
+    "PlayRate": "4.91",
+    "BanRate": "0.88"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Hanamura Temple",
+    "WinRate": "49.9",
+    "PlayRate": "9.23",
+    "BanRate": "1.4"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.92",
+    "PlayRate": "5.44",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.02",
+    "PlayRate": "7.87",
+    "BanRate": "1.31"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Hanamura Temple",
+    "WinRate": "52.84",
+    "PlayRate": "10.56",
+    "BanRate": "1.78"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.66",
+    "PlayRate": "3.67",
+    "BanRate": "0.8"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Hanamura Temple",
+    "WinRate": "52.1",
+    "PlayRate": "17.06",
+    "BanRate": "1.97"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.08",
+    "PlayRate": "31.32",
+    "BanRate": "12.37"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Hanamura Temple",
+    "WinRate": "46.05",
+    "PlayRate": "3.97",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Hanamura Temple",
+    "WinRate": "48.88",
+    "PlayRate": "1.92",
+    "BanRate": "0.09"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.27",
+    "PlayRate": "2.49",
+    "BanRate": "0.14"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.68",
+    "PlayRate": "4.11",
+    "BanRate": "0.67"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Hanamura Temple",
+    "WinRate": "51.45",
+    "PlayRate": "5.42",
+    "BanRate": "0.72"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Hanamura Temple",
+    "WinRate": "47.28",
+    "PlayRate": "15.29",
+    "BanRate": "10.48"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Hanamura Temple",
+    "WinRate": "50.36",
+    "PlayRate": "16.94",
+    "BanRate": "3.01"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Infernal Shrines",
+    "WinRate": "46.86",
+    "PlayRate": "18",
+    "BanRate": "9.93"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.57",
+    "PlayRate": "32.27",
+    "BanRate": "19.71"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.36",
+    "PlayRate": "23.1",
+    "BanRate": "6"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.16",
+    "PlayRate": "42.33",
+    "BanRate": "24.19"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.05",
+    "PlayRate": "28.9",
+    "BanRate": "11.06"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.92",
+    "PlayRate": "47",
+    "BanRate": "30.08"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.02",
+    "PlayRate": "17.64",
+    "BanRate": "2.69"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.06",
+    "PlayRate": "24.82",
+    "BanRate": "6.06"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Infernal Shrines",
+    "WinRate": "53.58",
+    "PlayRate": "12.62",
+    "BanRate": "1.75"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.87",
+    "PlayRate": "43.73",
+    "BanRate": "24.61"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.63",
+    "PlayRate": "9.74",
+    "BanRate": "0.69"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.61",
+    "PlayRate": "17.52",
+    "BanRate": "3.42"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.09",
+    "PlayRate": "6.79",
+    "BanRate": "0.64"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Infernal Shrines",
+    "WinRate": "43.81",
+    "PlayRate": "6.93",
+    "BanRate": "3.02"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.89",
+    "PlayRate": "2.09",
+    "BanRate": "0.93"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.24",
+    "PlayRate": "9.75",
+    "BanRate": "2.11"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Infernal Shrines",
+    "WinRate": "61.68",
+    "PlayRate": "3.62",
+    "BanRate": "3.07"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Infernal Shrines",
+    "WinRate": "45.27",
+    "PlayRate": "7.83",
+    "BanRate": "0.7"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.02",
+    "PlayRate": "9.85",
+    "BanRate": "2.16"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Infernal Shrines",
+    "WinRate": "45.5",
+    "PlayRate": "66.15",
+    "BanRate": "38.95"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.6",
+    "PlayRate": "5.69",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Infernal Shrines",
+    "WinRate": "53.51",
+    "PlayRate": "38.64",
+    "BanRate": "14.05"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.23",
+    "PlayRate": "17.43",
+    "BanRate": "2.37"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.3",
+    "PlayRate": "10.41",
+    "BanRate": "0.63"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.78",
+    "PlayRate": "1.64",
+    "BanRate": "0.48"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Infernal Shrines",
+    "WinRate": "46.08",
+    "PlayRate": "36.09",
+    "BanRate": "22.26"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.6",
+    "PlayRate": "6.56",
+    "BanRate": "0.56"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Infernal Shrines",
+    "WinRate": "41.21",
+    "PlayRate": "9.1",
+    "BanRate": "2.47"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.71",
+    "PlayRate": "13.46",
+    "BanRate": "1.45"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.9",
+    "PlayRate": "28.22",
+    "BanRate": "6.51"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Infernal Shrines",
+    "WinRate": "45.9",
+    "PlayRate": "23",
+    "BanRate": "4.18"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.09",
+    "PlayRate": "7.89",
+    "BanRate": "1.92"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Infernal Shrines",
+    "WinRate": "43.47",
+    "PlayRate": "14.11",
+    "BanRate": "1.61"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.04",
+    "PlayRate": "38.12",
+    "BanRate": "8.89"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.78",
+    "PlayRate": "50.99",
+    "BanRate": "15.3"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.53",
+    "PlayRate": "11.66",
+    "BanRate": "1.31"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.69",
+    "PlayRate": "76.43",
+    "BanRate": "48.26"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Infernal Shrines",
+    "WinRate": "54.21",
+    "PlayRate": "18.5",
+    "BanRate": "7.6"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Infernal Shrines",
+    "WinRate": "54.84",
+    "PlayRate": "10.43",
+    "BanRate": "1.61"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.89",
+    "PlayRate": "6.26",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.95",
+    "PlayRate": "15.65",
+    "BanRate": "1.28"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.52",
+    "PlayRate": "26.89",
+    "BanRate": "7.51"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Infernal Shrines",
+    "WinRate": "44.11",
+    "PlayRate": "17.37",
+    "BanRate": "3.68"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.95",
+    "PlayRate": "12.03",
+    "BanRate": "3.19"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.08",
+    "PlayRate": "23.59",
+    "BanRate": "5.2"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.28",
+    "PlayRate": "11.15",
+    "BanRate": "0.89"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.12",
+    "PlayRate": "10.9",
+    "BanRate": "4.37"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.62",
+    "PlayRate": "10.61",
+    "BanRate": "1.55"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.94",
+    "PlayRate": "12.04",
+    "BanRate": "3.83"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Infernal Shrines",
+    "WinRate": "55.04",
+    "PlayRate": "12.38",
+    "BanRate": "2.07"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Infernal Shrines",
+    "WinRate": "42.04",
+    "PlayRate": "5.8",
+    "BanRate": "0.94"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.91",
+    "PlayRate": "6.43",
+    "BanRate": "0.4"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.32",
+    "PlayRate": "25.75",
+    "BanRate": "2.66"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Infernal Shrines",
+    "WinRate": "54.93",
+    "PlayRate": "6.35",
+    "BanRate": "0.67"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.92",
+    "PlayRate": "18.51",
+    "BanRate": "2.2"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Infernal Shrines",
+    "WinRate": "43.44",
+    "PlayRate": "3.95",
+    "BanRate": "0.37"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.09",
+    "PlayRate": "16.72",
+    "BanRate": "3.34"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Infernal Shrines",
+    "WinRate": "54.14",
+    "PlayRate": "1.62",
+    "BanRate": "0.19"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Infernal Shrines",
+    "WinRate": "41.17",
+    "PlayRate": "22.78",
+    "BanRate": "17.76"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Infernal Shrines",
+    "WinRate": "56.48",
+    "PlayRate": "14.52",
+    "BanRate": "2.48"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.94",
+    "PlayRate": "25.58",
+    "BanRate": "2.76"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Infernal Shrines",
+    "WinRate": "55.44",
+    "PlayRate": "18.76",
+    "BanRate": "1.28"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Infernal Shrines",
+    "WinRate": "53.97",
+    "PlayRate": "5.45",
+    "BanRate": "0.98"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.22",
+    "PlayRate": "3.27",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Infernal Shrines",
+    "WinRate": "53.86",
+    "PlayRate": "5.84",
+    "BanRate": "1.31"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.9",
+    "PlayRate": "17.43",
+    "BanRate": "2"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.71",
+    "PlayRate": "18.61",
+    "BanRate": "2"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.42",
+    "PlayRate": "18.19",
+    "BanRate": "4.28"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.85",
+    "PlayRate": "25.57",
+    "BanRate": "5.66"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.92",
+    "PlayRate": "3.58",
+    "BanRate": "0.31"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.83",
+    "PlayRate": "8.7",
+    "BanRate": "2.22"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Infernal Shrines",
+    "WinRate": "45.69",
+    "PlayRate": "1.68",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.25",
+    "PlayRate": "18.37",
+    "BanRate": "1.2"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.89",
+    "PlayRate": "4.35",
+    "BanRate": "0.63"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Infernal Shrines",
+    "WinRate": "48.18",
+    "PlayRate": "12.22",
+    "BanRate": "1.55"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.48",
+    "PlayRate": "7.91",
+    "BanRate": "0.45"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.52",
+    "PlayRate": "10.57",
+    "BanRate": "1.68"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Infernal Shrines",
+    "WinRate": "53.38",
+    "PlayRate": "13.46",
+    "BanRate": "1.96"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Infernal Shrines",
+    "WinRate": "47.67",
+    "PlayRate": "3.96",
+    "BanRate": "0.64"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.07",
+    "PlayRate": "19.81",
+    "BanRate": "2.3"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.15",
+    "PlayRate": "31.72",
+    "BanRate": "11.4"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Infernal Shrines",
+    "WinRate": "45.7",
+    "PlayRate": "5.53",
+    "BanRate": "0.51"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.11",
+    "PlayRate": "6.75",
+    "BanRate": "0.31"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Infernal Shrines",
+    "WinRate": "45.4",
+    "PlayRate": "3.25",
+    "BanRate": "0.1"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Infernal Shrines",
+    "WinRate": "51.17",
+    "PlayRate": "5.49",
+    "BanRate": "0.76"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Infernal Shrines",
+    "WinRate": "52.33",
+    "PlayRate": "6.72",
+    "BanRate": "0.37"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Infernal Shrines",
+    "WinRate": "49.89",
+    "PlayRate": "24.08",
+    "BanRate": "14.82"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Infernal Shrines",
+    "WinRate": "50.58",
+    "PlayRate": "18.29",
+    "BanRate": "2.8"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Sky Temple",
+    "WinRate": "49.87",
+    "PlayRate": "34.33",
+    "BanRate": "20.73"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Sky Temple",
+    "WinRate": "49.67",
+    "PlayRate": "31.73",
+    "BanRate": "19.19"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Sky Temple",
+    "WinRate": "49.38",
+    "PlayRate": "10.97",
+    "BanRate": "2.11"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Sky Temple",
+    "WinRate": "49.66",
+    "PlayRate": "41.09",
+    "BanRate": "23.09"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Sky Temple",
+    "WinRate": "46.17",
+    "PlayRate": "28.59",
+    "BanRate": "10.74"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Sky Temple",
+    "WinRate": "52.54",
+    "PlayRate": "48.86",
+    "BanRate": "29.78"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Sky Temple",
+    "WinRate": "52.11",
+    "PlayRate": "21.66",
+    "BanRate": "2.82"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Sky Temple",
+    "WinRate": "53.07",
+    "PlayRate": "22.57",
+    "BanRate": "5.67"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Sky Temple",
+    "WinRate": "48.19",
+    "PlayRate": "9.42",
+    "BanRate": "1.23"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Sky Temple",
+    "WinRate": "48.41",
+    "PlayRate": "33.07",
+    "BanRate": "19.98"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Sky Temple",
+    "WinRate": "50.1",
+    "PlayRate": "6.84",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Sky Temple",
+    "WinRate": "49.41",
+    "PlayRate": "33.39",
+    "BanRate": "8.4"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Sky Temple",
+    "WinRate": "48.4",
+    "PlayRate": "7.97",
+    "BanRate": "0.73"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Sky Temple",
+    "WinRate": "51.25",
+    "PlayRate": "7.71",
+    "BanRate": "3.26"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Sky Temple",
+    "WinRate": "39.14",
+    "PlayRate": "1.55",
+    "BanRate": "0.71"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Sky Temple",
+    "WinRate": "46.14",
+    "PlayRate": "8.8",
+    "BanRate": "1.64"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Sky Temple",
+    "WinRate": "60.09",
+    "PlayRate": "3.64",
+    "BanRate": "3.04"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Sky Temple",
+    "WinRate": "46.29",
+    "PlayRate": "6.05",
+    "BanRate": "0.55"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Sky Temple",
+    "WinRate": "49.19",
+    "PlayRate": "25.21",
+    "BanRate": "10.57"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Sky Temple",
+    "WinRate": "46.41",
+    "PlayRate": "61.89",
+    "BanRate": "36.48"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Sky Temple",
+    "WinRate": "48.63",
+    "PlayRate": "3.71",
+    "BanRate": "0.24"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Sky Temple",
+    "WinRate": "53.61",
+    "PlayRate": "42.24",
+    "BanRate": "14.02"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Sky Temple",
+    "WinRate": "53.61",
+    "PlayRate": "44.79",
+    "BanRate": "13.08"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Sky Temple",
+    "WinRate": "53.93",
+    "PlayRate": "9.95",
+    "BanRate": "0.54"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Sky Temple",
+    "WinRate": "39.33",
+    "PlayRate": "1.23",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Sky Temple",
+    "WinRate": "45.09",
+    "PlayRate": "39.04",
+    "BanRate": "23.31"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Sky Temple",
+    "WinRate": "52.56",
+    "PlayRate": "5.36",
+    "BanRate": "0.47"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Sky Temple",
+    "WinRate": "43.7",
+    "PlayRate": "11.66",
+    "BanRate": "2.98"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Sky Temple",
+    "WinRate": "51.87",
+    "PlayRate": "15.49",
+    "BanRate": "1.53"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Sky Temple",
+    "WinRate": "45.6",
+    "PlayRate": "15.32",
+    "BanRate": "2.36"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Sky Temple",
+    "WinRate": "45.41",
+    "PlayRate": "19.43",
+    "BanRate": "3.56"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Sky Temple",
+    "WinRate": "50.32",
+    "PlayRate": "12.78",
+    "BanRate": "3.2"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Sky Temple",
+    "WinRate": "45.06",
+    "PlayRate": "14.07",
+    "BanRate": "1.33"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Sky Temple",
+    "WinRate": "53.83",
+    "PlayRate": "34.09",
+    "BanRate": "6.4"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Sky Temple",
+    "WinRate": "52.18",
+    "PlayRate": "43.02",
+    "BanRate": "13.48"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Sky Temple",
+    "WinRate": "46.77",
+    "PlayRate": "6.98",
+    "BanRate": "0.74"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Sky Temple",
+    "WinRate": "51.83",
+    "PlayRate": "65.51",
+    "BanRate": "43.2"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Sky Temple",
+    "WinRate": "49.28",
+    "PlayRate": "15.43",
+    "BanRate": "6.45"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Sky Temple",
+    "WinRate": "53.65",
+    "PlayRate": "5.19",
+    "BanRate": "0.34"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Sky Temple",
+    "WinRate": "51.46",
+    "PlayRate": "7.61",
+    "BanRate": "0.25"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Sky Temple",
+    "WinRate": "50.86",
+    "PlayRate": "9.85",
+    "BanRate": "0.59"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Sky Temple",
+    "WinRate": "49.83",
+    "PlayRate": "29.79",
+    "BanRate": "7.93"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Sky Temple",
+    "WinRate": "44.89",
+    "PlayRate": "28.26",
+    "BanRate": "4.59"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Sky Temple",
+    "WinRate": "48.26",
+    "PlayRate": "12.53",
+    "BanRate": "3.33"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Sky Temple",
+    "WinRate": "51.73",
+    "PlayRate": "24.8",
+    "BanRate": "5.5"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Sky Temple",
+    "WinRate": "50.52",
+    "PlayRate": "12.88",
+    "BanRate": "0.91"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Sky Temple",
+    "WinRate": "47",
+    "PlayRate": "9.27",
+    "BanRate": "3.72"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Sky Temple",
+    "WinRate": "47.84",
+    "PlayRate": "10.27",
+    "BanRate": "1.38"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Sky Temple",
+    "WinRate": "49.85",
+    "PlayRate": "11.54",
+    "BanRate": "3.61"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Sky Temple",
+    "WinRate": "51.71",
+    "PlayRate": "10.94",
+    "BanRate": "1.58"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Sky Temple",
+    "WinRate": "43.63",
+    "PlayRate": "5.42",
+    "BanRate": "1.01"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Sky Temple",
+    "WinRate": "45.06",
+    "PlayRate": "4.73",
+    "BanRate": "0.27"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Sky Temple",
+    "WinRate": "47.57",
+    "PlayRate": "31.21",
+    "BanRate": "3.08"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Sky Temple",
+    "WinRate": "54.93",
+    "PlayRate": "7.1",
+    "BanRate": "0.94"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Sky Temple",
+    "WinRate": "47.2",
+    "PlayRate": "17.67",
+    "BanRate": "1.66"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Sky Temple",
+    "WinRate": "45.62",
+    "PlayRate": "5.49",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Sky Temple",
+    "WinRate": "49.36",
+    "PlayRate": "16.16",
+    "BanRate": "2.93"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Sky Temple",
+    "WinRate": "47.96",
+    "PlayRate": "1.11",
+    "BanRate": "0.17"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Sky Temple",
+    "WinRate": "45.13",
+    "PlayRate": "23.6",
+    "BanRate": "18.31"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Sky Temple",
+    "WinRate": "54.9",
+    "PlayRate": "9.78",
+    "BanRate": "1.37"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Sky Temple",
+    "WinRate": "52.66",
+    "PlayRate": "26.58",
+    "BanRate": "2.7"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Sky Temple",
+    "WinRate": "56.07",
+    "PlayRate": "20.33",
+    "BanRate": "1.68"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Sky Temple",
+    "WinRate": "56.4",
+    "PlayRate": "9.59",
+    "BanRate": "1.79"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Sky Temple",
+    "WinRate": "52.58",
+    "PlayRate": "5.39",
+    "BanRate": "1.25"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Sky Temple",
+    "WinRate": "47.72",
+    "PlayRate": "3.87",
+    "BanRate": "0.93"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Sky Temple",
+    "WinRate": "52.39",
+    "PlayRate": "11.26",
+    "BanRate": "0.8"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Sky Temple",
+    "WinRate": "45.54",
+    "PlayRate": "18.04",
+    "BanRate": "1.98"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Sky Temple",
+    "WinRate": "48.97",
+    "PlayRate": "13.9",
+    "BanRate": "3.11"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Sky Temple",
+    "WinRate": "52.07",
+    "PlayRate": "24.11",
+    "BanRate": "4.66"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Sky Temple",
+    "WinRate": "45.69",
+    "PlayRate": "3.05",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Sky Temple",
+    "WinRate": "51.79",
+    "PlayRate": "10.2",
+    "BanRate": "2.38"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Sky Temple",
+    "WinRate": "50.43",
+    "PlayRate": "3.25",
+    "BanRate": "1.15"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Sky Temple",
+    "WinRate": "50.26",
+    "PlayRate": "21.24",
+    "BanRate": "1.17"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Sky Temple",
+    "WinRate": "47.46",
+    "PlayRate": "5.87",
+    "BanRate": "0.7"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Sky Temple",
+    "WinRate": "48.73",
+    "PlayRate": "12",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Sky Temple",
+    "WinRate": "50.97",
+    "PlayRate": "8.26",
+    "BanRate": "0.47"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Sky Temple",
+    "WinRate": "50.72",
+    "PlayRate": "11.75",
+    "BanRate": "1.74"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Sky Temple",
+    "WinRate": "53.26",
+    "PlayRate": "14.56",
+    "BanRate": "2.01"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Sky Temple",
+    "WinRate": "49.53",
+    "PlayRate": "5.16",
+    "BanRate": "0.77"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Sky Temple",
+    "WinRate": "50.75",
+    "PlayRate": "18.73",
+    "BanRate": "1.77"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Sky Temple",
+    "WinRate": "50.87",
+    "PlayRate": "37.76",
+    "BanRate": "12.54"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Sky Temple",
+    "WinRate": "46.01",
+    "PlayRate": "5.54",
+    "BanRate": "0.49"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Sky Temple",
+    "WinRate": "53.6",
+    "PlayRate": "4.52",
+    "BanRate": "0.21"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Sky Temple",
+    "WinRate": "46.73",
+    "PlayRate": "3.2",
+    "BanRate": "0.1"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Sky Temple",
+    "WinRate": "50.87",
+    "PlayRate": "9.32",
+    "BanRate": "1.5"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Sky Temple",
+    "WinRate": "50.58",
+    "PlayRate": "5.84",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Sky Temple",
+    "WinRate": "52.04",
+    "PlayRate": "24.63",
+    "BanRate": "14.56"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Sky Temple",
+    "WinRate": "46.37",
+    "PlayRate": "17.2",
+    "BanRate": "2.78"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "42.1",
+    "PlayRate": "6.52",
+    "BanRate": "3.29"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.6",
+    "PlayRate": "33.46",
+    "BanRate": "19.68"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.85",
+    "PlayRate": "11.03",
+    "BanRate": "2.4"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.84",
+    "PlayRate": "43.11",
+    "BanRate": "24.48"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.4",
+    "PlayRate": "30.67",
+    "BanRate": "11.91"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "51.4",
+    "PlayRate": "46.01",
+    "BanRate": "29.79"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.27",
+    "PlayRate": "16.98",
+    "BanRate": "2.28"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.73",
+    "PlayRate": "20.93",
+    "BanRate": "5.2"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.5",
+    "PlayRate": "13.02",
+    "BanRate": "1.93"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.06",
+    "PlayRate": "41.64",
+    "BanRate": "23.73"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.32",
+    "PlayRate": "8.79",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.1",
+    "PlayRate": "15.22",
+    "BanRate": "2.91"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.07",
+    "PlayRate": "6.65",
+    "BanRate": "0.66"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.14",
+    "PlayRate": "6.93",
+    "BanRate": "3.19"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "40.83",
+    "PlayRate": "2.15",
+    "BanRate": "1.03"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.29",
+    "PlayRate": "8.65",
+    "BanRate": "1.83"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "63.01",
+    "PlayRate": "3.65",
+    "BanRate": "3.08"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.82",
+    "PlayRate": "7.48",
+    "BanRate": "0.72"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "51.25",
+    "PlayRate": "4.23",
+    "BanRate": "0.63"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "45.65",
+    "PlayRate": "63.7",
+    "BanRate": "38.11"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.13",
+    "PlayRate": "4.2",
+    "BanRate": "0.18"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.79",
+    "PlayRate": "37.06",
+    "BanRate": "13.78"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.02",
+    "PlayRate": "10.64",
+    "BanRate": "1.11"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "54.51",
+    "PlayRate": "10.58",
+    "BanRate": "0.68"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "41.1",
+    "PlayRate": "1.69",
+    "BanRate": "0.56"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.56",
+    "PlayRate": "41.08",
+    "BanRate": "26.05"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.52",
+    "PlayRate": "3.87",
+    "BanRate": "0.3"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "40.49",
+    "PlayRate": "8.73",
+    "BanRate": "2.4"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.77",
+    "PlayRate": "12.17",
+    "BanRate": "1.23"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.65",
+    "PlayRate": "29.11",
+    "BanRate": "6.99"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "45.39",
+    "PlayRate": "19.57",
+    "BanRate": "3.78"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.63",
+    "PlayRate": "5.15",
+    "BanRate": "1.18"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "45.18",
+    "PlayRate": "13.96",
+    "BanRate": "1.62"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.17",
+    "PlayRate": "36.74",
+    "BanRate": "7.77"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.82",
+    "PlayRate": "53.37",
+    "BanRate": "16.84"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.2",
+    "PlayRate": "10.39",
+    "BanRate": "1.21"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.05",
+    "PlayRate": "72.22",
+    "BanRate": "45.75"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.83",
+    "PlayRate": "19.13",
+    "BanRate": "7.68"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.45",
+    "PlayRate": "7.24",
+    "BanRate": "0.72"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.82",
+    "PlayRate": "6.04",
+    "BanRate": "0.26"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.9",
+    "PlayRate": "16.33",
+    "BanRate": "1.22"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.24",
+    "PlayRate": "27.54",
+    "BanRate": "7.71"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "43.34",
+    "PlayRate": "17.83",
+    "BanRate": "3.58"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.28",
+    "PlayRate": "12.33",
+    "BanRate": "3.25"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.39",
+    "PlayRate": "24.92",
+    "BanRate": "6.18"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.51",
+    "PlayRate": "11.82",
+    "BanRate": "0.93"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.44",
+    "PlayRate": "11.32",
+    "BanRate": "4.55"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "51.62",
+    "PlayRate": "12.15",
+    "BanRate": "1.8"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.96",
+    "PlayRate": "10.48",
+    "BanRate": "3.67"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.12",
+    "PlayRate": "10.29",
+    "BanRate": "1.8"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "44.03",
+    "PlayRate": "5.45",
+    "BanRate": "1"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.68",
+    "PlayRate": "4.87",
+    "BanRate": "0.36"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "46.69",
+    "PlayRate": "24.49",
+    "BanRate": "2.76"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.57",
+    "PlayRate": "3.6",
+    "BanRate": "0.58"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.13",
+    "PlayRate": "35.15",
+    "BanRate": "4.99"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "46",
+    "PlayRate": "4.33",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.65",
+    "PlayRate": "15.09",
+    "BanRate": "3.11"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.98",
+    "PlayRate": "1.37",
+    "BanRate": "0.18"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "43.57",
+    "PlayRate": "22.98",
+    "BanRate": "18.03"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "54.28",
+    "PlayRate": "22.29",
+    "BanRate": "4.94"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "51.03",
+    "PlayRate": "25.82",
+    "BanRate": "2.83"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.28",
+    "PlayRate": "18.97",
+    "BanRate": "1.45"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "57.14",
+    "PlayRate": "6.75",
+    "BanRate": "1.19"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.74",
+    "PlayRate": "2.48",
+    "BanRate": "0.46"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.11",
+    "PlayRate": "3.49",
+    "BanRate": "0.73"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.6",
+    "PlayRate": "10.1",
+    "BanRate": "0.82"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.93",
+    "PlayRate": "22.45",
+    "BanRate": "2.43"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.47",
+    "PlayRate": "17.38",
+    "BanRate": "4.28"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.16",
+    "PlayRate": "28.8",
+    "BanRate": "7"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "48.72",
+    "PlayRate": "4.18",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "54.63",
+    "PlayRate": "10.5",
+    "BanRate": "2.35"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "35.43",
+    "PlayRate": "0.66",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.97",
+    "PlayRate": "20.1",
+    "BanRate": "1.22"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "45.81",
+    "PlayRate": "4.47",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.81",
+    "PlayRate": "11.57",
+    "BanRate": "1.48"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "47.83",
+    "PlayRate": "6.5",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "53.69",
+    "PlayRate": "11.55",
+    "BanRate": "1.86"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "54.67",
+    "PlayRate": "13.74",
+    "BanRate": "1.95"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "46.6",
+    "PlayRate": "4",
+    "BanRate": "0.66"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.14",
+    "PlayRate": "18.34",
+    "BanRate": "2.05"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "49.43",
+    "PlayRate": "31.15",
+    "BanRate": "11.47"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "45.12",
+    "PlayRate": "5.9",
+    "BanRate": "0.61"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "54.63",
+    "PlayRate": "12.98",
+    "BanRate": "1.26"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "43.63",
+    "PlayRate": "3.18",
+    "BanRate": "0.12"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "50.55",
+    "PlayRate": "6.07",
+    "BanRate": "1.13"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "46.52",
+    "PlayRate": "6.21",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "51.19",
+    "PlayRate": "21.61",
+    "BanRate": "13.54"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Tomb of the Spider Queen",
+    "WinRate": "52.84",
+    "PlayRate": "18.63",
+    "BanRate": "2.82"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Towers of Doom",
+    "WinRate": "49.55",
+    "PlayRate": "28.39",
+    "BanRate": "17.42"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Towers of Doom",
+    "WinRate": "53.45",
+    "PlayRate": "33.89",
+    "BanRate": "19.82"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Towers of Doom",
+    "WinRate": "47.12",
+    "PlayRate": "10.91",
+    "BanRate": "2.3"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Towers of Doom",
+    "WinRate": "50.45",
+    "PlayRate": "43.39",
+    "BanRate": "24.54"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Towers of Doom",
+    "WinRate": "47.73",
+    "PlayRate": "30.03",
+    "BanRate": "10.85"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Towers of Doom",
+    "WinRate": "51.44",
+    "PlayRate": "49.4",
+    "BanRate": "30.53"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Towers of Doom",
+    "WinRate": "48.66",
+    "PlayRate": "19.53",
+    "BanRate": "2.71"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Towers of Doom",
+    "WinRate": "54.07",
+    "PlayRate": "21.12",
+    "BanRate": "4.97"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Towers of Doom",
+    "WinRate": "50.15",
+    "PlayRate": "9.79",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Towers of Doom",
+    "WinRate": "50.07",
+    "PlayRate": "33.49",
+    "BanRate": "20.03"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Towers of Doom",
+    "WinRate": "47.28",
+    "PlayRate": "6.99",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Towers of Doom",
+    "WinRate": "48.58",
+    "PlayRate": "28.24",
+    "BanRate": "6.78"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Towers of Doom",
+    "WinRate": "48.04",
+    "PlayRate": "7.46",
+    "BanRate": "0.67"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Towers of Doom",
+    "WinRate": "50.56",
+    "PlayRate": "7.5",
+    "BanRate": "3.14"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Towers of Doom",
+    "WinRate": "43.45",
+    "PlayRate": "1.63",
+    "BanRate": "0.77"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Towers of Doom",
+    "WinRate": "47.9",
+    "PlayRate": "16.11",
+    "BanRate": "4.14"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Towers of Doom",
+    "WinRate": "60.36",
+    "PlayRate": "3.59",
+    "BanRate": "3.02"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Towers of Doom",
+    "WinRate": "45.63",
+    "PlayRate": "6.56",
+    "BanRate": "0.6"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Towers of Doom",
+    "WinRate": "48.8",
+    "PlayRate": "23.38",
+    "BanRate": "8.81"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Towers of Doom",
+    "WinRate": "46.61",
+    "PlayRate": "65.61",
+    "BanRate": "38.08"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Towers of Doom",
+    "WinRate": "46.55",
+    "PlayRate": "4.01",
+    "BanRate": "0.18"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Towers of Doom",
+    "WinRate": "52.86",
+    "PlayRate": "39.61",
+    "BanRate": "13.45"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Towers of Doom",
+    "WinRate": "51.19",
+    "PlayRate": "33",
+    "BanRate": "8.27"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Towers of Doom",
+    "WinRate": "54.61",
+    "PlayRate": "9.89",
+    "BanRate": "0.58"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Towers of Doom",
+    "WinRate": "43.45",
+    "PlayRate": "1.34",
+    "BanRate": "0.47"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Towers of Doom",
+    "WinRate": "46.62",
+    "PlayRate": "40.77",
+    "BanRate": "24.57"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Towers of Doom",
+    "WinRate": "52.52",
+    "PlayRate": "4.42",
+    "BanRate": "0.37"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Towers of Doom",
+    "WinRate": "42.97",
+    "PlayRate": "12.72",
+    "BanRate": "3.14"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Towers of Doom",
+    "WinRate": "48.91",
+    "PlayRate": "13.94",
+    "BanRate": "1.42"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Towers of Doom",
+    "WinRate": "45.91",
+    "PlayRate": "15.08",
+    "BanRate": "2.35"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Towers of Doom",
+    "WinRate": "45.81",
+    "PlayRate": "23.82",
+    "BanRate": "4.37"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Towers of Doom",
+    "WinRate": "47.11",
+    "PlayRate": "9.32",
+    "BanRate": "2.54"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Towers of Doom",
+    "WinRate": "49.55",
+    "PlayRate": "15.55",
+    "BanRate": "1.58"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Towers of Doom",
+    "WinRate": "52.78",
+    "PlayRate": "31.88",
+    "BanRate": "6.4"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Towers of Doom",
+    "WinRate": "49.4",
+    "PlayRate": "40.66",
+    "BanRate": "12.98"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Towers of Doom",
+    "WinRate": "45.51",
+    "PlayRate": "9.67",
+    "BanRate": "1.3"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Towers of Doom",
+    "WinRate": "49.54",
+    "PlayRate": "64.24",
+    "BanRate": "43.1"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Towers of Doom",
+    "WinRate": "50.38",
+    "PlayRate": "17.21",
+    "BanRate": "7.67"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Towers of Doom",
+    "WinRate": "53.13",
+    "PlayRate": "5.47",
+    "BanRate": "0.4"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Towers of Doom",
+    "WinRate": "51.29",
+    "PlayRate": "7.32",
+    "BanRate": "0.21"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Towers of Doom",
+    "WinRate": "51.46",
+    "PlayRate": "12.56",
+    "BanRate": "0.79"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Towers of Doom",
+    "WinRate": "49.46",
+    "PlayRate": "28.56",
+    "BanRate": "7.48"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Towers of Doom",
+    "WinRate": "46.55",
+    "PlayRate": "35.14",
+    "BanRate": "5.86"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Towers of Doom",
+    "WinRate": "50.06",
+    "PlayRate": "12.06",
+    "BanRate": "2.98"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Towers of Doom",
+    "WinRate": "51.85",
+    "PlayRate": "25.02",
+    "BanRate": "5.66"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Towers of Doom",
+    "WinRate": "53.4",
+    "PlayRate": "12.67",
+    "BanRate": "0.91"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Towers of Doom",
+    "WinRate": "51.95",
+    "PlayRate": "9.69",
+    "BanRate": "3.85"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Towers of Doom",
+    "WinRate": "49.62",
+    "PlayRate": "11.01",
+    "BanRate": "1.49"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Towers of Doom",
+    "WinRate": "51.57",
+    "PlayRate": "11.51",
+    "BanRate": "3.54"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Towers of Doom",
+    "WinRate": "54.34",
+    "PlayRate": "11.6",
+    "BanRate": "1.85"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Towers of Doom",
+    "WinRate": "47.87",
+    "PlayRate": "6.98",
+    "BanRate": "1.21"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Towers of Doom",
+    "WinRate": "47.07",
+    "PlayRate": "5.33",
+    "BanRate": "0.3"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Towers of Doom",
+    "WinRate": "49.8",
+    "PlayRate": "30.13",
+    "BanRate": "2.99"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Towers of Doom",
+    "WinRate": "52.13",
+    "PlayRate": "3.99",
+    "BanRate": "0.66"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Towers of Doom",
+    "WinRate": "49.84",
+    "PlayRate": "18.22",
+    "BanRate": "1.99"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Towers of Doom",
+    "WinRate": "51.16",
+    "PlayRate": "6.22",
+    "BanRate": "0.53"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Towers of Doom",
+    "WinRate": "50.36",
+    "PlayRate": "15.27",
+    "BanRate": "2.92"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Towers of Doom",
+    "WinRate": "49.73",
+    "PlayRate": "1.13",
+    "BanRate": "0.16"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Towers of Doom",
+    "WinRate": "48.99",
+    "PlayRate": "23.28",
+    "BanRate": "18.16"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Towers of Doom",
+    "WinRate": "47.73",
+    "PlayRate": "4.68",
+    "BanRate": "0.66"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Towers of Doom",
+    "WinRate": "53.12",
+    "PlayRate": "26.94",
+    "BanRate": "2.82"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Towers of Doom",
+    "WinRate": "52.72",
+    "PlayRate": "17.16",
+    "BanRate": "1.31"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Towers of Doom",
+    "WinRate": "56.54",
+    "PlayRate": "6.31",
+    "BanRate": "1.15"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Towers of Doom",
+    "WinRate": "54.82",
+    "PlayRate": "4.29",
+    "BanRate": "1.03"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Towers of Doom",
+    "WinRate": "46.9",
+    "PlayRate": "3.92",
+    "BanRate": "0.93"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Towers of Doom",
+    "WinRate": "48.62",
+    "PlayRate": "8.61",
+    "BanRate": "0.58"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Towers of Doom",
+    "WinRate": "47.62",
+    "PlayRate": "24.99",
+    "BanRate": "3.14"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Towers of Doom",
+    "WinRate": "47.85",
+    "PlayRate": "15.85",
+    "BanRate": "3.55"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Towers of Doom",
+    "WinRate": "51.88",
+    "PlayRate": "26.08",
+    "BanRate": "6.04"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Towers of Doom",
+    "WinRate": "43.25",
+    "PlayRate": "3.3",
+    "BanRate": "0.32"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Towers of Doom",
+    "WinRate": "52.48",
+    "PlayRate": "9.01",
+    "BanRate": "2.17"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Towers of Doom",
+    "WinRate": "50.86",
+    "PlayRate": "2.73",
+    "BanRate": "1.07"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Towers of Doom",
+    "WinRate": "50.35",
+    "PlayRate": "22.29",
+    "BanRate": "1.18"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Towers of Doom",
+    "WinRate": "47.55",
+    "PlayRate": "5.71",
+    "BanRate": "0.82"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Towers of Doom",
+    "WinRate": "51.77",
+    "PlayRate": "12.27",
+    "BanRate": "1.44"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Towers of Doom",
+    "WinRate": "48.44",
+    "PlayRate": "7.73",
+    "BanRate": "0.33"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Towers of Doom",
+    "WinRate": "52.51",
+    "PlayRate": "13.33",
+    "BanRate": "1.96"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Towers of Doom",
+    "WinRate": "54.95",
+    "PlayRate": "15.04",
+    "BanRate": "2.15"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Towers of Doom",
+    "WinRate": "48.42",
+    "PlayRate": "5.1",
+    "BanRate": "0.78"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Towers of Doom",
+    "WinRate": "49.85",
+    "PlayRate": "17.56",
+    "BanRate": "1.85"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Towers of Doom",
+    "WinRate": "51.27",
+    "PlayRate": "36.15",
+    "BanRate": "11.97"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Towers of Doom",
+    "WinRate": "48.97",
+    "PlayRate": "5.65",
+    "BanRate": "0.54"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Towers of Doom",
+    "WinRate": "53.05",
+    "PlayRate": "5.92",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Towers of Doom",
+    "WinRate": "45.81",
+    "PlayRate": "3.29",
+    "BanRate": "0.11"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Towers of Doom",
+    "WinRate": "51.89",
+    "PlayRate": "6.55",
+    "BanRate": "1.05"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Towers of Doom",
+    "WinRate": "49.62",
+    "PlayRate": "6.53",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Towers of Doom",
+    "WinRate": "49.75",
+    "PlayRate": "26.09",
+    "BanRate": "15.45"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Towers of Doom",
+    "WinRate": "52.65",
+    "PlayRate": "17.67",
+    "BanRate": "2.76"
+  },
+  {
+    "HeroID": "Abathur",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.84",
+    "PlayRate": "8.93",
+    "BanRate": "5.1"
+  },
+  {
+    "HeroID": "Alarak",
+    "Map": "Volskaya Foundry",
+    "WinRate": "53.02",
+    "PlayRate": "25.07",
+    "BanRate": "16.09"
+  },
+  {
+    "HeroID": "Alexstrasza",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.36",
+    "PlayRate": "10.69",
+    "BanRate": "2.42"
+  },
+  {
+    "HeroID": "Ana",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.57",
+    "PlayRate": "23.65",
+    "BanRate": "11.37"
+  },
+  {
+    "HeroID": "Anduin",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.64",
+    "PlayRate": "13.5",
+    "BanRate": "5.3"
+  },
+  {
+    "HeroID": "Anubarak",
+    "Map": "Volskaya Foundry",
+    "WinRate": "53.05",
+    "PlayRate": "22.14",
+    "BanRate": "10.93"
+  },
+  {
+    "HeroID": "Artanis",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.91",
+    "PlayRate": "10.87",
+    "BanRate": "1.28"
+  },
+  {
+    "HeroID": "Arthas",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50",
+    "PlayRate": "13",
+    "BanRate": "2.73"
+  },
+  {
+    "HeroID": "Auriel",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.33",
+    "PlayRate": "7.98",
+    "BanRate": "1.27"
+  },
+  {
+    "HeroID": "Azmodan",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.49",
+    "PlayRate": "18.99",
+    "BanRate": "10.39"
+  },
+  {
+    "HeroID": "Blaze",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.63",
+    "PlayRate": "5.65",
+    "BanRate": "0.43"
+  },
+  {
+    "HeroID": "Brightwing",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.12",
+    "PlayRate": "11.01",
+    "BanRate": "2.07"
+  },
+  {
+    "HeroID": "Cassia",
+    "Map": "Volskaya Foundry",
+    "WinRate": "45.51",
+    "PlayRate": "4.49",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Chen",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.23",
+    "PlayRate": "4.93",
+    "BanRate": "2.65"
+  },
+  {
+    "HeroID": "Cho",
+    "Map": "Volskaya Foundry",
+    "WinRate": "40.86",
+    "PlayRate": "1.19",
+    "BanRate": "0.52"
+  },
+  {
+    "HeroID": "Chromie",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.6",
+    "PlayRate": "11.19",
+    "BanRate": "2.5"
+  },
+  {
+    "HeroID": "Deathwing",
+    "Map": "Volskaya Foundry",
+    "WinRate": "66.06",
+    "PlayRate": "3.63",
+    "BanRate": "3.07"
+  },
+  {
+    "HeroID": "Deckard",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.64",
+    "PlayRate": "6.33",
+    "BanRate": "0.61"
+  },
+  {
+    "HeroID": "Dehaka",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.1",
+    "PlayRate": "2.54",
+    "BanRate": "0.49"
+  },
+  {
+    "HeroID": "Diablo",
+    "Map": "Volskaya Foundry",
+    "WinRate": "46.32",
+    "PlayRate": "33.71",
+    "BanRate": "18.88"
+  },
+  {
+    "HeroID": "Dva",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.51",
+    "PlayRate": "3.47",
+    "BanRate": "0.23"
+  },
+  {
+    "HeroID": "Etc",
+    "Map": "Volskaya Foundry",
+    "WinRate": "51.2",
+    "PlayRate": "25.12",
+    "BanRate": "9.69"
+  },
+  {
+    "HeroID": "Falstad",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.26",
+    "PlayRate": "7.84",
+    "BanRate": "0.96"
+  },
+  {
+    "HeroID": "Fenix",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.06",
+    "PlayRate": "5.93",
+    "BanRate": "0.29"
+  },
+  {
+    "HeroID": "Gall",
+    "Map": "Volskaya Foundry",
+    "WinRate": "40.93",
+    "PlayRate": "0.95",
+    "BanRate": "0.28"
+  },
+  {
+    "HeroID": "Garrosh",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.84",
+    "PlayRate": "29.85",
+    "BanRate": "18.51"
+  },
+  {
+    "HeroID": "Gazlowe",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.39",
+    "PlayRate": "4.14",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Genji",
+    "Map": "Volskaya Foundry",
+    "WinRate": "41.31",
+    "PlayRate": "5.78",
+    "BanRate": "1.47"
+  },
+  {
+    "HeroID": "Greymane",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.93",
+    "PlayRate": "7.37",
+    "BanRate": "0.94"
+  },
+  {
+    "HeroID": "Guldan",
+    "Map": "Volskaya Foundry",
+    "WinRate": "46.81",
+    "PlayRate": "11.35",
+    "BanRate": "2.4"
+  },
+  {
+    "HeroID": "Hanzo",
+    "Map": "Volskaya Foundry",
+    "WinRate": "44.65",
+    "PlayRate": "12.66",
+    "BanRate": "2.51"
+  },
+  {
+    "HeroID": "Illidan",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.5",
+    "PlayRate": "3.28",
+    "BanRate": "0.61"
+  },
+  {
+    "HeroID": "Imperius",
+    "Map": "Volskaya Foundry",
+    "WinRate": "46.22",
+    "PlayRate": "10.69",
+    "BanRate": "1.15"
+  },
+  {
+    "HeroID": "Jaina",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.09",
+    "PlayRate": "17.69",
+    "BanRate": "3.76"
+  },
+  {
+    "HeroID": "Johanna",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.38",
+    "PlayRate": "30.87",
+    "BanRate": "10.33"
+  },
+  {
+    "HeroID": "Junkrat",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.09",
+    "PlayRate": "8.35",
+    "BanRate": "1.26"
+  },
+  {
+    "HeroID": "Kaelthas",
+    "Map": "Volskaya Foundry",
+    "WinRate": "51.47",
+    "PlayRate": "41.48",
+    "BanRate": "27.6"
+  },
+  {
+    "HeroID": "Kelthuzad",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.87",
+    "PlayRate": "13.77",
+    "BanRate": "6.05"
+  },
+  {
+    "HeroID": "Kerrigan",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.63",
+    "PlayRate": "2.91",
+    "BanRate": "0.26"
+  },
+  {
+    "HeroID": "Kharazim",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50",
+    "PlayRate": "3.6",
+    "BanRate": "0.09"
+  },
+  {
+    "HeroID": "Leoric",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.39",
+    "PlayRate": "8.58",
+    "BanRate": "0.54"
+  },
+  {
+    "HeroID": "Lili",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.39",
+    "PlayRate": "16.99",
+    "BanRate": "4.54"
+  },
+  {
+    "HeroID": "Liming",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.84",
+    "PlayRate": "20.81",
+    "BanRate": "3.96"
+  },
+  {
+    "HeroID": "Ltmorales",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.41",
+    "PlayRate": "8.3",
+    "BanRate": "2.21"
+  },
+  {
+    "HeroID": "Lucio",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.03",
+    "PlayRate": "17.8",
+    "BanRate": "4.3"
+  },
+  {
+    "HeroID": "Lunara",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.88",
+    "PlayRate": "7.39",
+    "BanRate": "0.65"
+  },
+  {
+    "HeroID": "Maiev",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.03",
+    "PlayRate": "7.05",
+    "BanRate": "2.47"
+  },
+  {
+    "HeroID": "Malfurion",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.18",
+    "PlayRate": "7.69",
+    "BanRate": "1.1"
+  },
+  {
+    "HeroID": "Malganis",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.38",
+    "PlayRate": "8.95",
+    "BanRate": "2.9"
+  },
+  {
+    "HeroID": "Malthael",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.56",
+    "PlayRate": "5.94",
+    "BanRate": "1"
+  },
+  {
+    "HeroID": "Medivh",
+    "Map": "Volskaya Foundry",
+    "WinRate": "46.08",
+    "PlayRate": "3.76",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Mephisto",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.43",
+    "PlayRate": "4.77",
+    "BanRate": "0.27"
+  },
+  {
+    "HeroID": "Muradin",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.18",
+    "PlayRate": "16.7",
+    "BanRate": "1.36"
+  },
+  {
+    "HeroID": "Murky",
+    "Map": "Volskaya Foundry",
+    "WinRate": "51.07",
+    "PlayRate": "2.8",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Nazeebo",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.24",
+    "PlayRate": "17.64",
+    "BanRate": "1.77"
+  },
+  {
+    "HeroID": "Nova",
+    "Map": "Volskaya Foundry",
+    "WinRate": "45.61",
+    "PlayRate": "2.85",
+    "BanRate": "0.27"
+  },
+  {
+    "HeroID": "Orphea",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.01",
+    "PlayRate": "10.1",
+    "BanRate": "1.94"
+  },
+  {
+    "HeroID": "Probius",
+    "Map": "Volskaya Foundry",
+    "WinRate": "54.37",
+    "PlayRate": "1.08",
+    "BanRate": "0.14"
+  },
+  {
+    "HeroID": "Qhira",
+    "Map": "Volskaya Foundry",
+    "WinRate": "42.29",
+    "PlayRate": "23.44",
+    "BanRate": "18.56"
+  },
+  {
+    "HeroID": "Ragnaros",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.97",
+    "PlayRate": "5.05",
+    "BanRate": "0.89"
+  },
+  {
+    "HeroID": "Raynor",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.03",
+    "PlayRate": "15.85",
+    "BanRate": "1.54"
+  },
+  {
+    "HeroID": "Rehgar",
+    "Map": "Volskaya Foundry",
+    "WinRate": "54.24",
+    "PlayRate": "10.08",
+    "BanRate": "0.88"
+  },
+  {
+    "HeroID": "Rexxar",
+    "Map": "Volskaya Foundry",
+    "WinRate": "56.49",
+    "PlayRate": "5.28",
+    "BanRate": "1.29"
+  },
+  {
+    "HeroID": "Samuro",
+    "Map": "Volskaya Foundry",
+    "WinRate": "55.52",
+    "PlayRate": "2",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Sgthammer",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.28",
+    "PlayRate": "3.59",
+    "BanRate": "0.83"
+  },
+  {
+    "HeroID": "Sonya",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.9",
+    "PlayRate": "5.52",
+    "BanRate": "0.39"
+  },
+  {
+    "HeroID": "Stitches",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.94",
+    "PlayRate": "14.04",
+    "BanRate": "1.44"
+  },
+  {
+    "HeroID": "Stukov",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.03",
+    "PlayRate": "13.03",
+    "BanRate": "3.16"
+  },
+  {
+    "HeroID": "Sylvanas",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.49",
+    "PlayRate": "14.46",
+    "BanRate": "2.74"
+  },
+  {
+    "HeroID": "Tassadar",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.23",
+    "PlayRate": "2.44",
+    "BanRate": "0.27"
+  },
+  {
+    "HeroID": "Thebutcher",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.76",
+    "PlayRate": "5.22",
+    "BanRate": "1.32"
+  },
+  {
+    "HeroID": "Thelostvikings",
+    "Map": "Volskaya Foundry",
+    "WinRate": "45.75",
+    "PlayRate": "0.82",
+    "BanRate": "0.27"
+  },
+  {
+    "HeroID": "Thrall",
+    "Map": "Volskaya Foundry",
+    "WinRate": "52.93",
+    "PlayRate": "18.37",
+    "BanRate": "0.98"
+  },
+  {
+    "HeroID": "Tracer",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.72",
+    "PlayRate": "3.02",
+    "BanRate": "0.41"
+  },
+  {
+    "HeroID": "Tychus",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.1",
+    "PlayRate": "7.63",
+    "BanRate": "0.93"
+  },
+  {
+    "HeroID": "Tyrael",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.74",
+    "PlayRate": "4.69",
+    "BanRate": "0.21"
+  },
+  {
+    "HeroID": "Tyrande",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.32",
+    "PlayRate": "6.07",
+    "BanRate": "0.69"
+  },
+  {
+    "HeroID": "Uther",
+    "Map": "Volskaya Foundry",
+    "WinRate": "54.47",
+    "PlayRate": "7.97",
+    "BanRate": "1.17"
+  },
+  {
+    "HeroID": "Valeera",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.63",
+    "PlayRate": "2.45",
+    "BanRate": "0.38"
+  },
+  {
+    "HeroID": "Valla",
+    "Map": "Volskaya Foundry",
+    "WinRate": "49.86",
+    "PlayRate": "11.92",
+    "BanRate": "1.49"
+  },
+  {
+    "HeroID": "Varian",
+    "Map": "Volskaya Foundry",
+    "WinRate": "50.21",
+    "PlayRate": "20.98",
+    "BanRate": "7.16"
+  },
+  {
+    "HeroID": "Whitemane",
+    "Map": "Volskaya Foundry",
+    "WinRate": "46.84",
+    "PlayRate": "4.08",
+    "BanRate": "0.37"
+  },
+  {
+    "HeroID": "Xul",
+    "Map": "Volskaya Foundry",
+    "WinRate": "47.74",
+    "PlayRate": "2.38",
+    "BanRate": "0.11"
+  },
+  {
+    "HeroID": "Yrel",
+    "Map": "Volskaya Foundry",
+    "WinRate": "44.5",
+    "PlayRate": "2.06",
+    "BanRate": "0.1"
+  },
+  {
+    "HeroID": "Zagara",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.93",
+    "PlayRate": "3.37",
+    "BanRate": "0.5"
+  },
+  {
+    "HeroID": "Zarya",
+    "Map": "Volskaya Foundry",
+    "WinRate": "48.92",
+    "PlayRate": "5.24",
+    "BanRate": "0.35"
+  },
+  {
+    "HeroID": "Zeratul",
+    "Map": "Volskaya Foundry",
+    "WinRate": "51.5",
+    "PlayRate": "11.15",
+    "BanRate": "5.95"
+  },
+  {
+    "HeroID": "Zuljin",
+    "Map": "Volskaya Foundry",
+    "WinRate": "56.01",
+    "PlayRate": "16.59",
+    "BanRate": "2.61"
+  }
+]
