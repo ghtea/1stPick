@@ -16,6 +16,9 @@ var numSizeWin = 3;
 var numSizePlay = 0.5;
 var sltMap = document.querySelector("#sltMap");
 var ipRatio = document.querySelector("#rgRatio");
+var stdWinRate = 3.6;
+var stdGame = 19;
+
 
 function compaireFunc(key) {
     return function(a, b){
@@ -44,8 +47,8 @@ function updatePage (){
     dataMap  = dataOriginal.slice(idxStart, idxEnd);
 
     for (var i = 0; i<88; i++) {
-        dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 ) 
-            + ratio * ((dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 /(10+6)) );
+        dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 / stdWinRate ) 
+            + ratio * ((dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 /(10+6) / stdGame) );
     }
 
     var dataSorted = dataMap.sort(compaireFunc('Point'));
