@@ -36,22 +36,9 @@ function compaireFunc(key) {
     }
 }
 
-var dataSoted = dataMap.sort(compaireFunc('Point'));
-var data10  = dataOriginal.slice(0, 10);
+var dataSorted = dataMap.sort(compaireFunc('Point'));
+var data10  = dataSorted.slice(0, 10);
 console.log(data10);
-
-var Hero2 = {
-	id: "who",
-    name: "who",
-    imgUrl: "heroImages/hero02.jpg",
-	role: "which"
-    /*
-	mapAPwin
-    mapAPplay,
-    mapAPban,
-    mapAPpoint
-    */
-};
 
 
 var body = document.querySelector("body");
