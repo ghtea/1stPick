@@ -1,8 +1,9 @@
 /* load data */
 
 var dataHeroInfo;
-d3.csv("Heroes - Map - Hero Info.csv", function(loadedRows) {
-  dataHeroInfo = loadedRows;
+d3.csv("data/Heroes - Map - Heros x Map.csv", function(loadedRows) {
+    dataHeroInfo = loadedRows;
+    console.log(loadedRows);
 });
 
 
