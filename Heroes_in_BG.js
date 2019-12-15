@@ -13,7 +13,7 @@ var dataMapRole=[];
 var body = document.querySelector("body");
 var tbl  = document.querySelector('#tblGood');
 var numSizeWin = 3;
-var numSizePlay = 0.6;
+var numSizePlay = 0.5;
 var sltMap = document.querySelector("#sltMap");
 var ipRatio = document.querySelector("#rgRatio");
 
@@ -49,7 +49,8 @@ function updatePage (){
 
     var dataSorted = dataMap.sort(compaireFunc('Point'));
     var dataSliced  = dataSorted.slice(0, numShowingHero);
-    /*console.log(data10);*/
+    
+    console.log(ratio);
 
 
     for (var i = 0; i<numShowingHero; i++){
