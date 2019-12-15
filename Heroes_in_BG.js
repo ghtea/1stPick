@@ -1,13 +1,22 @@
 /* load data */
 
-var dataHeroInfo= [];
-d3.csv("data/Heroes - Map - Heros x Map.csv", function(loadedRows) {
-    dataHeroInfo = loadedRows;
-    console.log(loadedRows);
+
+
+d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
+    var data2 = listToMatrix(data, 88);
+    
+  return {
+      HeroID : data2.HeroID,
+      Map : data2.Map,
+      WinRate : +data2.WinRate,
+      PlayRate : +data2.PlayRate,
+      BanRate : +data2.BanRate
+  };
+}).then(function(data) {
+  console.log(data2[0]);
 });
 
-
-var test = dataHeroInfo[0][0];
+/*var test = dataHeroInfo[0][0];*/
 
 
 var Hero2 = {
@@ -142,7 +151,20 @@ function rowCreate() {
 */
 
 
+function listToMatrix(list, elementsPerSubArray) {
+    var matrix = [], i, k;
 
+    for (i = 0, k = -1; i < list.length; i++) {
+        if (i % elementsPerSubArray === 0) {
+            k++;
+            matrix[k] = [];
+        }
+
+        matrix[k].push(list[i]);
+    }
+
+    return matrix;
+}
 
 
 
