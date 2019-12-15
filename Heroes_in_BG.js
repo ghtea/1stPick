@@ -16,7 +16,7 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
     console.log(data);
 });
 
-var test = data[2];
+var test = data_global[2];
 
 var Hero2 = {
 	id: "who",
