@@ -48,7 +48,7 @@ function updatePage (){
 
     for (var i = 0; i<88; i++) {
         dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 / stdWinRate ) 
-            + ratio * (   (dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 /(10+6) / stdGame   );
+            + ratio * (   (dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 / 16 / stdGame );
     };
 
     var dataSorted = dataMap.sort(compaireFunc('Point'));
