@@ -53,7 +53,7 @@ function updatePage (){
 
 
     for (var i = 0; i<numShowingHero; i++){
-        var row = tbl.insertRow(i);
+        var row = tbl.insertRow(i+1);
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
         var cell3 = row.insertCell(2);
@@ -79,6 +79,6 @@ function updatePage (){
     };
 };
    
-updatePage;
+updatePage();
 sltMap.addEventListener("change", updatePage );
 ipRatio.addEventListener("change", updatePage );
