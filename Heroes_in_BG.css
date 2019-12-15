@@ -38,6 +38,6 @@ td > img {
 
 #divRatio > p, #divRatio > input {
     position: static;
-    white-space: nowrap;
+    display:inline;
 }
 
