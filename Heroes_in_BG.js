@@ -82,7 +82,7 @@ function rowCreate(size) {
         cell3.appendChild(Rect);
     
         var neededGames = 100/data10[i]['PlayRate'] ;
-        cell4.innerHTML = WinRate + "%" + "<br> 1 in " + neededGames;
+        cell4.innerHTML = data10[i]['WinRate'] + "%" + "<br> 1 in " + neededGames;
         cell5.innerHTML = data10[i]['Point']; 
     };
 };
