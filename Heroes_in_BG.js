@@ -6,7 +6,7 @@ console.log(dataOriginal[1]['HeroID']);
 var test = dataOriginal[1]['BanRate'];
 
 
-var currentMap = document.querySelector("sltMap").value;
+var currentMap = document.querySelector("#sltMap").value;
 
 var numHero = 88;
 var dataMap = [];
