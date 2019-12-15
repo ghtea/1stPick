@@ -58,7 +58,7 @@ function updatePage (){
 
     for (var i = 0; i<numShowingHero; i++){
         tbl.deleteRow(1);   
-    }
+    };
 
     for (var i = 0; i<numShowingHero; i++){
         var row = tbl.insertRow(i+1);
