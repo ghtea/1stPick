@@ -38,6 +38,7 @@ function compaireFunc(key) {
 
 var dataSoted = dataMap.sort(compaireFunc('Point'));
 var data10  = dataOriginal.slice(0, 10);
+console.log(data10);
 
 var Hero2 = {
 	id: "who",
