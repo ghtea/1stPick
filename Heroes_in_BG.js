@@ -1,6 +1,6 @@
 /* load data */
 
-var dataHeroInfo;
+var dataHeroInfo= [];
 d3.csv("data/Heroes - Map - Heros x Map.csv", function(loadedRows) {
     dataHeroInfo = loadedRows;
     console.log(loadedRows);
