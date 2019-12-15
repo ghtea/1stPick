@@ -7,7 +7,7 @@ var test = dataOriginal[1]['BanRate']; */
 
 /* almost constant variables, initialization, functions*/
 var numHero = 88;
-var numShowingHero = 15;
+var numShowingHero = 20;
 var dataMap = [];
 var dataMapRole=[];
 var body = document.querySelector("body");
