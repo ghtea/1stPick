@@ -7,9 +7,11 @@ var test = dataOriginal[1]['BanRate'];
 
 
 var currentMap = document.querySelector("#sltMap").value;
+var currentRole = document.querySelector("#sltRole").value;
 
 var numHero = 88;
 var dataMap = [];
+var dataMapRole=[];
 
 updatePage(currentMap);
 
@@ -17,6 +19,7 @@ function updatePage (whichMap){
     let idxStart = whichMap * numHero;
     let idxEnd = whichMap * numHero + numHero - 1 ;
     dataMap  = dataOriginal.slice(idxStart, idxEnd+1);
+    })
 }
 
 console.log(dataMap[87]['PlayRate']);
