@@ -1,10 +1,12 @@
 /* load data */
-/*
+
 var dataHeroInfo;
 d3.csv("Heroes - Map - Hero Info.csv", function(loadedRows) {
   dataHeroInfo = loadedRows;
 });
-*/
+
+
+var test = dataHeroInfo[0];
 
 
 var Hero2 = {
@@ -85,9 +87,11 @@ function rowCreate() {
     var neededGames = 100/10;
     cell4.innerHTML = 53.2 + "%" + "<br> 1 in " + neededGames;
     
-    cell5.innerHTML = 80; 
+    cell5.innerHTML = test; 
     
 };
+
+
 
 /*
 function rowCreate() {
