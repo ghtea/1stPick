@@ -6,10 +6,11 @@ console.log(dataOriginal[1]['HeroID']);
 var test = dataOriginal[1]['BanRate'];
 
 var numHero = 88;
+var dataMap = [];
 for (var i = 0; i<11; i++){
     let idxStart = i * numHero;
-    let idxEnd = i * numHero + numHero-1 ;
-    var dataMap[i] = dataOriginal.slice(idxStart, idxEnd+1);
+    let idxEnd = i * numHero + numHero - 1 ;
+    dataMap[i]  = dataOriginal.slice(idxStart, idxEnd+1);
 }
 
 console.log(dataMap[10][87]['PlayRate']);
