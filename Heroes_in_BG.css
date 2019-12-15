@@ -48,3 +48,6 @@ td > img {
     padding-left: 5px;
 }
 
+#divContact > a {
+    color: white;
+}
