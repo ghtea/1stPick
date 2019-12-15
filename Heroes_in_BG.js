@@ -44,7 +44,8 @@ function updatePage (){
     dataMap  = dataOriginal.slice(idxStart, idxEnd);
 
     for (var i = 0; i<88; i++) {
-        dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 ) + ratio * ((dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 /16 );
+        dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 ) 
+            + ratio * ((dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 /(10+6)) );
     }
 
     var dataSorted = dataMap.sort(compaireFunc('Point'));
@@ -52,6 +53,9 @@ function updatePage (){
     
     console.log(ratio);
 
+    for (var i = 0; i<numShowingHero; i++){
+        tbl.deleteRow(1);   
+    }
 
     for (var i = 0; i<numShowingHero; i++){
         var row = tbl.insertRow(i+1);
