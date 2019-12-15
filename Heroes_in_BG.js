@@ -48,7 +48,7 @@ function updatePage (){
     }
 
     var dataSorted = dataMap.sort(compaireFunc('Point'));
-    var data10  = dataSorted.slice(0, 10);
+    var dataSliced  = dataSorted.slice(0, numShowingHero);
     /*console.log(data10);*/
 
 
@@ -62,19 +62,19 @@ function updatePage (){
         
         let rank = i+1;
         cell1.innerHTML = "#" + rank;
-        cell2.innerHTML= "<img src=" + "heroImages/" + data10[i]['HeroID'] +  ".png" + ">";
+        cell2.innerHTML= "<img src=" + "heroImages/" + dataSliced[i]['HeroID'] +  ".png" + ">";
         
         var Rect = document.createElement("div");
-        var RectWidth = data10[i]['WinRate'] * numSizeWin;
-        var RectHeight = (data10[i]['PlayRate'] + data10[i]['BanRate']) * numSizePlay;
+        var RectWidth = dataSliced[i]['WinRate'] * numSizeWin;
+        var RectHeight = (dataSliced[i]['PlayRate'] + dataSliced[i]['BanRate']) * numSizePlay;
         Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:#1cd93c;"
         cell3.appendChild(Rect);
     
-        var txtGames = (100/data10[i]['PlayRate']).toFixed(1);
-        var txtWinRate = data10[i]['WinRate'].toFixed(1);
+        var txtGames = (100/dataSliced[i]['PlayRate']).toFixed(1);
+        var txtWinRate = dataSliced[i]['WinRate'].toFixed(1);
         cell4.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
         
-        var txtPoint = data10[i]['Point'].toFixed(1);
+        var txtPoint = dataSliced[i]['Point'].toFixed(1);
         cell5.innerHTML = txtPoint; 
     };
 };
