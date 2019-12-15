@@ -79,5 +79,6 @@ function updatePage (){
     };
 };
    
+updatePage;
 sltMap.addEventListener("change", updatePage );
 ipRatio.addEventListener("change", updatePage );
