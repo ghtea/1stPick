@@ -38,7 +38,7 @@ td > img {
     /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
 
-#divRatio > p, #divRatio > input {
+#divRatio > p, #divRatio > input, #divContact > p, #divContact > a {
     position: static;
     display:inline;
 }
@@ -47,3 +47,4 @@ td > img {
     padding-top: 20px;
     padding-left: 5px;
 }
+
