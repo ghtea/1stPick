@@ -30,8 +30,9 @@ console.log(dataset);
 
 
 /*88: hero number*/
-var data2d = listToMatrix(data_global, 88);
-var test = data2d[0][1];
+/*var data2d = listToMatrix(data_global, 88);*/
+var test = data_global[0];
+console.log(test);
 
 var Hero2 = {
 	id: "who",
