@@ -3,17 +3,15 @@
 
 
 d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
-    var data2 = listToMatrix(data, 88);
-    
   return {
-      HeroID : data2.HeroID,
-      Map : data2.Map,
-      WinRate : +data2.WinRate,
-      PlayRate : +data2.PlayRate,
-      BanRate : +data2.BanRate
+      HeroID : data.HeroID,
+      Map : data.Map,
+      WinRate : +data.WinRate,
+      PlayRate : +data.PlayRate,
+      BanRate : +data.BanRate
   };
 }).then(function(data) {
-  console.log(data2[0]);
+  console.log(data[0]);
 });
 
 /*var test = dataHeroInfo[0][0];*/
