@@ -23,6 +23,22 @@ function updatePage (whichMap){
 
 console.log(dataMap[87]['PlayRate']);
 
+var ratio = document.querySelector("#rgRatio").value;
+
+for (var i = 0; i<88; i++) {
+    dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 ) + ratio * (dataMap[i]['PlayRate'] / 100 * 88 /10 );
+}
+
+
+function compaireFunc(key) {
+    return function(a, b){
+        return a[key]-b[key];
+    }
+}
+
+var dataSoted = dataMap.sort(compaireFunc('Point'));
+var data10  = dataOriginal.slice(0, 10);
+
 var Hero2 = {
 	id: "who",
     name: "who",
