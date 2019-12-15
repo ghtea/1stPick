@@ -14,6 +14,8 @@ Brightwing,Brightwing,Healer,Alterac Pass,50.02,16.76,3.47,0
 Cassia,Cassia,Ranged Assassin,Alterac Pass,48.64,5.94,0.54,0
 Chen,Chen,Bruiser,Alterac Pass,51.09,4.9,2.4,0
 Cho,Cho,Tank,Alterac Pass,42.65,1.4,0.68,0
+Chromie,Chromie,Ranged Assassin,Alterac Pass,51.02,18.82,10.88,0
+D.Va,Dva,Bruiser,Alterac Pass,51.43,16.05,2.5,0
 Deathwing,Deathwing,Bruiser,Alterac Pass,50.81,11.11,2.25,0
 Deckard,Deckard,Healer,Alterac Pass,68.4,3.69,3.09,0
 Dehaka,Dehaka,Bruiser,Alterac Pass,47.03,6.61,0.66,0
@@ -35,7 +37,7 @@ Johanna,Johanna,Tank,Alterac Pass,47.23,12.4,1.26,0
 Junkrat,Junkrat,Ranged Assassin,Alterac Pass,52.26,24.48,4.84,0
 Kael'thas,Kaelthas,Ranged Assassin,Alterac Pass,51.36,34.58,10.97,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Alterac Pass,47.16,12.31,2.54,0
-Kerrigan,Kerrigan,Melee Assassin,Alterac Pass,51.85,51.96,34.69,0
+Kerrigan,Kerrigan,Melee Assassin,Alterac Pass,53.82,3.69,0.34,0
 Kharazim,Kharazim,Healer,Alterac Pass,50.68,14.74,6.38,0
 Leoric,Leoric,Bruiser,Alterac Pass,53.84,3.7,0.34,0
 Li Li,Lili,Healer,Alterac Pass,50.17,5.28,0.12,0
@@ -85,8 +87,6 @@ Zagara,Zagara,Ranged Assassin,Alterac Pass,49.01,2.84,0.1,0
 Zarya,Zarya,Support,Alterac Pass,44.76,2.63,0.13,0
 Zeratul,Zeratul,Melee Assassin,Alterac Pass,46.62,5.63,0.91,0
 Zul'jin,Zuljin,Ranged Assassin,Alterac Pass,51.41,5.07,0.35,0
-Chromie,Chromie,Ranged Assassin,Alterac Pass,51.02,18.82,10.88,0
-D.Va,Dva,Bruiser,Alterac Pass,51.43,16.05,2.5,0
 Abathur,Abathur,Support,Battlefield of Eternity,46.06,6.65,3.17,0
 Alarak,Alarak,Melee Assassin,Battlefield of Eternity,55.09,23.77,11.96,0
 Alexstrasza,Alexstrasza,Healer,Battlefield of Eternity,46.29,8.63,1.83,0
@@ -102,6 +102,8 @@ Brightwing,Brightwing,Healer,Battlefield of Eternity,49.8,11.7,2.08,0
 Cassia,Cassia,Ranged Assassin,Battlefield of Eternity,47.85,7.51,0.84,0
 Chen,Chen,Bruiser,Battlefield of Eternity,49.28,5.51,2.3,0
 Cho,Cho,Tank,Battlefield of Eternity,41.1,1.63,0.65,0
+Chromie,Chromie,Ranged Assassin,Battlefield of Eternity,46.16,15.01,9.83,0
+D.Va,Dva,Bruiser,Battlefield of Eternity,53.17,22.94,5.08,0
 Deathwing,Deathwing,Bruiser,Battlefield of Eternity,52.87,8.78,1.27,0
 Deckard,Deckard,Healer,Battlefield of Eternity,63.35,3.72,3.07,0
 Dehaka,Dehaka,Bruiser,Battlefield of Eternity,42.93,5.08,0.5,0
@@ -123,7 +125,7 @@ Johanna,Johanna,Tank,Battlefield of Eternity,45.72,12.18,1.28,0
 Junkrat,Junkrat,Ranged Assassin,Battlefield of Eternity,50.63,22.3,3.73,0
 Kael'thas,Kaelthas,Ranged Assassin,Battlefield of Eternity,50.91,36.81,10.89,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Battlefield of Eternity,47.41,3.35,0.26,0
-Kerrigan,Kerrigan,Melee Assassin,Battlefield of Eternity,51.97,47.28,30.71,0
+Kerrigan,Kerrigan,Melee Assassin,Battlefield of Eternity,50.63,2.85,0.29,0
 Kharazim,Kharazim,Healer,Battlefield of Eternity,54.63,11.18,3.71,0
 Leoric,Leoric,Bruiser,Battlefield of Eternity,51.25,2.88,0.3,0
 Li Li,Lili,Healer,Battlefield of Eternity,50.37,7.93,0.35,0
@@ -173,8 +175,6 @@ Zagara,Zagara,Ranged Assassin,Battlefield of Eternity,45.71,1.44,0.07,0
 Zarya,Zarya,Support,Battlefield of Eternity,42.46,2.4,0.1,0
 Zeratul,Zeratul,Melee Assassin,Battlefield of Eternity,43.93,2.69,0.19,0
 Zul'jin,Zuljin,Ranged Assassin,Battlefield of Eternity,48.57,4.86,0.36,0
-Chromie,Chromie,Ranged Assassin,Battlefield of Eternity,46.16,15.01,9.83,0
-D.Va,Dva,Bruiser,Battlefield of Eternity,53.17,22.94,5.08,0
 Abathur,Abathur,Support,Braxis Holdout,44.9,3.94,2.02,0
 Alarak,Alarak,Melee Assassin,Braxis Holdout,51.49,24.12,14.65,0
 Alexstrasza,Alexstrasza,Healer,Braxis Holdout,44.92,7.92,1.36,0
@@ -190,6 +190,8 @@ Brightwing,Brightwing,Healer,Braxis Holdout,51.19,13.67,2.6,0
 Cassia,Cassia,Ranged Assassin,Braxis Holdout,47.78,4.19,0.29,0
 Chen,Chen,Bruiser,Braxis Holdout,50.35,6.62,3.34,0
 Cho,Cho,Tank,Braxis Holdout,41.48,1.48,0.57,0
+Chromie,Chromie,Ranged Assassin,Braxis Holdout,50.92,7.32,4.1,0
+D.Va,Dva,Bruiser,Braxis Holdout,54.44,15.97,2.06,0
 Deathwing,Deathwing,Bruiser,Braxis Holdout,51.29,10.36,2.13,0
 Deckard,Deckard,Healer,Braxis Holdout,64.19,3.47,2.88,0
 Dehaka,Dehaka,Bruiser,Braxis Holdout,46.35,5.48,0.42,0
@@ -211,7 +213,7 @@ Johanna,Johanna,Tank,Braxis Holdout,47.43,9.22,1.24,0
 Junkrat,Junkrat,Ranged Assassin,Braxis Holdout,49.01,19.84,3.43,0
 Kael'thas,Kaelthas,Ranged Assassin,Braxis Holdout,50.28,29.84,9.1,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Braxis Holdout,49.1,7.55,0.96,0
-Kerrigan,Kerrigan,Melee Assassin,Braxis Holdout,49.64,45.46,27.62,0
+Kerrigan,Kerrigan,Melee Assassin,Braxis Holdout,49.04,2.52,0.19,0
 Kharazim,Kharazim,Healer,Braxis Holdout,53.71,16.12,5.54,0
 Leoric,Leoric,Bruiser,Braxis Holdout,48.99,2.49,0.19,0
 Li Li,Lili,Healer,Braxis Holdout,49.12,3.34,0.11,0
@@ -261,8 +263,6 @@ Zagara,Zagara,Ranged Assassin,Braxis Holdout,45.53,2.01,0.12,0
 Zarya,Zarya,Support,Braxis Holdout,44.96,2.29,0.18,0
 Zeratul,Zeratul,Melee Assassin,Braxis Holdout,53.36,6.86,1.01,0
 Zul'jin,Zuljin,Ranged Assassin,Braxis Holdout,52.19,4.37,0.44,0
-Chromie,Chromie,Ranged Assassin,Braxis Holdout,50.92,7.32,4.1,0
-D.Va,Dva,Bruiser,Braxis Holdout,54.44,15.97,2.06,0
 Abathur,Abathur,Support,Cursed Hollow,50.27,40.3,23.22,0
 Alarak,Alarak,Melee Assassin,Cursed Hollow,51.55,30.5,18.63,0
 Alexstrasza,Alexstrasza,Healer,Cursed Hollow,50,11.76,2.25,0
@@ -278,6 +278,8 @@ Brightwing,Brightwing,Healer,Cursed Hollow,48.32,30.63,7.71,0
 Cassia,Cassia,Ranged Assassin,Cursed Hollow,50.84,7.32,0.71,0
 Chen,Chen,Bruiser,Cursed Hollow,50.36,6.76,2.79,0
 Cho,Cho,Tank,Cursed Hollow,41.42,1.37,0.67,0
+Chromie,Chromie,Ranged Assassin,Cursed Hollow,48.96,24.4,14.17,0
+D.Va,Dva,Bruiser,Cursed Hollow,50.7,15.8,2.48,0
 Deathwing,Deathwing,Bruiser,Cursed Hollow,48.22,10.35,1.97,0
 Deckard,Deckard,Healer,Cursed Hollow,69.77,3.64,3.09,0
 Dehaka,Dehaka,Bruiser,Cursed Hollow,44.62,6.72,0.55,0
@@ -299,7 +301,7 @@ Johanna,Johanna,Tank,Cursed Hollow,49.66,13.39,1.35,0
 Junkrat,Junkrat,Ranged Assassin,Cursed Hollow,52.64,30.07,5.68,0
 Kael'thas,Kaelthas,Ranged Assassin,Cursed Hollow,51.2,38.5,11.91,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Cursed Hollow,45.71,8.05,0.86,0
-Kerrigan,Kerrigan,Melee Assassin,Cursed Hollow,50.65,61.73,40.99,0
+Kerrigan,Kerrigan,Melee Assassin,Cursed Hollow,52.55,4.46,0.36,0
 Kharazim,Kharazim,Healer,Cursed Hollow,45.87,14.45,6.48,0
 Leoric,Leoric,Bruiser,Cursed Hollow,52.61,4.48,0.38,0
 Li Li,Lili,Healer,Cursed Hollow,50.5,7.29,0.25,0
@@ -349,8 +351,6 @@ Zagara,Zagara,Ranged Assassin,Cursed Hollow,49.3,3.24,0.1,0
 Zarya,Zarya,Support,Cursed Hollow,45.37,2.64,0.12,0
 Zeratul,Zeratul,Melee Assassin,Cursed Hollow,50.37,9.11,1.57,0
 Zul'jin,Zuljin,Ranged Assassin,Cursed Hollow,49.21,5.58,0.34,0
-Chromie,Chromie,Ranged Assassin,Cursed Hollow,48.96,24.4,14.17,0
-D.Va,Dva,Bruiser,Cursed Hollow,50.7,15.8,2.48,0
 Abathur,Abathur,Support,Dragon Shire,45.83,15.28,8.48,0
 Alarak,Alarak,Melee Assassin,Dragon Shire,53.2,31.88,19.15,0
 Alexstrasza,Alexstrasza,Healer,Dragon Shire,45.93,9.71,2.05,0
@@ -366,6 +366,8 @@ Brightwing,Brightwing,Healer,Dragon Shire,52,33.44,8.66,0
 Cassia,Cassia,Ranged Assassin,Dragon Shire,47.7,6.76,0.59,0
 Chen,Chen,Bruiser,Dragon Shire,49.26,8.99,4.27,0
 Cho,Cho,Tank,Dragon Shire,41.79,1.38,0.66,0
+Chromie,Chromie,Ranged Assassin,Dragon Shire,49.38,21.84,13.13,0
+D.Va,Dva,Bruiser,Dragon Shire,52.8,19.34,2.84,0
 Deathwing,Deathwing,Bruiser,Dragon Shire,50.11,9.76,1.88,0
 Deckard,Deckard,Healer,Dragon Shire,62.9,3.64,3.07,0
 Dehaka,Dehaka,Bruiser,Dragon Shire,44.97,5.63,0.49,0
@@ -387,7 +389,7 @@ Johanna,Johanna,Tank,Dragon Shire,46.37,13.7,1.57,0
 Junkrat,Junkrat,Ranged Assassin,Dragon Shire,52.99,29.15,5.09,0
 Kael'thas,Kaelthas,Ranged Assassin,Dragon Shire,51.86,36.43,12.06,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Dragon Shire,49.93,8.28,0.99,0
-Kerrigan,Kerrigan,Melee Assassin,Dragon Shire,52.17,58.5,38,0
+Kerrigan,Kerrigan,Melee Assassin,Dragon Shire,54.44,4.6,0.37,0
 Kharazim,Kharazim,Healer,Dragon Shire,49.01,14.19,5.75,0
 Leoric,Leoric,Bruiser,Dragon Shire,54.5,4.61,0.36,0
 Li Li,Lili,Healer,Dragon Shire,50.82,6.84,0.22,0
@@ -437,8 +439,6 @@ Zagara,Zagara,Ranged Assassin,Dragon Shire,50.88,3.52,0.18,0
 Zarya,Zarya,Support,Dragon Shire,45.71,3.64,0.23,0
 Zeratul,Zeratul,Melee Assassin,Dragon Shire,52.53,8.6,1.19,0
 Zul'jin,Zuljin,Ranged Assassin,Dragon Shire,49.76,4.63,0.35,0
-Chromie,Chromie,Ranged Assassin,Dragon Shire,49.38,21.84,13.13,0
-D.Va,Dva,Bruiser,Dragon Shire,52.8,19.34,2.84,0
 Abathur,Abathur,Support,Hanamura Temple,46.63,9.83,6.11,0
 Alarak,Alarak,Melee Assassin,Hanamura Temple,51.58,30.59,20.07,0
 Alexstrasza,Alexstrasza,Healer,Hanamura Temple,48.14,7.36,1.6,0
@@ -454,6 +454,8 @@ Brightwing,Brightwing,Healer,Hanamura Temple,47.18,14.1,3.29,0
 Cassia,Cassia,Ranged Assassin,Hanamura Temple,50.55,6.06,0.65,0
 Chen,Chen,Bruiser,Hanamura Temple,51.1,9.07,4.27,0
 Cho,Cho,Tank,Hanamura Temple,35.17,1.87,0.79,0
+Chromie,Chromie,Ranged Assassin,Hanamura Temple,47.28,15.29,10.48,0
+D.Va,Dva,Bruiser,Hanamura Temple,50.36,16.94,3.01,0
 Deathwing,Deathwing,Bruiser,Hanamura Temple,50.05,6.93,1.22,0
 Deckard,Deckard,Healer,Hanamura Temple,62.26,3.62,3.08,0
 Dehaka,Dehaka,Bruiser,Hanamura Temple,43.85,4.68,0.51,0
@@ -475,7 +477,7 @@ Johanna,Johanna,Tank,Hanamura Temple,48.4,11.09,1.49,0
 Junkrat,Junkrat,Ranged Assassin,Hanamura Temple,53.84,23.57,5.43,0
 Kael'thas,Kaelthas,Ranged Assassin,Hanamura Temple,52.87,35.43,13.31,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Hanamura Temple,45.19,5.99,0.9,0
-Kerrigan,Kerrigan,Melee Assassin,Hanamura Temple,50.63,51.78,37.11,0
+Kerrigan,Kerrigan,Melee Assassin,Hanamura Temple,53.33,3.28,0.36,0
 Kharazim,Kharazim,Healer,Hanamura Temple,47.25,13.86,6.81,0
 Leoric,Leoric,Bruiser,Hanamura Temple,53.08,3.26,0.36,0
 Li Li,Lili,Healer,Hanamura Temple,50.17,4.68,0.2,0
@@ -525,8 +527,6 @@ Zagara,Zagara,Ranged Assassin,Hanamura Temple,48.88,1.92,0.09,0
 Zarya,Zarya,Support,Hanamura Temple,47.27,2.49,0.14,0
 Zeratul,Zeratul,Melee Assassin,Hanamura Temple,47.68,4.11,0.67,0
 Zul'jin,Zuljin,Ranged Assassin,Hanamura Temple,51.45,5.42,0.72,0
-Chromie,Chromie,Ranged Assassin,Hanamura Temple,47.28,15.29,10.48,0
-D.Va,Dva,Bruiser,Hanamura Temple,50.36,16.94,3.01,0
 Abathur,Abathur,Support,Infernal Shrines,46.86,18,9.93,0
 Alarak,Alarak,Melee Assassin,Infernal Shrines,50.57,32.27,19.71,0
 Alexstrasza,Alexstrasza,Healer,Infernal Shrines,48.36,23.1,6,0
@@ -542,6 +542,8 @@ Brightwing,Brightwing,Healer,Infernal Shrines,48.61,17.52,3.42,0
 Cassia,Cassia,Ranged Assassin,Infernal Shrines,48.09,6.79,0.64,0
 Chen,Chen,Bruiser,Infernal Shrines,43.81,6.93,3.02,0
 Cho,Cho,Tank,Infernal Shrines,48.89,2.09,0.93,0
+Chromie,Chromie,Ranged Assassin,Infernal Shrines,49.89,24.08,14.82,0
+D.Va,Dva,Bruiser,Infernal Shrines,50.58,18.29,2.8,0
 Deathwing,Deathwing,Bruiser,Infernal Shrines,48.24,9.75,2.11,0
 Deckard,Deckard,Healer,Infernal Shrines,61.68,3.62,3.07,0
 Dehaka,Dehaka,Bruiser,Infernal Shrines,45.27,7.83,0.7,0
@@ -563,7 +565,7 @@ Johanna,Johanna,Tank,Infernal Shrines,43.47,14.11,1.61,0
 Junkrat,Junkrat,Ranged Assassin,Infernal Shrines,50.04,38.12,8.89,0
 Kael'thas,Kaelthas,Ranged Assassin,Infernal Shrines,51.78,50.99,15.3,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Infernal Shrines,51.53,11.66,1.31,0
-Kerrigan,Kerrigan,Melee Assassin,Infernal Shrines,52.69,76.43,48.26,0
+Kerrigan,Kerrigan,Melee Assassin,Infernal Shrines,54.8,10.39,1.62,0
 Kharazim,Kharazim,Healer,Infernal Shrines,54.21,18.5,7.6,0
 Leoric,Leoric,Bruiser,Infernal Shrines,54.84,10.43,1.61,0
 Li Li,Lili,Healer,Infernal Shrines,48.89,6.26,0.19,0
@@ -613,8 +615,6 @@ Zagara,Zagara,Ranged Assassin,Infernal Shrines,52.11,6.75,0.31,0
 Zarya,Zarya,Support,Infernal Shrines,45.4,3.25,0.1,0
 Zeratul,Zeratul,Melee Assassin,Infernal Shrines,51.17,5.49,0.76,0
 Zul'jin,Zuljin,Ranged Assassin,Infernal Shrines,52.33,6.72,0.37,0
-Chromie,Chromie,Ranged Assassin,Infernal Shrines,49.89,24.08,14.82,0
-D.Va,Dva,Bruiser,Infernal Shrines,50.58,18.29,2.8,0
 Abathur,Abathur,Support,Sky Temple,49.87,34.33,20.73,0
 Alarak,Alarak,Melee Assassin,Sky Temple,49.67,31.73,19.19,0
 Alexstrasza,Alexstrasza,Healer,Sky Temple,49.38,10.97,2.11,0
@@ -630,6 +630,8 @@ Brightwing,Brightwing,Healer,Sky Temple,49.41,33.39,8.4,0
 Cassia,Cassia,Ranged Assassin,Sky Temple,48.4,7.97,0.73,0
 Chen,Chen,Bruiser,Sky Temple,51.25,7.71,3.26,0
 Cho,Cho,Tank,Sky Temple,39.14,1.55,0.71,0
+Chromie,Chromie,Ranged Assassin,Sky Temple,52.04,24.63,14.56,0
+D.Va,Dva,Bruiser,Sky Temple,46.37,17.2,2.78,0
 Deathwing,Deathwing,Bruiser,Sky Temple,46.14,8.8,1.64,0
 Deckard,Deckard,Healer,Sky Temple,60.09,3.64,3.04,0
 Dehaka,Dehaka,Bruiser,Sky Temple,46.29,6.05,0.55,0
@@ -651,7 +653,7 @@ Johanna,Johanna,Tank,Sky Temple,45.06,14.07,1.33,0
 Junkrat,Junkrat,Ranged Assassin,Sky Temple,53.83,34.09,6.4,0
 Kael'thas,Kaelthas,Ranged Assassin,Sky Temple,52.18,43.02,13.48,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Sky Temple,46.77,6.98,0.74,0
-Kerrigan,Kerrigan,Melee Assassin,Sky Temple,51.83,65.51,43.2,0
+Kerrigan,Kerrigan,Melee Assassin,Sky Temple,53.77,5.16,0.34,0
 Kharazim,Kharazim,Healer,Sky Temple,49.28,15.43,6.45,0
 Leoric,Leoric,Bruiser,Sky Temple,53.65,5.19,0.34,0
 Li Li,Lili,Healer,Sky Temple,51.46,7.61,0.25,0
@@ -701,8 +703,6 @@ Zagara,Zagara,Ranged Assassin,Sky Temple,53.6,4.52,0.21,0
 Zarya,Zarya,Support,Sky Temple,46.73,3.2,0.1,0
 Zeratul,Zeratul,Melee Assassin,Sky Temple,50.87,9.32,1.5,0
 Zul'jin,Zuljin,Ranged Assassin,Sky Temple,50.58,5.84,0.35,0
-Chromie,Chromie,Ranged Assassin,Sky Temple,52.04,24.63,14.56,0
-D.Va,Dva,Bruiser,Sky Temple,46.37,17.2,2.78,0
 Abathur,Abathur,Support,Tomb of the Spider Queen,42.1,6.52,3.29,0
 Alarak,Alarak,Melee Assassin,Tomb of the Spider Queen,52.6,33.46,19.68,0
 Alexstrasza,Alexstrasza,Healer,Tomb of the Spider Queen,47.85,11.03,2.4,0
@@ -718,6 +718,8 @@ Brightwing,Brightwing,Healer,Tomb of the Spider Queen,50.1,15.22,2.91,0
 Cassia,Cassia,Ranged Assassin,Tomb of the Spider Queen,47.07,6.65,0.66,0
 Chen,Chen,Bruiser,Tomb of the Spider Queen,50.14,6.93,3.19,0
 Cho,Cho,Tank,Tomb of the Spider Queen,40.83,2.15,1.03,0
+Chromie,Chromie,Ranged Assassin,Tomb of the Spider Queen,51.19,21.61,13.54,0
+D.Va,Dva,Bruiser,Tomb of the Spider Queen,52.84,18.63,2.82,0
 Deathwing,Deathwing,Bruiser,Tomb of the Spider Queen,47.29,8.65,1.83,0
 Deckard,Deckard,Healer,Tomb of the Spider Queen,63.01,3.65,3.08,0
 Dehaka,Dehaka,Bruiser,Tomb of the Spider Queen,47.82,7.48,0.72,0
@@ -739,7 +741,7 @@ Johanna,Johanna,Tank,Tomb of the Spider Queen,45.18,13.96,1.62,0
 Junkrat,Junkrat,Ranged Assassin,Tomb of the Spider Queen,52.17,36.74,7.77,0
 Kael'thas,Kaelthas,Ranged Assassin,Tomb of the Spider Queen,53.82,53.37,16.84,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Tomb of the Spider Queen,50.2,10.39,1.21,0
-Kerrigan,Kerrigan,Melee Assassin,Tomb of the Spider Queen,53.05,72.22,45.75,0
+Kerrigan,Kerrigan,Melee Assassin,Tomb of the Spider Queen,53.41,7.17,0.71,0
 Kharazim,Kharazim,Healer,Tomb of the Spider Queen,53.83,19.13,7.68,0
 Leoric,Leoric,Bruiser,Tomb of the Spider Queen,53.45,7.24,0.72,0
 Li Li,Lili,Healer,Tomb of the Spider Queen,48.82,6.04,0.26,0
@@ -789,8 +791,6 @@ Zagara,Zagara,Ranged Assassin,Tomb of the Spider Queen,54.63,12.98,1.26,0
 Zarya,Zarya,Support,Tomb of the Spider Queen,43.63,3.18,0.12,0
 Zeratul,Zeratul,Melee Assassin,Tomb of the Spider Queen,50.55,6.07,1.13,0
 Zul'jin,Zuljin,Ranged Assassin,Tomb of the Spider Queen,46.52,6.21,0.38,0
-Chromie,Chromie,Ranged Assassin,Tomb of the Spider Queen,51.19,21.61,13.54,0
-D.Va,Dva,Bruiser,Tomb of the Spider Queen,52.84,18.63,2.82,0
 Abathur,Abathur,Support,Towers of Doom,49.55,28.39,17.42,0
 Alarak,Alarak,Melee Assassin,Towers of Doom,53.45,33.89,19.82,0
 Alexstrasza,Alexstrasza,Healer,Towers of Doom,47.12,10.91,2.3,0
@@ -806,6 +806,8 @@ Brightwing,Brightwing,Healer,Towers of Doom,48.58,28.24,6.78,0
 Cassia,Cassia,Ranged Assassin,Towers of Doom,48.04,7.46,0.67,0
 Chen,Chen,Bruiser,Towers of Doom,50.56,7.5,3.14,0
 Cho,Cho,Tank,Towers of Doom,43.45,1.63,0.77,0
+Chromie,Chromie,Ranged Assassin,Towers of Doom,49.75,26.09,15.45,0
+D.Va,Dva,Bruiser,Towers of Doom,52.65,17.67,2.76,0
 Deathwing,Deathwing,Bruiser,Towers of Doom,47.9,16.11,4.14,0
 Deckard,Deckard,Healer,Towers of Doom,60.36,3.59,3.02,0
 Dehaka,Dehaka,Bruiser,Towers of Doom,45.63,6.56,0.6,0
@@ -827,7 +829,7 @@ Johanna,Johanna,Tank,Towers of Doom,49.55,15.55,1.58,0
 Junkrat,Junkrat,Ranged Assassin,Towers of Doom,52.78,31.88,6.4,0
 Kael'thas,Kaelthas,Ranged Assassin,Towers of Doom,49.4,40.66,12.98,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Towers of Doom,45.51,9.67,1.3,0
-Kerrigan,Kerrigan,Melee Assassin,Towers of Doom,49.54,64.24,43.1,0
+Kerrigan,Kerrigan,Melee Assassin,Towers of Doom,53.31,5.43,0.39,0
 Kharazim,Kharazim,Healer,Towers of Doom,50.38,17.21,7.67,0
 Leoric,Leoric,Bruiser,Towers of Doom,53.13,5.47,0.4,0
 Li Li,Lili,Healer,Towers of Doom,51.29,7.32,0.21,0
@@ -877,8 +879,6 @@ Zagara,Zagara,Ranged Assassin,Towers of Doom,53.05,5.92,0.41,0
 Zarya,Zarya,Support,Towers of Doom,45.81,3.29,0.11,0
 Zeratul,Zeratul,Melee Assassin,Towers of Doom,51.89,6.55,1.05,0
 Zul'jin,Zuljin,Ranged Assassin,Towers of Doom,49.62,6.53,0.41,0
-Chromie,Chromie,Ranged Assassin,Towers of Doom,49.75,26.09,15.45,0
-D.Va,Dva,Bruiser,Towers of Doom,52.65,17.67,2.76,0
 Abathur,Abathur,Support,Volskaya Foundry,48.84,8.93,5.1,0
 Alarak,Alarak,Melee Assassin,Volskaya Foundry,53.02,25.07,16.09,0
 Alexstrasza,Alexstrasza,Healer,Volskaya Foundry,47.36,10.69,2.42,0
@@ -894,6 +894,8 @@ Brightwing,Brightwing,Healer,Volskaya Foundry,50.12,11.01,2.07,0
 Cassia,Cassia,Ranged Assassin,Volskaya Foundry,45.51,4.49,0.41,0
 Chen,Chen,Bruiser,Volskaya Foundry,50.23,4.93,2.65,0
 Cho,Cho,Tank,Volskaya Foundry,40.86,1.19,0.52,0
+Chromie,Chromie,Ranged Assassin,Volskaya Foundry,51.5,11.15,5.95,0
+D.Va,Dva,Bruiser,Volskaya Foundry,56.01,16.59,2.61,0
 Deathwing,Deathwing,Bruiser,Volskaya Foundry,50.6,11.19,2.5,0
 Deckard,Deckard,Healer,Volskaya Foundry,66.06,3.63,3.07,0
 Dehaka,Dehaka,Bruiser,Volskaya Foundry,49.64,6.33,0.61,0
@@ -915,7 +917,7 @@ Johanna,Johanna,Tank,Volskaya Foundry,46.22,10.69,1.15,0
 Junkrat,Junkrat,Ranged Assassin,Volskaya Foundry,50.09,17.69,3.76,0
 Kael'thas,Kaelthas,Ranged Assassin,Volskaya Foundry,52.38,30.87,10.33,0
 Kel'Thuzad,Kelthuzad,Ranged Assassin,Volskaya Foundry,48.09,8.35,1.26,0
-Kerrigan,Kerrigan,Melee Assassin,Volskaya Foundry,51.47,41.48,27.6,0
+Kerrigan,Kerrigan,Melee Assassin,Volskaya Foundry,53.15,2.94,0.26,0
 Kharazim,Kharazim,Healer,Volskaya Foundry,49.87,13.77,6.05,0
 Leoric,Leoric,Bruiser,Volskaya Foundry,52.63,2.91,0.26,0
 Li Li,Lili,Healer,Volskaya Foundry,50,3.6,0.09,0
@@ -965,5 +967,3 @@ Zagara,Zagara,Ranged Assassin,Volskaya Foundry,47.74,2.38,0.11,0
 Zarya,Zarya,Support,Volskaya Foundry,44.5,2.06,0.1,0
 Zeratul,Zeratul,Melee Assassin,Volskaya Foundry,48.93,3.37,0.5,0
 Zul'jin,Zuljin,Ranged Assassin,Volskaya Foundry,48.92,5.24,0.35,0
-Chromie,Chromie,Ranged Assassin,Volskaya Foundry,51.5,11.15,5.95,0
-D.Va,Dva,Bruiser,Volskaya Foundry,56.01,16.59,2.61,0
