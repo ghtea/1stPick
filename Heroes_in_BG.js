@@ -25,7 +25,6 @@ setTimeout(function(){
 console.log(data_global);
 },200);
 
-
 /*88: hero number*/
 /*var data2d = listToMatrix(data_global, 88);*/
 var test = data_global[0];
