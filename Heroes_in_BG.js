@@ -13,7 +13,7 @@ var dataMapRole=[];
 var body = document.querySelector("body");
 var tbl  = document.querySelector('#tblGood');
 var numSizeWin = 3;
-var numSizePlay = 1;
+var numSizePlay = 0.6;
 var sltMap = document.querySelector("#sltMap");
 var ipRatio = document.querySelector("#rgRatio");
 
@@ -44,7 +44,7 @@ function updatePage (){
     dataMap  = dataOriginal.slice(idxStart, idxEnd);
 
     for (var i = 0; i<88; i++) {
-        dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 ) + ratio * (dataMap[i]['PlayRate'] / 100 * 88 /10 );
+        dataMap[i]['Point'] = (100-ratio) * (dataMap[i]['WinRate'] /50 ) + ratio * ((dataMap[i]['PlayRate'] + dataMap[i]['BanRate'] ) / 100 * 88 /16 );
     }
 
     var dataSorted = dataMap.sort(compaireFunc('Point'));
@@ -66,7 +66,7 @@ function updatePage (){
         
         var Rect = document.createElement("div");
         var RectWidth = data10[i]['WinRate'] * numSizeWin;
-        var RectHeight = data10[i]['PlayRate'] * numSizePlay;
+        var RectHeight = (data10[i]['PlayRate'] + data10[i]['BanRate']) * numSizePlay;
         Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:#1cd93c;"
         cell3.appendChild(Rect);
     
