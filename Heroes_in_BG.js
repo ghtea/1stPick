@@ -78,7 +78,8 @@ function updatePage (){
         var Rect = document.createElement("div");
         var RectWidth = (dataSliced[i]['WinRate'] - 40) * numSizeWin;
         var RectHeight = (dataSliced[i]['PlayRate'] + dataSliced[i]['BanRate']) * numSizePlay;
-        Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px;" ;
+        Rect.style.width = RectWidth + "px;" ;
+        Rect.style.height = RectHeight + "px;" ;
         Rect.style.backgroundColor =  "rgb(129,250,177);" ;
         Rect.style.backgroundColor =   "linear-gradient(128deg, rgba(129,250,177,1) 0%, rgba(59,230,20,1) 50%, rgba(59,230,20,1) 100%);" ;
         cell3.appendChild(Rect);
