@@ -69,7 +69,8 @@ function rowCreate(size) {
         cell3.appendChild(Rect);
     
         var txtGames = (100/data10[i]['PlayRate']).toFixed(1);
-        cell4.innerHTML = data10[i]['WinRate'] + "%" + "<br> 1 in " + txtGames;
+        var txtWinRate = data10[i]['WinRate'].toFixed(1);
+        cell4.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
         
         var txtPoint = data10[i]['Point'].toFixed(1);
         cell5.innerHTML = txtPoint; 
