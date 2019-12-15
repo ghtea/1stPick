@@ -12,7 +12,7 @@ var dataMap = [];
 var dataMapRole=[];
 var body = document.querySelector("body");
 var tbl  = document.querySelector('#tblGood');
-var numSizeWin = 3;
+var numSizeWin = 7;
 var numSizePlay = 0.5;
 var sltMap = document.querySelector("#sltMap");
 var ipRatio = document.querySelector("#rgRatio");
@@ -76,7 +76,7 @@ function updatePage (){
         cell2.innerHTML= "<img src=" + "heroImages/" + dataSliced[i]['HeroID'] +  ".png" + ">";
         
         var Rect = document.createElement("div");
-        var RectWidth = dataSliced[i]['WinRate'] * numSizeWin;
+        var RectWidth = (dataSliced[i]['WinRate'] - 40) * numSizeWin;
         var RectHeight = (dataSliced[i]['PlayRate'] + dataSliced[i]['BanRate']) * numSizePlay;
         Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:#1cd93c;"
         cell3.appendChild(Rect);
