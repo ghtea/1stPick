@@ -18,17 +18,27 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
 
 var data_global = [];
 
-d3.csv("data/Heroes - Map - Heros x Map.csv", function(data){
-   data_global=data;
-   });
-setTimeout(function(){
-console.log(data_global);
-},1000);
+d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
+  return {
+    HeroID : data.HeroID,
+      Map : data.Map,
+      WinRate : +data.WinRate,
+      PlayRate : +data.PlayRate,
+      BanRate : +data.BanRate
+  };
+}).then(function(data) {
+    data_global=data;    
+    console.log(data[0]);
+});
+
 
 /*88: hero number*/
 /*var data2d = listToMatrix(data_global, 88);*/
 var test = data_global[0];
 console.log(test);
+
+
+
 
 var Hero2 = {
 	id: "who",
