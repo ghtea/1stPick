@@ -1,6 +1,7 @@
 /* load data */
 
 
+var data_global=[];
 
 d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
   return {
@@ -11,7 +12,7 @@ d3.csv("data/Heroes - Map - Heros x Map.csv", function(data) {
       BanRate : +data.BanRate
   };
 }).then(function(data) {
-    window.data = data;
+    data_global = data;
     console.log(data);
 });
 
