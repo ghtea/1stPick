@@ -32,7 +32,7 @@ for (var i = 0; i<88; i++) {
 
 function compaireFunc(key) {
     return function(a, b){
-        return a[key]-b[key];
+        return b[key]-a[key];
     }
 }
 
