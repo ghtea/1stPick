@@ -82,10 +82,11 @@ function rowCreate() {
     Rect.style = "width:" + RectWidth + "px;height:" +  RectHeight + "px; background:#1cd93c;"
     cell3.appendChild(Rect);
     
-    cell4.innerHTML = 53.2;
-    
     var neededGames = 100/10;
-    cell5.innerHTML = "once in " + neededGames + " games";
+    cell4.innerHTML = 53.2 + "%" + "<br> 1 in " + neededGames;
+    
+    cell5.innerHTML = 80; 
+    
 };
 
 /*
