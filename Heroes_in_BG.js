@@ -7,7 +7,7 @@ var test = dataOriginal[1]['BanRate'];
 
 
 var currentMap = document.querySelector("#sltMap").value;
-var currentRole = document.querySelector("#sltRole").value;
+/*var currentRole = document.querySelector("#sltRole").value;*/
 
 var numHero = 88;
 var dataMap = [];
