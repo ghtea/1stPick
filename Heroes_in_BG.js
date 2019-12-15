@@ -53,14 +53,14 @@ function updatePage (){
 
 
     for (var i = 0; i<numShowingHero; i++){
-        var row = tbl.insertRow(-1);
+        var row = tbl.insertRow(i);
         var cell1 = row.insertCell(0);
         var cell2 = row.insertCell(1);
         var cell3 = row.insertCell(2);
         var cell4 = row.insertCell(3);
         var cell5 = row.insertCell(4);
         
-        let rank = i+1;
+        var rank = i+1;
         cell1.innerHTML = "#" + rank;
         cell2.innerHTML= "<img src=" + "heroImages/" + dataSliced[i]['HeroID'] +  ".png" + ">";
         
@@ -79,5 +79,5 @@ function updatePage (){
     };
 };
    
-sltMap.addEventListener("change", updatePage() );
-ipRatio.addEventListener("change", updatePage() );
+sltMap.addEventListener("change", updatePage );
+ipRatio.addEventListener("change", updatePage );
