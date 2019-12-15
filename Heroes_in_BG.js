@@ -56,9 +56,12 @@ function updatePage (){
     
     console.log(ratio);
 
-    for (var i = 0; i<numShowingHero; i++){
-        tbl.deleteRow(1);   
-    };
+    if (tbl.rows.length > 1){
+        for (var i = 0; i<numShowingHero; i++) {
+        tbl.deleteRow(1) ;   
+        };
+    }
+    
 
     for (var i = 0; i<numShowingHero; i++){
         var row = tbl.insertRow(i+1);
