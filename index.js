@@ -143,7 +143,7 @@ function updatePage() {
         break;
     }
     cell3.innerHTML = roleInitial;
-    cell3.style = "background:" + roleColor;
+    cell3.style = "background:" + roleColor + "; opacity: 0.9";
 
     cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
