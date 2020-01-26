@@ -78,6 +78,8 @@ function updatePage() {
       "<img src=" + "heroImages/" + dataSliced[i]["HeroID"] + ".png" + ">";
     cell3.innerHTML = dataSliced[i]["Difficulty"];
 
+    console.log(dataSliced[3]["Difficulty"]);
+
     var Rect = document.createElement("div");
     var RectWidth = (dataSliced[i]["WinRate"] - 40) * numSizeWin;
     var RectHeight =
