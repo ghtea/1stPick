@@ -108,7 +108,8 @@ function updatePage() {
     var RectMainWidth = (dataSliced[i]["WinRate"] - 40) * numSizeWin;
     var RectMainHeight =
       (dataSliced[i]["PlayRate"] + dataSliced[i]["BanRate"]) * numSizePlay;
-    Rect.style =
+
+    RectMain.style =
       "width:" +
       RectMainWidth +
       "px;height:" +
