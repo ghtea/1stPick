@@ -59,7 +59,8 @@ td > img {
 }
 
 #divMap,
-#divDifficulty {
+#divDifficulty,
+#divRole {
   display: inline-block;
 }
 
