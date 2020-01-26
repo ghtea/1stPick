@@ -14,14 +14,17 @@ var dataSliced = [];
 
 var body = document.querySelector("body");
 var tbl = document.querySelector("#tblGood");
-var numSizeWin = 4.8;
-var numSizePlay = 0.33;
 var sltMap = document.querySelector("#sltMap");
 var sltDifficulty = document.querySelector("#sltDifficulty");
 var sltRole = document.querySelector("#sltRole");
 var ipRatio = document.querySelector("#rgRatio");
+
+var numSizeWin = 4.8;
+var numSizePlay = 0.33;
 var stdWinRate = 3.6;
 var stdGame = 19;
+
+var roleInitial;
 
 function compaireFunc(key) {
   return function(a, b) {
@@ -105,16 +108,39 @@ function updatePage() {
     var cell3 = row.insertCell(2);
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
+    var cell6 = row.insertCell(5);
 
     var rank = i + 1;
     cell1.innerHTML = "#" + rank;
     cell2.innerHTML =
       "<img src=" + "heroImages/" + dataSliced[i]["HeroID"] + ".png" + ">";
 
-    cell3.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
+    switch (dataSliced[i]["Role"]) {
+      case "Tank":
+        roleInitial = "T";
+        break;
+      case "Bruiser":
+        roleInitial = "B";
+        break;
+      case "Melee Assassin":
+        roleInitial = "M";
+        break;
+      case "Ranged Assassin":
+        roleInitial = "R";
+        break;
+      case "Healer":
+        roleInitial = "H";
+        break;
+      case "Support":
+        roleInitial = "S";
+        break;
+    }
+    cell3.innerHTML = roleInitial;
+
+    cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
     console.log(dataSliced[100]);
-    cell4.setAttribute("class", "cellMain");
+    cell5.setAttribute("class", "cellMain");
     var rectMain = document.createElement("div");
     var rectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
     var rectMainHeight =
@@ -132,17 +158,17 @@ function updatePage() {
         Rect.style.height = RectHeight + "px;" ;
         Rect.setAttribute("class", "boxWG");
         */
-    cell4.appendChild(rectMain);
+    cell5.appendChild(rectMain);
 
     var divText = document.createElement("div");
     var txtGames = (100 / dataSliced[i]["PlayRate"]).toFixed(1);
     var txtWinRate = dataSliced[i]["WinRate"].toFixed(1);
     divText.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
     divText.setAttribute("class", "divRectText");
-    cell4.appendChild(divText);
+    cell5.appendChild(divText);
 
     var txtPoint = dataSliced[i]["Point"].toFixed(1);
-    cell5.innerHTML = txtPoint;
+    cell6.innerHTML = txtPoint;
   }
 }
 
