@@ -41,7 +41,7 @@ h1 {
 #sltDifficulty,
 #sltRole {
   font-size: 1.1em;
-  height: 30px;
+  height: 35px;
 }
 
 #sltMap {
@@ -116,11 +116,11 @@ table tr:nth-child(2n + 2) {
   width: 50px;
 }
 .col3 {
-  width: 20px;
+  width: 30px;
 }
 
 .col4 {
-  width: 40px;
+  width: 50px;
 }
 
 .col5 {
