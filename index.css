@@ -20,6 +20,12 @@ body {
   padding-right: 5px;
   text-align: center;
 }
+
+#divRatio > p,
+#divRatio > input {
+  display: inline-block;
+}
+
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
 .col1 {
