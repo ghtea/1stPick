@@ -68,6 +68,8 @@ function updatePage() {
   } else {
     dataFiltered1 = dataMap.filter(function(heroObject) {
       return heroObject["Difficulty"] == currentDifficulty;
+
+      console.log(currentDifficulty);
     });
   }
 
