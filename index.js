@@ -143,7 +143,7 @@ function updatePage() {
   }
 }
 
-updatePage();
+window.onload = updatePage();
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
 sltRole.addEventListener("change", updatePage);
