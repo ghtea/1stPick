@@ -90,10 +90,8 @@ function updatePage() {
 
   /*console.log(ratio);*/
 
-  if (tbl.rows.length > 1) {
-    for (var i = 1; i < tbl.rows.length; i++) {
-      tbl.deleteRow(1);
-    }
+  while (tbl.rows.length > 1) {
+    tbl.deleteRow(1);
   }
 
   for (var i = 0; i < numShowingHero; i++) {
