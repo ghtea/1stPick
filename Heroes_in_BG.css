@@ -52,6 +52,10 @@ h1 {
   border-radius: 0px;
 }
 
+#tblGood td {
+  border-radius: 0px;
+}
+
 td > img {
   border-radius: 15%;
   width: 50px;
