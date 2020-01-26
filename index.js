@@ -172,7 +172,7 @@ function updatePage() {
     var divText = document.createElement("div");
     var txtGames = (100 / dataSliced[i]["PlayRate"]).toFixed(1);
     var txtWinRate = dataSliced[i]["WinRate"].toFixed(1);
-    divText.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
+    divText.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames + "G";
     divText.setAttribute("class", "divRectText");
     cell5.appendChild(divText);
 
