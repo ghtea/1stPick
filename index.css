@@ -122,12 +122,12 @@ table tr:nth-child(2n + 2) {
 
 .divRectText,
 .rectMain {
-  display: inline-block;
+  float: left;
 }
 
 .divRectText {
   text-align: right;
-  position: relative;
+  float: right;
 }
 /*
 #tblGood tr > :nth-child(4) {} 
