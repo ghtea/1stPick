@@ -135,7 +135,7 @@ function updatePage() {
 
     var txtGames = (100 / dataSliced[i]["PlayRate"]).toFixed(1);
     var txtWinRate = dataSliced[i]["WinRate"].toFixed(1);
-    cell5.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
+    cell4.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
 
     var txtPoint = dataSliced[i]["Point"].toFixed(1);
     cell6.innerHTML = txtPoint;
