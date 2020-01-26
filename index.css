@@ -33,6 +33,7 @@ h1 {
 
 #divInput {
   background-color: #0f1445;
+  width: 400px;
 }
 
 #divMap,
@@ -111,6 +112,7 @@ td > img {
 
 table tr:nth-child(2n + 3) {
   background-color: #0f1445;
+  weight
 }
 
 .col1 {
