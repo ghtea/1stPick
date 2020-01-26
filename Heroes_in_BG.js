@@ -76,7 +76,7 @@ function updatePage() {
     cell1.innerHTML = "#" + rank;
     cell2.innerHTML =
       "<img src=" + "heroImages/" + dataSliced[i]["HeroID"] + ".png" + ">";
-    cell3.innerHTML = dataSliced[i]["Difficulty"];
+    cell3.innerHTML = "" + dataSliced[i]["Difficulty"];
 
     console.log(dataSliced[3]["Difficulty"]);
 
