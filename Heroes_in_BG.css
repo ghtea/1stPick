@@ -29,12 +29,16 @@ body {
   width: 50px;
 }
 .col3 {
+  width: 50px;
+}
+
+.col4 {
   width: 400px;
 }
-.col4 {
+.col5 {
   width: 70px;
 }
-.col5 {
+.col6 {
   width: 70px;
 }
 
