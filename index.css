@@ -29,11 +29,14 @@ body {
 
 h1 {
   font-size: 1.5rem;
+  position: fixed ;
+  right:auto;
 }
 
 #divInput {
   background-color: #0f1445;
   width: 400px;
+  height: 160px;
   position: fixed ;
   right:auto;
 }
@@ -83,7 +86,9 @@ h1 {
 
 /* table */
 #tblGood {
-  margin: auto;
+  margin-top:240px;
+  margin-right: auto;
+  margin-left: auto;
   border-radius: 0px;
   table-layout: fixed;
 }
