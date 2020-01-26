@@ -116,7 +116,7 @@ table tr:nth-child(2n + 2) {
   width: 50px;
 }
 .col3 {
-  width: 30px;
+  width: 35px;
 }
 
 .col4 {
@@ -125,6 +125,14 @@ table tr:nth-child(2n + 2) {
 
 .col5 {
   width: 210px;
+}
+
+.col6 {
+  width: 45px;
+}
+
+#tblGood tr > :nth-child(3) {
+  color: #00042a;
 }
 
 .divRectText,
@@ -138,9 +146,5 @@ table tr:nth-child(2n + 2) {
   float: right;
 }
 /*
-#tblGood tr > :nth-child(4) {} 
+#tblGood tr > :nth-child(3) {} 
 */
-
-.col6 {
-  width: 45px;
-}
