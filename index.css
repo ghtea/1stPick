@@ -41,6 +41,12 @@ body {
 .col4 {
   width: 150px;
 }
+
+.col4 p {
+  text-align: right;
+  position: relative;
+}
+
 .col5 {
   width: 65px;
 }
