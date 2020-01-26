@@ -8,6 +8,9 @@ var dataMap = [];
 var dataMapRole = [];
 var dataFiltered1 = [];
 var dataFiltered2 = [];
+var dataSorted = [];
+var dataSliced = [];
+
 var body = document.querySelector("body");
 var tbl = document.querySelector("#tblGood");
 var numSizeWin = 4.5;
@@ -75,11 +78,12 @@ function updatePage() {
     });
   }
 
-  var dataSorted = dataFiltered2.sort(compaireFunc("Point"));
+  dataSorted = dataFiltered2.sort(compaireFunc("Point"));
 
-  var dataSliced = dataSorted;
   console.log(dataSorted.length);
-  if (dataSorted.length > numShowingHero) {
+  if (dataSorted.length <= numShowingHero) {
+    dataSliced = dataSorted;
+  } else {
     dataSliced = dataSorted.slice(0, numShowingHero);
   }
 
