@@ -137,6 +137,7 @@ table tr:nth-child(2n + 3) {
 
 #tblGood tr:nth-child(n + 2) > :nth-child(3) {
   color: #00042a;
+  /* if I add padding, actual content become smaller  */
   box-sizing: border-box;
 }
 
