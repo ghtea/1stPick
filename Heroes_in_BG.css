@@ -80,6 +80,6 @@ td > img {
   color: white;
 }
 
-table:nth-child(2n + 2) {
+table > tr:nth-child(2n + 2) {
   background-color: #0f1445;
 }
