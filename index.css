@@ -28,13 +28,16 @@ body {
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
 #divh1 {
-  font-size: 1.3rem;
   position: fixed ;
   height:100px;
   top:0px;
   right:50%;
-  left:50%;
+  transform: translate(-50%, 0);
   z-index: 10;
+}
+
+h1{
+  font-size: 1.3rem;
 }
 
 #divInput {
