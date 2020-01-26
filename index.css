@@ -127,6 +127,7 @@ table tr:nth-child(2n + 2) {
 
 .divRectText {
   text-align: right;
+  vertical-align: middle;
   float: right;
 }
 /*
