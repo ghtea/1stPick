@@ -81,7 +81,7 @@ td > img {
 #sltMap,
 #sltDifficulty,
 #sltRole {
-  font-size: 1.2em;
+  font-size: 1.1em;
   height: 30px;
 }
 
@@ -90,11 +90,11 @@ td > img {
 }
 
 #sltDifficulty {
-  width: 80px;
+  width: 100px;
 }
 
 #sltRole {
-  width: 120px;
+  width: 110px;
 }
 
 #divRatio > p,
