@@ -116,27 +116,31 @@ function updatePage() {
 
     console.log(dataSliced[100]);
 
-    var RectMain = document.createElement("div");
-    var RectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
-    var RectMainHeight =
+    var rectMain = document.createElement("div");
+    var rectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
+    var rectMainHeight =
       (dataSliced[i]["PlayRate"] + dataSliced[i]["BanRate"]) * numSizePlay;
 
-    RectMain.style =
+    rectMain.style =
       "width:" +
-      RectMainWidth +
+      rectMainWidth +
       "px;height:" +
-      RectMainHeight +
+      rectMainHeight +
       "px; background: linear-gradient(200deg, rgba(105,245,168,1) 0%, rgba(17,226,97,1) 40%, rgba(17,226,97,1) 100%); ";
+    rectMain.setAttribute("class", "rectMain");
     /* followings don't work
         Rect.style.width = RectWidth + "px;" ;
         Rect.style.height = RectHeight + "px;" ;
         Rect.setAttribute("class", "boxWG");
         */
-    cell4.appendChild(RectMain);
+    cell4.appendChild(rectMain);
 
+    var divText = document.createElement("div");
     var txtGames = (100 / dataSliced[i]["PlayRate"]).toFixed(1);
     var txtWinRate = dataSliced[i]["WinRate"].toFixed(1);
-    cell4.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
+    divText.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames;
+    divText.setAttribute("class", "divRectText");
+    cell4.appendChild(divText);
 
     var txtPoint = dataSliced[i]["Point"].toFixed(1);
     cell6.innerHTML = txtPoint;

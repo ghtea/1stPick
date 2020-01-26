@@ -42,10 +42,17 @@ body {
   width: 150px;
 }
 
-#tblGood tr > :nth-child(4) {
+.rectMain {
+  z-index: -1;
+}
+
+.divRectText {
   text-align: right;
   position: relative;
 }
+/*
+#tblGood tr > :nth-child(4) {}  this works too
+*/
 
 .col5 {
   width: 65px;
