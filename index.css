@@ -93,6 +93,10 @@ h1 {
   padding-bottom: 5px;
 }
 
+#thDifficulty {
+  font-size: 12px;
+}
+
 td > img {
   border-radius: 15%;
   padding: auto;
@@ -113,7 +117,6 @@ table tr:nth-child(2n + 2) {
 }
 .col3 {
   width: 40px;
-  font-size: 12px;
 }
 
 .col4 {
