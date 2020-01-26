@@ -135,6 +135,10 @@ table tr:nth-child(2n + 3) {
   width: 45px;
 }
 
+#tblGood tr:nth-child(n + 2) {
+  height: 50px;
+}
+
 #tblGood tr:nth-child(n + 2) > :nth-child(3) {
   color: #00042a;
   /* if I add padding, actual content become smaller  */
