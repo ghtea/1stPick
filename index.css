@@ -22,15 +22,16 @@ body {
 }
 
 #guideRatio {
-  font-size: 0.8em;
+  font-size: 0.8rem;
 }
 
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
 #divh1 {
-  font-size: 1.5rem;
+  font-size: 1.3rem;
   position: fixed ;
   height:100px;
+  top:0px;
   right:50%;
   z-index: 10px;
 }
