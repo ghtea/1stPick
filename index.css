@@ -23,6 +23,7 @@ body {
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
 .col1 {
+  width: 20px;
 }
 .col2 {
   width: 50px;
@@ -49,7 +50,7 @@ h1 {
 #tblGood {
   margin: auto;
   border-radius: 0px;
-  /*table-layout: fixed;*/
+  table-layout: fixed;
 }
 
 #tblGood td,
