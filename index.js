@@ -74,6 +74,7 @@ function updatePage() {
   var dataSorted = dataFiltered2.sort(compaireFunc("Point"));
 
   var dataSliced = dataSorted;
+  console.log(dataSorted.length);
   if (dataSorted.length > numShowingHero) {
     dataSliced = dataSorted.slice(0, numShowingHero);
   }
