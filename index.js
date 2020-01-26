@@ -115,7 +115,7 @@ function updatePage() {
     cell3.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
     console.log(dataSliced[100]);
-
+    cell4.setAttribute("class", "cellMain");
     var rectMain = document.createElement("div");
     var rectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
     var rectMainHeight =

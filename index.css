@@ -42,6 +42,10 @@ body {
   width: 150px;
 }
 
+.cellMain {
+  position: relative;
+}
+
 .rectMain {
   position: absolute;
 }
