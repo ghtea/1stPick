@@ -51,7 +51,7 @@ h1 {
 
 #tblGood td,
 #tblGood th {
-  /*word-break: break-all;*/
+  word-break: break-all;
   border-radius: 0px;
 }
 
