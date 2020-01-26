@@ -46,9 +46,10 @@ h1 {
   font-size: 1.5rem;
 }
 
-tblGood {
+#tblGood {
   table-layout: fixed;
   width: 100%;
+  border-radius: 0px;
 }
 
 td > img {
@@ -63,8 +64,7 @@ td > img {
 #divRole {
   display: inline-block;
   max-width: 30%;
-  margin-left: 1%;
-  margin-right: 1%;
+  height: 30px;
 }
 
 #divRatio > p,
