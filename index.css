@@ -42,7 +42,7 @@ body {
   width: 150px;
 }
 
-.col4 p {
+#tblGood tr > :nth-child(4) {
   text-align: right;
   position: relative;
 }
