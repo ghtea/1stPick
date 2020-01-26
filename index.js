@@ -3,7 +3,8 @@ var test = dataOriginal[1]['BanRate']; */
 
 /* almost constant variables, initialization, functions*/
 var numHero = 88;
-var numShowingHero = 25;
+var numShowingHero;
+var numShowingHeroMax = 25;
 var dataMap = [];
 var dataMapRole = [];
 var dataFiltered1 = [];
@@ -13,7 +14,7 @@ var dataSliced = [];
 
 var body = document.querySelector("body");
 var tbl = document.querySelector("#tblGood");
-var numSizeWin = 4.5;
+var numSizeWin = 5;
 var numSizePlay = 0.33;
 var sltMap = document.querySelector("#sltMap");
 var sltDifficulty = document.querySelector("#sltDifficulty");
@@ -82,10 +83,12 @@ function updatePage() {
 
   /*console.log(dataSorted.length);*/
 
-  if (dataSorted.length <= numShowingHero) {
+  if (dataSorted.length <= numShowingHeroMax) {
     dataSliced = dataSorted;
+    numShowingHero = dataSorted.length;
   } else {
-    dataSliced = dataSorted.slice(0, numShowingHero);
+    dataSliced = dataSorted.slice(0, numShowingHeroMax);
+    numShowingHero = numShowingHeroMax;
   }
 
   /*console.log(ratio);*/
