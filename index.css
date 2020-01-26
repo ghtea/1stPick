@@ -21,9 +21,8 @@ body {
   text-align: center;
 }
 
-#divRatio > p,
-#divRatio > input {
-  display: inline-block;
+#guideRatio {
+  font-size: 0.8em;
 }
 
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
@@ -82,8 +81,20 @@ td > img {
 #sltMap,
 #sltDifficulty,
 #sltRole {
-  width: 120px;
+  font-size: 1.2em;
   height: 30px;
+}
+
+#sltMap {
+  width: 160px;
+}
+
+#sltDifficulty {
+  width: 80px;
+}
+
+#sltRole {
+  width: 120px;
 }
 
 #divRatio > p,
