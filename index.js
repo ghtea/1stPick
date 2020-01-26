@@ -14,7 +14,7 @@ var dataSliced = [];
 
 var body = document.querySelector("body");
 var tbl = document.querySelector("#tblGood");
-var numSizeWin = 5;
+var numSizeWin = 4.8;
 var numSizePlay = 0.33;
 var sltMap = document.querySelector("#sltMap");
 var sltDifficulty = document.querySelector("#sltDifficulty");
@@ -116,7 +116,7 @@ function updatePage() {
     console.log(dataSliced[6]);
 
     var RectMain = document.createElement("div");
-    var RectMainWidth = (dataSliced[i]["WinRate"] - 40) * numSizeWin;
+    var RectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
     var RectMainHeight =
       (dataSliced[i]["PlayRate"] + dataSliced[i]["BanRate"]) * numSizePlay;
 
