@@ -6,6 +6,8 @@ var numHero = 88;
 var numShowingHero = 25;
 var dataMap = [];
 var dataMapRole = [];
+var dataFiltered1 = [];
+var dataFiltered2 = [];
 var body = document.querySelector("body");
 var tbl = document.querySelector("#tblGood");
 var numSizeWin = 4.5;
@@ -38,10 +40,10 @@ function listToMatrix(list, elementsPerSubArray) {
 }
 
 function updatePage() {
-  var currentMap = document.querySelector("#sltMap").value;
-  var currentDifficulty = document.querySelector("#sltDifficulty").value;
-  var currentRole = document.querySelector("#sltRole").value;
-  var ratio = document.querySelector("#rgRatio").value;
+  var currentMap = document.getElementById("sltMap").value;
+  var currentDifficulty = document.getElementById("sltDifficulty").value;
+  var currentRole = document.getElementById("sltRole").value;
+  var ratio = document.getElementById("rgRatio").value;
 
   var idxStart = currentMap * numHero;
   var idxEnd = currentMap * numHero + numHero;
@@ -57,15 +59,17 @@ function updatePage() {
   }
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
 
-  var dataFiltered1 = dataMap;
-  if (currentDifficulty != "All") {
+  if (currentDifficulty == "All") {
+    dataFiltered1 = dataMap;
+  } else {
     dataFiltered1 = dataMap.filter(function(heroObject) {
       return heroObject["Difficulty"] == currentDifficulty;
     });
   }
 
-  var dataFiltered2 = dataFiltered1;
-  if (currentRole != "All") {
+  if (currentRole == "All") {
+    dataFiltered2 = dataFiltered1;
+  } else {
     dataFiltered2 = dataFiltered1.filter(function(heroObject) {
       return heroObject["Role"] == currentRole;
     });
@@ -103,7 +107,7 @@ function updatePage() {
 
     cell3.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
-    console.log(dataSliced[3]["Difficulty"]);
+    console.log(dataSliced[6]);
 
     var RectMain = document.createElement("div");
     var RectMainWidth = (dataSliced[i]["WinRate"] - 40) * numSizeWin;
