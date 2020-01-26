@@ -76,26 +76,27 @@ function updatePage() {
     cell1.innerHTML = "#" + rank;
     cell2.innerHTML =
       "<img src=" + "heroImages/" + dataSliced[i]["HeroID"] + ".png" + ">";
-    cell3.innerHTML = "" + dataSliced[i]["Difficulty"];
+
+    cell3.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
     console.log(dataSliced[3]["Difficulty"]);
 
-    var Rect = document.createElement("div");
-    var RectWidth = (dataSliced[i]["WinRate"] - 40) * numSizeWin;
-    var RectHeight =
+    var RectMain = document.createElement("div");
+    var RectMainWidth = (dataSliced[i]["WinRate"] - 40) * numSizeWin;
+    var RectMainHeight =
       (dataSliced[i]["PlayRate"] + dataSliced[i]["BanRate"]) * numSizePlay;
     Rect.style =
       "width:" +
-      RectWidth +
+      RectMainWidth +
       "px;height:" +
-      RectHeight +
+      RectMainHeight +
       "px; background: linear-gradient(200deg, rgba(105,245,168,1) 0%, rgba(17,226,97,1) 40%, rgba(17,226,97,1) 100%); ";
     /* followings don't work
         Rect.style.width = RectWidth + "px;" ;
         Rect.style.height = RectHeight + "px;" ;
         Rect.setAttribute("class", "boxWG");
         */
-    cell4.appendChild(Rect);
+    cell4.appendChild(RectMain);
 
     var txtGames = (100 / dataSliced[i]["PlayRate"]).toFixed(1);
     var txtWinRate = dataSliced[i]["WinRate"].toFixed(1);

@@ -65,6 +65,9 @@ td > img {
   /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
 
+#divMap,
+#divDifficulty,
+#divRole,
 #sltMap,
 #sltDifficulty,
 #sltRole {
