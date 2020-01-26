@@ -34,6 +34,7 @@ h1 {
 #divInput {
   background-color: #0f1445;
   width: 400px;
+  position: fixed ;
 }
 
 #divMap,
