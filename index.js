@@ -67,9 +67,8 @@ function updatePage() {
     dataFiltered1 = dataMap;
   } else {
     dataFiltered1 = dataMap.filter(function(heroObject) {
-      return heroObject["Difficulty"] == currentDifficulty;
-
       console.log(currentDifficulty);
+      return heroObject["Difficulty"] == currentDifficulty;
     });
   }
 
@@ -115,7 +114,7 @@ function updatePage() {
 
     cell3.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
-    console.log(dataSliced[6]);
+    console.log(dataSliced[100]);
 
     var RectMain = document.createElement("div");
     var RectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
