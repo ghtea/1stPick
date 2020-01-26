@@ -15,7 +15,6 @@ body {
   color: white;
   background-color: #000429;
   margin: auto;
-  max-width: 500px;
   padding-left: 5px;
   padding-right: 5px;
   text-align: center;
@@ -33,7 +32,7 @@ body {
 }
 
 .col4 {
-  width: 400px;
+  max-width: 400px;
 }
 .col5 {
   width: 70px;
