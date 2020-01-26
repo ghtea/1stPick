@@ -1,36 +1,47 @@
-<!DOCTYPE html><html>
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+    <title>The Best Heroes in Battleground</title>
 
+    <link rel="stylesheet" href="Heroes_in_BG.css" />
+  </head>
 
-<head>
-	<meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no"> 
-	<title>The Best Heroes in Battleground</title>
+  <body>
+    <div id="content">
+      <h1>The Best Heroes in</h1>
 
-	<link rel="stylesheet" href="Heroes_in_BG.css" />
-</head>
-
-<body>
-    <div id="content"> 
-    
-	<h1>The Best Heroes in</h1>
-	
-	<div id="divMap"> 
-       <select id="sltMap">
-           <option value=0>Alterac Pass</option>
-           <option value=1>Battlefield of Eternity</option>
-           <option value=2>Braxis Holdout</option>
-           <option value=3>Cursed Hollow</option>
-           <option value=4>Dragon Shire</option>
-           <option value=5 selected>Hanamura Temple</option>
-           <option value=6>Infernal Shrines</option>
-           <option value=7>Sky Temple</option>
-           <option value=8>Tomb of the Spider Queen</option>
-           <option value=9>Towers of Doom</option>
-           <option value=10>Volskaya Foundry</option>
+      <div id="divMap">
+        <select id="sltMap">
+          <option value="0">Alterac Pass</option>
+          <option value="1">Battlefield of Eternity</option>
+          <option value="2">Braxis Holdout</option>
+          <option value="3">Cursed Hollow</option>
+          <option value="4">Dragon Shire</option>
+          <option value="5" selected>Hanamura Temple</option>
+          <option value="6">Infernal Shrines</option>
+          <option value="7">Sky Temple</option>
+          <option value="8">Tomb of the Spider Queen</option>
+          <option value="9">Towers of Doom</option>
+          <option value="10">Volskaya Foundry</option>
         </select>
-	</div>
-	
-        <!--
+      </div>
+
+      <div id="divDifficulty">
+        <select id="sltMap">
+          <option value="0">Very Easy</option>
+          <option value="1">Easy</option>
+          <option value="2">Medium</option>
+          <option value="3">Hard</option>
+          <option value="4">Very Hard</option>
+        </select>
+      </div>
+
+      <!--
     <div id="divRole"> 
        <select id ="sltRole">
            <option value="All" selected>All</option>
@@ -43,49 +54,41 @@
         </select>
 	</div>
         -->
-	
-	
-	<div id="divRatio"> 
-        <p>adjust point:   (Winrate</p> 
-        <input id="rgRatio" type="range">
-        <p>Games)</p> 
-    </div>
-	
-    
-        
-    <table id="tblGood">
+
+      <div id="divRatio">
+        <p>adjust point: (Winrate</p>
+        <input id="rgRatio" type="range" />
+        <p>Games)</p>
+      </div>
+
+      <table id="tblGood">
         <colgroup>
-            <col class="col1">
-            <col class="col2">
-            <col class="col3">
-            <col class="col4">
-            <col class="col5">
-    </colgroup>
-            <tr>
-                <th></th>
-                <th>Hero</th>
-                <th>Winrate(W)  x  Play+Ban(H)</th>
-                <th>Winrate<br>Games </th>
-                <th>Point</th>
-            </tr>
-    </table>
-	
-        
-        <p>data of 2019. 12. 17. ~ 2020. 1. 26.</p>
-        
-        <div id="divContact">
-            <p>contact: </p>
-            <a href="https://twitter.com/mbcat_hots">@mbcat_hots</a>
-        </div>
-        
+          <col class="col1" />
+          <col class="col2" />
+          <col class="col3" />
+          <col class="col4" />
+          <col class="col5" />
+        </colgroup>
+        <tr>
+          <th></th>
+          <th>Hero</th>
+          <th>Winrate(W) x Play+Ban(H)</th>
+          <th>Winrate<br />Games</th>
+          <th>Point</th>
+        </tr>
+      </table>
+
+      <p>data of 2019. 12. 17. ~ 2020. 1. 26.</p>
+
+      <div id="divContact">
+        <p>contact:</p>
+        <a href="https://twitter.com/mbcat_hots">@mbcat_hots</a>
+      </div>
     </div>
-    
-    
-      
+
     <!-- <script src="others/d3/d3.min.js"></script> -->
     <script src="others/jquery.csv.js"></script>
     <script src="data.js"></script>
     <script src="Heroes_in_BG.js"></script>
-</body>
-
+  </body>
 </html>
