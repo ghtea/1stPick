@@ -120,6 +120,10 @@ table tr:nth-child(2n + 2) {
 }
 
 .col4 {
+  width: 20px;
+}
+
+.col5 {
   width: 210px;
 }
 
@@ -137,6 +141,6 @@ table tr:nth-child(2n + 2) {
 #tblGood tr > :nth-child(4) {} 
 */
 
-.col5 {
+.col6 {
   width: 45px;
 }
