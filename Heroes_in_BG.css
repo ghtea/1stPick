@@ -47,6 +47,7 @@ h1 {
 }
 
 #tblGood {
+  margin: auto;
   border-radius: 0px;
   table-layout: fixed;
 }
