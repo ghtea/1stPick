@@ -27,10 +27,11 @@ body {
 
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
-h1 {
+#divh1 {
   font-size: 1.5rem;
   position: fixed ;
-  right:auto;
+  height:100px;
+  right:50%;
   z-index: 10px;
 }
 
@@ -39,7 +40,8 @@ h1 {
   width: 400px;
   height: 160px;
   position: fixed ;
-  right:auto;
+  top:100px;
+  right:50%;
   z-index: 10px;
 }
 
