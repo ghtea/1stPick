@@ -138,6 +138,7 @@ table tr:nth-child(2n + 2) {
 .divRectText,
 .rectMain {
   float: left;
+  margin: auto;
 }
 
 .divRectText {
