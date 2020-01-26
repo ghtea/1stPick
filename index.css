@@ -131,7 +131,7 @@ table tr:nth-child(2n + 2) {
   width: 45px;
 }
 
-#tblGood tr > :nth-child(3) {
+#tblGood tr:nth-child(n + 1) > :nth-child(3) {
   color: #00042a;
 }
 
