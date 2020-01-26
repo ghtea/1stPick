@@ -25,6 +25,7 @@ var stdWinRate = 3.6;
 var stdGame = 19;
 
 var roleInitial;
+var roleColor;
 
 function compaireFunc(key) {
   return function(a, b) {
@@ -118,24 +119,31 @@ function updatePage() {
     switch (dataSliced[i]["Role"]) {
       case "Tank":
         roleInitial = "T";
+        roleColor = "#FFC411";
         break;
       case "Bruiser":
         roleInitial = "B";
+        roleColor = "#FF6531";
         break;
       case "Melee Assassin":
         roleInitial = "M";
+        roleColor = "#FF2E2E";
         break;
       case "Ranged Assassin":
         roleInitial = "R";
+        roleColor = "#923AFF";
         break;
       case "Healer":
         roleInitial = "H";
+        roleColor = "#32D61E";
         break;
       case "Support":
         roleInitial = "S";
+        roleColor = "#3592FF";
         break;
     }
     cell3.innerHTML = roleInitial;
+    cell3.style = "background:" + roleColor;
 
     cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
