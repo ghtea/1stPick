@@ -64,6 +64,10 @@ td > img {
   display: inline-block;
 }
 
+#divMap {
+  max-width: 33%;
+}
+
 #divRatio > p,
 #divRatio > input,
 #divContact > p,
