@@ -39,29 +39,18 @@ body {
 }
 
 .col4 {
-  width: 150px;
+  width: 210px;
 }
 
-.cellMain {
+.divText {
+  text-align: right;
   position: relative;
 }
-
-.rectMain {
-  position: absolute;
-}
-
-.divRectText {
-  text-align: right;
-  position: absolute;
-}
 /*
-#tblGood tr > :nth-child(4) {}  this works too
+#tblGood tr > :nth-child(4) {} 
 */
 
 .col5 {
-  width: 65px;
-}
-.col6 {
   width: 45px;
 }
 

@@ -105,7 +105,6 @@ function updatePage() {
     var cell3 = row.insertCell(2);
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
-    var cell6 = row.insertCell(5);
 
     var rank = i + 1;
     cell1.innerHTML = "#" + rank;
@@ -143,7 +142,7 @@ function updatePage() {
     cell4.appendChild(divText);
 
     var txtPoint = dataSliced[i]["Point"].toFixed(1);
-    cell6.innerHTML = txtPoint;
+    cell5.innerHTML = txtPoint;
   }
 }
 
