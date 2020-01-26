@@ -80,14 +80,15 @@ function updatePage() {
 
   dataSorted = dataFiltered2.sort(compaireFunc("Point"));
 
-  console.log(dataSorted.length);
+  /*console.log(dataSorted.length);*/
+
   if (dataSorted.length <= numShowingHero) {
     dataSliced = dataSorted;
   } else {
     dataSliced = dataSorted.slice(0, numShowingHero);
   }
 
-  console.log(ratio);
+  /*console.log(ratio);*/
 
   if (tbl.rows.length > 1) {
     for (var i = 0; i < numShowingHero; i++) {
