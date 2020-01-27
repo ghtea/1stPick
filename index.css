@@ -170,11 +170,14 @@ table tr:nth-child(2n + 3) {
   color: #000429;
 }
 
+#tblGood tr:nth-child(n + 2) > :nth-child(4) {
+  display: flex;
+  align-items: center;
+}
+
 .divRectText,
 .rectMain {
-  float: none;
-  margin-left: 0px;
-  margin-top: auto;
+  float: left;
 }
 
 .divRectText {
