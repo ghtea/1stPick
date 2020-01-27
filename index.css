@@ -39,6 +39,7 @@ h1 {
 #divInput {
   background-color: #0f1445;
   height: 80px;
+  border-radius: 20px 0;
   padding-bottom: 20px;
   padding-top: 10px;
 }
@@ -218,7 +219,7 @@ div[class^="role"] {
   height: 40px;
   display: table-cell;
   vertical-align: middle;
-  border-radius: 10%;
+  border-radius: 2px;
   position: relative;
   right: 0px;
 }
