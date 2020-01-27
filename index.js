@@ -157,7 +157,7 @@ function updatePage() {
     rectRole.setAttribute("class", "role" + dataSliced[i]["Role"]);
     rectRole.innerHTML = roleInitial;
     divRoleTd.appendChild(rectRole);
-    cell3.appendChild(divRole);
+    cell3.appendChild(divRoleTd);
 
     for (var k = 0; k < parseInt(dataSliced[i]["Difficulty"]); k++) {
       var rectDifficulty = [];
