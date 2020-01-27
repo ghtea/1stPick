@@ -152,12 +152,12 @@ function updatePage() {
         roleInitial = "S";
         break;
     }
-    var divRole = document.createElement("div");
+    var divRoleTd = document.createElement("div");
     var rectRole = document.createElement("div");
     rectRole.setAttribute("class", "role" + dataSliced[i]["Role"]);
     rectRole.innerHTML = roleInitial;
+    divRoleTd.appendChild(rectRole);
     cell3.appendChild(divRole);
-    divRole.appendChild(rectRole);
 
     for (var k = 0; k < parseInt(dataSliced[i]["Difficulty"]); k++) {
       var rectDifficulty = [];
