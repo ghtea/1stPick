@@ -173,8 +173,14 @@ table tr:nth-child(2n + 3) {
   color: #B9BAC3;
 }
 
-#tblGood tr:nth-child(n + 2) > :nth-child(3) {
+/* ex: roleMelee Assassin */
+div[class ^= "role"] {
   color: #000429;
+  height: 40px;
+}
+
+div[class = "roleTank"] {
+  background-image: linear-gradient(-90deg, red, yellow);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
