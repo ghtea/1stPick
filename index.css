@@ -89,6 +89,7 @@ h1 {
 }
 
 #divSlt {
+  background-color: #0f1445;
   display: flex;
   justify-content: center;
   margin-bottom: 10px;
