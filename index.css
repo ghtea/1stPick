@@ -304,4 +304,6 @@ div[class="roleSupport"] {
 #dataDate {
   background-color: #0f1445;
   border-radius: 0 0 15px 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
