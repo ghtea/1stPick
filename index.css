@@ -91,6 +91,7 @@ h1 {
 #divSlt {
   display: flex;
   justify-content: center;
+  margin-bottom: 10px;
 }
 
 #sltMap,
