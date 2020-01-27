@@ -227,19 +227,19 @@ div[class="roleSupport"] {
 }
 
 .difficulty1 > div {
-  background-color: linear-gradient(-180deg, #935f2e, #72452e);
+  background-image: linear-gradient(to bottom, #935f2e, #72452e);
 }
 .difficulty2 > div {
-  background-color: linear-gradient(-180deg, #989b9b, #5a5c5b);
+  background-image: linear-gradient(to bottom, #989b9b, #5a5c5b);
 }
 .difficulty3 > div {
-  background-color: linear-gradient(-180deg, #dece38, #9c6400);
+  background-image: linear-gradient(to bottom, #dece38, #9c6400);
 }
 .difficulty4 > div {
-  background-color: linear-gradient(-180deg, #14eceb, #0c8bf2);
+  background-image: linear-gradient(to bottom, #14eceb, #0c8bf2);
 }
 .difficulty5 > div {
-  background-color: linear-gradient(-180deg, #9965ff, #972eff);
+  background-image: linear-gradient(to bottom, #9965ff, #972eff);
 }
 
 div[class^="difficulty"] {
