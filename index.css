@@ -147,7 +147,8 @@ h1 {
 }
 
 #tblGood th {
-  color: #b9bac3;
+  background-color: #0f1445;
+  color: white;
   height: 40px;
 }
 
