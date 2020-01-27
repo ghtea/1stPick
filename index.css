@@ -166,6 +166,10 @@ table tr:nth-child(2n + 3) {
   color: #B9BAC3;
 }
 
+#tblGood tr:nth-child(n + 2) > :nth-child(3) {
+  color: #000429;
+}
+
 .divRectText,
 .rectMain {
   float: left;
