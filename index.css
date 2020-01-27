@@ -20,16 +20,17 @@ body {
 
 #nonTable {
   display: block;
+  background-color: #0f1445;
+  width: 375px;
   position: static;
-  margin-right: auto;
-  margin-left: auto;
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
 
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
 #divh1 {
   height: 40px;
-  width: 375px;
 }
 
 h1 {
@@ -37,8 +38,6 @@ h1 {
 }
 
 #divInput {
-  background-color: #0f1445;
-  width: 375px;
   height: 80px;
   padding-bottom: 20px;
   padding-top: 10px;
@@ -241,27 +240,27 @@ div[class="roleSupport"] {
 .difficulty3 > div,
 .difficulty4 > div,
 .difficulty5 > div {
-  height: 9px;
-  width: 30px;
-  border-radius: 15%;
+  height: 7px;
+  width: 25px;
+  border-radius: 3px;
   margin-top: 1px;
   margin-bottom: 1px;
 }
 
 .difficulty1 > div {
-  background-image: linear-gradient(-90deg, rgb(216, 248, 108), #b5e51c);
+  background-image: linear-gradient(-90deg, rgb(228, 255, 141), #b5e51c);
 }
 .difficulty2 > div {
-  background-image: linear-gradient(-90deg, rgb(255, 220, 78), #ffd21f);
+  background-image: linear-gradient(-90deg, rgb(255, 228, 122), #ffd21f);
 }
 .difficulty3 > div {
-  background-image: linear-gradient(-90deg, rgb(255, 159, 62), #ff8f20);
+  background-image: linear-gradient(-90deg, rgb(255, 176, 97), #ff8f20);
 }
 .difficulty4 > div {
-  background-image: linear-gradient(-90deg, rgb(240, 74, 18), #d43601);
+  background-image: linear-gradient(-90deg, rgb(245, 117, 74), #d43601);
 }
 .difficulty5 > div {
-  background-image: linear-gradient(-90deg, #b62121, #880100);
+  background-image: linear-gradient(-90deg, #cf2e2e, #740000);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
