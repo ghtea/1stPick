@@ -111,7 +111,7 @@ h1{
 #tblGood th {
   font-weight: normal;
   word-break: break-all;
-  border-radius: 0px;
+  border-width: 0px;
 }
 
 #tblGood th {
@@ -163,7 +163,7 @@ table tr:nth-child(2n + 3) {
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(1) {
-  color: #E6E7F5;
+  color: #B9BAC3;
 }
 
 .divRectText,
