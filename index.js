@@ -146,9 +146,10 @@ function updatePage() {
       var rectDifficulty = document.createElement("div");
       cell4.appendChild(rectDifficulty);
     }
-    for (var k = 0; k < dataSliced[i]["Difficulty"]; k++) {
-      createRectDifficulty();
+    for (var k = 0; k < parseInt(dataSliced[i]["Difficulty"]); k++) {
+      createRectDifficulty;
     }
+    console.log(dataSliced[i]["Difficulty"]);
     cell4.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
 
     console.log(dataSliced[100]);
