@@ -276,6 +276,7 @@ div[class="roleSupport"] {
 .divRectText,
 .rectMain {
   float: left;
+  border-radius: 0 10px 10px 0;
 }
 
 .divRectText {
