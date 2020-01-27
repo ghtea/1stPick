@@ -212,5 +212,5 @@ sltDifficulty.addEventListener("change", updatePage);
 sltRole.addEventListener("change", updatePage);
 ipRatio.addEventListener("change", updatePage);
 document
-  .getElementsByClassName("checkbox")
+  .getElementsByClassName("cbxPicked")
   .addEventListener("change", checkPickedHeroes);
