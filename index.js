@@ -67,38 +67,37 @@ function updatePage() {
   }
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
 
-  if (currentDifficulty == "All") {
-    dataFiltered1 = dataMap;
-  } else {
-    dataFiltered1 = dataMap.filter(function(heroObject) {
-      console.log(currentDifficulty);
-      return heroObject["Difficulty"] == currentDifficulty;
-    });
-  }
-
-  switch (currentRole) {
+  switch (currentDifficulty) {
     case "All":
-      dataFiltered2 = dataFiltered1;
+      dataFiltered1 = dataMap;
       break;
     case "2":
-      dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-        return heroObject["Role"] == 1 || heroObject["Role"] == 2;
+      dataFiltered1 = dataMap.filter(function(heroObject) {
+        return heroObject["Difficulty"] == 1 || heroObject["Difficulty"] == 2;
       });
       break;
     case "3":
-      dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      dataFiltered1 = dataMap.filter(function(heroObject) {
         return (
-          heroObject["Role"] == 1 ||
-          heroObject["Role"] == 2 ||
-          heroObject["Role"] == 3
+          heroObject["Difficulty"] == 1 ||
+          heroObject["Difficulty"] == 2 ||
+          heroObject["Difficulty"] == 3
         );
       });
       break;
     case "4":
-      dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-        return heroObject["Role"] != 5;
+      dataFiltered1 = dataMap.filter(function(heroObject) {
+        return heroObject["Difficulty"] != 5;
       });
       break;
+  }
+
+  if (currentRole == "All") {
+    dataFiltered2 = dataFiltered1;
+  } else {
+    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      return heroObject["Role"] == currentRole;
+    });
   }
 
   dataSorted = dataFiltered2.sort(compaireFunc("Point"));
