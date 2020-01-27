@@ -142,9 +142,11 @@ function updatePage() {
         roleColor = "#3592FF";
         break;
     }
+
     cell3.innerHTML = roleInitial;
-    cell3.style =
-      "background:" + roleColor + "; opacity: 0.9" + "; padding: 5px" + ";";
+    var rectRole = document.createElement("div");
+    rectRole.setAttribute("class", "role" + dataSliced[i]["Role"]);
+    cell3.appendChild(rectRole);
 
     cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
 
