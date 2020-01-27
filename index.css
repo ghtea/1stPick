@@ -220,7 +220,7 @@ div[class^="role"] {
   display: table-cell;
   vertical-align: middle;
   border-radius: 2px;
-  margin-left: 10px;
+  padding-left: 10px;
 }
 
 div[class="roleTank"] {
