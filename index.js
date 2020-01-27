@@ -146,7 +146,7 @@ function updatePage() {
       var rectDifficulty = document.createElement("div");
       cell4.appendChild(rectDifficulty);
     }
-    for (k = 0; k < dataSliced[i]["Difficulty"]; k++) {
+    for (var k = 0; k < dataSliced[i]["Difficulty"]; k++) {
       createRectDifficulty();
     }
     cell4.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
