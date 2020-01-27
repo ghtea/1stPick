@@ -205,7 +205,6 @@ function checkPickedHeroes() {
 }
 
 window.onload = updatePage();
-window.onload = checkPickedHeroes();
 
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
