@@ -200,16 +200,18 @@ function updatePage() {
   }
 }
 
-function checkPickedHeroes() {
-  this.parentElement.parentElement.style.opacity = "0.3";
-}
-
 window.onload = updatePage();
 
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
 sltRole.addEventListener("change", updatePage);
 ipRatio.addEventListener("change", updatePage);
-document
-  .getElementsByClassName("cbxPicked")
-  .addEventListener("change", checkPickedHeroes);
+
+var listChecked = document.getElementsByClassName("cbxPicked");
+for (var i = 0; i < listChecked.length; i++) {
+  listChecked[i].addEventListener("change", function() {
+    if (this.checked) {
+      this.parentElement.parentElement.style.opacity = "0.3";
+    }
+  });
+}
