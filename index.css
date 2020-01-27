@@ -1,5 +1,8 @@
-@media (max-width:374px){
-  html{font-size:18px; zoom:85%;}
+@media (max-width: 374px) {
+  html {
+    zoom: 85%;
+  }
+}
 
 html {
   font-family: Helvetica, Arial, sans-serif;
@@ -253,6 +256,3 @@ div[class="roleSupport"] {
   vertical-align: middle;
   float: right;
 }
-/*
-#tblGood tr > :nth-child(3) {} 
-*/
