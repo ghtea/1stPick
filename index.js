@@ -142,17 +142,14 @@ function updatePage() {
     rectRole.innerHTML = roleInitial;
     cell3.appendChild(rectRole);
 
-    function createRectDifficulty() {
-      var rectDifficulty = document.createElement("div");
-      cell4.appendChild(rectDifficulty);
-    }
     for (var k = 0; k < parseInt(dataSliced[i]["Difficulty"]); k++) {
-      createRectDifficulty;
+      var rectDifficulty = [];
+      rectDifficulty[k] = document.createElement("div");
+      cell4.appendChild(rectDifficulty[k]);
     }
     console.log(dataSliced[i]["Difficulty"]);
     cell4.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
 
-    console.log(dataSliced[100]);
     cell5.setAttribute("class", "cellMain");
     var rectMain = document.createElement("div");
     var rectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
