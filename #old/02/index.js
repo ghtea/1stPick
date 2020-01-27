@@ -12,12 +12,12 @@ var dataFiltered2 = [];
 var dataSorted = [];
 var dataSliced = [];
 
-var body = document.getElementsByTagName("body");
-var tbl = document.getElementById("tblGood");
-var sltMap = document.getElementById("sltMap");
-var sltDifficulty = document.getElementById("sltDifficulty");
-var sltRole = document.getElementById("sltRole");
-var ipRatio = document.getElementById("rgRatio");
+var body = document.querySelector("body");
+var tbl = document.querySelector("#tblGood");
+var sltMap = document.querySelector("#sltMap");
+var sltDifficulty = document.querySelector("#sltDifficulty");
+var sltRole = document.querySelector("#sltRole");
+var ipRatio = document.querySelector("#rgRatio");
 
 var numSizeWin = 4.8;
 var numSizePlay = 0.3;
