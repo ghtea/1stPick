@@ -38,8 +38,9 @@ h1 {
 #divInput {
   background-color: #0f1445;
   width: 375px;
-  height: 100px;
-  padding-bottom: 10px;
+  height: 80px;
+  padding-bottom: 20px;
+  padding-top: 10px;
 }
 
 #guideRatio {
