@@ -53,7 +53,7 @@ h1 {
 #divRatio {
   height: 35px;
   width: 335px;
-  margin-left: 20px;
+  margin-left: 35px;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -68,10 +68,10 @@ h1 {
 /* Win Rate */
 #divRatio > :nth-child(1) {
   display: table;
-  width: 75px;
+  width: 60px;
 }
 #divRatio > :nth-child(1) > div {
-  width: 75px;
+  width: 60px;
   height: 35px;
   display: table-cell;
   vertical-align: middle;
@@ -85,7 +85,7 @@ h1 {
 /* Number of Games */
 #divRatio > :nth-child(3) {
   font-size: 0.9rem;
-  width: 75px;
+  width: 60px;
   display: table-cell;
   vertical-align: middle;
 }
