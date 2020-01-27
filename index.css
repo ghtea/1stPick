@@ -206,7 +206,7 @@ div[class^="role"] {
 }
 
 div[class="roleTank"] {
-  background-image: linear-gradient(-90deg, #fecb00, #de8700);
+  background-image: linear-gradient(-90deg, #ffda46, #de8700);
 }
 div[class="roleBruiser"] {
   background-image: linear-gradient(-90deg, #fc8c01, #f44e00);
@@ -215,7 +215,7 @@ div[class="roleMelee Assassin"] {
   background-image: linear-gradient(-90deg, #fe4594, #dc0157);
 }
 div[class="roleRanged Assassin"] {
-  background-image: linear-gradient(-90deg, #a32ac8, #76019d);
+  background-image: linear-gradient(-90deg, #bc40e2, #76019d);
 }
 div[class="roleHealer"] {
   background-image: linear-gradient(-90deg, #81f44c, #009c00);
