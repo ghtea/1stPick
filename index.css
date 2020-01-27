@@ -134,6 +134,7 @@ h1 {
   border-collapse: collapse;
   border-spacing: 0px;
   table-layout: fixed;
+  margin-bottom: 0px;
 }
 
 #tblGood td,
@@ -304,6 +305,7 @@ input[type="checkbox"] {
 #dataDate {
   background-color: #0f1445;
   border-radius: 0 0 15px 15px;
+  margin-top: 0px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
