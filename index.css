@@ -126,6 +126,7 @@ h1{
 
 #tblGood td {
   height: 50px !important ; 
+  border-width: 0px;
 }
 
 td > img {
