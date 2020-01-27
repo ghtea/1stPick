@@ -50,16 +50,23 @@ h1 {
   font-size: 0.8rem;
 }
 
+#divRatio > div {
+  display: inline-block;
+}
+
+/* Win Rate */
 #divRatio > :nth-child(2) {
   margin-left: 20px;
   margin-right: 5px;
   width: 75px;
 }
 
+/* ratio bar */
 #divRatio > :nth-child(3) {
   width: 200px;
 }
 
+/* Number of Games */
 #divRatio > :nth-child(4) {
   margin-right: 20px;
   margin-left: 5px;
@@ -141,7 +148,6 @@ h1 {
 
 td > img {
   border-radius: 15%;
-  vertical-align: middle;
   padding: auto;
   width: 50px;
   height: 50px;
