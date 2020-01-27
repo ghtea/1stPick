@@ -184,10 +184,10 @@ table tr:nth-child(2n + 3) {
 
 /* ex: roleMelee Assassin */
 div[class^="role"] {
-  color: #000429;
+  color: #0f1445;
   width: 15px;
   height: 40px;
-  display: inline-block;
+  display: table-cell;
   vertical-align: middle;
 }
 
