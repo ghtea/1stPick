@@ -144,13 +144,12 @@ function updatePage() {
 
     function createRectDifficulty() {
       var rectDifficulty = document.createElement("div");
-      rectDifficulty.setAttribute("class", "rectDifficulty");
       cell4.appendChild(rectDifficulty);
     }
     for (k = 0; k < dataSliced[i]["Difficulty"]; k++) {
-      createRectDifficulty;
+      createRectDifficulty();
     }
-    cell3.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
+    cell4.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
 
     console.log(dataSliced[100]);
     cell5.setAttribute("class", "cellMain");
