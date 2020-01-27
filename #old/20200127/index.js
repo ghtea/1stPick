@@ -195,22 +195,12 @@ function updatePage() {
     cell5.appendChild(divText);
 
     var txtPoint = dataSliced[i]["Point"].toFixed(1);
-
-    cell6.innerHTML = "<input type='checkbox' class = 'cbxPicked'>";
+    cell6.innerHTML = txtPoint;
   }
 }
 
-function checkPickedHeroes() {
-  this.parentElement.parentElement.style.opacity = "0.3";
-}
-
 window.onload = updatePage();
-window.onload = checkPickedHeroes();
-
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
 sltRole.addEventListener("change", updatePage);
 ipRatio.addEventListener("change", updatePage);
-document
-  .getElementsByClassName("checkbox")
-  .addEventListener("change", checkPickedHeroes);

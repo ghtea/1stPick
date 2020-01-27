@@ -1,0 +1,299 @@
+@media (max-width: 374px) {
+  html {
+    font-size: 14px;
+    zoom: 85%;
+  }
+}
+
+html {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 16px;
+}
+
+body {
+  color: white;
+  background-color: #000429;
+  width: 375px;
+  /*max-width: 400px;*/
+  position: static;
+  text-align: center;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+#nonTable {
+  display: block;
+  width: 375px;
+  position: static;
+  margin-right: auto !important;
+  margin-left: auto !important;
+}
+
+/*@media (min-width:1400px){bodywidth: 1400px ;}}*/
+
+#divh1 {
+  height: 40px;
+}
+
+h1 {
+  font-size: 1.4rem;
+}
+
+#divInput {
+  background-color: #0f1445;
+  border-radius: 15px 15px 0 0;
+  padding-top: 10px;
+}
+
+#guideRatio {
+  height: 20px;
+  font-size: 0.8rem;
+}
+
+#divRatio {
+  height: 35px;
+  width: 330px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#divMap,
+#divDifficulty,
+#divRole {
+  padding: 5px;
+}
+
+/* Win Rate */
+#divRatio > :nth-child(1) {
+  display: table;
+  width: 75px;
+}
+#divRatio > :nth-child(1) > div {
+  width: 75px;
+  height: 35px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+/* ratio bar */
+#divRatio > :nth-child(2) {
+  width: 200px;
+}
+
+/* Number of Games */
+#divRatio > :nth-child(3) {
+  font-size: 0.9rem;
+  width: 75px;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#divSlt {
+  background-color: #0f1445;
+  height: 35px;
+  display: flex;
+  justify-content: center;
+}
+
+#sltMap,
+#sltDifficulty,
+#sltRole {
+  font-size: 1em;
+}
+
+#sltMap {
+  width: 145px;
+}
+
+#sltDifficulty {
+  width: 95px;
+}
+
+#sltRole {
+  width: 95px;
+}
+
+#divRatio > p,
+#divRatio > input,
+#divContact > p,
+#divContact > a {
+  position: static;
+  display: inline;
+}
+
+#divContact > a {
+  color: white;
+}
+
+/* table */
+#tblGood {
+  margin-right: auto;
+  margin-left: auto;
+  border-collapse: collapse;
+  border-spacing: 0px;
+  table-layout: fixed;
+}
+
+#tblGood td,
+#tblGood th {
+  font-weight: normal;
+  word-break: break-all;
+  border: none;
+}
+
+#tblGood th {
+  background-color: #0f1445;
+  color: white;
+  height: 45px;
+}
+
+#thDifficulty {
+  font-size: 14px;
+}
+
+#tblGood td {
+  height: 50px !important ;
+  border: none;
+}
+
+td > img {
+  border-radius: 15%;
+  border-width: 0px;
+  padding-bottom: 3px;
+  padding-top: 3px;
+  width: 50px;
+  height: 50px;
+  /*position: absolute; top:0; left:50px; z-index: 10;";*/
+}
+
+table tr:nth-child(2n + 3) {
+  background-color: #0f1445;
+}
+
+.col1 {
+  width: 30px;
+}
+.col2 {
+  width: 50px;
+}
+.col3 {
+  width: 25px;
+}
+.col4 {
+  width: 40px;
+}
+.col5 {
+  width: 185px;
+}
+.col6 {
+  width: 45px;
+}
+
+#tblGood tr:nth-child(n + 2) {
+  height: 56px;
+}
+
+/* test 
+#tblGood tr:nth-child(2) {
+  opacity: 0.5;
+}
+*/
+
+#tblGood tr:nth-child(n + 2) > :nth-child(1) {
+  color: #b9bac3;
+}
+
+/* ex: roleMelee Assassin */
+div[class^="role"] {
+  color: #0f1445;
+  font-size: 0.8rem;
+  width: 15px;
+  height: 40px;
+  display: table-cell;
+  vertical-align: middle;
+  border-radius: 2px;
+  margin-left: 10px !important;
+}
+
+div[class="roleTank"] {
+  background-image: linear-gradient(-90deg, #ffda46, #de8700);
+}
+div[class="roleBruiser"] {
+  background-image: linear-gradient(-90deg, #fc8c01, #f44e00);
+}
+div[class="roleMelee Assassin"] {
+  background-image: linear-gradient(-90deg, #fe4594, #dc0157);
+}
+div[class="roleRanged Assassin"] {
+  background-image: linear-gradient(-90deg, #bc40e2, #76019d);
+}
+div[class="roleHealer"] {
+  background-image: linear-gradient(-90deg, #81f44c, #009c00);
+}
+div[class="roleSupport"] {
+  background-image: linear-gradient(-90deg, #57caf6, #016fbf);
+}
+
+.difficulty1,
+.difficulty2,
+.difficulty3,
+.difficulty4,
+.difficulty5 {
+  display: flex;
+  flex-direction: column-reverse;
+}
+
+.difficulty1 > div,
+.difficulty2 > div,
+.difficulty3 > div,
+.difficulty4 > div,
+.difficulty5 > div {
+  height: 7px;
+  width: 25px;
+  border-radius: 3px;
+  border-width: 0px;
+  margin-top: 1px;
+  margin-bottom: 1px;
+}
+
+.difficulty1 > div {
+  background-image: linear-gradient(-30deg, rgb(228, 255, 141), #b5e51c);
+}
+.difficulty2 > div {
+  background-image: linear-gradient(-30deg, rgb(255, 228, 122), #ffd21f);
+}
+.difficulty3 > div {
+  background-image: linear-gradient(-30deg, rgb(255, 176, 97), #ff8f20);
+}
+.difficulty4 > div {
+  background-image: linear-gradient(-30deg, rgb(245, 117, 74), #d43601);
+}
+.difficulty5 > div {
+  background-image: linear-gradient(-30deg, #cf2e2e, #740000);
+}
+
+#tblGood tr:nth-child(n + 2) > :nth-child(4) {
+  display: flex;
+  align-items: center;
+}
+
+.divRectText,
+.rectMain {
+  float: left;
+  border-radius: 0 2px 2px 0;
+}
+
+.divRectText {
+  text-align: right;
+  vertical-align: middle;
+  float: right;
+  position: relative;
+}
+
+#dataDate {
+  background-color: #0f1445;
+  border-radius: 0 0 15px 15px;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
