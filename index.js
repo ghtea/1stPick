@@ -76,12 +76,29 @@ function updatePage() {
     });
   }
 
-  if (currentRole == "All") {
-    dataFiltered2 = dataFiltered1;
-  } else {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] == currentRole;
-    });
+  switch (currentRole) {
+    case "All":
+      dataFiltered2 = dataFiltered1;
+      break;
+    case "2":
+      dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+        return heroObject["Role"] == 1 || heroObject["Role"] == 2;
+      });
+      break;
+    case "3":
+      dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+        return (
+          heroObject["Role"] == 1 ||
+          heroObject["Role"] == 2 ||
+          heroObject["Role"] == 3
+        );
+      });
+      break;
+    case "4":
+      dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+        return heroObject["Role"] != 5;
+      });
+      break;
   }
 
   dataSorted = dataFiltered2.sort(compaireFunc("Point"));
