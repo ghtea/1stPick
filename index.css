@@ -235,11 +235,11 @@ div[class="roleSupport"] {
   flex-direction: column-reverse;
 }
 
-.difficulty1 >,
-.difficulty2 >,
-.difficulty3 >,
-.difficulty4 >,
-.difficulty5 > {
+.difficulty1 > div,
+.difficulty2 > div,
+.difficulty3 > div,
+.difficulty4 > div,
+.difficulty5 > div {
   height: 9px;
   width: 33px;
   border-radius: 5%;
