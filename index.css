@@ -130,7 +130,7 @@ h1 {
 #tblGood {
   margin-right: auto;
   margin-left: auto;
-  border-width: 0px;
+  border: none;
   table-layout: fixed;
 }
 
@@ -138,7 +138,7 @@ h1 {
 #tblGood th {
   font-weight: normal;
   word-break: break-all;
-  border-width: 0px;
+  border: none;
 }
 
 #tblGood th {
@@ -152,7 +152,7 @@ h1 {
 
 #tblGood td {
   height: 50px !important ;
-  border-width: 0px;
+  border: none;
 }
 
 td > img {
