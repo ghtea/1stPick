@@ -16,6 +16,8 @@ body {
   /*max-width: 400px;*/
   position: static;
   text-align: center;
+  margin-right: auto !important;
+  margin-left: auto !important;
 }
 
 #nonTable {
