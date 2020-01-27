@@ -19,7 +19,7 @@ var sltDifficulty = document.getElementById("sltDifficulty");
 var sltRole = document.getElementById("sltRole");
 var ipRatio = document.getElementById("rgRatio");
 
-var numSizeWin = 4.8;
+var numSizeWin = 4.6;
 var numSizePlay = 0.3;
 var stdWinRate = 3.6;
 var stdGame = 19;
