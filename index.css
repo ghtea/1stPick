@@ -52,6 +52,7 @@ h1 {
   height: 35px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 #divMap,
@@ -68,6 +69,7 @@ h1 {
   margin-left: 20px;
   margin-right: 5px;
   width: 75px;
+  height: 35px;
   display: table-cell;
   vertical-align: middle;
 }
