@@ -143,9 +143,9 @@ function updatePage() {
         break;
     }
 
-    cell3.innerHTML = roleInitial;
     var rectRole = document.createElement("div");
     rectRole.setAttribute("class", "role" + dataSliced[i]["Role"]);
+    rectRole.innerHTML = roleInitial;
     cell3.appendChild(rectRole);
 
     cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
