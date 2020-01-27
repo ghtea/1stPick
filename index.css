@@ -62,6 +62,9 @@ h1 {
 
 /* Win Rate */
 #divRatio > :nth-child(1) {
+  display: table;
+}
+#divRatio > :nth-child(1) > div {
   margin-left: 20px;
   margin-right: 5px;
   width: 75px;
