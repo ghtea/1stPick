@@ -75,7 +75,6 @@ h1 {
 
 /* ratio bar */
 #divRatio > :nth-child(2) {
-  margin-top: 0px;
   width: 200px;
 }
 
@@ -92,7 +91,6 @@ h1 {
   height: 35px;
   display: flex;
   justify-content: center;
-  margin-bottom: 10px;
 }
 
 #sltMap,
@@ -119,11 +117,6 @@ h1 {
 #divContact > a {
   position: static;
   display: inline;
-}
-
-#divRatio {
-  padding-top: 5px;
-  padding-left: 5px;
 }
 
 #divContact > a {
