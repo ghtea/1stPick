@@ -4,7 +4,7 @@ var test = dataOriginal[1]['BanRate']; */
 /* almost constant variables, initialization, functions*/
 var numHero = 88;
 var numShowingHero;
-var numShowingHeroMax = 25;
+var numShowingHeroMax = 30;
 var dataMap = [];
 var dataMapRole = [];
 var dataFiltered1 = [];
