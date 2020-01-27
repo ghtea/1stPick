@@ -42,13 +42,19 @@ h1 {
   padding-bottom: 10px;
 }
 
+#guideRatio {
+  font-size: 0.8rem;
+}
+
 #divRatio {
   display: flex;
   justify-content: center;
 }
 
-#guideRatio {
-  font-size: 0.8rem;
+#divMap,
+#divDifficulty,
+#divRole {
+  padding: 5px;
 }
 
 /* Win Rate */
@@ -74,12 +80,6 @@ h1 {
   width: 75px;
   display: table-cell;
   vertical-align: middle;
-}
-
-#divMap,
-#divDifficulty,
-#divRole {
-  display: inline-block;
 }
 
 #divSlt {
