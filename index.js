@@ -143,6 +143,14 @@ function updatePage() {
     cell3.appendChild(rectRole);
 
     cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
+    function createRectDifficulty() {
+      var rectDifficulty = document.createElement("div");
+      rectDifficulty.setAttribute("class", "rectDifficulty");
+      cell4.appendChild(rectDifficulty);
+    }
+    for (k = 0; k < dataSliced[i]["Difficulty"]; k++) {
+      createRectDifficulty;
+    }
 
     console.log(dataSliced[100]);
     cell5.setAttribute("class", "cellMain");
