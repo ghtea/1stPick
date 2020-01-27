@@ -115,8 +115,8 @@ h1{
 }
 
 #tblGood th {
-  padding-top: 5px;
-  padding-bottom: 5px;
+  padding-top: 10px;
+  padding-bottom: 10px;
 }
 
 #thDifficulty {
@@ -151,7 +151,7 @@ table tr:nth-child(2n + 3) {
 }
 
 .col5 {
-  width: 210px;
+  width: 205px;
 }
 
 .col6 {
@@ -162,10 +162,8 @@ table tr:nth-child(2n + 3) {
   height: 50px;
 }
 
-#tblGood tr:nth-child(n + 2) > :nth-child(3) {
-  color: #00042a;
-  /* if I add padding, actual content become smaller  */
-  box-sizing: border-box;
+#tblGood tr:nth-child(n + 2) > :nth-child(1) {
+  color: #E6E7F5;
 }
 
 .divRectText,
