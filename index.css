@@ -93,6 +93,7 @@ h1 {
 
 #divSlt {
   background-color: #0f1445;
+  height: 35px;
   display: flex;
   justify-content: center;
   margin-bottom: 10px;
@@ -101,8 +102,7 @@ h1 {
 #sltMap,
 #sltDifficulty,
 #sltRole {
-  font-size: 1.1em;
-  height: 35px;
+  font-size: 1em;
 }
 
 #sltMap {
