@@ -82,6 +82,11 @@ h1 {
   display: inline-block;
 }
 
+#divSlt {
+  display: flex;
+  justify-content: center;
+}
+
 #sltMap,
 #sltDifficulty,
 #sltRole {
@@ -90,15 +95,15 @@ h1 {
 }
 
 #sltMap {
-  width: 160px;
+  width: 150px;
 }
 
 #sltDifficulty {
-  width: 110px;
+  width: 100px;
 }
 
 #sltRole {
-  width: 110px;
+  width: 100px;
 }
 
 #divRatio > p,
