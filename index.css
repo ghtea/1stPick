@@ -38,7 +38,6 @@ h1 {
 
 #divInput {
   background-color: #0f1445;
-  height: 80px;
   border-radius: 15px 15px 0 0;
   padding-bottom: 20px;
   padding-top: 10px;
@@ -202,10 +201,11 @@ table tr:nth-child(2n + 3) {
   height: 56px;
 }
 
-/* test */
+/* test 
 #tblGood tr:nth-child(2) {
   opacity: 0.5;
 }
+*/
 
 #tblGood tr:nth-child(n + 2) > :nth-child(1) {
   color: #b9bac3;
@@ -220,7 +220,7 @@ div[class^="role"] {
   display: table-cell;
   vertical-align: middle;
   border-radius: 2px;
-  padding-left: 10px;
+  margin-left: 10px;
 }
 
 div[class="roleTank"] {
