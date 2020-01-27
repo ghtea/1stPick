@@ -34,11 +34,9 @@ body {
   width: 400px;
 }
 
-h1{
+h1 {
   font-size: 1.4rem;
 }
-
-
 
 #divInput {
   background-color: #0f1445;
@@ -51,11 +49,11 @@ h1{
   font-size: 0.8rem;
 }
 
-#divInput > :nth-child(2){
+#divInput > :nth-child(2) {
   float: left;
 }
 
-#divInput > :nth-child(4){
+#divInput > :nth-child(4) {
   float: right;
 }
 
@@ -118,7 +116,7 @@ h1{
 }
 
 #tblGood th {
-  color: #B9BAC3;
+  color: #b9bac3;
   padding-top: 10px;
   padding-bottom: 10px;
 }
@@ -128,7 +126,7 @@ h1{
 }
 
 #tblGood td {
-  height: 50px !important ; 
+  height: 50px !important ;
   border-width: 0px;
 }
 
@@ -140,10 +138,8 @@ td > img {
   /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
 
-
 table tr:nth-child(2n + 3) {
   background-color: #0f1445;
-  weight
 }
 
 .col1 {
@@ -173,32 +169,32 @@ table tr:nth-child(2n + 3) {
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(1) {
-  color: #B9BAC3;
+  color: #b9bac3;
 }
 
 /* ex: roleMelee Assassin */
-div[class ^= "role"] {
+div[class^="role"] {
   color: #000429;
   height: 40px;
 }
 
-div[class = "roleTank"] {
-  background-image: linear-gradient(-90deg, #FFC411, yellow);
+div[class="roleTank"] {
+  background-image: linear-gradient(-90deg, #ffc411, yellow);
 }
-div[class = "roleBruiser"] {
-  background-image: linear-gradient(-90deg, #FF6531, yellow);
+div[class="roleBruiser"] {
+  background-image: linear-gradient(-90deg, #ff6531, yellow);
 }
-div[class = "roleMelee Assassin"] {
-  background-image: linear-gradient(-90deg, #FF2E2E, yellow);
+div[class="roleMelee Assassin"] {
+  background-image: linear-gradient(-90deg, #ff2e2e, yellow);
 }
-div[class = "roleRanged Assassin"] {
-  background-image: linear-gradient(-90deg, #923AFF, yellow);
+div[class="roleRanged Assassin"] {
+  background-image: linear-gradient(-90deg, #923aff, yellow);
 }
-div[class = "roleHealer"] {
-  background-image: linear-gradient(-90deg, #32D61E, yellow);
+div[class="roleHealer"] {
+  background-image: linear-gradient(-90deg, #32d61e, yellow);
 }
-div[class = "roleSupport"] {
-  background-image: linear-gradient(-90deg, #3592FF, yellow);
+div[class="roleSupport"] {
+  background-image: linear-gradient(-90deg, #3592ff, yellow);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
