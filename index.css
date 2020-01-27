@@ -53,11 +53,13 @@ h1 {
   margin-left: 20px;
   margin-right: 5px;
   width: 75px;
+  display: table-cell;
+  vertical-align: middle;
 }
 
 /* ratio bar */
 #divRatio > :nth-child(2) {
-  margin: 0px;
+  margin-top: 10px;
   width: 200px;
 }
 
