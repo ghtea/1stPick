@@ -20,7 +20,6 @@ body {
 
 #nonTable {
   display: block;
-  background-color: #0f1445;
   width: 375px;
   position: static;
   margin-right: auto !important;
@@ -38,6 +37,7 @@ h1 {
 }
 
 #divInput {
+  background-color: #0f1445;
   height: 80px;
   padding-bottom: 20px;
   padding-top: 10px;
