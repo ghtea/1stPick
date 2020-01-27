@@ -281,4 +281,5 @@ div[class="roleSupport"] {
   text-align: right;
   vertical-align: middle;
   float: right;
+  position: relative;
 }
