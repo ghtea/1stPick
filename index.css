@@ -135,6 +135,8 @@ h1 {
 #tblGood {
   margin-right: auto;
   margin-left: auto;
+  border-collapse: collapse;
+  border-spacing: 0px;
   border: none;
   table-layout: fixed;
 }
