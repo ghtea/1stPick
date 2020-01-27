@@ -184,22 +184,22 @@ div[class^="role"] {
 }
 
 div[class="roleTank"] {
-  background-image: linear-gradient(-90deg, #ffe324, #ffb533);
+  background-image: linear-gradient(-90deg, #fecb00, #de8700);
 }
 div[class="roleBruiser"] {
-  background-image: linear-gradient(-90deg, #facd68, #fc76b3);
+  background-image: linear-gradient(-90deg, #fc8c01, #f44e00);
 }
 div[class="roleMelee Assassin"] {
-  background-image: linear-gradient(-90deg, #ffcb52, #ff7b02);
+  background-image: linear-gradient(-90deg, #fe4594, #dc0157);
 }
 div[class="roleRanged Assassin"] {
-  background-image: linear-gradient(-90deg, #c165dd, #5c27ee);
+  background-image: linear-gradient(-90deg, #a32ac8, #76019d);
 }
 div[class="roleHealer"] {
-  background-image: linear-gradient(-90deg, #2afeb7, #08c792);
+  background-image: linear-gradient(-90deg, #81f44c, #009c00);
 }
 div[class="roleSupport"] {
-  background-image: linear-gradient(-90deg, #5581f1, #1153fc);
+  background-image: linear-gradient(-90deg, #57caf6, #016fbf);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
