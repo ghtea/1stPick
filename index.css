@@ -226,12 +226,20 @@ div[class="roleSupport"] {
   background-image: linear-gradient(-90deg, #57caf6, #016fbf);
 }
 
-div[class^="difficulty"] {
+.difficulty1,
+.difficulty2,
+.difficulty3,
+.difficulty4,
+.difficulty5 {
   display: flex;
   flex-direction: column-reverse;
 }
 
-div[class^="difficulty"] > div {
+.difficulty1 >,
+.difficulty2 >,
+.difficulty3 >,
+.difficulty4 >,
+.difficulty5 > {
   height: 9px;
   width: 33px;
   border-radius: 5%;
