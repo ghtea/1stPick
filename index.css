@@ -23,6 +23,8 @@ body {
 }
 
 #nonTable {
+  margin-right: auto;
+  margin-left: auto;
   position: static;
 }
 
@@ -132,6 +134,7 @@ h1 {
 
 td > img {
   border-radius: 15%;
+  vertical-align: middle;
   padding: auto;
   width: 50px;
   height: 50px;
@@ -176,25 +179,26 @@ table tr:nth-child(2n + 3) {
 div[class^="role"] {
   color: #000429;
   height: 40px;
+  vertical-align: middle;
 }
 
 div[class="roleTank"] {
-  background-image: linear-gradient(-90deg, #ffc411, yellow);
+  background-image: linear-gradient(-90deg, #ffc411, #ffc411);
 }
 div[class="roleBruiser"] {
-  background-image: linear-gradient(-90deg, #ff6531, yellow);
+  background-image: linear-gradient(-90deg, #ff6531, #ff6531);
 }
 div[class="roleMelee Assassin"] {
-  background-image: linear-gradient(-90deg, #ff2e2e, yellow);
+  background-image: linear-gradient(-90deg, #ff2e2e, #ff2e2e);
 }
 div[class="roleRanged Assassin"] {
-  background-image: linear-gradient(-90deg, #923aff, yellow);
+  background-image: linear-gradient(-90deg, #923aff, #923aff);
 }
 div[class="roleHealer"] {
-  background-image: linear-gradient(-90deg, #32d61e, yellow);
+  background-image: linear-gradient(-90deg, #32d61e, #32d61e);
 }
 div[class="roleSupport"] {
-  background-image: linear-gradient(-90deg, #3592ff, yellow);
+  background-image: linear-gradient(-90deg, #3592ff, #3592ff);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
