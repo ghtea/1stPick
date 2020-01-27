@@ -142,7 +142,6 @@ function updatePage() {
     rectRole.innerHTML = roleInitial;
     cell3.appendChild(rectRole);
 
-    cell4.innerHTML = "<p>" + dataSliced[i]["Difficulty"] + "</p>";
     function createRectDifficulty() {
       var rectDifficulty = document.createElement("div");
       rectDifficulty.setAttribute("class", "rectDifficulty");
@@ -151,6 +150,7 @@ function updatePage() {
     for (k = 0; k < dataSliced[i]["Difficulty"]; k++) {
       createRectDifficulty;
     }
+    cell3.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
 
     console.log(dataSliced[100]);
     cell5.setAttribute("class", "cellMain");
