@@ -31,7 +31,7 @@ body {
 
 #divh1 {
   background-color: #000429;
-  height: 60px;
+  height: 40px;
   width: 400px;
 }
 
@@ -51,11 +51,19 @@ h1 {
 }
 
 #divRatio > :nth-child(2) {
-  float: left;
+  margin-left: 20px;
+  margin-right: 5px;
+  width: 75px;
+}
+
+#divRatio > :nth-child(3) {
+  width: 200px;
 }
 
 #divRatio > :nth-child(4) {
-  float: right;
+  margin-right: 20px;
+  margin-left: 5px;
+  width: 75px;
 }
 
 #divMap,
