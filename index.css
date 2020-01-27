@@ -43,7 +43,7 @@ h1 {
 }
 
 #guideRatio {
-  height: 10px;
+  height: 20px;
   font-size: 0.8rem;
 }
 
@@ -65,8 +65,6 @@ h1 {
   display: table;
 }
 #divRatio > :nth-child(1) > div {
-  margin-left: 20px;
-  margin-right: 5px;
   width: 75px;
   height: 35px;
   display: table-cell;
@@ -82,8 +80,6 @@ h1 {
 /* Number of Games */
 #divRatio > :nth-child(3) {
   font-size: 0.9rem;
-  margin-right: 20px;
-  margin-left: 5px;
   width: 75px;
   display: table-cell;
   vertical-align: middle;
