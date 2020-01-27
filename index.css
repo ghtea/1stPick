@@ -233,6 +233,7 @@ div[class^="difficulty"] {
 
 div[class^="difficulty"] > div {
   height: 9px;
+  width: 33px;
   border-radius: 5%;
   margin-top: 1px;
   margin-bottom: 1px;
