@@ -31,7 +31,7 @@ body {
   background-color: #000429;
   position: fixed ;
   height: 60px;
-  width: 400px;
+  width: 420px;
   top:0px;
   right:50%;
   left: 50%;
@@ -45,8 +45,9 @@ h1{
 
 #divInput {
   background-color: #0f1445;
-  width: 400px;
+  width: 420px;
   height: 100px;
+  padding-bottom: 10px;
   position: fixed ;
   top:60px;
   right:50%;
@@ -151,7 +152,7 @@ table tr:nth-child(2n + 3) {
 }
 
 .col5 {
-  width: 205px;
+  width: 210px;
 }
 
 .col6 {
