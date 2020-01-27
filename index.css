@@ -219,6 +219,8 @@ div[class^="role"] {
   display: table-cell;
   vertical-align: middle;
   border-radius: 10%;
+  position: relative;
+  right: 0px;
 }
 
 div[class="roleTank"] {
