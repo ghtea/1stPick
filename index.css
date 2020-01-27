@@ -137,7 +137,6 @@ h1 {
   margin-left: auto;
   border-collapse: collapse;
   border-spacing: 0px;
-  border: none;
   table-layout: fixed;
 }
 
@@ -285,7 +284,7 @@ div[class="roleSupport"] {
 .divRectText,
 .rectMain {
   float: left;
-  border-radius: 0 3px 3px 0;
+  border-radius: 0 2px 2px 0;
 }
 
 .divRectText {
