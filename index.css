@@ -21,9 +21,6 @@ body {
   text-align: center;
 }
 
-#guideRatio {
-  font-size: 0.8rem;
-}
 
 /*@media (min-width:1400px){bodywidth: 1400px ;}}*/
 
@@ -43,6 +40,8 @@ h1{
   font-size: 1.4rem;
 }
 
+
+
 #divInput {
   background-color: #0f1445;
   width: 420px;
@@ -54,6 +53,18 @@ h1{
   left: 50%;
   transform: translate(-50%, 0);
   z-index: 10;
+}
+
+#guideRatio {
+  font-size: 0.8rem;
+}
+
+#divInput > :nth-child(2){
+  float: left;
+}
+
+#divInput > :nth-child(4){
+  float: right;
 }
 
 #divMap,
