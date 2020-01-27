@@ -172,8 +172,9 @@ table tr:nth-child(2n + 3) {
 
 .divRectText,
 .rectMain {
-  float: left;
-  margin: auto;
+  float: none;
+  margin-left: 0px;
+  margin-top: auto;
 }
 
 .divRectText {
