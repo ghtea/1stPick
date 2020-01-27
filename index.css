@@ -183,7 +183,22 @@ div[class ^= "role"] {
 }
 
 div[class = "roleTank"] {
-  background-image: linear-gradient(-90deg, red, yellow);
+  background-image: linear-gradient(-90deg, #FFC411, yellow);
+}
+div[class = "roleBruiser"] {
+  background-image: linear-gradient(-90deg, #FF6531, yellow);
+}
+div[class = "roleMelee Assassin"] {
+  background-image: linear-gradient(-90deg, #FF2E2E, yellow);
+}
+div[class = "roleRanged Assassin"] {
+  background-image: linear-gradient(-90deg, #923AFF, yellow);
+}
+div[class = "roleHealer"] {
+  background-image: linear-gradient(-90deg, #32D61E, yellow);
+}
+div[class = "roleSupport"] {
+  background-image: linear-gradient(-90deg, #3592FF, yellow);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
