@@ -90,13 +90,13 @@ h1 {
 }
 
 #divSlt {
-  background-color: #0f1445;
   height: 35px;
   display: flex;
   justify-content: center;
 }
 
 #divRole {
+  height: 50px;
   display: flex;
   justify-content: center;
 }
