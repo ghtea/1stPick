@@ -58,16 +58,12 @@ function updatePage() {
   var currentDifficulty = document.getElementById("sltDifficulty").value;
   var ratio = document.getElementById("rgRatio").value;
 
-  var currentRoleCheckedTank = document.getElementById("cbxRoleTank").checked;
-  var currentRoleCheckedBruiser = document.getElementById("cbxRoleBruiser")
-    .checked;
-  var currentRoleCheckedMelee = document.getElementById("cbxRoleMelee").checked;
-  var currentRoleCheckedRanged = document.getElementById("cbxRoleRanged")
-    .checked;
-  var currentRoleCheckedHealer = document.getElementById("cbxRoleHealer")
-    .checked;
-  var currentRoleCheckedSupport = document.getElementById("cbxRoleSuport")
-    .checked;
+  var currentRoleCheckedTank = cbxRoleTank.checked;
+  var currentRoleCheckedBruiser = cbxRoleBruiser.checked;
+  var currentRoleCheckedMelee = cbxRoleMelee.checked;
+  var currentRoleCheckedRanged = cbxRoleRanged.checked;
+  var currentRoleCheckedHealer = cbxRoleHealer.checked;
+  var currentRoleCheckedSupport = cbxRoleSupport.checked;
 
   console.log(currentRoleCheckedHealer);
 
@@ -260,6 +256,7 @@ sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
 sltRole.addEventListener("change", updatePage);
 ipRatio.addEventListener("change", updatePage);
+
 cbxRoleTank.addEventListener("change", updatePage);
 cbxRoleBruiser.addEventListener("change", updatePage);
 cbxRoleMelee.addEventListener("change", updatePage);
