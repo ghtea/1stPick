@@ -276,10 +276,10 @@ div[class="roleSupport"] {
   background-image: linear-gradient(-90deg, #ffbe7d, #ff8f20);
 }
 .difficulty4 > div {
-  background-image: linear-gradient(-90deg, #d33e3e, #9b0b0b);
+  background-image: linear-gradient(-90deg, #d33e3e, #b31313);
 }
 .difficulty5 > div {
-  background-image: linear-gradient(-90deg, #d33e3e, #9b0b0b);
+  background-image: linear-gradient(-90deg, #cf3470, #9e013d);
 }
 
 #tableMain tr:nth-child(n + 2) > :nth-child(3) {
@@ -301,7 +301,7 @@ div[class="roleSupport"] {
 }
 
 #tableMain tr td:nth-child(5) {
-  opacity: 1;
+  opacity: 1 !important;
 }
 
 input.cbxPerHero {
