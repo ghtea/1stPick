@@ -164,6 +164,8 @@ function showAll() {
   for (var i = 0; i < numHero; i++) {
     cbxPerHeroList[i].addEventListener("change", checkSome);
   }
+  hideSome;
+  checkSome;
 }
 
 function hideSome() {
