@@ -3,29 +3,25 @@ var test = dataOriginal[1]['BanRate']; */
 
 /* almost constant variables, initialization, functions*/
 var numHero = 88;
-var numShowingHero;
-var numShowingHeroMax = 30;
 var dataMap = [];
 var dataMapRole = [];
 var dataFiltered1 = [];
 var dataFiltered2 = [];
 var dataSorted = [];
-var dataSliced = [];
-var listPickedHeroes = [];
+var cbxPerHeroList = [];
 
 var body = document.getElementsByTagName("body");
 var tbl = document.getElementById("tblGood");
 var sltMap = document.getElementById("sltMap");
 var sltDifficulty = document.getElementById("sltDifficulty");
 var sltRole = document.getElementById("sltRole");
-var rpRatio = document.getElementById("rgRatio");
+var rgRatio = document.getElementById("rgRatio");
 var cbxRoleTank = document.getElementById("cbxRoleTank");
 var cbxRoleBruiser = document.getElementById("cbxRoleBruiser");
 var cbxRoleMelee = document.getElementById("cbxRoleMelee");
 var cbxRoleRanged = document.getElementById("cbxRoleRanged");
 var cbxRoleHealer = document.getElementById("cbxRoleHealer");
 var cbxRoleSupport = document.getElementById("cbxRoleSupport");
-var listChecked;
 var btnClear = document.getElementById("btnClear");
 
 var numSizeWin = 4.6;
@@ -56,140 +52,46 @@ function listToMatrix(list, elementsPerSubArray) {
   return matrix;
 }
 
-function updatePage() {
-  listChecked = document.getElementsByClassName("cbxPicked");
-
+function showAll() {
   var currentMap = document.getElementById("sltMap").value;
-  var currentDifficulty = document.getElementById("sltDifficulty").value;
-  var ratio = document.getElementById("rgRatio").value;
-
-  var currentRoleCheckedTank = cbxRoleTank.checked;
-  var currentRoleCheckedBruiser = cbxRoleBruiser.checked;
-  var currentRoleCheckedMelee = cbxRoleMelee.checked;
-  var currentRoleCheckedRanged = cbxRoleRanged.checked;
-  var currentRoleCheckedHealer = cbxRoleHealer.checked;
-  var currentRoleCheckedSupport = cbxRoleSupport.checked;
-
-  console.log(currentRoleCheckedHealer);
+  /*var currentDifficulty = document.getElementById("sltDifficulty").value;*/
+  var currentRatio = document.getElementById("rgRatio").value;
 
   var idxStart = currentMap * numHero;
   var idxEnd = currentMap * numHero + numHero;
   dataMap = dataOriginal.slice(idxStart, idxEnd);
 
-  for (var i = 0; i < 88; i++) {
+  /* about Ratio */
+  for (var i = 0; i < numHero; i++) {
     dataMap[i]["Point"] =
-      (100 - ratio) * (dataMap[i]["WinRate"] / 50 / stdWinRate) +
-      ratio *
+      (100 - currentRatio) * (dataMap[i]["WinRate"] / 50 / stdWinRate) +
+      currentRatio *
         ((((dataMap[i]["PlayRate"] + dataMap[i]["BanRate"]) / 100) * 88) /
           16 /
           stdGame);
   }
-  /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
-
-  switch (currentDifficulty) {
-    case "All":
-      dataFiltered1 = dataMap;
-      break;
-    case "2":
-      dataFiltered1 = dataMap.filter(function(heroObject) {
-        return heroObject["Difficulty"] == 1 || heroObject["Difficulty"] == 2;
-      });
-      break;
-    case "3":
-      dataFiltered1 = dataMap.filter(function(heroObject) {
-        return (
-          heroObject["Difficulty"] == 1 ||
-          heroObject["Difficulty"] == 2 ||
-          heroObject["Difficulty"] == 3
-        );
-      });
-      break;
-    case "4":
-      dataFiltered1 = dataMap.filter(function(heroObject) {
-        return heroObject["Difficulty"] != 5;
-      });
-      break;
-  }
-
-  if (currentRoleCheckedTank == false) {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] != "Tank";
-    });
-  } else {
-    dataFiltered2 = dataFiltered1;
-  }
-
-  if (currentRoleCheckedBruiser == false) {
-    dataFiltered3 = dataFiltered2.filter(function(heroObject) {
-      return heroObject["Role"] != "Bruiser";
-    });
-  } else {
-    dataFiltered3 = dataFiltered2;
-  }
-  if (currentRoleCheckedMelee == false) {
-    dataFiltered4 = dataFiltered3.filter(function(heroObject) {
-      return heroObject["Role"] != "Melee Assassin";
-    });
-  } else {
-    dataFiltered4 = dataFiltered3;
-  }
-  if (currentRoleCheckedRanged == false) {
-    dataFiltered5 = dataFiltered4.filter(function(heroObject) {
-      return heroObject["Role"] != "Ranged Assassin";
-    });
-  } else {
-    dataFiltered5 = dataFiltered4;
-  }
-  if (currentRoleCheckedHealer == false) {
-    dataFiltered6 = dataFiltered5.filter(function(heroObject) {
-      return heroObject["Role"] != "Healer";
-    });
-  } else {
-    dataFiltered6 = dataFiltered5;
-  }
-  if (currentRoleCheckedSupport == false) {
-    dataFiltered7 = dataFiltered6.filter(function(heroObject) {
-      return heroObject["Role"] != "Support";
-    });
-  } else {
-    dataFiltered7 = dataFiltered6;
-  }
-
-  dataSorted = dataFiltered7.sort(compaireFunc("Point"));
-
-  /*console.log(dataSorted.length);*/
-
-  if (dataSorted.length <= numShowingHeroMax) {
-    dataSliced = dataSorted;
-    numShowingHero = dataSorted.length;
-  } else {
-    dataSliced = dataSorted.slice(0, numShowingHeroMax);
-    numShowingHero = numShowingHeroMax;
-  }
-
-  /*console.log(ratio);*/
+  dataSorted = dataMap.sort(compaireFunc("Point"));
 
   while (tbl.rows.length > 1) {
     tbl.deleteRow(1);
   }
 
-  for (var i = 0; i < numShowingHero; i++) {
+  for (var i = 0; i < numHero; i++) {
     var row = tbl.insertRow(i + 1);
     var cell1 = row.insertCell(0);
     var cell2 = row.insertCell(1);
     var cell3 = row.insertCell(2);
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
-    var cell6 = row.insertCell(5);
 
-    row.setAttribute("id", "row" + dataSliced[i]["HeroID"]);
+    row.setAttribute("id", "rowHeroID" + dataSorted[i]["HeroID"]);
+    row.setAttribute("class", "rowDifficulty" + dataSorted[i]["Difficulty"]);
+    row.setAttribute("class", "rowRole" + dataSorted[i]["Role"]);
 
-    var rank = i + 1;
-    cell1.innerHTML = "#" + rank;
-    cell2.innerHTML =
-      "<img src=" + "heroImages/" + dataSliced[i]["HeroID"] + ".png" + ">";
+    cell1.innerHTML =
+      "<img src=" + "heroImages/" + dataSorted[i]["HeroID"] + ".png" + ">";
 
-    switch (dataSliced[i]["Role"]) {
+    switch (dataSorted[i]["Role"]) {
       case "Tank":
         roleInitial = "T";
         break;
@@ -211,24 +113,24 @@ function updatePage() {
     }
     var divRoleTd = document.createElement("div");
     var rectRole = document.createElement("div");
-    rectRole.setAttribute("class", "role" + dataSliced[i]["Role"]);
+    rectRole.setAttribute("class", "role" + dataSorted[i]["Role"]);
     rectRole.innerHTML = roleInitial;
     divRoleTd.appendChild(rectRole);
-    cell3.appendChild(divRoleTd);
+    cell2.appendChild(divRoleTd);
 
-    for (var k = 0; k < parseInt(dataSliced[i]["Difficulty"]); k++) {
+    for (var k = 0; k < parseInt(dataSorted[i]["Difficulty"]); k++) {
       var rectDifficulty = [];
       rectDifficulty[k] = document.createElement("div");
-      cell4.appendChild(rectDifficulty[k]);
+      cell3.appendChild(rectDifficulty[k]);
     }
-    console.log(dataSliced[i]["Difficulty"]);
-    cell4.setAttribute("class", "difficulty" + dataSliced[i]["Difficulty"]);
+    console.log(dataSorted[i]["Difficulty"]);
+    cell3.setAttribute("class", "difficulty" + dataSorted[i]["Difficulty"]);
 
-    cell5.setAttribute("class", "cellMain");
+    cell4.setAttribute("class", "cellMain");
     var rectMain = document.createElement("div");
-    var rectMainWidth = (dataSliced[i]["WinRate"] - 35) * numSizeWin;
+    var rectMainWidth = (dataSorted[i]["WinRate"] - 35) * numSizeWin;
     var rectMainHeight =
-      (dataSliced[i]["PlayRate"] + dataSliced[i]["BanRate"]) * numSizePlay;
+      (dataSorted[i]["PlayRate"] + dataSorted[i]["BanRate"]) * numSizePlay;
 
     rectMain.style =
       "width:" +
@@ -242,50 +144,171 @@ function updatePage() {
         Rect.style.height = RectHeight + "px;" ;
         Rect.setAttribute("class", "boxWG");
         */
-    cell5.appendChild(rectMain);
+    cell4.appendChild(rectMain);
 
     var divText = document.createElement("div");
-    var txtGames = (100 / dataSliced[i]["PlayRate"]).toFixed(1);
-    var txtWinRate = dataSliced[i]["WinRate"].toFixed(1);
+    var txtGames = (100 / dataSorted[i]["PlayRate"]).toFixed(1);
+    var txtWinRate = dataSorted[i]["WinRate"].toFixed(1);
     divText.innerHTML = txtWinRate + "%" + "<br> 1 in " + txtGames + "G";
     divText.setAttribute("class", "divRectText");
-    cell5.appendChild(divText);
+    cell4.appendChild(divText);
 
-    /* var txtPoint = dataSliced[i]["Point"].toFixed(1); */
+    /* var txtPoint = dataSorted[i]["Point"].toFixed(1); */
 
-    cell6.innerHTML = "<input type='checkbox' class = 'cbxPicked'>";
-  }
-
-  for (var i = 0; i < listChecked.length; i++) {
-    listChecked[i].addEventListener("change", function() {
-      if (this.checked) {
-        listPickedHeroes.push(this.parentElement.parentElement.id);
-      } else {
-        this.parentElement.parentElement.style.opacity = 1;
-        var index = listPickedHeroes.indexOf(
-          this.parentElement.parentElement.id
-        );
-        if (index !== -1) listPickedHeroes.splice(index, 1);
-      }
-      for (var l = 0; l < listPickedHeroes.length; l++) {
-        document.getElementById(listPickedHeroes[l]).style.opacity = 0.2;
-      }
-    });
+    cell5.innerHTML = "<input type='checkbox' class = 'cbxPerHero'>";
   }
 }
 
-window.onload = updatePage();
-rpRatio.addEventListener("change", updatePage);
-sltMap.addEventListener("change", updatePage);
-sltDifficulty.addEventListener("change", updatePage);
+function hideSome() {
+  var rows = document.querySelectorAll("#tableMain tr");
 
+  var currentDifficulty = document.getElementById("sltDifficulty").value;
+  var currentRatio = document.getElementById("rgRatio").value;
+
+  var currentRoleCheckedTank = cbxRoleTank.checked;
+  var currentRoleCheckedBruiser = cbxRoleBruiser.checked;
+  var currentRoleCheckedMelee = cbxRoleMelee.checked;
+  var currentRoleCheckedRanged = cbxRoleRanged.checked;
+  var currentRoleCheckedHealer = cbxRoleHealer.checked;
+  var currentRoleCheckedSupport = cbxRoleSupport.checked;
+
+  /* about Ratio */
+  for (var i = 0; i < numHero; i++) {
+    dataMap[i]["Point"] =
+      (100 - currentRatio) * (dataMap[i]["WinRate"] / 50 / stdWinRate) +
+      currentRatio *
+        ((((dataMap[i]["PlayRate"] + dataMap[i]["BanRate"]) / 100) * 88) /
+          16 /
+          stdGame);
+  }
+  dataSorted = dataMap.sort(compaireFunc("Point"));
+
+  /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
+  for (var rowNum = 0; rowNum < numHero; rowNum++) {
+    var currentrow = rows[rowNum + 1];
+    switch (currentDifficulty) {
+      case "All":
+        currentrow.classList.remove("rowHide");
+        break;
+      case "2":
+        /* https://stackoverflow.com/questions/16312528/check-if-an-array-contains-any-element-of-another-array-in-javascript/29447130 */
+        /* 한 배열에 여러 특정 값들이 있는지 확인 */
+        if (
+          ["rowDifficulty3", "rowDifficulty4", "rowDifficulty5"].some(element =>
+            rows[rowNum + 1].classList.includes(element)
+          )
+        ) {
+          /* https://stackoverflow.com/questions/11444640/add-a-class-to-a-div-with-javascript */
+          currentrow.classList.add("rowHide");
+        } else {
+          currentrow.classList.remove("rowHide");
+        }
+        break;
+      case "3":
+        if (
+          ["rowDifficulty4", "rowDifficulty5"].some(element =>
+            rows[rowNum + 1].classList.includes(element)
+          )
+        ) {
+          currentrow.classList.add("rowHide");
+        } else {
+          currentrow.classList.remove("rowHide");
+        }
+        break;
+      case "4":
+        if (
+          ["rowDifficulty5"].some(element =>
+            rows[rowNum + 1].classList.includes(element)
+          )
+        ) {
+          currentrow.classList.add("rowHide");
+        } else {
+          currentrow.classList.remove("rowHide");
+        }
+        break;
+    }
+  }
+
+  if (currentRoleCheckedTank == false) {
+    if (!rows[rowNum + 1].classList.includes("rowRoleTank")) {
+      currentrow.classList.add("rowHide");
+    } else {
+      currentrow.classList.remove("rowHide");
+    }
+  }
+
+  if (currentRoleCheckedBruiser == false) {
+    if (!rows[rowNum + 1].classList.includes("rowRoleBruiser")) {
+      currentrow.classList.add("rowHide");
+    } else {
+      currentrow.classList.remove("rowHide");
+    }
+  }
+
+  if (currentRoleCheckedMelee == false) {
+    if (!rows[rowNum + 1].classList.includes("rowRoleMelee Assassin")) {
+      currentrow.classList.add("rowHide");
+    } else {
+      currentrow.classList.remove("rowHide");
+    }
+  }
+
+  if (currentRoleCheckedRanged == false) {
+    if (!rows[rowNum + 1].classList.includes("rowRoleRanged Assassin")) {
+      currentrow.classList.add("rowHide");
+    } else {
+      currentrow.classList.remove("rowHide");
+    }
+  }
+
+  if (currentRoleCheckedHealer == false) {
+    if (!rows[rowNum + 1].classList.includes("rowRoleHealer")) {
+      currentrow.classList.add("rowHide");
+    } else {
+      currentrow.classList.remove("rowHide");
+    }
+  }
+
+  if (currentRoleCheckedSupport == false) {
+    if (!rows[rowNum + 1].classList.includes("rowRoleSupport")) {
+      currentrow.classList.add("rowHide");
+    } else {
+      currentrow.classList.remove("rowHide");
+    }
+  }
+}
+
+function checkSome() {
+  cbxPerHeroList = document.getElementsByClassName("cbxPerHero");
+  for (var rowNum = 1; rowNum < numHero + 1; rowNum++) {
+    var currentrow = rows[rowNum + 1];
+    var checkbox = document.querySelector(
+      ".cbxPerHero:nth-child(" + rowNum + ")"
+    );
+    if (checkbox.checked == true) {
+      currentrow.classList.add("rowCheck");
+    } else {
+      currentrow.classList.remove("rowCheck");
+    }
+  }
+}
+
+window.onload = showAll();
+sltMap.addEventListener("change", showAll);
 btnClear.addEventListener("click", function() {
   location.reload();
 });
 
-cbxRoleTank.addEventListener("change", updatePage);
-cbxRoleBruiser.addEventListener("change", updatePage);
-cbxRoleMelee.addEventListener("change", updatePage);
-cbxRoleRanged.addEventListener("change", updatePage);
-cbxRoleHealer.addEventListener("change", updatePage);
-cbxRoleSupport.addEventListener("change", updatePage);
+rgRatio.addEventListener("change", hideSome);
+sltDifficulty.addEventListener("change", hideSome);
+
+cbxRoleTank.addEventListener("change", hideSome);
+cbxRoleBruiser.addEventListener("change", hideSome);
+cbxRoleMelee.addEventListener("change", hideSome);
+cbxRoleRanged.addEventListener("change", hideSome);
+cbxRoleHealer.addEventListener("change", hideSome);
+cbxRoleSupport.addEventListener("change", hideSome);
+
+for (var i = 0; i < numHero; i++) {
+  cbxPerHeroList[i].addEventListener("change", checkSome);
+}
