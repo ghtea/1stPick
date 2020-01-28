@@ -238,6 +238,12 @@ function hideSome() {
       } else {
         currentrow.classList.remove("rowHide");
       }
+    } else {
+      if (Array.from(rows[rowNum].classList).includes("rowRoleTank")) {
+        currentrow.classList.remove("rowHide");
+      } else {
+        currentrow.classList.add("rowHide");
+      }
     }
 
     if (currentRoleCheckedBruiser == false) {
@@ -245,6 +251,12 @@ function hideSome() {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
+      }
+    } else {
+      if (Array.from(rows[rowNum].classList).includes("rowRoleBruiser")) {
+        currentrow.classList.remove("rowHide");
+      } else {
+        currentrow.classList.add("rowHide");
       }
     }
 
@@ -254,6 +266,12 @@ function hideSome() {
       } else {
         currentrow.classList.remove("rowHide");
       }
+    } else {
+      if (Array.from(rows[rowNum].classList).includes("rowRoleMelee")) {
+        currentrow.classList.remove("rowHide");
+      } else {
+        currentrow.classList.add("rowHide");
+      }
     }
 
     if (currentRoleCheckedRanged == false) {
@@ -261,6 +279,12 @@ function hideSome() {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
+      }
+    } else {
+      if (Array.from(rows[rowNum].classList).includes("rowRoleRanged")) {
+        currentrow.classList.remove("rowHide");
+      } else {
+        currentrow.classList.add("rowHide");
       }
     }
 
@@ -270,6 +294,12 @@ function hideSome() {
       } else {
         currentrow.classList.remove("rowHide");
       }
+    } else {
+      if (Array.from(rows[rowNum].classList).includes("rowRoleHealer")) {
+        currentrow.classList.remove("rowHide");
+      } else {
+        currentrow.classList.add("rowHide");
+      }
     }
 
     if (currentRoleCheckedSupport == false) {
@@ -277,6 +307,12 @@ function hideSome() {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
+      }
+    } else {
+      if (Array.from(rows[rowNum].classList).includes("rowRoleSupport")) {
+        currentrow.classList.remove("rowHide");
+      } else {
+        currentrow.classList.add("rowHide");
       }
     }
   }
