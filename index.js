@@ -1,4 +1,4 @@
-/* console.log(dataOriginal[1]['HeroID']);
+
 var test = dataOriginal[1]['BanRate']; */
 
 /* almost constant variables, initialization, functions*/
@@ -123,7 +123,6 @@ function showAll() {
       rectDifficulty[k] = document.createElement("div");
       cell3.appendChild(rectDifficulty[k]);
     }
-    console.log(dataSorted[i]["Difficulty"]);
     cell3.setAttribute("class", "difficulty" + dataSorted[i]["Difficulty"]);
 
     cell4.setAttribute("class", "cellMain");
