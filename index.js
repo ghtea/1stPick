@@ -64,9 +64,9 @@ function updatePage() {
   var currentRoleCheckedMelee = document.getElementById("cbxRoleMelee").checked;
   var currentRoleCheckedRanged = document.getElementById("cbxRoleRanged")
     .checked;
-  var currentRoleCheckedsHealer = document.getElementById("cbxRoleHealer")
+  var currentRoleCheckedHealer = document.getElementById("cbxRoleHealer")
     .checked;
-  var currentRoleCheckedsSupport = document.getElementById("cbxRoleSuport")
+  var currentRoleCheckedSupport = document.getElementById("cbxRoleSuport")
     .checked;
 
   var idxStart = currentMap * numHero;
@@ -112,34 +112,47 @@ function updatePage() {
     dataFiltered2 = dataFiltered1.filter(function(heroObject) {
       return heroObject["Role"] != "Tank";
     });
-  }
-  if (currentRoleCheckedBruiser == false) {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] != "Bruiser";
-    });
-  }
-  if (currentRoleCheckedMelee == false) {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] != "Melee Assassin";
-    });
-  }
-  if (currentRoleCheckedRanged == false) {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] != "Ranged Assassin";
-    });
-  }
-  if (currentRoleCheckedHealer == false) {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] != "Healer";
-    });
-  }
-  if (currentRoleCheckedSupport == false) {
-    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] != "Support";
-    });
+  } else {
+    dataFiltered2 = dataFiltered1;
   }
 
-  dataSorted = dataFiltered2.sort(compaireFunc("Point"));
+  if (currentRoleCheckedBruiser == false) {
+    dataFiltered3 = dataFiltered2.filter(function(heroObject) {
+      return heroObject["Role"] != "Bruiser";
+    });
+  } else {
+    dataFiltered3 = dataFiltered2;
+  }
+  if (currentRoleCheckedMelee == false) {
+    dataFiltered4 = dataFiltered3.filter(function(heroObject) {
+      return heroObject["Role"] != "Melee Assassin";
+    });
+  } else {
+    dataFiltered4 = dataFiltered3;
+  }
+  if (currentRoleCheckedRanged == false) {
+    dataFiltered5 = dataFiltered4.filter(function(heroObject) {
+      return heroObject["Role"] != "Ranged Assassin";
+    });
+  } else {
+    dataFiltered5 = dataFiltered4;
+  }
+  if (currentRoleCheckedHealer == false) {
+    dataFiltered6 = dataFiltered5.filter(function(heroObject) {
+      return heroObject["Role"] != "Healer";
+    });
+  } else {
+    dataFiltered6 = dataFiltered5;
+  }
+  if (currentRoleCheckedSupport == false) {
+    dataFiltered7 = dataFiltered6.filter(function(heroObject) {
+      return heroObject["Role"] != "Support";
+    });
+  } else {
+    dataFiltered7 = dataFiltered6;
+  }
+
+  dataSorted = dataFiltered7.sort(compaireFunc("Point"));
 
   /*console.log(dataSorted.length);*/
 
