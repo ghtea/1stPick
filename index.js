@@ -69,6 +69,8 @@ function updatePage() {
   var currentRoleCheckedSupport = document.getElementById("cbxRoleSuport")
     .checked;
 
+  console.log(currentRoleCheckedHealer);
+
   var idxStart = currentMap * numHero;
   var idxEnd = currentMap * numHero + numHero;
   dataMap = dataOriginal.slice(idxStart, idxEnd);
