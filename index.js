@@ -234,49 +234,49 @@ function hideSome() {
 
     if (currentRoleCheckedTank == false) {
       if (Array.from(rows[rowNum].classList).includes("rowRoleTank")) {
-        currentrow.classList.remove("rowHide");
-      } else {
         currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
       }
     }
 
     if (currentRoleCheckedBruiser == false) {
       if (Array.from(rows[rowNum].classList).includes("rowRoleBruiser")) {
-        currentrow.classList.remove("rowHide");
-      } else {
         currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
       }
     }
 
     if (currentRoleCheckedMelee == false) {
       if (Array.from(rows[rowNum].classList).includes("rowRoleMelee")) {
-        currentrow.classList.remove("rowHide");
-      } else {
         currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
       }
     }
 
     if (currentRoleCheckedRanged == false) {
       if (Array.from(rows[rowNum].classList).includes("rowRoleRanged")) {
-        currentrow.classList.remove("rowHide");
-      } else {
         currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
       }
     }
 
     if (currentRoleCheckedHealer == false) {
       if (Array.from(rows[rowNum].classList).includes("rowRoleHealer")) {
-        currentrow.classList.remove("rowHide");
-      } else {
         currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
       }
     }
 
     if (currentRoleCheckedSupport == false) {
       if (Array.from(rows[rowNum].classList).includes("rowRoleSupport")) {
-        currentrow.classList.remove("rowHide");
-      } else {
         currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
       }
     }
   }
