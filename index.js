@@ -279,7 +279,7 @@ function checkSome() {
 
 window.onload = showAll();
 sltMap.addEventListener("change", function() {
-  showAll;
+  showAll();
   /*
   document.getElementById("sltDifficulty").value = 5;
   cbxRoleTank.checked = true;
@@ -294,7 +294,9 @@ btnClear.addEventListener("click", function() {
   location.reload();
 });
 
-rgRatio.addEventListener("change", hideSome);
+rgRatio.addEventListener("change", function() {
+  showAll();
+});
 sltDifficulty.addEventListener("change", hideSome);
 
 cbxRoleTank.addEventListener("change", hideSome);
