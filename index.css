@@ -216,7 +216,7 @@ td > img {
 
 /* ex: roleMelee */
 div[class^="role"] {
-  color: #0f1445;
+  color: #000000;
   font-size: 0.8rem;
   width: 15px;
   height: 44px;
