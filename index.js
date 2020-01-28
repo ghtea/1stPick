@@ -11,6 +11,7 @@ var dataFiltered1 = [];
 var dataFiltered2 = [];
 var dataSorted = [];
 var dataSliced = [];
+var listPickedHeroes = [];
 
 var body = document.getElementsByTagName("body");
 var tbl = document.getElementById("tblGood");
@@ -181,6 +182,8 @@ function updatePage() {
     var cell5 = row.insertCell(4);
     var cell6 = row.insertCell(5);
 
+    row.setAttribute("id", "row" + dataSliced[i]["HeroID"]);
+
     var rank = i + 1;
     cell1.innerHTML = "#" + rank;
     cell2.innerHTML =
@@ -256,9 +259,15 @@ function updatePage() {
   for (var i = 0; i < listChecked.length; i++) {
     listChecked[i].addEventListener("change", function() {
       if (this.checked) {
-        this.parentElement.parentElement.style.opacity = "0.2";
+        listPickedHeroes.push(this.parentElement.parentElement.id);
       } else {
-        this.parentElement.parentElement.style.opacity = "1";
+        var index = listPickedHeroes.indexOf(
+          this.parentElement.parentElement.id
+        );
+        if (index !== -1) listPickedHeroes.splice(index, 1);
+      }
+      for (var l = 0; l < listPickedHeroes.length; l++) {
+        document.getElementById(listPickedHeroes[l]).style.opacity = 0.2;
       }
     });
   }
