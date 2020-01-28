@@ -191,6 +191,7 @@ function hideSome() {
   for (var rowNum = 1; rowNum <= numHero; rowNum++) {
     var currentrow = document.querySelectorAll("#tableMain > tr")[rowNum];
     console.log(currentrow);
+    console.log(document.querySelectorAll("#tableMain > tr"));
     switch (currentDifficulty) {
       case "All":
         currentrow.classList.remove("rowHide");
