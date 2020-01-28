@@ -165,6 +165,7 @@ function showAll() {
 }
 
 function hideSome() {
+  console.log(rows);
   var rows = document.getElementsByClassName("rowTableMain");
 
   var currentDifficulty = document.getElementById("sltDifficulty").value;
