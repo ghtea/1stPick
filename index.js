@@ -165,7 +165,7 @@ function showAll() {
 
 function hideSome() {
   var rows = document.getElementsByClassName("rowTableMain");
-  console.log(rows);
+
   var currentDifficulty = document.getElementById("sltDifficulty").value;
   var currentRatio = document.getElementById("rgRatio").value;
 
@@ -188,8 +188,8 @@ function hideSome() {
   dataSorted = dataMap.sort(compaireFunc("Point"));
 
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
-  for (var rowNum = 0; rowNum < numHero; rowNum++) {
-    var currentrow = rows[rowNum + 1];
+  for (var rowNum = 1; rowNum <= numHero; rowNum++) {
+    var currentrow = rows[rowNum];
     switch (currentDifficulty) {
       case "All":
         currentrow.classList.remove("rowHide");
@@ -199,7 +199,7 @@ function hideSome() {
         /* 한 배열에 여러 특정 값들이 있는지 확인 */
         if (
           ["rowDifficulty3", "rowDifficulty4", "rowDifficulty5"].some(element =>
-            rows[rowNum + 1].classList.includes(element)
+            rows[rowNum].classList.includes(element)
           )
         ) {
           /* https://stackoverflow.com/questions/11444640/add-a-class-to-a-div-with-javascript */
@@ -211,7 +211,7 @@ function hideSome() {
       case "3":
         if (
           ["rowDifficulty4", "rowDifficulty5"].some(element =>
-            rows[rowNum + 1].classList.includes(element)
+            rows[rowNum].classList.includes(element)
           )
         ) {
           currentrow.classList.add("rowHide");
@@ -222,7 +222,7 @@ function hideSome() {
       case "4":
         if (
           ["rowDifficulty5"].some(element =>
-            rows[rowNum + 1].classList.includes(element)
+            rows[rowNum].classList.includes(element)
           )
         ) {
           currentrow.classList.add("rowHide");
@@ -233,8 +233,8 @@ function hideSome() {
     }
 
     if (currentRoleCheckedTank == false) {
-      console.log(rows[rowNum + 1].classList.includes("rowRoleTank"));
-      if (!rows[rowNum + 1].classList.includes("rowRoleTank")) {
+      console.log(rows[rowNum].classList.includes("rowRoleTank"));
+      if (!rows[rowNum].classList.includes("rowRoleTank")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
@@ -242,7 +242,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedBruiser == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleBruiser")) {
+      if (!rows[rowNum].classList.includes("rowRoleBruiser")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
@@ -250,7 +250,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedMelee == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleMelee")) {
+      if (!rows[rowNum].classList.includes("rowRoleMelee")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
@@ -258,7 +258,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedRanged == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleRanged")) {
+      if (!rows[rowNum].classList.includes("rowRoleRanged")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
@@ -266,7 +266,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedHealer == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleHealer")) {
+      if (!rows[rowNum].classList.includes("rowRoleHealer")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
@@ -274,7 +274,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedSupport == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleSupport")) {
+      if (!rows[rowNum].classList.includes("rowRoleSupport")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
