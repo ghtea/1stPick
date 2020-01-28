@@ -86,6 +86,7 @@ function showAll() {
     var cell5 = row.insertCell(4);
 
     row.classList.add("rowTableMain");
+    row.classList.add("rowShow");
     row.setAttribute("id", "rowHeroID" + dataSorted[i]["HeroID"]);
     row.classList.add("rowDifficulty" + dataSorted[i]["Difficulty"]);
     row.classList.add("rowRole" + dataSorted[i]["Role"]);
