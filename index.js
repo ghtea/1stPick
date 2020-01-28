@@ -191,7 +191,7 @@ function hideSome() {
   for (var rowNum = 1; rowNum <= numHero; rowNum++) {
     var rowNum2 = rowNum + 1;
     var currentrow = document.querySelector(
-      "#tableMain > trnth-child(" + rowNum2 + ")"
+      "#tableMain > tr:nth-child(" + rowNum2 + ")"
     );
     switch (currentDifficulty) {
       case "All":
