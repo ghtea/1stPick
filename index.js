@@ -261,6 +261,7 @@ function updatePage() {
       if (this.checked) {
         listPickedHeroes.push(this.parentElement.parentElement.id);
       } else {
+        this.parentElement.parentElement.style.opacity = 1;
         var index = listPickedHeroes.indexOf(
           this.parentElement.parentElement.id
         );
