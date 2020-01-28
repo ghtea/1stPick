@@ -280,18 +280,11 @@ function hideSome() {
 }
 
 function checkSome() {
-  var rows = document.querySelectorAll("#tableMain tr");
-  for (var rowNum = 1; rowNum < numHero + 1; rowNum++) {
-    var currentrow = rows[rowNum];
-    var checkbox = document.querySelector(
-      ".cbxPerHero:nth-child(" + rowNum + ")"
-    );
-    var currentHero = checkbox.parentElement.parentElement.getAttribute("id");
-    if (checkbox.checked == true) {
-      document.getElementById(currentHero).classList.add("rowCheck");
-    } else {
-      document.getElementById(currentHero).classList.remove("rowCheck");
-    }
+  var currentHero = this.parentElement.parentElement.getAttribute("id");
+  if (this.checked == true) {
+    document.getElementById(currentHero).classList.add("rowCheck");
+  } else {
+    document.getElementById(currentHero).classList.remove("rowCheck");
   }
 }
 
