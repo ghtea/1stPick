@@ -156,13 +156,13 @@ h1 {
 }
 
 .col1 {
-  width: 52px;
+  width: 56px;
 }
 .col2 {
   width: 18px;
 }
 .col3 {
-  width: 45px;
+  width: 41px;
 }
 .col4 {
   width: 210px;
@@ -197,10 +197,7 @@ h1 {
   background-color: #0f1445;
   color: white;
   height: 45px;
-}
-
-#thDifficulty {
-  font-size: 14px;
+  font-size: 0.9rem;
 }
 
 #tableMain td {
