@@ -286,10 +286,11 @@ function checkSome() {
     var checkbox = document.querySelector(
       ".cbxPerHero:nth-child(" + rowNum + ")"
     );
+    var currentHero = checkbox.parentElement.parentElement.getAttribute("id");
     if (checkbox.checked == true) {
-      currentrow.classList.add("rowCheck");
+      document.getElementById(currentHero).classList.add("rowCheck");
     } else {
-      currentrow.classList.remove("rowCheck");
+      document.getElementById(currentHero).classList.remove("rowCheck");
     }
   }
 }
