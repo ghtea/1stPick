@@ -98,10 +98,10 @@ function showAll() {
       case "Bruiser":
         roleInitial = "B";
         break;
-      case "Melee Assassin":
+      case "Melee":
         roleInitial = "M";
         break;
-      case "Ranged Assassin":
+      case "Ranged":
         roleInitial = "R";
         break;
       case "Healer":
@@ -249,7 +249,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedMelee == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleMelee Assassin")) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleMelee")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");
@@ -257,7 +257,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedRanged == false) {
-      if (!rows[rowNum + 1].classList.includes("rowRoleRanged Assassin")) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleRanged")) {
         currentrow.classList.add("rowHide");
       } else {
         currentrow.classList.remove("rowHide");

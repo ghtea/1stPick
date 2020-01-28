@@ -214,7 +214,7 @@ td > img {
   /*position: absolute; top:0; left:50px; z-index: 10;";*/
 }
 
-/* ex: roleMelee Assassin */
+/* ex: roleMelee */
 div[class^="role"] {
   color: #0f1445;
   font-size: 0.8rem;
@@ -231,10 +231,10 @@ div[class="roleTank"] {
 div[class="roleBruiser"] {
   background-image: linear-gradient(-90deg, #ffa572, #ff5d26);
 }
-div[class="roleMelee Assassin"] {
+div[class="roleMelee"] {
   background-image: linear-gradient(-90deg, #ff7878, #ff3130);
 }
-div[class="roleRanged Assassin"] {
+div[class="roleRanged"] {
   background-image: linear-gradient(-90deg, #cc99ff, #9945ff);
 }
 div[class="roleHealer"] {
