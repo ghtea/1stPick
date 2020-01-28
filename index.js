@@ -248,9 +248,19 @@ function updatePage() {
     divText.setAttribute("class", "divRectText");
     cell5.appendChild(divText);
 
-    var txtPoint = dataSliced[i]["Point"].toFixed(1);
+    /* var txtPoint = dataSliced[i]["Point"].toFixed(1); */
 
     cell6.innerHTML = "<input type='checkbox' class = 'cbxPicked'>";
+  }
+
+  for (var i = 0; i < listChecked.length; i++) {
+    listChecked[i].addEventListener("change", function() {
+      if (this.checked) {
+        this.parentElement.parentElement.style.opacity = "0.2";
+      } else {
+        this.parentElement.parentElement.style.opacity = "1";
+      }
+    });
   }
 }
 
@@ -269,13 +279,3 @@ cbxRoleMelee.addEventListener("change", updatePage);
 cbxRoleRanged.addEventListener("change", updatePage);
 cbxRoleHealer.addEventListener("change", updatePage);
 cbxRoleSupport.addEventListener("change", updatePage);
-
-for (var i = 0; i < listChecked.length; i++) {
-  listChecked[i].addEventListener("change", function() {
-    if (this.checked) {
-      this.parentElement.parentElement.style.opacity = "0.2";
-    } else {
-      this.parentElement.parentElement.style.opacity = "1";
-    }
-  });
-}
