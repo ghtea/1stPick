@@ -189,9 +189,9 @@ function hideSome() {
   /*console.log(rows[3]);*/
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
   for (var rowNum = 1; rowNum <= numHero; rowNum++) {
-    var currentrow = document.querySelectorAll("#tableMain > tr")[rowNum];
+    var currentrow = document.querySelectorAll("#tableMain tr")[rowNum];
     console.log(currentrow);
-    console.log(document.querySelectorAll("#tableMain > tr"));
+    console.log(document.querySelectorAll("#tableMain tr"));
     switch (currentDifficulty) {
       case "All":
         currentrow.classList.remove("rowHide");
