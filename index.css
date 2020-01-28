@@ -259,54 +259,19 @@ div[class="roleSupport"] {
 }
 
 .difficulty1 > div {
-  background-image: linear-gradient(
-    0deg,
-    #000429,
-    #b5e51c,
-    #b5e51c,
-    #b5e51c,
-    #000429
-  );
+  background-image: linear-gradient(0deg, #000429, #b5e51c, #000429);
 }
 .difficulty2 > div {
-  background-image: linear-gradient(
-    0deg,
-    #000429,
-    #ffd21f,
-    #ffd21f,
-    #ffd21f,
-    #000429
-  );
+  background-image: linear-gradient(0deg, #000429, #ffd21f, #000429);
 }
 .difficulty3 > div {
-  background-image: linear-gradient(
-    0deg,
-    #000429,
-    #ff8f20,
-    #ff8f20,
-    #ff8f20,
-    #000429
-  );
+  background-image: linear-gradient(0deg, #000429, #ff8f20, #000429);
 }
 .difficulty4 > div {
-  background-image: linear-gradient(
-    0deg,
-    #000429,
-    #d43601,
-    #d43601,
-    #d43601,
-    #000429
-  );
+  background-image: linear-gradient(0deg, #000429, #d43601, #000429);
 }
 .difficulty5 > div {
-  background-image: linear-gradient(
-    0deg,
-    #000429,
-    #740000,
-    #740000,
-    #740000,
-    #000429
-  );
+  background-image: linear-gradient(0deg, #000429, #740000, #000429);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
