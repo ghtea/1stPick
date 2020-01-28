@@ -156,6 +156,8 @@ function showAll() {
 
     cell5.innerHTML = "<input type='checkbox' class = 'cbxPerHero'>";
   }
+
+  cbxPerHeroList = document.getElementsByClassName("cbxPerHero");
 }
 
 function hideSome() {
@@ -226,59 +228,58 @@ function hideSome() {
         }
         break;
     }
-  }
 
-  if (currentRoleCheckedTank == false) {
-    if (!rows[rowNum + 1].classList.includes("rowRoleTank")) {
-      currentrow.classList.add("rowHide");
-    } else {
-      currentrow.classList.remove("rowHide");
+    if (currentRoleCheckedTank == false) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleTank")) {
+        currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
+      }
     }
-  }
 
-  if (currentRoleCheckedBruiser == false) {
-    if (!rows[rowNum + 1].classList.includes("rowRoleBruiser")) {
-      currentrow.classList.add("rowHide");
-    } else {
-      currentrow.classList.remove("rowHide");
+    if (currentRoleCheckedBruiser == false) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleBruiser")) {
+        currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
+      }
     }
-  }
 
-  if (currentRoleCheckedMelee == false) {
-    if (!rows[rowNum + 1].classList.includes("rowRoleMelee Assassin")) {
-      currentrow.classList.add("rowHide");
-    } else {
-      currentrow.classList.remove("rowHide");
+    if (currentRoleCheckedMelee == false) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleMelee Assassin")) {
+        currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
+      }
     }
-  }
 
-  if (currentRoleCheckedRanged == false) {
-    if (!rows[rowNum + 1].classList.includes("rowRoleRanged Assassin")) {
-      currentrow.classList.add("rowHide");
-    } else {
-      currentrow.classList.remove("rowHide");
+    if (currentRoleCheckedRanged == false) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleRanged Assassin")) {
+        currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
+      }
     }
-  }
 
-  if (currentRoleCheckedHealer == false) {
-    if (!rows[rowNum + 1].classList.includes("rowRoleHealer")) {
-      currentrow.classList.add("rowHide");
-    } else {
-      currentrow.classList.remove("rowHide");
+    if (currentRoleCheckedHealer == false) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleHealer")) {
+        currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
+      }
     }
-  }
 
-  if (currentRoleCheckedSupport == false) {
-    if (!rows[rowNum + 1].classList.includes("rowRoleSupport")) {
-      currentrow.classList.add("rowHide");
-    } else {
-      currentrow.classList.remove("rowHide");
+    if (currentRoleCheckedSupport == false) {
+      if (!rows[rowNum + 1].classList.includes("rowRoleSupport")) {
+        currentrow.classList.add("rowHide");
+      } else {
+        currentrow.classList.remove("rowHide");
+      }
     }
   }
 }
 
 function checkSome() {
-  cbxPerHeroList = document.getElementsByClassName("cbxPerHero");
   for (var rowNum = 1; rowNum < numHero + 1; rowNum++) {
     var currentrow = rows[rowNum + 1];
     var checkbox = document.querySelector(
