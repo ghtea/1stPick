@@ -60,8 +60,7 @@ h1 {
 }
 
 #divMap,
-#divDifficulty,
-#divRole {
+#divDifficulty {
   padding: 5px;
 }
 
@@ -97,27 +96,22 @@ h1 {
   justify-content: center;
 }
 
-#divRole2 {
+#divRole {
   display: flex;
   justify-content: center;
 }
 
 #sltMap,
-#sltDifficulty,
-#sltRole {
+#sltDifficulty {
   font-size: 1em;
 }
 
 #sltMap {
-  width: 145px;
+  width: 180px;
 }
 
 #sltDifficulty {
-  width: 95px;
-}
-
-#sltRole {
-  width: 95px;
+  width: 120px;
 }
 
 #divRatio > p,
@@ -219,7 +213,7 @@ div[class^="role"] {
   height: 44px;
   display: table-cell;
   vertical-align: middle;
-  border-radius: 2px 5px 2px 5px;
+  border-radius: 2px 5px 5px 2px;
 }
 
 div[class="roleTank"] {

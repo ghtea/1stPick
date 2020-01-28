@@ -18,6 +18,12 @@ var sltMap = document.getElementById("sltMap");
 var sltDifficulty = document.getElementById("sltDifficulty");
 var sltRole = document.getElementById("sltRole");
 var ipRatio = document.getElementById("rgRatio");
+var cbxRoleTank = document.getElementById("cbxRoleTank");
+var cbxRoleBruiser = document.getElementById("cbxRoleBruiser");
+var cbxRoleMelee = document.getElementById("cbxRoleMelee");
+var cbxRoleRanged = document.getElementById("cbxRoleRanged");
+var cbxRoleHealer = document.getElementById("cbxRoleHealer");
+var cbxRoleSupport = document.getElementById("cbxRoleSupport");
 
 var numSizeWin = 4.6;
 var numSizePlay = 0.3;
@@ -50,8 +56,18 @@ function listToMatrix(list, elementsPerSubArray) {
 function updatePage() {
   var currentMap = document.getElementById("sltMap").value;
   var currentDifficulty = document.getElementById("sltDifficulty").value;
-  var currentRole = document.getElementById("sltRole").value;
   var ratio = document.getElementById("rgRatio").value;
+
+  var currentRoleCheckedTank = document.getElementById("cbxRoleTank").checked;
+  var currentRoleCheckedBruiser = document.getElementById("cbxRoleBruiser")
+    .checked;
+  var currentRoleCheckedMelee = document.getElementById("cbxRoleMelee").checked;
+  var currentRoleCheckedRanged = document.getElementById("cbxRoleRanged")
+    .checked;
+  var currentRoleCheckedsHealer = document.getElementById("cbxRoleHealer")
+    .checked;
+  var currentRoleCheckedsSupport = document.getElementById("cbxRoleSuport")
+    .checked;
 
   var idxStart = currentMap * numHero;
   var idxEnd = currentMap * numHero + numHero;
@@ -92,11 +108,34 @@ function updatePage() {
       break;
   }
 
-  if (currentRole == "All") {
-    dataFiltered2 = dataFiltered1;
-  } else {
+  if (currentRoleCheckedTank == false) {
     dataFiltered2 = dataFiltered1.filter(function(heroObject) {
-      return heroObject["Role"] == currentRole;
+      return heroObject["Role"] != "Tank";
+    });
+  }
+  if (currentRoleCheckedBruiser == false) {
+    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      return heroObject["Role"] != "Bruiser";
+    });
+  }
+  if (currentRoleCheckedMelee == false) {
+    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      return heroObject["Role"] != "Melee Assassin";
+    });
+  }
+  if (currentRoleCheckedRanged == false) {
+    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      return heroObject["Role"] != "Ranged Assassin";
+    });
+  }
+  if (currentRoleCheckedHealer == false) {
+    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      return heroObject["Role"] != "Healer";
+    });
+  }
+  if (currentRoleCheckedSupport == false) {
+    dataFiltered2 = dataFiltered1.filter(function(heroObject) {
+      return heroObject["Role"] != "Support";
     });
   }
 
@@ -206,6 +245,12 @@ sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
 sltRole.addEventListener("change", updatePage);
 ipRatio.addEventListener("change", updatePage);
+cbxRoleTank.addEventListener("change", updatePage);
+cbxRoleBruiser.addEventListener("change", updatePage);
+cbxRoleMelee.addEventListener("change", updatePage);
+cbxRoleRanged.addEventListener("change", updatePage);
+cbxRoleHealer.addEventListener("change", updatePage);
+cbxRoleSupport.addEventListener("change", updatePage);
 
 var listChecked = document.getElementsByClassName("cbxPicked");
 for (var i = 0; i < listChecked.length; i++) {
