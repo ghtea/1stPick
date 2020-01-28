@@ -93,6 +93,7 @@ h1 {
   height: 45px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 #divRole {
@@ -120,10 +121,10 @@ h1 {
 
 #labelClear {
   width: 40px;
-  height: 25px;
+  height: 33px;
   font-size: 1rem;
   background-color: #000429;
-  border-radius: 2px;
+  border-radius: 4px;
   display: table-cell;
   vertical-align: middle;
 }
