@@ -186,7 +186,7 @@ function hideSome() {
           stdGame);
   }
   dataSorted = dataMap.sort(compaireFunc("Point"));
-  console.log(rows[3]);
+  /*console.log(rows[3]);*/
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
   for (var rowNum = 1; rowNum <= numHero; rowNum++) {
     var rowNum2 = rowNum + 1;
