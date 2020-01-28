@@ -193,6 +193,7 @@ function hideSome() {
     var currentrow = document.querySelector(
       "#tableMain > tr:nth-child(" + rowNum2 + ")"
     );
+    console.log(currentrow);
     switch (currentDifficulty) {
       case "All":
         currentrow.classList.remove("rowHide");
