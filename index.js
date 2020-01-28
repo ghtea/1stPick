@@ -159,6 +159,9 @@ function showAll() {
   }
 
   cbxPerHeroList = document.getElementsByClassName("cbxPerHero");
+  for (var i = 0; i < numHero; i++) {
+    cbxPerHeroList[i].addEventListener("change", checkSome);
+  }
 }
 
 function hideSome() {
@@ -304,7 +307,3 @@ cbxRoleMelee.addEventListener("change", hideSome);
 cbxRoleRanged.addEventListener("change", hideSome);
 cbxRoleHealer.addEventListener("change", hideSome);
 cbxRoleSupport.addEventListener("change", hideSome);
-
-for (var i = 0; i < numHero; i++) {
-  cbxPerHeroList[i].addEventListener("change", checkSome);
-}
