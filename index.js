@@ -164,8 +164,6 @@ function showAll() {
   for (var i = 0; i < numHero; i++) {
     cbxPerHeroList[i].addEventListener("change", checkSome);
   }
-  hideSome;
-  checkSome;
 }
 
 function hideSome() {
@@ -280,7 +278,9 @@ function checkSome() {
 }
 
 window.onload = showAll();
-sltMap.addEventListener("change", showAll);
+sltMap.addEventListener("change", function() {
+  location.reload();
+});
 btnClear.addEventListener("click", function() {
   location.reload();
 });
