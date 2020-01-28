@@ -185,10 +185,10 @@ table tr:nth-child(2n + 3) {
   width: 45px;
 }
 .col5 {
-  width: 195px;
+  width: 190px;
 }
 .col6 {
-  width: 35px;
+  width: 40px;
 }
 
 #tblGood tr:nth-child(n + 2) {
@@ -267,10 +267,10 @@ div[class="roleSupport"] {
   background-image: linear-gradient(-90deg, #ffbe7d, #ff8f20);
 }
 .difficulty4 > div {
-  background-image: linear-gradient(-90deg, #d33e3e, #740000);
+  background-image: linear-gradient(-90deg, #d33e3e, #9b0b0b);
 }
 .difficulty5 > div {
-  background-image: linear-gradient(-90deg, #d33e3e, #740000);
+  background-image: linear-gradient(-90deg, #d33e3e, #9b0b0b);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {

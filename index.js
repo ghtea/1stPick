@@ -17,13 +17,14 @@ var tbl = document.getElementById("tblGood");
 var sltMap = document.getElementById("sltMap");
 var sltDifficulty = document.getElementById("sltDifficulty");
 var sltRole = document.getElementById("sltRole");
-var ipRatio = document.getElementById("rgRatio");
+var rpRatio = document.getElementById("rgRatio");
 var cbxRoleTank = document.getElementById("cbxRoleTank");
 var cbxRoleBruiser = document.getElementById("cbxRoleBruiser");
 var cbxRoleMelee = document.getElementById("cbxRoleMelee");
 var cbxRoleRanged = document.getElementById("cbxRoleRanged");
 var cbxRoleHealer = document.getElementById("cbxRoleHealer");
 var cbxRoleSupport = document.getElementById("cbxRoleSupport");
+var listChecked = document.getElementsByClassName("cbxPicked");
 
 var numSizeWin = 4.6;
 var numSizePlay = 0.3;
@@ -254,8 +255,7 @@ window.onload = updatePage();
 
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
-sltRole.addEventListener("change", updatePage);
-ipRatio.addEventListener("change", updatePage);
+rpRatio.addEventListener("change", updatePage);
 
 cbxRoleTank.addEventListener("change", updatePage);
 cbxRoleBruiser.addEventListener("change", updatePage);
@@ -264,7 +264,6 @@ cbxRoleRanged.addEventListener("change", updatePage);
 cbxRoleHealer.addEventListener("change", updatePage);
 cbxRoleSupport.addEventListener("change", updatePage);
 
-var listChecked = document.getElementsByClassName("cbxPicked");
 for (var i = 0; i < listChecked.length; i++) {
   listChecked[i].addEventListener("change", function() {
     if (this.checked) {
