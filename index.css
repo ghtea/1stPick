@@ -114,10 +114,20 @@ h1 {
   width: 100px;
 }
 
-#btnClear {
+#divClear {
+  display: table;
+}
+
+#labelClear {
   width: 40px;
   height: 25px;
   font-size: 1rem;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#btnClear {
+  display: none;
 }
 
 #divRatio > p,

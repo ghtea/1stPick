@@ -24,7 +24,7 @@ var cbxRoleMelee = document.getElementById("cbxRoleMelee");
 var cbxRoleRanged = document.getElementById("cbxRoleRanged");
 var cbxRoleHealer = document.getElementById("cbxRoleHealer");
 var cbxRoleSupport = document.getElementById("cbxRoleSupport");
-var listChecked = document.getElementsByClassName("cbxPicked");
+var listChecked;
 var btnClear = document.getElementById("btnClear");
 
 var numSizeWin = 4.6;
@@ -56,6 +56,8 @@ function listToMatrix(list, elementsPerSubArray) {
 }
 
 function updatePage() {
+  listChecked = document.getElementsByClassName("cbxPicked");
+
   var currentMap = document.getElementById("sltMap").value;
   var currentDifficulty = document.getElementById("sltDifficulty").value;
   var ratio = document.getElementById("rgRatio").value;
