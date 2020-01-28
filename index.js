@@ -83,10 +83,10 @@ function showAll() {
     var cell4 = row.insertCell(3);
     var cell5 = row.insertCell(4);
 
-    row.setAttribute("class", "rowTableMain");
+    row.classList.add("rowTableMain");
     row.setAttribute("id", "rowHeroID" + dataSorted[i]["HeroID"]);
-    row.setAttribute("class", "rowDifficulty" + dataSorted[i]["Difficulty"]);
-    row.setAttribute("class", "rowRole" + dataSorted[i]["Role"]);
+    row.classList.add("rowDifficulty" + dataSorted[i]["Difficulty"]);
+    row.classList.add("rowRole" + dataSorted[i]["Role"]);
 
     cell1.innerHTML =
       "<img src=" + "heroImages/" + dataSorted[i]["HeroID"] + ".png" + ">";
@@ -164,9 +164,8 @@ function showAll() {
 }
 
 function hideSome() {
-  console.log(rows);
   var rows = document.getElementsByClassName("rowTableMain");
-
+  console.log(rows);
   var currentDifficulty = document.getElementById("sltDifficulty").value;
   var currentRatio = document.getElementById("rgRatio").value;
 
