@@ -233,6 +233,7 @@ function hideSome() {
     }
 
     if (currentRoleCheckedTank == false) {
+      console.log(rows[rowNum + 1].classList.includes("rowRoleTank"));
       if (!rows[rowNum + 1].classList.includes("rowRoleTank")) {
         currentrow.classList.add("rowHide");
       } else {
