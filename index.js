@@ -282,7 +282,7 @@ function hideSome() {
 function checkSome() {
   var rows = document.querySelectorAll("#tableMain tr");
   for (var rowNum = 1; rowNum < numHero + 1; rowNum++) {
-    var currentrow = rows[rowNum + 1];
+    var currentrow = rows[rowNum];
     var checkbox = document.querySelector(
       ".cbxPerHero:nth-child(" + rowNum + ")"
     );
