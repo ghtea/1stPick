@@ -73,7 +73,7 @@ function showAll() {
   }
   dataSorted = dataMap.sort(compaireFunc("Point"));
 
-  while (tbl.rows.length > 1) {
+  for (var i = 0; i < numHero; i++) {
     tbl.deleteRow(1);
   }
 
