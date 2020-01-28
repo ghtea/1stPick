@@ -190,9 +190,7 @@ function hideSome() {
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
   for (var rowNum = 1; rowNum <= numHero; rowNum++) {
     var rowNum2 = rowNum + 1;
-    var currentrow = document.querySelector(
-      "#tableMain > tr:nth-child(" + rowNum2 + ")"
-    );
+    var currentrow = document.querySelectorAll("#tableMain > tr")[rowNum2];
     console.log(currentrow);
     switch (currentDifficulty) {
       case "All":
