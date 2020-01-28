@@ -190,8 +190,6 @@ function hideSome() {
   /*just check https://stackoverflow.com/questions/31831651/javascript-filter-array-multiple-conditions*/
   for (var rowNum = 1; rowNum <= numHero; rowNum++) {
     var currentRow = document.querySelectorAll("#tableMain tr")[rowNum];
-    console.log(currentRow);
-    console.log(document.querySelectorAll("#tableMain tr"));
     switch (currentDifficulty) {
       case "All":
         currentRow.classList.remove("rowHide");
@@ -201,7 +199,7 @@ function hideSome() {
         /* 한 배열에 여러 특정 값들이 있는지 확인 */
         if (
           ["rowDifficulty3", "rowDifficulty4", "rowDifficulty5"].some(element =>
-            Array.from(rows[rowNum].classList).includes(element)
+            Array.from(currentRow.classList).includes(element)
           )
         ) {
           /* https://stackoverflow.com/questions/11444640/add-a-class-to-a-div-with-javascript */
@@ -213,7 +211,7 @@ function hideSome() {
       case "3":
         if (
           ["rowDifficulty4", "rowDifficulty5"].some(element =>
-            Array.from(rows[rowNum].classList).includes(element)
+            Array.from(currentRow.classList).includes(element)
           )
         ) {
           currentRow.classList.add("rowHide");
@@ -224,7 +222,7 @@ function hideSome() {
       case "4":
         if (
           ["rowDifficulty5"].some(element =>
-            Array.from(rows[rowNum].classList).includes(element)
+            Array.from(currentRow.classList).includes(element)
           )
         ) {
           currentRow.classList.add("rowHide");
@@ -235,13 +233,13 @@ function hideSome() {
     }
 
     if (currentRoleCheckedTank == false) {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleTank")) {
+      if (Array.from(currentRow.classList).includes("rowRoleTank")) {
         currentRow.classList.add("rowHide");
       } else {
         currentRow.classList.remove("rowHide");
       }
     } else {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleTank")) {
+      if (Array.from(currentRow.classList).includes("rowRoleTank")) {
         currentRow.classList.remove("rowHide");
       } else {
         currentRow.classList.add("rowHide");
@@ -249,13 +247,13 @@ function hideSome() {
     }
 
     if (currentRoleCheckedBruiser == false) {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleBruiser")) {
+      if (Array.from(currentRow.classList).includes("rowRoleBruiser")) {
         currentRow.classList.add("rowHide");
       } else {
         currentRow.classList.remove("rowHide");
       }
     } else {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleBruiser")) {
+      if (Array.from(currentRow.classList).includes("rowRoleBruiser")) {
         currentRow.classList.remove("rowHide");
       } else {
         currentRow.classList.add("rowHide");
@@ -263,13 +261,13 @@ function hideSome() {
     }
 
     if (currentRoleCheckedMelee == false) {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleMelee")) {
+      if (Array.from(currentRow.classList).includes("rowRoleMelee")) {
         currentRow.classList.add("rowHide");
       } else {
         currentRow.classList.remove("rowHide");
       }
     } else {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleMelee")) {
+      if (Array.from(currentRow.classList).includes("rowRoleMelee")) {
         currentRow.classList.remove("rowHide");
       } else {
         currentRow.classList.add("rowHide");
@@ -277,13 +275,13 @@ function hideSome() {
     }
 
     if (currentRoleCheckedRanged == false) {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleRanged")) {
+      if (Array.from(currentRow.classList).includes("rowRoleRanged")) {
         currentRow.classList.add("rowHide");
       } else {
         currentRow.classList.remove("rowHide");
       }
     } else {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleRanged")) {
+      if (Array.from(currentRow.classList).includes("rowRoleRanged")) {
         currentRow.classList.remove("rowHide");
       } else {
         currentRow.classList.add("rowHide");
@@ -291,13 +289,13 @@ function hideSome() {
     }
 
     if (currentRoleCheckedHealer == false) {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleHealer")) {
+      if (Array.from(currentRow.classList).includes("rowRoleHealer")) {
         currentRow.classList.add("rowHide");
       } else {
         currentRow.classList.remove("rowHide");
       }
     } else {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleHealer")) {
+      if (Array.from(currentRow.classList).includes("rowRoleHealer")) {
         currentRow.classList.remove("rowHide");
       } else {
         currentRow.classList.add("rowHide");
@@ -305,13 +303,13 @@ function hideSome() {
     }
 
     if (currentRoleCheckedSupport == false) {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleSupport")) {
+      if (Array.from(currentRow.classList).includes("rowRoleSupport")) {
         currentRow.classList.add("rowHide");
       } else {
         currentRow.classList.remove("rowHide");
       }
     } else {
-      if (Array.from(rows[rowNum].classList).includes("rowRoleSupport")) {
+      if (Array.from(currentRow.classList).includes("rowRoleSupport")) {
         currentRow.classList.remove("rowHide");
       } else {
         currentRow.classList.add("rowHide");
