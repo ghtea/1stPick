@@ -1,4 +1,4 @@
-
+/* console.log(dataOriginal[1]['HeroID']);
 var test = dataOriginal[1]['BanRate']; */
 
 /* almost constant variables, initialization, functions*/
