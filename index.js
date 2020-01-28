@@ -11,10 +11,9 @@ var dataSorted = [];
 var cbxPerHeroList = [];
 
 var body = document.getElementsByTagName("body");
-var tbl = document.getElementById("tblGood");
+var tbl = document.getElementById("tableMain");
 var sltMap = document.getElementById("sltMap");
 var sltDifficulty = document.getElementById("sltDifficulty");
-var sltRole = document.getElementById("sltRole");
 var rgRatio = document.getElementById("rgRatio");
 var cbxRoleTank = document.getElementById("cbxRoleTank");
 var cbxRoleBruiser = document.getElementById("cbxRoleBruiser");
