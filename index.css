@@ -216,10 +216,10 @@ div[class^="role"] {
   color: #0f1445;
   font-size: 0.8rem;
   width: 15px;
-  height: 40px;
+  height: 44px;
   display: table-cell;
   vertical-align: middle;
-  border-radius: 2px;
+  border-radius: 2px 5px 2px 5px;
 }
 
 div[class="roleTank"] {
@@ -267,16 +267,16 @@ div[class="roleSupport"] {
   background-image: linear-gradient(-90deg, #f1ffc1, #b5e51c);
 }
 .difficulty2 > div {
-  background-image: linear-gradient(-90deg, #ffe993, #ffd21f);
+  background-image: linear-gradient(-90deg, #ffeda7, #ffe91f);
 }
 .difficulty3 > div {
   background-image: linear-gradient(-90deg, #ffbe7d, #ff8f20);
 }
 .difficulty4 > div {
-  background-image: linear-gradient(-90deg, #f77246, #d43601);
+  background-image: linear-gradient(-90deg, #d33e3e, #740000);
 }
 .difficulty5 > div {
-  background-image: linear-gradient(-90deg, #af2c2c, #740000);
+  background-image: linear-gradient(-90deg, #d33e3e, #740000);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
