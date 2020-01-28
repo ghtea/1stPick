@@ -271,7 +271,7 @@ cbxRoleSupport.addEventListener("change", updatePage);
 for (var i = 0; i < listChecked.length; i++) {
   listChecked[i].addEventListener("change", function() {
     if (this.checked) {
-      this.parentElement.parentElement.style.opacity = "0.3";
+      this.parentElement.parentElement.style.opacity = "0.2";
     } else {
       this.parentElement.parentElement.style.opacity = "1";
     }
