@@ -171,9 +171,10 @@ h1 {
   width: 50px;
 }
 
+/* does not work like what I want
 #tableMain tr.rowShow:nth-child(2n + 2) {
   background-color: #0f1445;
-}
+}*/
 
 #tableMain tr:nth-child(n + 2) {
   height: 56px;
