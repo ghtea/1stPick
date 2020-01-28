@@ -62,6 +62,7 @@ function showAll() {
   var idxEnd = currentMap * numHero + numHero;
   dataMap = dataOriginal.slice(idxStart, idxEnd);
 
+  var rows = document.getElementsByClassName("rowTableMain");
   /* about Ratio */
   for (var i = 0; i < numHero; i++) {
     dataMap[i]["Point"] =
@@ -73,8 +74,10 @@ function showAll() {
   }
   dataSorted = dataMap.sort(compaireFunc("Point"));
 
-  for (var i = 0; i < numHero; i++) {
-    tbl.deleteRow(1);
+  if (rows.length > 0) {
+    for (var i = 0; i < numHero; i++) {
+      tbl.deleteRow(1);
+    }
   }
 
   for (var i = 0; i < numHero; i++) {
