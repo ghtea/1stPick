@@ -84,9 +84,12 @@ function showAll() {
     var cell5 = row.insertCell(4);
 
     row.classList.add("rowTableMain");
-    row.setAttribute("id", "rowHeroID" + dataSorted[i]["HeroID"]);
-    row.classList.add("rowDifficulty" + dataSorted[i]["Difficulty"]);
-    row.classList.add("rowRole" + dataSorted[i]["Role"]);
+    var temp1 = "rowHeroID" + dataSorted[i]["HeroID"];
+    row.setAttribute("id", temp1);
+    var temp2 = "rowDifficulty" + dataSorted[i]["Difficulty"];
+    row.classList.add(temp2);
+    var temp3 = "rowRole" + dataSorted[i]["Role"];
+    row.classList.add(temp3);
 
     cell1.innerHTML =
       "<img src=" + "heroImages/" + dataSorted[i]["HeroID"] + ".png" + ">";
