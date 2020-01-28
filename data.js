@@ -53,7 +53,7 @@ var dataOriginal = [
     BanRate: 9.88,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -75,7 +75,7 @@ var dataOriginal = [
     BanRate: 1.54,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -97,7 +97,7 @@ var dataOriginal = [
     BanRate: 35.01,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -108,7 +108,7 @@ var dataOriginal = [
     BanRate: 5.72,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -130,7 +130,7 @@ var dataOriginal = [
     BanRate: 4.75,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -163,7 +163,7 @@ var dataOriginal = [
     BanRate: 1.27,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -185,7 +185,7 @@ var dataOriginal = [
     BanRate: 0.11,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -196,7 +196,7 @@ var dataOriginal = [
     BanRate: 83.95,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -229,7 +229,7 @@ var dataOriginal = [
     BanRate: 15.79,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -240,7 +240,7 @@ var dataOriginal = [
     BanRate: 20.54,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -273,7 +273,7 @@ var dataOriginal = [
     BanRate: 0.56,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -306,7 +306,7 @@ var dataOriginal = [
     BanRate: 0.88,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -317,7 +317,7 @@ var dataOriginal = [
     BanRate: 4.19,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -350,7 +350,7 @@ var dataOriginal = [
     BanRate: 1.9,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -361,7 +361,7 @@ var dataOriginal = [
     BanRate: 1.73,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -383,7 +383,7 @@ var dataOriginal = [
     BanRate: 26.79,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -405,7 +405,7 @@ var dataOriginal = [
     BanRate: 53.16,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -416,7 +416,7 @@ var dataOriginal = [
     BanRate: 9.23,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -460,7 +460,7 @@ var dataOriginal = [
     BanRate: 8.7,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -471,7 +471,7 @@ var dataOriginal = [
     BanRate: 16.49,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -504,7 +504,7 @@ var dataOriginal = [
     BanRate: 2.44,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -537,7 +537,7 @@ var dataOriginal = [
     BanRate: 1.57,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -548,7 +548,7 @@ var dataOriginal = [
     BanRate: 2.62,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -581,7 +581,7 @@ var dataOriginal = [
     BanRate: 1.96,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -603,7 +603,7 @@ var dataOriginal = [
     BanRate: 1.77,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -647,7 +647,7 @@ var dataOriginal = [
     BanRate: 9.93,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -669,7 +669,7 @@ var dataOriginal = [
     BanRate: 1.6,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -691,7 +691,7 @@ var dataOriginal = [
     BanRate: 2.7,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -702,7 +702,7 @@ var dataOriginal = [
     BanRate: 2.04,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -713,7 +713,7 @@ var dataOriginal = [
     BanRate: 0.59,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -724,7 +724,7 @@ var dataOriginal = [
     BanRate: 1.84,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -735,7 +735,7 @@ var dataOriginal = [
     BanRate: 1.32,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -768,7 +768,7 @@ var dataOriginal = [
     BanRate: 0.2,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -779,7 +779,7 @@ var dataOriginal = [
     BanRate: 3.72,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -823,7 +823,7 @@ var dataOriginal = [
     BanRate: 2.31,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -856,7 +856,7 @@ var dataOriginal = [
     BanRate: 6.98,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -889,7 +889,7 @@ var dataOriginal = [
     BanRate: 12.93,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -900,7 +900,7 @@ var dataOriginal = [
     BanRate: 0.53,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -922,7 +922,7 @@ var dataOriginal = [
     BanRate: 0.24,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -944,7 +944,7 @@ var dataOriginal = [
     BanRate: 0.31,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -955,7 +955,7 @@ var dataOriginal = [
     BanRate: 4.6,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1021,7 +1021,7 @@ var dataOriginal = [
     BanRate: 9.31,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1043,7 +1043,7 @@ var dataOriginal = [
     BanRate: 15.65,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1065,7 +1065,7 @@ var dataOriginal = [
     BanRate: 33.21,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1076,7 +1076,7 @@ var dataOriginal = [
     BanRate: 3.08,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1098,7 +1098,7 @@ var dataOriginal = [
     BanRate: 2.97,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1131,7 +1131,7 @@ var dataOriginal = [
     BanRate: 1.12,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -1153,7 +1153,7 @@ var dataOriginal = [
     BanRate: 0.11,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1164,7 +1164,7 @@ var dataOriginal = [
     BanRate: 81.08,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1197,7 +1197,7 @@ var dataOriginal = [
     BanRate: 16.21,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1208,7 +1208,7 @@ var dataOriginal = [
     BanRate: 18.68,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1241,7 +1241,7 @@ var dataOriginal = [
     BanRate: 0.52,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1274,7 +1274,7 @@ var dataOriginal = [
     BanRate: 0.63,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1285,7 +1285,7 @@ var dataOriginal = [
     BanRate: 13.79,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1318,7 +1318,7 @@ var dataOriginal = [
     BanRate: 0.73,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1329,7 +1329,7 @@ var dataOriginal = [
     BanRate: 1.62,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1351,7 +1351,7 @@ var dataOriginal = [
     BanRate: 26.31,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1373,7 +1373,7 @@ var dataOriginal = [
     BanRate: 47.43,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -1384,7 +1384,7 @@ var dataOriginal = [
     BanRate: 5.3,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1428,7 +1428,7 @@ var dataOriginal = [
     BanRate: 10.48,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -1439,7 +1439,7 @@ var dataOriginal = [
     BanRate: 16.94,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1472,7 +1472,7 @@ var dataOriginal = [
     BanRate: 5.87,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1505,7 +1505,7 @@ var dataOriginal = [
     BanRate: 1.66,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1516,7 +1516,7 @@ var dataOriginal = [
     BanRate: 3.78,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1549,7 +1549,7 @@ var dataOriginal = [
     BanRate: 2.12,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -1571,7 +1571,7 @@ var dataOriginal = [
     BanRate: 1.31,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1615,7 +1615,7 @@ var dataOriginal = [
     BanRate: 7.9,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1637,7 +1637,7 @@ var dataOriginal = [
     BanRate: 4.58,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -1659,7 +1659,7 @@ var dataOriginal = [
     BanRate: 1.75,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1670,7 +1670,7 @@ var dataOriginal = [
     BanRate: 1.44,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1681,7 +1681,7 @@ var dataOriginal = [
     BanRate: 0.89,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1692,7 +1692,7 @@ var dataOriginal = [
     BanRate: 1.54,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1703,7 +1703,7 @@ var dataOriginal = [
     BanRate: 0.87,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1736,7 +1736,7 @@ var dataOriginal = [
     BanRate: 0.31,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1747,7 +1747,7 @@ var dataOriginal = [
     BanRate: 2.94,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1791,7 +1791,7 @@ var dataOriginal = [
     BanRate: 2.43,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -1824,7 +1824,7 @@ var dataOriginal = [
     BanRate: 5.87,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1857,7 +1857,7 @@ var dataOriginal = [
     BanRate: 11.6,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -1868,7 +1868,7 @@ var dataOriginal = [
     BanRate: 0.37,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1890,7 +1890,7 @@ var dataOriginal = [
     BanRate: 0.29,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1912,7 +1912,7 @@ var dataOriginal = [
     BanRate: 0.44,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -1923,7 +1923,7 @@ var dataOriginal = [
     BanRate: 2.42,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -1989,7 +1989,7 @@ var dataOriginal = [
     BanRate: 8.8,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2011,7 +2011,7 @@ var dataOriginal = [
     BanRate: 2.01,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2033,7 +2033,7 @@ var dataOriginal = [
     BanRate: 33.89,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2044,7 +2044,7 @@ var dataOriginal = [
     BanRate: 4.31,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2066,7 +2066,7 @@ var dataOriginal = [
     BanRate: 4.42,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2099,7 +2099,7 @@ var dataOriginal = [
     BanRate: 1.23,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -2121,7 +2121,7 @@ var dataOriginal = [
     BanRate: 0.19,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2132,7 +2132,7 @@ var dataOriginal = [
     BanRate: 82.56,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2165,7 +2165,7 @@ var dataOriginal = [
     BanRate: 13.91,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2176,7 +2176,7 @@ var dataOriginal = [
     BanRate: 17.76,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2209,7 +2209,7 @@ var dataOriginal = [
     BanRate: 0.67,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2242,7 +2242,7 @@ var dataOriginal = [
     BanRate: 1.08,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2253,7 +2253,7 @@ var dataOriginal = [
     BanRate: 3.03,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2286,7 +2286,7 @@ var dataOriginal = [
     BanRate: 0.64,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2297,7 +2297,7 @@ var dataOriginal = [
     BanRate: 2.05,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2319,7 +2319,7 @@ var dataOriginal = [
     BanRate: 24.04,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2341,7 +2341,7 @@ var dataOriginal = [
     BanRate: 52.59,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -2352,7 +2352,7 @@ var dataOriginal = [
     BanRate: 8.32,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2396,7 +2396,7 @@ var dataOriginal = [
     BanRate: 6.95,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -2407,7 +2407,7 @@ var dataOriginal = [
     BanRate: 12.43,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2440,7 +2440,7 @@ var dataOriginal = [
     BanRate: 2.02,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2473,7 +2473,7 @@ var dataOriginal = [
     BanRate: 1.63,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2484,7 +2484,7 @@ var dataOriginal = [
     BanRate: 3.9,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2517,7 +2517,7 @@ var dataOriginal = [
     BanRate: 1.77,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -2539,7 +2539,7 @@ var dataOriginal = [
     BanRate: 1.16,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2583,7 +2583,7 @@ var dataOriginal = [
     BanRate: 8.51,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2605,7 +2605,7 @@ var dataOriginal = [
     BanRate: 1.52,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -2627,7 +2627,7 @@ var dataOriginal = [
     BanRate: 27.6,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2638,7 +2638,7 @@ var dataOriginal = [
     BanRate: 0.95,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2649,7 +2649,7 @@ var dataOriginal = [
     BanRate: 0.74,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2660,7 +2660,7 @@ var dataOriginal = [
     BanRate: 2.88,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2671,7 +2671,7 @@ var dataOriginal = [
     BanRate: 0.97,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2704,7 +2704,7 @@ var dataOriginal = [
     BanRate: 0.24,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2715,7 +2715,7 @@ var dataOriginal = [
     BanRate: 2.9,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2759,7 +2759,7 @@ var dataOriginal = [
     BanRate: 2.45,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2792,7 +2792,7 @@ var dataOriginal = [
     BanRate: 4.85,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2825,7 +2825,7 @@ var dataOriginal = [
     BanRate: 10.98,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -2836,7 +2836,7 @@ var dataOriginal = [
     BanRate: 0.37,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2858,7 +2858,7 @@ var dataOriginal = [
     BanRate: 0.47,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2880,7 +2880,7 @@ var dataOriginal = [
     BanRate: 0.44,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -2891,7 +2891,7 @@ var dataOriginal = [
     BanRate: 1.98,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -2957,7 +2957,7 @@ var dataOriginal = [
     BanRate: 9.4,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -2979,7 +2979,7 @@ var dataOriginal = [
     BanRate: 1.41,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3001,7 +3001,7 @@ var dataOriginal = [
     BanRate: 33.97,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3012,7 +3012,7 @@ var dataOriginal = [
     BanRate: 6.12,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3034,7 +3034,7 @@ var dataOriginal = [
     BanRate: 7.87,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3067,7 +3067,7 @@ var dataOriginal = [
     BanRate: 1.01,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -3089,7 +3089,7 @@ var dataOriginal = [
     BanRate: 0.11,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3100,7 +3100,7 @@ var dataOriginal = [
     BanRate: 83.33,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3133,7 +3133,7 @@ var dataOriginal = [
     BanRate: 17.96,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3144,7 +3144,7 @@ var dataOriginal = [
     BanRate: 19.63,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3177,7 +3177,7 @@ var dataOriginal = [
     BanRate: 0.65,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3210,7 +3210,7 @@ var dataOriginal = [
     BanRate: 0.77,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3221,7 +3221,7 @@ var dataOriginal = [
     BanRate: 4.69,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3254,7 +3254,7 @@ var dataOriginal = [
     BanRate: 3.06,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3265,7 +3265,7 @@ var dataOriginal = [
     BanRate: 1.33,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3287,7 +3287,7 @@ var dataOriginal = [
     BanRate: 24.48,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3309,7 +3309,7 @@ var dataOriginal = [
     BanRate: 51.27,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -3320,7 +3320,7 @@ var dataOriginal = [
     BanRate: 7.37,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3364,7 +3364,7 @@ var dataOriginal = [
     BanRate: 8.55,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -3375,7 +3375,7 @@ var dataOriginal = [
     BanRate: 16.49,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3408,7 +3408,7 @@ var dataOriginal = [
     BanRate: 2.39,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3441,7 +3441,7 @@ var dataOriginal = [
     BanRate: 1.47,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3452,7 +3452,7 @@ var dataOriginal = [
     BanRate: 2.85,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3485,7 +3485,7 @@ var dataOriginal = [
     BanRate: 2.01,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -3507,7 +3507,7 @@ var dataOriginal = [
     BanRate: 1.66,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3551,7 +3551,7 @@ var dataOriginal = [
     BanRate: 9.2,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3573,7 +3573,7 @@ var dataOriginal = [
     BanRate: 1.42,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -3595,7 +3595,7 @@ var dataOriginal = [
     BanRate: 1.57,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3606,7 +3606,7 @@ var dataOriginal = [
     BanRate: 2.25,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3617,7 +3617,7 @@ var dataOriginal = [
     BanRate: 0.45,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3628,7 +3628,7 @@ var dataOriginal = [
     BanRate: 1.56,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3639,7 +3639,7 @@ var dataOriginal = [
     BanRate: 0.86,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3672,7 +3672,7 @@ var dataOriginal = [
     BanRate: 0.19,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3683,7 +3683,7 @@ var dataOriginal = [
     BanRate: 3.75,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3727,7 +3727,7 @@ var dataOriginal = [
     BanRate: 2.32,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3760,7 +3760,7 @@ var dataOriginal = [
     BanRate: 6.97,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3793,7 +3793,7 @@ var dataOriginal = [
     BanRate: 11.94,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -3804,7 +3804,7 @@ var dataOriginal = [
     BanRate: 0.36,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3826,7 +3826,7 @@ var dataOriginal = [
     BanRate: 0.28,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3848,7 +3848,7 @@ var dataOriginal = [
     BanRate: 0.28,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3859,7 +3859,7 @@ var dataOriginal = [
     BanRate: 4.8,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -3925,7 +3925,7 @@ var dataOriginal = [
     BanRate: 9.04,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3947,7 +3947,7 @@ var dataOriginal = [
     BanRate: 1.62,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -3969,7 +3969,7 @@ var dataOriginal = [
     BanRate: 35.02,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -3980,7 +3980,7 @@ var dataOriginal = [
     BanRate: 4.45,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4002,7 +4002,7 @@ var dataOriginal = [
     BanRate: 10.18,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4035,7 +4035,7 @@ var dataOriginal = [
     BanRate: 1.13,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -4057,7 +4057,7 @@ var dataOriginal = [
     BanRate: 0.13,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4068,7 +4068,7 @@ var dataOriginal = [
     BanRate: 82.97,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4101,7 +4101,7 @@ var dataOriginal = [
     BanRate: 15.64,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4112,7 +4112,7 @@ var dataOriginal = [
     BanRate: 19.65,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4145,7 +4145,7 @@ var dataOriginal = [
     BanRate: 0.65,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4178,7 +4178,7 @@ var dataOriginal = [
     BanRate: 0.83,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4189,7 +4189,7 @@ var dataOriginal = [
     BanRate: 4.16,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4222,7 +4222,7 @@ var dataOriginal = [
     BanRate: 1.27,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4233,7 +4233,7 @@ var dataOriginal = [
     BanRate: 1.9,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4255,7 +4255,7 @@ var dataOriginal = [
     BanRate: 24.94,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4277,7 +4277,7 @@ var dataOriginal = [
     BanRate: 50.72,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -4288,7 +4288,7 @@ var dataOriginal = [
     BanRate: 7.18,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4332,7 +4332,7 @@ var dataOriginal = [
     BanRate: 8.34,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -4343,7 +4343,7 @@ var dataOriginal = [
     BanRate: 15.48,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4376,7 +4376,7 @@ var dataOriginal = [
     BanRate: 2.33,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4409,7 +4409,7 @@ var dataOriginal = [
     BanRate: 1.59,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4420,7 +4420,7 @@ var dataOriginal = [
     BanRate: 3.26,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4453,7 +4453,7 @@ var dataOriginal = [
     BanRate: 2.16,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -4475,7 +4475,7 @@ var dataOriginal = [
     BanRate: 1.61,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4519,7 +4519,7 @@ var dataOriginal = [
     BanRate: 9.91,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4541,7 +4541,7 @@ var dataOriginal = [
     BanRate: 1.75,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -4563,7 +4563,7 @@ var dataOriginal = [
     BanRate: 16.99,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4574,7 +4574,7 @@ var dataOriginal = [
     BanRate: 1.74,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4585,7 +4585,7 @@ var dataOriginal = [
     BanRate: 0.5,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4596,7 +4596,7 @@ var dataOriginal = [
     BanRate: 2.43,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4607,7 +4607,7 @@ var dataOriginal = [
     BanRate: 0.98,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4640,7 +4640,7 @@ var dataOriginal = [
     BanRate: 0.19,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4651,7 +4651,7 @@ var dataOriginal = [
     BanRate: 3.54,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4695,7 +4695,7 @@ var dataOriginal = [
     BanRate: 2.66,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4728,7 +4728,7 @@ var dataOriginal = [
     BanRate: 6.83,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4761,7 +4761,7 @@ var dataOriginal = [
     BanRate: 11.8,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -4772,7 +4772,7 @@ var dataOriginal = [
     BanRate: 0.51,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4794,7 +4794,7 @@ var dataOriginal = [
     BanRate: 0.34,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4816,7 +4816,7 @@ var dataOriginal = [
     BanRate: 0.24,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4827,7 +4827,7 @@ var dataOriginal = [
     BanRate: 3.85,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -4893,7 +4893,7 @@ var dataOriginal = [
     BanRate: 10.11,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4915,7 +4915,7 @@ var dataOriginal = [
     BanRate: 4.88,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4937,7 +4937,7 @@ var dataOriginal = [
     BanRate: 35.54,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -4948,7 +4948,7 @@ var dataOriginal = [
     BanRate: 4.1,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -4970,7 +4970,7 @@ var dataOriginal = [
     BanRate: 4.41,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5003,7 +5003,7 @@ var dataOriginal = [
     BanRate: 1.54,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -5025,7 +5025,7 @@ var dataOriginal = [
     BanRate: 0.13,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5036,7 +5036,7 @@ var dataOriginal = [
     BanRate: 83.14,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5069,7 +5069,7 @@ var dataOriginal = [
     BanRate: 14.06,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5080,7 +5080,7 @@ var dataOriginal = [
     BanRate: 20.68,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5113,7 +5113,7 @@ var dataOriginal = [
     BanRate: 0.67,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5146,7 +5146,7 @@ var dataOriginal = [
     BanRate: 1.14,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5157,7 +5157,7 @@ var dataOriginal = [
     BanRate: 4.93,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5190,7 +5190,7 @@ var dataOriginal = [
     BanRate: 1.24,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5201,7 +5201,7 @@ var dataOriginal = [
     BanRate: 2.16,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5223,7 +5223,7 @@ var dataOriginal = [
     BanRate: 26.88,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5245,7 +5245,7 @@ var dataOriginal = [
     BanRate: 51.32,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -5256,7 +5256,7 @@ var dataOriginal = [
     BanRate: 8.79,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5300,7 +5300,7 @@ var dataOriginal = [
     BanRate: 9.25,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -5311,7 +5311,7 @@ var dataOriginal = [
     BanRate: 16.69,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5344,7 +5344,7 @@ var dataOriginal = [
     BanRate: 2.96,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5377,7 +5377,7 @@ var dataOriginal = [
     BanRate: 1.55,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5388,7 +5388,7 @@ var dataOriginal = [
     BanRate: 3.27,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5421,7 +5421,7 @@ var dataOriginal = [
     BanRate: 2.28,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -5443,7 +5443,7 @@ var dataOriginal = [
     BanRate: 1.12,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5487,7 +5487,7 @@ var dataOriginal = [
     BanRate: 10.01,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5509,7 +5509,7 @@ var dataOriginal = [
     BanRate: 2,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -5531,7 +5531,7 @@ var dataOriginal = [
     BanRate: 7.63,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5542,7 +5542,7 @@ var dataOriginal = [
     BanRate: 2.01,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5553,7 +5553,7 @@ var dataOriginal = [
     BanRate: 0.34,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5564,7 +5564,7 @@ var dataOriginal = [
     BanRate: 2.27,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5575,7 +5575,7 @@ var dataOriginal = [
     BanRate: 1.02,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5608,7 +5608,7 @@ var dataOriginal = [
     BanRate: 0.26,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5619,7 +5619,7 @@ var dataOriginal = [
     BanRate: 3.3,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5663,7 +5663,7 @@ var dataOriginal = [
     BanRate: 2.52,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5696,7 +5696,7 @@ var dataOriginal = [
     BanRate: 7.16,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5729,7 +5729,7 @@ var dataOriginal = [
     BanRate: 13.54,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -5740,7 +5740,7 @@ var dataOriginal = [
     BanRate: 0.43,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5762,7 +5762,7 @@ var dataOriginal = [
     BanRate: 0.26,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5784,7 +5784,7 @@ var dataOriginal = [
     BanRate: 0.61,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5795,7 +5795,7 @@ var dataOriginal = [
     BanRate: 4.37,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -5861,7 +5861,7 @@ var dataOriginal = [
     BanRate: 9.46,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5883,7 +5883,7 @@ var dataOriginal = [
     BanRate: 1.53,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5905,7 +5905,7 @@ var dataOriginal = [
     BanRate: 35.22,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -5916,7 +5916,7 @@ var dataOriginal = [
     BanRate: 9.39,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5938,7 +5938,7 @@ var dataOriginal = [
     BanRate: 3.82,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -5971,7 +5971,7 @@ var dataOriginal = [
     BanRate: 1.33,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -5993,7 +5993,7 @@ var dataOriginal = [
     BanRate: 0.19,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6004,7 +6004,7 @@ var dataOriginal = [
     BanRate: 83.17,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6037,7 +6037,7 @@ var dataOriginal = [
     BanRate: 17.04,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6048,7 +6048,7 @@ var dataOriginal = [
     BanRate: 20.31,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6081,7 +6081,7 @@ var dataOriginal = [
     BanRate: 0.75,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6114,7 +6114,7 @@ var dataOriginal = [
     BanRate: 0.57,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6125,7 +6125,7 @@ var dataOriginal = [
     BanRate: 4.08,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6158,7 +6158,7 @@ var dataOriginal = [
     BanRate: 1.21,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6169,7 +6169,7 @@ var dataOriginal = [
     BanRate: 1.64,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6191,7 +6191,7 @@ var dataOriginal = [
     BanRate: 27.43,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6213,7 +6213,7 @@ var dataOriginal = [
     BanRate: 56.58,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -6224,7 +6224,7 @@ var dataOriginal = [
     BanRate: 8.52,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6268,7 +6268,7 @@ var dataOriginal = [
     BanRate: 8.4,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -6279,7 +6279,7 @@ var dataOriginal = [
     BanRate: 13.53,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6312,7 +6312,7 @@ var dataOriginal = [
     BanRate: 2.27,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6345,7 +6345,7 @@ var dataOriginal = [
     BanRate: 1.55,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6356,7 +6356,7 @@ var dataOriginal = [
     BanRate: 3.5,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6389,7 +6389,7 @@ var dataOriginal = [
     BanRate: 1.48,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -6411,7 +6411,7 @@ var dataOriginal = [
     BanRate: 2.1,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6455,7 +6455,7 @@ var dataOriginal = [
     BanRate: 9.29,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6477,7 +6477,7 @@ var dataOriginal = [
     BanRate: 1.59,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -6499,7 +6499,7 @@ var dataOriginal = [
     BanRate: 1.69,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6510,7 +6510,7 @@ var dataOriginal = [
     BanRate: 1.51,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6521,7 +6521,7 @@ var dataOriginal = [
     BanRate: 0.91,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6532,7 +6532,7 @@ var dataOriginal = [
     BanRate: 4.07,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6543,7 +6543,7 @@ var dataOriginal = [
     BanRate: 0.93,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6576,7 +6576,7 @@ var dataOriginal = [
     BanRate: 0.24,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6587,7 +6587,7 @@ var dataOriginal = [
     BanRate: 3.21,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6631,7 +6631,7 @@ var dataOriginal = [
     BanRate: 2.46,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6664,7 +6664,7 @@ var dataOriginal = [
     BanRate: 6.61,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6697,7 +6697,7 @@ var dataOriginal = [
     BanRate: 10.66,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -6708,7 +6708,7 @@ var dataOriginal = [
     BanRate: 0.37,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6730,7 +6730,7 @@ var dataOriginal = [
     BanRate: 0.19,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6752,7 +6752,7 @@ var dataOriginal = [
     BanRate: 0.34,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6763,7 +6763,7 @@ var dataOriginal = [
     BanRate: 4,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -6829,7 +6829,7 @@ var dataOriginal = [
     BanRate: 9.14,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6851,7 +6851,7 @@ var dataOriginal = [
     BanRate: 1.94,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6873,7 +6873,7 @@ var dataOriginal = [
     BanRate: 34.44,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6884,7 +6884,7 @@ var dataOriginal = [
     BanRate: 5.18,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6906,7 +6906,7 @@ var dataOriginal = [
     BanRate: 8.1,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -6939,7 +6939,7 @@ var dataOriginal = [
     BanRate: 1.19,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -6961,7 +6961,7 @@ var dataOriginal = [
     BanRate: 0.1,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -6972,7 +6972,7 @@ var dataOriginal = [
     BanRate: 83.33,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7005,7 +7005,7 @@ var dataOriginal = [
     BanRate: 14.97,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7016,7 +7016,7 @@ var dataOriginal = [
     BanRate: 20.31,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7049,7 +7049,7 @@ var dataOriginal = [
     BanRate: 0.65,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7082,7 +7082,7 @@ var dataOriginal = [
     BanRate: 0.73,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7093,7 +7093,7 @@ var dataOriginal = [
     BanRate: 4.49,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7126,7 +7126,7 @@ var dataOriginal = [
     BanRate: 2.09,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7137,7 +7137,7 @@ var dataOriginal = [
     BanRate: 1.58,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7159,7 +7159,7 @@ var dataOriginal = [
     BanRate: 25.58,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7181,7 +7181,7 @@ var dataOriginal = [
     BanRate: 51.32,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -7192,7 +7192,7 @@ var dataOriginal = [
     BanRate: 7.38,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7236,7 +7236,7 @@ var dataOriginal = [
     BanRate: 8.53,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -7247,7 +7247,7 @@ var dataOriginal = [
     BanRate: 15.19,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7280,7 +7280,7 @@ var dataOriginal = [
     BanRate: 2.47,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7313,7 +7313,7 @@ var dataOriginal = [
     BanRate: 1.25,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7324,7 +7324,7 @@ var dataOriginal = [
     BanRate: 2.8,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7357,7 +7357,7 @@ var dataOriginal = [
     BanRate: 2.09,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -7379,7 +7379,7 @@ var dataOriginal = [
     BanRate: 1.49,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7423,7 +7423,7 @@ var dataOriginal = [
     BanRate: 9.28,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7445,7 +7445,7 @@ var dataOriginal = [
     BanRate: 1.59,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -7467,7 +7467,7 @@ var dataOriginal = [
     BanRate: 3.01,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7478,7 +7478,7 @@ var dataOriginal = [
     BanRate: 2.54,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7489,7 +7489,7 @@ var dataOriginal = [
     BanRate: 0.56,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7500,7 +7500,7 @@ var dataOriginal = [
     BanRate: 2.2,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7511,7 +7511,7 @@ var dataOriginal = [
     BanRate: 0.94,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7544,7 +7544,7 @@ var dataOriginal = [
     BanRate: 0.22,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7555,7 +7555,7 @@ var dataOriginal = [
     BanRate: 3.49,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7599,7 +7599,7 @@ var dataOriginal = [
     BanRate: 2.28,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7632,7 +7632,7 @@ var dataOriginal = [
     BanRate: 6.73,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7665,7 +7665,7 @@ var dataOriginal = [
     BanRate: 12.11,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -7676,7 +7676,7 @@ var dataOriginal = [
     BanRate: 0.52,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7698,7 +7698,7 @@ var dataOriginal = [
     BanRate: 0.26,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7720,7 +7720,7 @@ var dataOriginal = [
     BanRate: 0.25,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7731,7 +7731,7 @@ var dataOriginal = [
     BanRate: 4.57,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -7797,7 +7797,7 @@ var dataOriginal = [
     BanRate: 10.46,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7819,7 +7819,7 @@ var dataOriginal = [
     BanRate: 1.19,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7841,7 +7841,7 @@ var dataOriginal = [
     BanRate: 35.15,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7852,7 +7852,7 @@ var dataOriginal = [
     BanRate: 7.91,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7874,7 +7874,7 @@ var dataOriginal = [
     BanRate: 3.38,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7907,7 +7907,7 @@ var dataOriginal = [
     BanRate: 1.39,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -7929,7 +7929,7 @@ var dataOriginal = [
     BanRate: 0.11,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -7940,7 +7940,7 @@ var dataOriginal = [
     BanRate: 82.98,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7973,7 +7973,7 @@ var dataOriginal = [
     BanRate: 18.04,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -7984,7 +7984,7 @@ var dataOriginal = [
     BanRate: 20.56,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8017,7 +8017,7 @@ var dataOriginal = [
     BanRate: 0.75,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8050,7 +8050,7 @@ var dataOriginal = [
     BanRate: 0.61,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8061,7 +8061,7 @@ var dataOriginal = [
     BanRate: 3.87,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8094,7 +8094,7 @@ var dataOriginal = [
     BanRate: 0.69,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8105,7 +8105,7 @@ var dataOriginal = [
     BanRate: 1.69,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8127,7 +8127,7 @@ var dataOriginal = [
     BanRate: 28.41,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8149,7 +8149,7 @@ var dataOriginal = [
     BanRate: 55.54,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -8160,7 +8160,7 @@ var dataOriginal = [
     BanRate: 8.67,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8204,7 +8204,7 @@ var dataOriginal = [
     BanRate: 8.72,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -8215,7 +8215,7 @@ var dataOriginal = [
     BanRate: 14.1,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8248,7 +8248,7 @@ var dataOriginal = [
     BanRate: 2.43,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8281,7 +8281,7 @@ var dataOriginal = [
     BanRate: 2.14,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8292,7 +8292,7 @@ var dataOriginal = [
     BanRate: 3.29,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8325,7 +8325,7 @@ var dataOriginal = [
     BanRate: 1.77,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -8347,7 +8347,7 @@ var dataOriginal = [
     BanRate: 4.71,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8391,7 +8391,7 @@ var dataOriginal = [
     BanRate: 9.03,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8413,7 +8413,7 @@ var dataOriginal = [
     BanRate: 1.65,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -8435,7 +8435,7 @@ var dataOriginal = [
     BanRate: 1.48,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8446,7 +8446,7 @@ var dataOriginal = [
     BanRate: 0.95,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8457,7 +8457,7 @@ var dataOriginal = [
     BanRate: 0.5,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8468,7 +8468,7 @@ var dataOriginal = [
     BanRate: 2.02,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8479,7 +8479,7 @@ var dataOriginal = [
     BanRate: 1.15,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8512,7 +8512,7 @@ var dataOriginal = [
     BanRate: 0.29,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8523,7 +8523,7 @@ var dataOriginal = [
     BanRate: 3.76,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8567,7 +8567,7 @@ var dataOriginal = [
     BanRate: 2.63,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8600,7 +8600,7 @@ var dataOriginal = [
     BanRate: 6.69,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8633,7 +8633,7 @@ var dataOriginal = [
     BanRate: 11.11,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -8644,7 +8644,7 @@ var dataOriginal = [
     BanRate: 0.5,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8666,7 +8666,7 @@ var dataOriginal = [
     BanRate: 0.24,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8688,7 +8688,7 @@ var dataOriginal = [
     BanRate: 0.28,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8699,7 +8699,7 @@ var dataOriginal = [
     BanRate: 3.49,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8765,7 +8765,7 @@ var dataOriginal = [
     BanRate: 9.79,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8787,7 +8787,7 @@ var dataOriginal = [
     BanRate: 1.3,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8809,7 +8809,7 @@ var dataOriginal = [
     BanRate: 35.42,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8820,7 +8820,7 @@ var dataOriginal = [
     BanRate: 5.97,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8842,7 +8842,7 @@ var dataOriginal = [
     BanRate: 6.88,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8875,7 +8875,7 @@ var dataOriginal = [
     BanRate: 1.16,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -8897,7 +8897,7 @@ var dataOriginal = [
     BanRate: 0.11,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -8908,7 +8908,7 @@ var dataOriginal = [
     BanRate: 83.24,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8941,7 +8941,7 @@ var dataOriginal = [
     BanRate: 16.98,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -8952,7 +8952,7 @@ var dataOriginal = [
     BanRate: 19.46,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -8985,7 +8985,7 @@ var dataOriginal = [
     BanRate: 0.69,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9018,7 +9018,7 @@ var dataOriginal = [
     BanRate: 0.82,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9029,7 +9029,7 @@ var dataOriginal = [
     BanRate: 4.37,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9062,7 +9062,7 @@ var dataOriginal = [
     BanRate: 1.71,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9073,7 +9073,7 @@ var dataOriginal = [
     BanRate: 1.52,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9095,7 +9095,7 @@ var dataOriginal = [
     BanRate: 24.78,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9117,7 +9117,7 @@ var dataOriginal = [
     BanRate: 50.97,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -9128,7 +9128,7 @@ var dataOriginal = [
     BanRate: 8.38,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9172,7 +9172,7 @@ var dataOriginal = [
     BanRate: 8.13,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -9183,7 +9183,7 @@ var dataOriginal = [
     BanRate: 17.11,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9216,7 +9216,7 @@ var dataOriginal = [
     BanRate: 2.88,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9249,7 +9249,7 @@ var dataOriginal = [
     BanRate: 1.48,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9260,7 +9260,7 @@ var dataOriginal = [
     BanRate: 3.58,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9293,7 +9293,7 @@ var dataOriginal = [
     BanRate: 1.86,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -9315,7 +9315,7 @@ var dataOriginal = [
     BanRate: 1.6,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9359,7 +9359,7 @@ var dataOriginal = [
     BanRate: 9.41,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9381,7 +9381,7 @@ var dataOriginal = [
     BanRate: 1.81,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -9403,7 +9403,7 @@ var dataOriginal = [
     BanRate: 1.92,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9414,7 +9414,7 @@ var dataOriginal = [
     BanRate: 2.01,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9425,7 +9425,7 @@ var dataOriginal = [
     BanRate: 0.62,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9436,7 +9436,7 @@ var dataOriginal = [
     BanRate: 1.65,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9447,7 +9447,7 @@ var dataOriginal = [
     BanRate: 1.63,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9480,7 +9480,7 @@ var dataOriginal = [
     BanRate: 0.22,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9491,7 +9491,7 @@ var dataOriginal = [
     BanRate: 3.54,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9535,7 +9535,7 @@ var dataOriginal = [
     BanRate: 2.33,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9568,7 +9568,7 @@ var dataOriginal = [
     BanRate: 7.12,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9601,7 +9601,7 @@ var dataOriginal = [
     BanRate: 11.47,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -9612,7 +9612,7 @@ var dataOriginal = [
     BanRate: 0.54,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9634,7 +9634,7 @@ var dataOriginal = [
     BanRate: 0.25,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9656,7 +9656,7 @@ var dataOriginal = [
     BanRate: 0.26,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9667,7 +9667,7 @@ var dataOriginal = [
     BanRate: 4.9,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9733,7 +9733,7 @@ var dataOriginal = [
     BanRate: 10.21,
     HeroID: "Anduin",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9755,7 +9755,7 @@ var dataOriginal = [
     BanRate: 1.74,
     HeroID: "Artanis",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9777,7 +9777,7 @@ var dataOriginal = [
     BanRate: 35.67,
     HeroID: "Auriel",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9788,7 +9788,7 @@ var dataOriginal = [
     BanRate: 5.27,
     HeroID: "Azmodan",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9810,7 +9810,7 @@ var dataOriginal = [
     BanRate: 3.78,
     HeroID: "Brightwing",
     Role: "Healer",
-    Difficulty: 4,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9843,7 +9843,7 @@ var dataOriginal = [
     BanRate: 1.33,
     HeroID: "Cho",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 5,
     Point: 0
   },
   {
@@ -9865,7 +9865,7 @@ var dataOriginal = [
     BanRate: 0.21,
     HeroID: "Dva",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9876,7 +9876,7 @@ var dataOriginal = [
     BanRate: 83.8,
     HeroID: "Deathwing",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9909,7 +9909,7 @@ var dataOriginal = [
     BanRate: 15.72,
     HeroID: "Diablo",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -9920,7 +9920,7 @@ var dataOriginal = [
     BanRate: 20.82,
     HeroID: "Etc",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9953,7 +9953,7 @@ var dataOriginal = [
     BanRate: 0.66,
     HeroID: "Gall",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -9986,7 +9986,7 @@ var dataOriginal = [
     BanRate: 0.79,
     HeroID: "Genji",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -9997,7 +9997,7 @@ var dataOriginal = [
     BanRate: 4.29,
     HeroID: "Greymane",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10030,7 +10030,7 @@ var dataOriginal = [
     BanRate: 0.94,
     HeroID: "Illidan",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -10041,7 +10041,7 @@ var dataOriginal = [
     BanRate: 2.17,
     HeroID: "Imperius",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10063,7 +10063,7 @@ var dataOriginal = [
     BanRate: 26.94,
     HeroID: "Johanna",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10085,7 +10085,7 @@ var dataOriginal = [
     BanRate: 54.84,
     HeroID: "Kaelthas",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -10096,7 +10096,7 @@ var dataOriginal = [
     BanRate: 10,
     HeroID: "Kelthuzad",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10140,7 +10140,7 @@ var dataOriginal = [
     BanRate: 8.41,
     HeroID: "Lili",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -10151,7 +10151,7 @@ var dataOriginal = [
     BanRate: 17.83,
     HeroID: "Liming",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10184,7 +10184,7 @@ var dataOriginal = [
     BanRate: 2.37,
     HeroID: "Lunara",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10217,7 +10217,7 @@ var dataOriginal = [
     BanRate: 1.8,
     HeroID: "Malfurion",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10228,7 +10228,7 @@ var dataOriginal = [
     BanRate: 3.1,
     HeroID: "Malthael",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -10261,7 +10261,7 @@ var dataOriginal = [
     BanRate: 1.96,
     HeroID: "Muradin",
     Role: "Tank",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -10283,7 +10283,7 @@ var dataOriginal = [
     BanRate: 2.63,
     HeroID: "Nazeebo",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10327,7 +10327,7 @@ var dataOriginal = [
     BanRate: 10.08,
     HeroID: "Qhira",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10349,7 +10349,7 @@ var dataOriginal = [
     BanRate: 1.68,
     HeroID: "Raynor",
     Role: "Ranged",
-    Difficulty: 2,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -10371,7 +10371,7 @@ var dataOriginal = [
     BanRate: 2.57,
     HeroID: "Rexxar",
     Role: "Bruiser",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10382,7 +10382,7 @@ var dataOriginal = [
     BanRate: 1.65,
     HeroID: "Samuro",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10393,7 +10393,7 @@ var dataOriginal = [
     BanRate: 0.74,
     HeroID: "Sgthammer",
     Role: "Ranged",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10404,7 +10404,7 @@ var dataOriginal = [
     BanRate: 1.83,
     HeroID: "Sonya",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10415,7 +10415,7 @@ var dataOriginal = [
     BanRate: 1.27,
     HeroID: "Stitches",
     Role: "Tank",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10448,7 +10448,7 @@ var dataOriginal = [
     BanRate: 0.29,
     HeroID: "Tassadar",
     Role: "Support",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -10459,7 +10459,7 @@ var dataOriginal = [
     BanRate: 3.44,
     HeroID: "Thebutcher",
     Role: "Melee",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10503,7 +10503,7 @@ var dataOriginal = [
     BanRate: 2.63,
     HeroID: "Tychus",
     Role: "Ranged",
-    Difficulty: 3,
+    Difficulty: 2,
     Point: 0
   },
   {
@@ -10536,7 +10536,7 @@ var dataOriginal = [
     BanRate: 6.95,
     HeroID: "Uther",
     Role: "Healer",
-    Difficulty: 2,
+    Difficulty: 3,
     Point: 0
   },
   {
@@ -10569,7 +10569,7 @@ var dataOriginal = [
     BanRate: 11.82,
     HeroID: "Varian",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 1,
     Point: 0
   },
   {
@@ -10580,7 +10580,7 @@ var dataOriginal = [
     BanRate: 0.49,
     HeroID: "Whitemane",
     Role: "Healer",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -10602,7 +10602,7 @@ var dataOriginal = [
     BanRate: 0.3,
     HeroID: "Yrel",
     Role: "Bruiser",
-    Difficulty: 3,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -10624,7 +10624,7 @@ var dataOriginal = [
     BanRate: 0.44,
     HeroID: "Zarya",
     Role: "Support",
-    Difficulty: 2,
+    Difficulty: 4,
     Point: 0
   },
   {
@@ -10635,7 +10635,7 @@ var dataOriginal = [
     BanRate: 3.96,
     HeroID: "Zeratul",
     Role: "Melee",
-    Difficulty: 4,
+    Difficulty: 3,
     Point: 0
   },
   {

@@ -214,6 +214,9 @@ function hideSome() {
 
   checkedDifficulties = [];
   switch (currentDifficulty) {
+    case "1":
+      checkedDifficulties = ["rowDifficulty1"];
+      break;
     case "2":
       checkedDifficulties = ["rowDifficulty1", "rowDifficulty2"];
       break;
@@ -232,7 +235,7 @@ function hideSome() {
         "rowDifficulty4"
       ];
       break;
-    case "All":
+    case "5":
       checkedDifficulties = [
         "rowDifficulty1",
         "rowDifficulty2",
