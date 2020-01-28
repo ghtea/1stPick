@@ -279,7 +279,15 @@ function checkSome() {
 
 window.onload = showAll();
 sltMap.addEventListener("change", function() {
-  location.reload();
+  showAll;
+  document.getElementById("sltDifficulty").value = 5;
+  /*document.getElementById("rgRatio").value = 50;*/
+  cbxRoleTank.checked = true;
+  cbxRoleBruiser.checked = true;
+  cbxRoleMelee.checked = true;
+  cbxRoleRanged.checked = true;
+  cbxRoleHealer.checked = true;
+  cbxRoleSupport.checked = true;
 });
 btnClear.addEventListener("click", function() {
   location.reload();
