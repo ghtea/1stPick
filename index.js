@@ -256,8 +256,10 @@ function hideSome() {
     ) {
       /* https://stackoverflow.com/questions/11444640/add-a-class-to-a-div-with-javascript */
       currentRow.classList.remove("rowHide");
+      currentRow.classList.add("rowShow");
     } else {
       currentRow.classList.add("rowHide");
+      currentRow.classList.remove("rowShow");
     }
   }
 }
