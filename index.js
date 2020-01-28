@@ -299,6 +299,7 @@ btnClear.addEventListener("click", function() {
 
 rgRatio.addEventListener("change", function() {
   showAll();
+  hideSome();
 });
 sltDifficulty.addEventListener("change", hideSome);
 
