@@ -257,7 +257,9 @@ rpRatio.addEventListener("change", updatePage);
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
 
-btnClear.addEventListener("click", location.reload());
+btnClear.addEventListener("click", function() {
+  location.reload();
+});
 
 cbxRoleTank.addEventListener("change", updatePage);
 cbxRoleBruiser.addEventListener("change", updatePage);
