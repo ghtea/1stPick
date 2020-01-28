@@ -25,6 +25,7 @@ var cbxRoleRanged = document.getElementById("cbxRoleRanged");
 var cbxRoleHealer = document.getElementById("cbxRoleHealer");
 var cbxRoleSupport = document.getElementById("cbxRoleSupport");
 var listChecked = document.getElementsByClassName("cbxPicked");
+var btnClear = document.getElementById("btnClear");
 
 var numSizeWin = 4.6;
 var numSizePlay = 0.3;
@@ -252,10 +253,11 @@ function updatePage() {
 }
 
 window.onload = updatePage();
-
+rpRatio.addEventListener("change", updatePage);
 sltMap.addEventListener("change", updatePage);
 sltDifficulty.addEventListener("change", updatePage);
-rpRatio.addEventListener("change", updatePage);
+
+btnClear.addEventListener("click", location.reload());
 
 cbxRoleTank.addEventListener("change", updatePage);
 cbxRoleBruiser.addEventListener("change", updatePage);

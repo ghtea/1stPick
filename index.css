@@ -107,11 +107,16 @@ h1 {
 }
 
 #sltMap {
-  width: 180px;
+  width: 165px;
 }
 
 #sltDifficulty {
-  width: 120px;
+  width: 100px;
+}
+
+#btnClear {
+  width: 35px;
+  font-size: 0.9rem;
 }
 
 #divRatio > p,
