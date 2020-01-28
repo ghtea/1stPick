@@ -4,7 +4,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Alterac Pass",
-    WinRate: 50.89,
+    WinRate: 51.2,
     PlayRate: 18.89,
     BanRate: 10.19,
     HeroID: "Abathur",
@@ -15,7 +15,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Alterac Pass",
-    WinRate: 49.96,
+    WinRate: 48.2,
     PlayRate: 36.01,
     BanRate: 27.82,
     HeroID: "Alarak",
@@ -26,7 +26,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Alterac Pass",
-    WinRate: 48.62,
+    WinRate: 47.1,
     PlayRate: 9.46,
     BanRate: 1.9,
     HeroID: "Alexstrasza",
@@ -37,7 +37,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Alterac Pass",
-    WinRate: 49.86,
+    WinRate: 47.9,
     PlayRate: 24.44,
     BanRate: 12.16,
     HeroID: "Ana",
@@ -48,7 +48,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Alterac Pass",
-    WinRate: 45.07,
+    WinRate: 45.4,
     PlayRate: 27.08,
     BanRate: 9.88,
     HeroID: "Anduin",
@@ -59,7 +59,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Alterac Pass",
-    WinRate: 49.94,
+    WinRate: 51.3,
     PlayRate: 15.91,
     BanRate: 4.48,
     HeroID: "Anubarak",
@@ -70,7 +70,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Alterac Pass",
-    WinRate: 46.64,
+    WinRate: 46,
     PlayRate: 11.66,
     BanRate: 1.54,
     HeroID: "Artanis",
@@ -81,7 +81,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Alterac Pass",
-    WinRate: 49.35,
+    WinRate: 49.4,
     PlayRate: 14.8,
     BanRate: 2.97,
     HeroID: "Arthas",
@@ -92,7 +92,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Alterac Pass",
-    WinRate: 55.4,
+    WinRate: 55.1,
     PlayRate: 56.47,
     BanRate: 35.01,
     HeroID: "Auriel",
@@ -103,7 +103,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Alterac Pass",
-    WinRate: 50.11,
+    WinRate: 50.8,
     PlayRate: 15.02,
     BanRate: 5.72,
     HeroID: "Azmodan",
@@ -114,7 +114,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Alterac Pass",
-    WinRate: 48.78,
+    WinRate: 48.1,
     PlayRate: 7.32,
     BanRate: 0.43,
     HeroID: "Blaze",
@@ -125,7 +125,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Alterac Pass",
-    WinRate: 46.65,
+    WinRate: 47.8,
     PlayRate: 19.42,
     BanRate: 4.75,
     HeroID: "Brightwing",
@@ -136,7 +136,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Alterac Pass",
-    WinRate: 45.54,
+    WinRate: 46.8,
     PlayRate: 4.61,
     BanRate: 0.46,
     HeroID: "Cassia",
@@ -147,7 +147,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Alterac Pass",
-    WinRate: 49.24,
+    WinRate: 49.8,
     PlayRate: 3.88,
     BanRate: 0.79,
     HeroID: "Chen",
@@ -158,7 +158,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Alterac Pass",
-    WinRate: 47.79,
+    WinRate: 52.4,
     PlayRate: 2.95,
     BanRate: 1.27,
     HeroID: "Cho",
@@ -169,7 +169,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Alterac Pass",
-    WinRate: 50.16,
+    WinRate: 50.2,
     PlayRate: 10.19,
     BanRate: 1.91,
     HeroID: "Chromie",
@@ -180,7 +180,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Alterac Pass",
-    WinRate: 47.6,
+    WinRate: 49.6,
     PlayRate: 2.35,
     BanRate: 0.11,
     HeroID: "Dva",
@@ -191,7 +191,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Alterac Pass",
-    WinRate: 61.19,
+    WinRate: 57.7,
     PlayRate: 90.72,
     BanRate: 83.95,
     HeroID: "Deathwing",
@@ -202,7 +202,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Alterac Pass",
-    WinRate: 46.28,
+    WinRate: 46.5,
     PlayRate: 7.91,
     BanRate: 0.77,
     HeroID: "Deckard",
@@ -213,7 +213,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Alterac Pass",
-    WinRate: 46.51,
+    WinRate: 45.8,
     PlayRate: 8.38,
     BanRate: 2.5,
     HeroID: "Dehaka",
@@ -224,7 +224,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Alterac Pass",
-    WinRate: 45.42,
+    WinRate: 45.3,
     PlayRate: 36.02,
     BanRate: 15.79,
     HeroID: "Diablo",
@@ -235,7 +235,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Alterac Pass",
-    WinRate: 51.88,
+    WinRate: 52.5,
     PlayRate: 44.95,
     BanRate: 20.54,
     HeroID: "Etc",
@@ -246,7 +246,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Alterac Pass",
-    WinRate: 52.94,
+    WinRate: 53.9,
     PlayRate: 18.7,
     BanRate: 4.14,
     HeroID: "Falstad",
@@ -257,7 +257,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Alterac Pass",
-    WinRate: 52.75,
+    WinRate: 53.1,
     PlayRate: 6.29,
     BanRate: 0.4,
     HeroID: "Fenix",
@@ -268,7 +268,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Alterac Pass",
-    WinRate: 47.79,
+    WinRate: 52.4,
     PlayRate: 2.23,
     BanRate: 0.56,
     HeroID: "Gall",
@@ -279,7 +279,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Alterac Pass",
-    WinRate: 47.41,
+    WinRate: 47.7,
     PlayRate: 48.71,
     BanRate: 33.37,
     HeroID: "Garrosh",
@@ -290,7 +290,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Alterac Pass",
-    WinRate: 48.71,
+    WinRate: 45,
     PlayRate: 5.06,
     BanRate: 0.36,
     HeroID: "Gazlowe",
@@ -301,7 +301,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Alterac Pass",
-    WinRate: 41.55,
+    WinRate: 41.5,
     PlayRate: 5.5,
     BanRate: 0.88,
     HeroID: "Genji",
@@ -312,7 +312,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Alterac Pass",
-    WinRate: 50.44,
+    WinRate: 49.9,
     PlayRate: 21.9,
     BanRate: 4.19,
     HeroID: "Greymane",
@@ -323,7 +323,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Alterac Pass",
-    WinRate: 46.78,
+    WinRate: 45.8,
     PlayRate: 15.18,
     BanRate: 3.18,
     HeroID: "Guldan",
@@ -334,7 +334,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Alterac Pass",
-    WinRate: 45.97,
+    WinRate: 46,
     PlayRate: 16.11,
     BanRate: 2.51,
     HeroID: "Hanzo",
@@ -345,7 +345,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Alterac Pass",
-    WinRate: 47.43,
+    WinRate: 48.8,
     PlayRate: 8.18,
     BanRate: 1.9,
     HeroID: "Illidan",
@@ -356,7 +356,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Alterac Pass",
-    WinRate: 47.65,
+    WinRate: 50.1,
     PlayRate: 12.89,
     BanRate: 1.73,
     HeroID: "Imperius",
@@ -367,7 +367,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Alterac Pass",
-    WinRate: 50.69,
+    WinRate: 51.2,
     PlayRate: 24.1,
     BanRate: 4.98,
     HeroID: "Jaina",
@@ -378,7 +378,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Alterac Pass",
-    WinRate: 50,
+    WinRate: 49.9,
     PlayRate: 58.7,
     BanRate: 26.79,
     HeroID: "Johanna",
@@ -389,7 +389,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Alterac Pass",
-    WinRate: 46.88,
+    WinRate: 48.6,
     PlayRate: 11.24,
     BanRate: 3.26,
     HeroID: "Junkrat",
@@ -400,7 +400,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Alterac Pass",
-    WinRate: 50.94,
+    WinRate: 49.9,
     PlayRate: 71.71,
     BanRate: 53.16,
     HeroID: "Kaelthas",
@@ -411,7 +411,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Alterac Pass",
-    WinRate: 47.46,
+    WinRate: 47.5,
     PlayRate: 17.69,
     BanRate: 9.23,
     HeroID: "Kelthuzad",
@@ -422,7 +422,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Alterac Pass",
-    WinRate: 53.77,
+    WinRate: 56.8,
     PlayRate: 3.9,
     BanRate: 0.33,
     HeroID: "Kerrigan",
@@ -433,7 +433,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Alterac Pass",
-    WinRate: 46.04,
+    WinRate: 47,
     PlayRate: 5.45,
     BanRate: 0.26,
     HeroID: "Kharazim",
@@ -444,7 +444,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Alterac Pass",
-    WinRate: 50.35,
+    WinRate: 51.3,
     PlayRate: 12.56,
     BanRate: 2,
     HeroID: "Leoric",
@@ -455,7 +455,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Alterac Pass",
-    WinRate: 48.29,
+    WinRate: 48.4,
     PlayRate: 26.62,
     BanRate: 8.7,
     HeroID: "Lili",
@@ -466,7 +466,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Alterac Pass",
-    WinRate: 50.24,
+    WinRate: 50.7,
     PlayRate: 55.74,
     BanRate: 16.49,
     HeroID: "Liming",
@@ -477,7 +477,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Alterac Pass",
-    WinRate: 47.12,
+    WinRate: 46.6,
     PlayRate: 9.27,
     BanRate: 2.84,
     HeroID: "Ltmorales",
@@ -488,7 +488,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Alterac Pass",
-    WinRate: 52.46,
+    WinRate: 53,
     PlayRate: 23.73,
     BanRate: 6.74,
     HeroID: "Lucio",
@@ -499,7 +499,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Alterac Pass",
-    WinRate: 52.46,
+    WinRate: 50.3,
     PlayRate: 17.63,
     BanRate: 2.44,
     HeroID: "Lunara",
@@ -510,7 +510,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Alterac Pass",
-    WinRate: 45.81,
+    WinRate: 42.9,
     PlayRate: 4.77,
     BanRate: 0.99,
     HeroID: "Maiev",
@@ -521,7 +521,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Alterac Pass",
-    WinRate: 57.7,
+    WinRate: 56.8,
     PlayRate: 26.22,
     BanRate: 10.03,
     HeroID: "Malganis",
@@ -532,7 +532,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Alterac Pass",
-    WinRate: 49.83,
+    WinRate: 49.1,
     PlayRate: 11.48,
     BanRate: 1.57,
     HeroID: "Malfurion",
@@ -543,7 +543,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Alterac Pass",
-    WinRate: 48.94,
+    WinRate: 51.1,
     PlayRate: 10.57,
     BanRate: 2.62,
     HeroID: "Malthael",
@@ -554,7 +554,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Alterac Pass",
-    WinRate: 44.36,
+    WinRate: 40.9,
     PlayRate: 4.32,
     BanRate: 0.68,
     HeroID: "Medivh",
@@ -565,7 +565,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Alterac Pass",
-    WinRate: 47.59,
+    WinRate: 48.6,
     PlayRate: 6.64,
     BanRate: 0.51,
     HeroID: "Mephisto",
@@ -576,7 +576,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Alterac Pass",
-    WinRate: 47.81,
+    WinRate: 47.6,
     PlayRate: 24.03,
     BanRate: 1.96,
     HeroID: "Muradin",
@@ -587,7 +587,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Alterac Pass",
-    WinRate: 52.49,
+    WinRate: 48.9,
     PlayRate: 4.87,
     BanRate: 0.69,
     HeroID: "Murky",
@@ -598,7 +598,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Alterac Pass",
-    WinRate: 49.37,
+    WinRate: 50.1,
     PlayRate: 17.22,
     BanRate: 1.77,
     HeroID: "Nazeebo",
@@ -609,7 +609,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Alterac Pass",
-    WinRate: 43.19,
+    WinRate: 46,
     PlayRate: 4.35,
     BanRate: 0.35,
     HeroID: "Nova",
@@ -620,7 +620,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Alterac Pass",
-    WinRate: 47.96,
+    WinRate: 46.9,
     PlayRate: 7.31,
     BanRate: 0.72,
     HeroID: "Orphea",
@@ -631,7 +631,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Alterac Pass",
-    WinRate: 47.72,
+    WinRate: 42.5,
     PlayRate: 1.63,
     BanRate: 0.31,
     HeroID: "Probius",
@@ -642,7 +642,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Alterac Pass",
-    WinRate: 48.15,
+    WinRate: 46.5,
     PlayRate: 20.8,
     BanRate: 9.93,
     HeroID: "Qhira",
@@ -653,7 +653,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Alterac Pass",
-    WinRate: 54.43,
+    WinRate: 55.3,
     PlayRate: 16.04,
     BanRate: 3.99,
     HeroID: "Ragnaros",
@@ -664,7 +664,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Alterac Pass",
-    WinRate: 52.84,
+    WinRate: 52.2,
     PlayRate: 18.64,
     BanRate: 1.6,
     HeroID: "Raynor",
@@ -675,7 +675,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Alterac Pass",
-    WinRate: 53.49,
+    WinRate: 55.6,
     PlayRate: 17.18,
     BanRate: 1.6,
     HeroID: "Rehgar",
@@ -686,7 +686,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Alterac Pass",
-    WinRate: 54.02,
+    WinRate: 54.5,
     PlayRate: 8.72,
     BanRate: 2.7,
     HeroID: "Rexxar",
@@ -697,7 +697,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Alterac Pass",
-    WinRate: 51.69,
+    WinRate: 52,
     PlayRate: 7.43,
     BanRate: 2.04,
     HeroID: "Samuro",
@@ -708,7 +708,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Alterac Pass",
-    WinRate: 47.19,
+    WinRate: 42.4,
     PlayRate: 2.98,
     BanRate: 0.59,
     HeroID: "Sgthammer",
@@ -719,7 +719,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Alterac Pass",
-    WinRate: 53.33,
+    WinRate: 53.4,
     PlayRate: 14.85,
     BanRate: 1.84,
     HeroID: "Sonya",
@@ -730,7 +730,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Alterac Pass",
-    WinRate: 46.4,
+    WinRate: 44,
     PlayRate: 13.74,
     BanRate: 1.32,
     HeroID: "Stitches",
@@ -741,7 +741,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Alterac Pass",
-    WinRate: 51.64,
+    WinRate: 51.2,
     PlayRate: 14.56,
     BanRate: 3.48,
     HeroID: "Stukov",
@@ -752,7 +752,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Alterac Pass",
-    WinRate: 48.76,
+    WinRate: 50.2,
     PlayRate: 19.48,
     BanRate: 4.08,
     HeroID: "Sylvanas",
@@ -763,7 +763,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Alterac Pass",
-    WinRate: 45.39,
+    WinRate: 45.8,
     PlayRate: 2.9,
     BanRate: 0.2,
     HeroID: "Tassadar",
@@ -774,7 +774,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Alterac Pass",
-    WinRate: 54.62,
+    WinRate: 55.8,
     PlayRate: 12.09,
     BanRate: 3.72,
     HeroID: "Thebutcher",
@@ -785,7 +785,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Alterac Pass",
-    WinRate: 53.13,
+    WinRate: 52.1,
     PlayRate: 2.53,
     BanRate: 1.02,
     HeroID: "Thelostvikings",
@@ -796,7 +796,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Alterac Pass",
-    WinRate: 49.82,
+    WinRate: 48.6,
     PlayRate: 18.33,
     BanRate: 1.28,
     HeroID: "Thrall",
@@ -807,7 +807,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Alterac Pass",
-    WinRate: 49.32,
+    WinRate: 45.4,
     PlayRate: 4.71,
     BanRate: 0.77,
     HeroID: "Tracer",
@@ -818,7 +818,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Alterac Pass",
-    WinRate: 48.08,
+    WinRate: 49.2,
     PlayRate: 11.24,
     BanRate: 2.31,
     HeroID: "Tychus",
@@ -829,7 +829,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Alterac Pass",
-    WinRate: 48.99,
+    WinRate: 48.1,
     PlayRate: 4.87,
     BanRate: 0.23,
     HeroID: "Tyrael",
@@ -840,7 +840,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Alterac Pass",
-    WinRate: 48.26,
+    WinRate: 49.2,
     PlayRate: 5.25,
     BanRate: 0.22,
     HeroID: "Tyrande",
@@ -851,7 +851,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Alterac Pass",
-    WinRate: 53.23,
+    WinRate: 52.7,
     PlayRate: 21.56,
     BanRate: 6.98,
     HeroID: "Uther",
@@ -862,7 +862,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Alterac Pass",
-    WinRate: 50.51,
+    WinRate: 53.7,
     PlayRate: 5.64,
     BanRate: 0.99,
     HeroID: "Valeera",
@@ -873,7 +873,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Alterac Pass",
-    WinRate: 52.97,
+    WinRate: 53.7,
     PlayRate: 24.97,
     BanRate: 3.59,
     HeroID: "Valla",
@@ -884,7 +884,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Alterac Pass",
-    WinRate: 49.68,
+    WinRate: 49.3,
     PlayRate: 34.1,
     BanRate: 12.93,
     HeroID: "Varian",
@@ -895,7 +895,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Alterac Pass",
-    WinRate: 53.14,
+    WinRate: 53.7,
     PlayRate: 5.66,
     BanRate: 0.53,
     HeroID: "Whitemane",
@@ -906,7 +906,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Alterac Pass",
-    WinRate: 51.23,
+    WinRate: 50.6,
     PlayRate: 3.44,
     BanRate: 0.16,
     HeroID: "Xul",
@@ -917,7 +917,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Alterac Pass",
-    WinRate: 51.7,
+    WinRate: 50.4,
     PlayRate: 4.4,
     BanRate: 0.24,
     HeroID: "Yrel",
@@ -928,7 +928,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Alterac Pass",
-    WinRate: 51.77,
+    WinRate: 50.6,
     PlayRate: 7.97,
     BanRate: 1.13,
     HeroID: "Zagara",
@@ -939,7 +939,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Alterac Pass",
-    WinRate: 46.86,
+    WinRate: 49.6,
     PlayRate: 4.38,
     BanRate: 0.31,
     HeroID: "Zarya",
@@ -950,7 +950,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Alterac Pass",
-    WinRate: 47.53,
+    WinRate: 49.2,
     PlayRate: 12.08,
     BanRate: 4.6,
     HeroID: "Zeratul",
@@ -961,7 +961,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Alterac Pass",
-    WinRate: 50.91,
+    WinRate: 50.4,
     PlayRate: 20.11,
     BanRate: 3.8,
     HeroID: "Zuljin",
@@ -972,7 +972,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Battlefield of Eternity",
-    WinRate: 38.88,
+    WinRate: 39.1,
     PlayRate: 4.9,
     BanRate: 1.66,
     HeroID: "Abathur",
@@ -983,7 +983,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Battlefield of Eternity",
-    WinRate: 48.21,
+    WinRate: 46.5,
     PlayRate: 33.31,
     BanRate: 25.05,
     HeroID: "Alarak",
@@ -994,7 +994,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Battlefield of Eternity",
-    WinRate: 46.86,
+    WinRate: 45.4,
     PlayRate: 7.12,
     BanRate: 1.43,
     HeroID: "Alexstrasza",
@@ -1005,7 +1005,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Battlefield of Eternity",
-    WinRate: 52,
+    WinRate: 49.9,
     PlayRate: 22.4,
     BanRate: 11.6,
     HeroID: "Ana",
@@ -1016,7 +1016,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Battlefield of Eternity",
-    WinRate: 45.79,
+    WinRate: 46.1,
     PlayRate: 25.86,
     BanRate: 9.31,
     HeroID: "Anduin",
@@ -1027,7 +1027,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Battlefield of Eternity",
-    WinRate: 48.98,
+    WinRate: 50.3,
     PlayRate: 13.43,
     BanRate: 3.53,
     HeroID: "Anubarak",
@@ -1038,7 +1038,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Battlefield of Eternity",
-    WinRate: 50.12,
+    WinRate: 49.4,
     PlayRate: 48.8,
     BanRate: 15.65,
     HeroID: "Artanis",
@@ -1049,7 +1049,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Battlefield of Eternity",
-    WinRate: 51.34,
+    WinRate: 51.4,
     PlayRate: 14.09,
     BanRate: 2.79,
     HeroID: "Arthas",
@@ -1060,7 +1060,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Battlefield of Eternity",
-    WinRate: 53.77,
+    WinRate: 53.4,
     PlayRate: 56.99,
     BanRate: 33.21,
     HeroID: "Auriel",
@@ -1071,7 +1071,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Battlefield of Eternity",
-    WinRate: 48.05,
+    WinRate: 48.7,
     PlayRate: 7.56,
     BanRate: 3.08,
     HeroID: "Azmodan",
@@ -1082,7 +1082,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Battlefield of Eternity",
-    WinRate: 47.62,
+    WinRate: 47,
     PlayRate: 6.1,
     BanRate: 0.3,
     HeroID: "Blaze",
@@ -1093,7 +1093,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Battlefield of Eternity",
-    WinRate: 47.29,
+    WinRate: 48.4,
     PlayRate: 13.15,
     BanRate: 2.97,
     HeroID: "Brightwing",
@@ -1104,7 +1104,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Battlefield of Eternity",
-    WinRate: 45.45,
+    WinRate: 46.7,
     PlayRate: 4.97,
     BanRate: 0.53,
     HeroID: "Cassia",
@@ -1115,7 +1115,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Battlefield of Eternity",
-    WinRate: 51.58,
+    WinRate: 52.2,
     PlayRate: 3.88,
     BanRate: 0.89,
     HeroID: "Chen",
@@ -1126,7 +1126,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Battlefield of Eternity",
-    WinRate: 50.9,
+    WinRate: 55.9,
     PlayRate: 2.98,
     BanRate: 1.12,
     HeroID: "Cho",
@@ -1137,7 +1137,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Battlefield of Eternity",
-    WinRate: 50.56,
+    WinRate: 50.6,
     PlayRate: 8.08,
     BanRate: 1.46,
     HeroID: "Chromie",
@@ -1148,7 +1148,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Battlefield of Eternity",
-    WinRate: 46.28,
+    WinRate: 48.2,
     PlayRate: 2.1,
     BanRate: 0.11,
     HeroID: "Dva",
@@ -1159,7 +1159,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Battlefield of Eternity",
-    WinRate: 59.34,
+    WinRate: 56,
     PlayRate: 88.98,
     BanRate: 81.08,
     HeroID: "Deathwing",
@@ -1170,7 +1170,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Battlefield of Eternity",
-    WinRate: 45.33,
+    WinRate: 45.6,
     PlayRate: 5.99,
     BanRate: 0.66,
     HeroID: "Deckard",
@@ -1181,7 +1181,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Battlefield of Eternity",
-    WinRate: 49.8,
+    WinRate: 49.1,
     PlayRate: 1.97,
     BanRate: 0.25,
     HeroID: "Dehaka",
@@ -1192,7 +1192,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Battlefield of Eternity",
-    WinRate: 46.08,
+    WinRate: 45.9,
     PlayRate: 38.29,
     BanRate: 16.21,
     HeroID: "Diablo",
@@ -1203,7 +1203,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Battlefield of Eternity",
-    WinRate: 52.56,
+    WinRate: 53.2,
     PlayRate: 41.8,
     BanRate: 18.68,
     HeroID: "Etc",
@@ -1214,7 +1214,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Battlefield of Eternity",
-    WinRate: 47.77,
+    WinRate: 48.6,
     PlayRate: 6.55,
     BanRate: 0.68,
     HeroID: "Falstad",
@@ -1225,7 +1225,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Battlefield of Eternity",
-    WinRate: 52.15,
+    WinRate: 52.5,
     PlayRate: 5.03,
     BanRate: 0.34,
     HeroID: "Fenix",
@@ -1236,7 +1236,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Battlefield of Eternity",
-    WinRate: 50.9,
+    WinRate: 55.9,
     PlayRate: 2.39,
     BanRate: 0.52,
     HeroID: "Gall",
@@ -1247,7 +1247,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Battlefield of Eternity",
-    WinRate: 49.49,
+    WinRate: 49.8,
     PlayRate: 46.21,
     BanRate: 30.25,
     HeroID: "Garrosh",
@@ -1258,7 +1258,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Battlefield of Eternity",
-    WinRate: 51.11,
+    WinRate: 47.3,
     PlayRate: 4.46,
     BanRate: 0.51,
     HeroID: "Gazlowe",
@@ -1269,7 +1269,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Battlefield of Eternity",
-    WinRate: 38.32,
+    WinRate: 38.2,
     PlayRate: 4.23,
     BanRate: 0.63,
     HeroID: "Genji",
@@ -1280,7 +1280,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Battlefield of Eternity",
-    WinRate: 49.73,
+    WinRate: 49.2,
     PlayRate: 42.1,
     BanRate: 13.79,
     HeroID: "Greymane",
@@ -1291,7 +1291,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Battlefield of Eternity",
-    WinRate: 44.22,
+    WinRate: 43.3,
     PlayRate: 10.41,
     BanRate: 1.92,
     HeroID: "Guldan",
@@ -1302,7 +1302,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Battlefield of Eternity",
-    WinRate: 42.83,
+    WinRate: 42.8,
     PlayRate: 19.21,
     BanRate: 5.36,
     HeroID: "Hanzo",
@@ -1313,7 +1313,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Battlefield of Eternity",
-    WinRate: 43.78,
+    WinRate: 45,
     PlayRate: 4.68,
     BanRate: 0.73,
     HeroID: "Illidan",
@@ -1324,7 +1324,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Battlefield of Eternity",
-    WinRate: 47.79,
+    WinRate: 50.3,
     PlayRate: 11.96,
     BanRate: 1.62,
     HeroID: "Imperius",
@@ -1335,7 +1335,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Battlefield of Eternity",
-    WinRate: 50.93,
+    WinRate: 51.5,
     PlayRate: 19.95,
     BanRate: 3.28,
     HeroID: "Jaina",
@@ -1346,7 +1346,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Battlefield of Eternity",
-    WinRate: 50.31,
+    WinRate: 50.2,
     PlayRate: 59.24,
     BanRate: 26.31,
     HeroID: "Johanna",
@@ -1357,7 +1357,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Battlefield of Eternity",
-    WinRate: 43.33,
+    WinRate: 45,
     PlayRate: 3.95,
     BanRate: 0.72,
     HeroID: "Junkrat",
@@ -1368,7 +1368,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Battlefield of Eternity",
-    WinRate: 52.29,
+    WinRate: 51.2,
     PlayRate: 64.06,
     BanRate: 47.43,
     HeroID: "Kaelthas",
@@ -1379,7 +1379,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Battlefield of Eternity",
-    WinRate: 54.77,
+    WinRate: 54.8,
     PlayRate: 12.64,
     BanRate: 5.3,
     HeroID: "Kelthuzad",
@@ -1390,7 +1390,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Battlefield of Eternity",
-    WinRate: 54.77,
+    WinRate: 57.9,
     PlayRate: 2.62,
     BanRate: 0.15,
     HeroID: "Kerrigan",
@@ -1401,7 +1401,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Battlefield of Eternity",
-    WinRate: 49.26,
+    WinRate: 50.2,
     PlayRate: 7.58,
     BanRate: 0.3,
     HeroID: "Kharazim",
@@ -1412,7 +1412,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Battlefield of Eternity",
-    WinRate: 47.69,
+    WinRate: 48.6,
     PlayRate: 10.17,
     BanRate: 1.42,
     HeroID: "Leoric",
@@ -1423,7 +1423,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Battlefield of Eternity",
-    WinRate: 46.02,
+    WinRate: 46.1,
     PlayRate: 31.84,
     BanRate: 10.48,
     HeroID: "Lili",
@@ -1434,7 +1434,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Battlefield of Eternity",
-    WinRate: 52.49,
+    WinRate: 53,
     PlayRate: 61.33,
     BanRate: 16.94,
     HeroID: "Liming",
@@ -1445,7 +1445,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Battlefield of Eternity",
-    WinRate: 51.31,
+    WinRate: 50.7,
     PlayRate: 12.58,
     BanRate: 3.59,
     HeroID: "Ltmorales",
@@ -1456,7 +1456,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Battlefield of Eternity",
-    WinRate: 53.21,
+    WinRate: 53.7,
     PlayRate: 22.41,
     BanRate: 6.16,
     HeroID: "Lucio",
@@ -1467,7 +1467,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Battlefield of Eternity",
-    WinRate: 51.83,
+    WinRate: 49.7,
     PlayRate: 26.27,
     BanRate: 5.87,
     HeroID: "Lunara",
@@ -1478,7 +1478,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Battlefield of Eternity",
-    WinRate: 51.35,
+    WinRate: 48.1,
     PlayRate: 3.87,
     BanRate: 0.87,
     HeroID: "Maiev",
@@ -1489,7 +1489,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Battlefield of Eternity",
-    WinRate: 57.13,
+    WinRate: 56.3,
     PlayRate: 22.82,
     BanRate: 8.35,
     HeroID: "Malganis",
@@ -1500,7 +1500,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Battlefield of Eternity",
-    WinRate: 50.85,
+    WinRate: 50.1,
     PlayRate: 10.32,
     BanRate: 1.66,
     HeroID: "Malfurion",
@@ -1511,7 +1511,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Battlefield of Eternity",
-    WinRate: 50.8,
+    WinRate: 53,
     PlayRate: 12.6,
     BanRate: 3.78,
     HeroID: "Malthael",
@@ -1522,7 +1522,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Battlefield of Eternity",
-    WinRate: 44.13,
+    WinRate: 40.7,
     PlayRate: 2.76,
     BanRate: 0.35,
     HeroID: "Medivh",
@@ -1533,7 +1533,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Battlefield of Eternity",
-    WinRate: 52.57,
+    WinRate: 53.7,
     PlayRate: 4.37,
     BanRate: 0.44,
     HeroID: "Mephisto",
@@ -1544,7 +1544,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Battlefield of Eternity",
-    WinRate: 47.45,
+    WinRate: 47.2,
     PlayRate: 25.59,
     BanRate: 2.12,
     HeroID: "Muradin",
@@ -1555,7 +1555,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Battlefield of Eternity",
-    WinRate: 48.95,
+    WinRate: 45.6,
     PlayRate: 1.96,
     BanRate: 0.36,
     HeroID: "Murky",
@@ -1566,7 +1566,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Battlefield of Eternity",
-    WinRate: 46.78,
+    WinRate: 47.4,
     PlayRate: 10.91,
     BanRate: 1.31,
     HeroID: "Nazeebo",
@@ -1577,7 +1577,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Battlefield of Eternity",
-    WinRate: 42.14,
+    WinRate: 44.8,
     PlayRate: 3.58,
     BanRate: 0.24,
     HeroID: "Nova",
@@ -1588,7 +1588,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Battlefield of Eternity",
-    WinRate: 49.3,
+    WinRate: 48.2,
     PlayRate: 5.26,
     BanRate: 0.46,
     HeroID: "Orphea",
@@ -1599,7 +1599,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Battlefield of Eternity",
-    WinRate: 56.2,
+    WinRate: 50,
     PlayRate: 1.05,
     BanRate: 0.24,
     HeroID: "Probius",
@@ -1610,7 +1610,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Battlefield of Eternity",
-    WinRate: 47.88,
+    WinRate: 46.3,
     PlayRate: 16.93,
     BanRate: 7.9,
     HeroID: "Qhira",
@@ -1621,7 +1621,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Battlefield of Eternity",
-    WinRate: 52.06,
+    WinRate: 52.9,
     PlayRate: 5.7,
     BanRate: 1.14,
     HeroID: "Ragnaros",
@@ -1632,7 +1632,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Battlefield of Eternity",
-    WinRate: 51.77,
+    WinRate: 51.2,
     PlayRate: 28.54,
     BanRate: 4.58,
     HeroID: "Raynor",
@@ -1643,7 +1643,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Battlefield of Eternity",
-    WinRate: 52.04,
+    WinRate: 54.1,
     PlayRate: 17.43,
     BanRate: 1.83,
     HeroID: "Rehgar",
@@ -1654,7 +1654,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Battlefield of Eternity",
-    WinRate: 56.86,
+    WinRate: 57.4,
     PlayRate: 6.11,
     BanRate: 1.75,
     HeroID: "Rexxar",
@@ -1665,7 +1665,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Battlefield of Eternity",
-    WinRate: 49.74,
+    WinRate: 50,
     PlayRate: 6.67,
     BanRate: 1.44,
     HeroID: "Samuro",
@@ -1676,7 +1676,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Battlefield of Eternity",
-    WinRate: 48.48,
+    WinRate: 43.5,
     PlayRate: 4,
     BanRate: 0.89,
     HeroID: "Sgthammer",
@@ -1687,7 +1687,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Battlefield of Eternity",
-    WinRate: 51.69,
+    WinRate: 51.7,
     PlayRate: 14.88,
     BanRate: 1.54,
     HeroID: "Sonya",
@@ -1698,7 +1698,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Battlefield of Eternity",
-    WinRate: 44.08,
+    WinRate: 41.8,
     PlayRate: 10.23,
     BanRate: 0.87,
     HeroID: "Stitches",
@@ -1709,7 +1709,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Battlefield of Eternity",
-    WinRate: 51.03,
+    WinRate: 50.5,
     PlayRate: 12.75,
     BanRate: 2.61,
     HeroID: "Stukov",
@@ -1720,7 +1720,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Battlefield of Eternity",
-    WinRate: 46.15,
+    WinRate: 47.5,
     PlayRate: 19.09,
     BanRate: 4.61,
     HeroID: "Sylvanas",
@@ -1731,7 +1731,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Battlefield of Eternity",
-    WinRate: 43.67,
+    WinRate: 44,
     PlayRate: 2.91,
     BanRate: 0.31,
     HeroID: "Tassadar",
@@ -1742,7 +1742,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Battlefield of Eternity",
-    WinRate: 49.1,
+    WinRate: 50.1,
     PlayRate: 9.28,
     BanRate: 2.94,
     HeroID: "Thebutcher",
@@ -1753,7 +1753,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Battlefield of Eternity",
-    WinRate: 43.33,
+    WinRate: 42.5,
     PlayRate: 0.75,
     BanRate: 0.35,
     HeroID: "Thelostvikings",
@@ -1764,7 +1764,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Battlefield of Eternity",
-    WinRate: 50.33,
+    WinRate: 49.1,
     PlayRate: 18.37,
     BanRate: 0.95,
     HeroID: "Thrall",
@@ -1775,7 +1775,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Battlefield of Eternity",
-    WinRate: 42.48,
+    WinRate: 39.1,
     PlayRate: 3.96,
     BanRate: 0.43,
     HeroID: "Tracer",
@@ -1786,7 +1786,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Battlefield of Eternity",
-    WinRate: 48.6,
+    WinRate: 49.7,
     PlayRate: 9.88,
     BanRate: 2.43,
     HeroID: "Tychus",
@@ -1797,7 +1797,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Battlefield of Eternity",
-    WinRate: 49.85,
+    WinRate: 48.9,
     PlayRate: 4.69,
     BanRate: 0.2,
     HeroID: "Tyrael",
@@ -1808,7 +1808,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Battlefield of Eternity",
-    WinRate: 46.17,
+    WinRate: 47,
     PlayRate: 8.96,
     BanRate: 0.8,
     HeroID: "Tyrande",
@@ -1819,7 +1819,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Battlefield of Eternity",
-    WinRate: 53.65,
+    WinRate: 53.1,
     PlayRate: 19.38,
     BanRate: 5.87,
     HeroID: "Uther",
@@ -1830,7 +1830,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Battlefield of Eternity",
-    WinRate: 43.26,
+    WinRate: 46,
     PlayRate: 5.09,
     BanRate: 0.85,
     HeroID: "Valeera",
@@ -1841,7 +1841,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Battlefield of Eternity",
-    WinRate: 54.46,
+    WinRate: 55.2,
     PlayRate: 76.18,
     BanRate: 27.43,
     HeroID: "Valla",
@@ -1852,7 +1852,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Battlefield of Eternity",
-    WinRate: 50.62,
+    WinRate: 50.3,
     PlayRate: 34.89,
     BanRate: 11.6,
     HeroID: "Varian",
@@ -1863,7 +1863,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Battlefield of Eternity",
-    WinRate: 49.39,
+    WinRate: 49.9,
     PlayRate: 5.29,
     BanRate: 0.37,
     HeroID: "Whitemane",
@@ -1874,7 +1874,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Battlefield of Eternity",
-    WinRate: 44.98,
+    WinRate: 44.4,
     PlayRate: 1.65,
     BanRate: 0.11,
     HeroID: "Xul",
@@ -1885,7 +1885,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Battlefield of Eternity",
-    WinRate: 48.95,
+    WinRate: 47.8,
     PlayRate: 3.17,
     BanRate: 0.29,
     HeroID: "Yrel",
@@ -1896,7 +1896,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Battlefield of Eternity",
-    WinRate: 48.06,
+    WinRate: 47,
     PlayRate: 4.28,
     BanRate: 0.48,
     HeroID: "Zagara",
@@ -1907,7 +1907,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Battlefield of Eternity",
-    WinRate: 45.64,
+    WinRate: 48.3,
     PlayRate: 4.13,
     BanRate: 0.44,
     HeroID: "Zarya",
@@ -1918,7 +1918,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Battlefield of Eternity",
-    WinRate: 46.76,
+    WinRate: 48.4,
     PlayRate: 6.99,
     BanRate: 2.42,
     HeroID: "Zeratul",
@@ -1929,7 +1929,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Battlefield of Eternity",
-    WinRate: 49.98,
+    WinRate: 49.5,
     PlayRate: 27.75,
     BanRate: 8.07,
     HeroID: "Zuljin",
@@ -1940,7 +1940,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Braxis Holdout",
-    WinRate: 44.99,
+    WinRate: 45.3,
     PlayRate: 4.17,
     BanRate: 1.41,
     HeroID: "Abathur",
@@ -1951,7 +1951,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Braxis Holdout",
-    WinRate: 49.54,
+    WinRate: 47.8,
     PlayRate: 34.08,
     BanRate: 24.59,
     HeroID: "Alarak",
@@ -1962,7 +1962,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Braxis Holdout",
-    WinRate: 46.01,
+    WinRate: 44.6,
     PlayRate: 9.34,
     BanRate: 1.91,
     HeroID: "Alexstrasza",
@@ -1973,7 +1973,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Braxis Holdout",
-    WinRate: 48.53,
+    WinRate: 46.6,
     PlayRate: 26.04,
     BanRate: 12.53,
     HeroID: "Ana",
@@ -1984,7 +1984,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Braxis Holdout",
-    WinRate: 45.66,
+    WinRate: 46,
     PlayRate: 25.73,
     BanRate: 8.8,
     HeroID: "Anduin",
@@ -1995,7 +1995,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Braxis Holdout",
-    WinRate: 46.43,
+    WinRate: 47.7,
     PlayRate: 12.89,
     BanRate: 3.45,
     HeroID: "Anubarak",
@@ -2006,7 +2006,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Braxis Holdout",
-    WinRate: 50.95,
+    WinRate: 50.3,
     PlayRate: 12.64,
     BanRate: 2.01,
     HeroID: "Artanis",
@@ -2017,7 +2017,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Braxis Holdout",
-    WinRate: 50.73,
+    WinRate: 50.7,
     PlayRate: 13.5,
     BanRate: 2.43,
     HeroID: "Arthas",
@@ -2028,7 +2028,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Braxis Holdout",
-    WinRate: 53.97,
+    WinRate: 53.6,
     PlayRate: 59.23,
     BanRate: 33.89,
     HeroID: "Auriel",
@@ -2039,7 +2039,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Braxis Holdout",
-    WinRate: 52.81,
+    WinRate: 53.5,
     PlayRate: 12.23,
     BanRate: 4.31,
     HeroID: "Azmodan",
@@ -2050,7 +2050,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Braxis Holdout",
-    WinRate: 50.24,
+    WinRate: 49.6,
     PlayRate: 7.71,
     BanRate: 0.57,
     HeroID: "Blaze",
@@ -2061,7 +2061,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Braxis Holdout",
-    WinRate: 51.23,
+    WinRate: 52.5,
     PlayRate: 18.89,
     BanRate: 4.42,
     HeroID: "Brightwing",
@@ -2072,7 +2072,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Braxis Holdout",
-    WinRate: 45.94,
+    WinRate: 47.2,
     PlayRate: 3.95,
     BanRate: 0.3,
     HeroID: "Cassia",
@@ -2083,7 +2083,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Braxis Holdout",
-    WinRate: 47.31,
+    WinRate: 47.9,
     PlayRate: 5.93,
     BanRate: 1.68,
     HeroID: "Chen",
@@ -2094,7 +2094,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Braxis Holdout",
-    WinRate: 44,
+    WinRate: 48.3,
     PlayRate: 3.59,
     BanRate: 1.23,
     HeroID: "Cho",
@@ -2105,7 +2105,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Braxis Holdout",
-    WinRate: 50.81,
+    WinRate: 50.8,
     PlayRate: 12.19,
     BanRate: 2.61,
     HeroID: "Chromie",
@@ -2116,7 +2116,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Braxis Holdout",
-    WinRate: 47.29,
+    WinRate: 49.2,
     PlayRate: 2.55,
     BanRate: 0.19,
     HeroID: "Dva",
@@ -2127,7 +2127,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Braxis Holdout",
-    WinRate: 59.34,
+    WinRate: 56,
     PlayRate: 90.06,
     BanRate: 82.56,
     HeroID: "Deathwing",
@@ -2138,7 +2138,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Braxis Holdout",
-    WinRate: 48.51,
+    WinRate: 48.7,
     PlayRate: 7.42,
     BanRate: 0.64,
     HeroID: "Deckard",
@@ -2149,7 +2149,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Braxis Holdout",
-    WinRate: 45.06,
+    WinRate: 44.4,
     PlayRate: 4.87,
     BanRate: 1.33,
     HeroID: "Dehaka",
@@ -2160,7 +2160,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Braxis Holdout",
-    WinRate: 45.93,
+    WinRate: 45.8,
     PlayRate: 33.94,
     BanRate: 13.91,
     HeroID: "Diablo",
@@ -2171,7 +2171,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Braxis Holdout",
-    WinRate: 52.65,
+    WinRate: 53.3,
     PlayRate: 41.16,
     BanRate: 17.76,
     HeroID: "Etc",
@@ -2182,7 +2182,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Braxis Holdout",
-    WinRate: 47.92,
+    WinRate: 48.8,
     PlayRate: 8.72,
     BanRate: 1.12,
     HeroID: "Falstad",
@@ -2193,7 +2193,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Braxis Holdout",
-    WinRate: 55.17,
+    WinRate: 55.5,
     PlayRate: 9.81,
     BanRate: 1.15,
     HeroID: "Fenix",
@@ -2204,7 +2204,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Braxis Holdout",
-    WinRate: 43.87,
+    WinRate: 48.1,
     PlayRate: 3.04,
     BanRate: 0.67,
     HeroID: "Gall",
@@ -2215,7 +2215,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Braxis Holdout",
-    WinRate: 49.69,
+    WinRate: 50,
     PlayRate: 51.11,
     BanRate: 32.85,
     HeroID: "Garrosh",
@@ -2226,7 +2226,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Braxis Holdout",
-    WinRate: 50.97,
+    WinRate: 47.1,
     PlayRate: 4.92,
     BanRate: 0.42,
     HeroID: "Gazlowe",
@@ -2237,7 +2237,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Braxis Holdout",
-    WinRate: 43.44,
+    WinRate: 43.4,
     PlayRate: 6.83,
     BanRate: 1.08,
     HeroID: "Genji",
@@ -2248,7 +2248,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Braxis Holdout",
-    WinRate: 50.68,
+    WinRate: 50.2,
     PlayRate: 17.99,
     BanRate: 3.03,
     HeroID: "Greymane",
@@ -2259,7 +2259,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Braxis Holdout",
-    WinRate: 47.92,
+    WinRate: 46.9,
     PlayRate: 40.5,
     BanRate: 11.37,
     HeroID: "Guldan",
@@ -2270,7 +2270,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Braxis Holdout",
-    WinRate: 44.41,
+    WinRate: 44.4,
     PlayRate: 11.06,
     BanRate: 1.56,
     HeroID: "Hanzo",
@@ -2281,7 +2281,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Braxis Holdout",
-    WinRate: 44.33,
+    WinRate: 45.6,
     PlayRate: 3.84,
     BanRate: 0.64,
     HeroID: "Illidan",
@@ -2292,7 +2292,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Braxis Holdout",
-    WinRate: 50.47,
+    WinRate: 53.1,
     PlayRate: 11.35,
     BanRate: 2.05,
     HeroID: "Imperius",
@@ -2303,7 +2303,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Braxis Holdout",
-    WinRate: 48.19,
+    WinRate: 48.7,
     PlayRate: 26.18,
     BanRate: 5.02,
     HeroID: "Jaina",
@@ -2314,7 +2314,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Braxis Holdout",
-    WinRate: 51.94,
+    WinRate: 51.8,
     PlayRate: 58,
     BanRate: 24.04,
     HeroID: "Johanna",
@@ -2325,7 +2325,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Braxis Holdout",
-    WinRate: 47.98,
+    WinRate: 49.8,
     PlayRate: 9.87,
     BanRate: 1.7,
     HeroID: "Junkrat",
@@ -2336,7 +2336,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Braxis Holdout",
-    WinRate: 51.29,
+    WinRate: 50.2,
     PlayRate: 76.38,
     BanRate: 52.59,
     HeroID: "Kaelthas",
@@ -2347,7 +2347,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Braxis Holdout",
-    WinRate: 52.63,
+    WinRate: 52.7,
     PlayRate: 21.98,
     BanRate: 8.32,
     HeroID: "Kelthuzad",
@@ -2358,7 +2358,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Braxis Holdout",
-    WinRate: 53.07,
+    WinRate: 56.1,
     PlayRate: 2.97,
     BanRate: 0.12,
     HeroID: "Kerrigan",
@@ -2369,7 +2369,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Braxis Holdout",
-    WinRate: 48.42,
+    WinRate: 49.4,
     PlayRate: 4.06,
     BanRate: 0.24,
     HeroID: "Kharazim",
@@ -2380,7 +2380,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Braxis Holdout",
-    WinRate: 52.16,
+    WinRate: 53.2,
     PlayRate: 16.02,
     BanRate: 2.93,
     HeroID: "Leoric",
@@ -2391,7 +2391,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Braxis Holdout",
-    WinRate: 48.97,
+    WinRate: 49.1,
     PlayRate: 22.3,
     BanRate: 6.95,
     HeroID: "Lili",
@@ -2402,7 +2402,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Braxis Holdout",
-    WinRate: 51.24,
+    WinRate: 51.7,
     PlayRate: 37.37,
     BanRate: 12.43,
     HeroID: "Liming",
@@ -2413,7 +2413,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Braxis Holdout",
-    WinRate: 53.26,
+    WinRate: 52.7,
     PlayRate: 12.95,
     BanRate: 3.56,
     HeroID: "Ltmorales",
@@ -2424,7 +2424,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Braxis Holdout",
-    WinRate: 50.88,
+    WinRate: 51.4,
     PlayRate: 21.67,
     BanRate: 5.67,
     HeroID: "Lucio",
@@ -2435,7 +2435,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Braxis Holdout",
-    WinRate: 54.15,
+    WinRate: 51.9,
     PlayRate: 15.29,
     BanRate: 2.02,
     HeroID: "Lunara",
@@ -2446,7 +2446,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Braxis Holdout",
-    WinRate: 49.43,
+    WinRate: 46.3,
     PlayRate: 5.16,
     BanRate: 1.04,
     HeroID: "Maiev",
@@ -2457,7 +2457,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Braxis Holdout",
-    WinRate: 53.81,
+    WinRate: 53,
     PlayRate: 22.24,
     BanRate: 8.04,
     HeroID: "Malganis",
@@ -2468,7 +2468,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Braxis Holdout",
-    WinRate: 50.45,
+    WinRate: 49.7,
     PlayRate: 12.71,
     BanRate: 1.63,
     HeroID: "Malfurion",
@@ -2479,7 +2479,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Braxis Holdout",
-    WinRate: 51.83,
+    WinRate: 54.1,
     PlayRate: 13.29,
     BanRate: 3.9,
     HeroID: "Malthael",
@@ -2490,7 +2490,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Braxis Holdout",
-    WinRate: 44.04,
+    WinRate: 40.6,
     PlayRate: 2.84,
     BanRate: 0.41,
     HeroID: "Medivh",
@@ -2501,7 +2501,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Braxis Holdout",
-    WinRate: 49.21,
+    WinRate: 50.3,
     PlayRate: 5.98,
     BanRate: 0.43,
     HeroID: "Mephisto",
@@ -2512,7 +2512,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Braxis Holdout",
-    WinRate: 48.24,
+    WinRate: 48,
     PlayRate: 21.79,
     BanRate: 1.77,
     HeroID: "Muradin",
@@ -2523,7 +2523,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Braxis Holdout",
-    WinRate: 38.5,
+    WinRate: 35.9,
     PlayRate: 1.74,
     BanRate: 0.31,
     HeroID: "Murky",
@@ -2534,7 +2534,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Braxis Holdout",
-    WinRate: 45.84,
+    WinRate: 46.5,
     PlayRate: 11.82,
     BanRate: 1.16,
     HeroID: "Nazeebo",
@@ -2545,7 +2545,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Braxis Holdout",
-    WinRate: 41.14,
+    WinRate: 43.8,
     PlayRate: 3.17,
     BanRate: 0.22,
     HeroID: "Nova",
@@ -2556,7 +2556,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Braxis Holdout",
-    WinRate: 53.07,
+    WinRate: 51.9,
     PlayRate: 6.47,
     BanRate: 0.55,
     HeroID: "Orphea",
@@ -2567,7 +2567,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Braxis Holdout",
-    WinRate: 48.86,
+    WinRate: 43.5,
     PlayRate: 1.8,
     BanRate: 0.33,
     HeroID: "Probius",
@@ -2578,7 +2578,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Braxis Holdout",
-    WinRate: 50.72,
+    WinRate: 49,
     PlayRate: 19.24,
     BanRate: 8.51,
     HeroID: "Qhira",
@@ -2589,7 +2589,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Braxis Holdout",
-    WinRate: 46.75,
+    WinRate: 47.5,
     PlayRate: 41.92,
     BanRate: 19.77,
     HeroID: "Ragnaros",
@@ -2600,7 +2600,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Braxis Holdout",
-    WinRate: 50.97,
+    WinRate: 50.4,
     PlayRate: 20.18,
     BanRate: 1.52,
     HeroID: "Raynor",
@@ -2611,7 +2611,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Braxis Holdout",
-    WinRate: 50.86,
+    WinRate: 52.9,
     PlayRate: 12.74,
     BanRate: 1.08,
     HeroID: "Rehgar",
@@ -2622,7 +2622,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Braxis Holdout",
-    WinRate: 59.83,
+    WinRate: 60.4,
     PlayRate: 45.62,
     BanRate: 27.6,
     HeroID: "Rexxar",
@@ -2633,7 +2633,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Braxis Holdout",
-    WinRate: 52.29,
+    WinRate: 52.6,
     PlayRate: 4.61,
     BanRate: 0.95,
     HeroID: "Samuro",
@@ -2644,7 +2644,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Braxis Holdout",
-    WinRate: 49,
+    WinRate: 44,
     PlayRate: 4.1,
     BanRate: 0.74,
     HeroID: "Sgthammer",
@@ -2655,7 +2655,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Braxis Holdout",
-    WinRate: 55.18,
+    WinRate: 55.2,
     PlayRate: 17.86,
     BanRate: 2.88,
     HeroID: "Sonya",
@@ -2666,7 +2666,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Braxis Holdout",
-    WinRate: 46.97,
+    WinRate: 44.5,
     PlayRate: 13.94,
     BanRate: 0.97,
     HeroID: "Stitches",
@@ -2677,7 +2677,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Braxis Holdout",
-    WinRate: 49.95,
+    WinRate: 49.5,
     PlayRate: 18.22,
     BanRate: 4.58,
     HeroID: "Stukov",
@@ -2688,7 +2688,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Braxis Holdout",
-    WinRate: 47.65,
+    WinRate: 49.1,
     PlayRate: 21.06,
     BanRate: 4.58,
     HeroID: "Sylvanas",
@@ -2699,7 +2699,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Braxis Holdout",
-    WinRate: 42.09,
+    WinRate: 42.4,
     PlayRate: 2.61,
     BanRate: 0.24,
     HeroID: "Tassadar",
@@ -2710,7 +2710,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Braxis Holdout",
-    WinRate: 50.27,
+    WinRate: 51.3,
     PlayRate: 9.19,
     BanRate: 2.9,
     HeroID: "Thebutcher",
@@ -2721,7 +2721,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Braxis Holdout",
-    WinRate: 35.56,
+    WinRate: 34.9,
     PlayRate: 0.67,
     BanRate: 0.36,
     HeroID: "Thelostvikings",
@@ -2732,7 +2732,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Braxis Holdout",
-    WinRate: 46.39,
+    WinRate: 45.2,
     PlayRate: 16.26,
     BanRate: 1.3,
     HeroID: "Thrall",
@@ -2743,7 +2743,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Braxis Holdout",
-    WinRate: 42.2,
+    WinRate: 38.9,
     PlayRate: 3,
     BanRate: 0.5,
     HeroID: "Tracer",
@@ -2754,7 +2754,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Braxis Holdout",
-    WinRate: 47.07,
+    WinRate: 48.1,
     PlayRate: 10.82,
     BanRate: 2.45,
     HeroID: "Tychus",
@@ -2765,7 +2765,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Braxis Holdout",
-    WinRate: 44.36,
+    WinRate: 43.5,
     PlayRate: 3.56,
     BanRate: 0.16,
     HeroID: "Tyrael",
@@ -2776,7 +2776,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Braxis Holdout",
-    WinRate: 48.5,
+    WinRate: 49.4,
     PlayRate: 4.92,
     BanRate: 0.22,
     HeroID: "Tyrande",
@@ -2787,7 +2787,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Braxis Holdout",
-    WinRate: 52.26,
+    WinRate: 51.7,
     PlayRate: 15.27,
     BanRate: 4.85,
     HeroID: "Uther",
@@ -2798,7 +2798,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Braxis Holdout",
-    WinRate: 45.05,
+    WinRate: 47.9,
     PlayRate: 4.37,
     BanRate: 0.7,
     HeroID: "Valeera",
@@ -2809,7 +2809,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Braxis Holdout",
-    WinRate: 48.91,
+    WinRate: 49.6,
     PlayRate: 25.58,
     BanRate: 3.33,
     HeroID: "Valla",
@@ -2820,7 +2820,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Braxis Holdout",
-    WinRate: 47.87,
+    WinRate: 47.5,
     PlayRate: 28.96,
     BanRate: 10.98,
     HeroID: "Varian",
@@ -2831,7 +2831,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Braxis Holdout",
-    WinRate: 46.71,
+    WinRate: 47.2,
     PlayRate: 5.17,
     BanRate: 0.37,
     HeroID: "Whitemane",
@@ -2842,7 +2842,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Braxis Holdout",
-    WinRate: 43.59,
+    WinRate: 43,
     PlayRate: 2.79,
     BanRate: 0.17,
     HeroID: "Xul",
@@ -2853,7 +2853,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Braxis Holdout",
-    WinRate: 46.58,
+    WinRate: 45.4,
     PlayRate: 4.49,
     BanRate: 0.47,
     HeroID: "Yrel",
@@ -2864,7 +2864,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Braxis Holdout",
-    WinRate: 52.92,
+    WinRate: 51.7,
     PlayRate: 9.75,
     BanRate: 1.36,
     HeroID: "Zagara",
@@ -2875,7 +2875,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Braxis Holdout",
-    WinRate: 50.29,
+    WinRate: 53.2,
     PlayRate: 5.04,
     BanRate: 0.44,
     HeroID: "Zarya",
@@ -2886,7 +2886,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Braxis Holdout",
-    WinRate: 48.16,
+    WinRate: 49.8,
     PlayRate: 5.09,
     BanRate: 1.98,
     HeroID: "Zeratul",
@@ -2897,7 +2897,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Braxis Holdout",
-    WinRate: 54.31,
+    WinRate: 53.8,
     PlayRate: 23.27,
     BanRate: 3.62,
     HeroID: "Zuljin",
@@ -2908,7 +2908,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Cursed Hollow",
-    WinRate: 47.48,
+    WinRate: 47.8,
     PlayRate: 31.31,
     BanRate: 17.43,
     HeroID: "Abathur",
@@ -2919,7 +2919,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Cursed Hollow",
-    WinRate: 46.97,
+    WinRate: 45.3,
     PlayRate: 33.13,
     BanRate: 25.69,
     HeroID: "Alarak",
@@ -2930,7 +2930,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Cursed Hollow",
-    WinRate: 52.66,
+    WinRate: 51,
     PlayRate: 8.83,
     BanRate: 1.62,
     HeroID: "Alexstrasza",
@@ -2941,7 +2941,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Cursed Hollow",
-    WinRate: 51.26,
+    WinRate: 49.2,
     PlayRate: 21.95,
     BanRate: 11.81,
     HeroID: "Ana",
@@ -2952,7 +2952,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Cursed Hollow",
-    WinRate: 47.16,
+    WinRate: 47.5,
     PlayRate: 26.34,
     BanRate: 9.4,
     HeroID: "Anduin",
@@ -2963,7 +2963,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Cursed Hollow",
-    WinRate: 49.9,
+    WinRate: 51.2,
     PlayRate: 14.09,
     BanRate: 3.68,
     HeroID: "Anubarak",
@@ -2974,7 +2974,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Cursed Hollow",
-    WinRate: 50.49,
+    WinRate: 49.8,
     PlayRate: 10.96,
     BanRate: 1.41,
     HeroID: "Artanis",
@@ -2985,7 +2985,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Cursed Hollow",
-    WinRate: 51.11,
+    WinRate: 51.1,
     PlayRate: 13.94,
     BanRate: 2.67,
     HeroID: "Arthas",
@@ -2996,7 +2996,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Cursed Hollow",
-    WinRate: 54.29,
+    WinRate: 54,
     PlayRate: 54.52,
     BanRate: 33.97,
     HeroID: "Auriel",
@@ -3007,7 +3007,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Cursed Hollow",
-    WinRate: 49.44,
+    WinRate: 50.1,
     PlayRate: 15.16,
     BanRate: 6.12,
     HeroID: "Azmodan",
@@ -3018,7 +3018,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Cursed Hollow",
-    WinRate: 50.28,
+    WinRate: 49.6,
     PlayRate: 6.38,
     BanRate: 0.29,
     HeroID: "Blaze",
@@ -3029,7 +3029,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Cursed Hollow",
-    WinRate: 48.59,
+    WinRate: 49.8,
     PlayRate: 28.62,
     BanRate: 7.87,
     HeroID: "Brightwing",
@@ -3040,7 +3040,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Cursed Hollow",
-    WinRate: 47.91,
+    WinRate: 49.3,
     PlayRate: 4.37,
     BanRate: 0.34,
     HeroID: "Cassia",
@@ -3051,7 +3051,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Cursed Hollow",
-    WinRate: 54.03,
+    WinRate: 54.6,
     PlayRate: 3.64,
     BanRate: 0.55,
     HeroID: "Chen",
@@ -3062,7 +3062,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Cursed Hollow",
-    WinRate: 52.36,
+    WinRate: 57.5,
     PlayRate: 2.44,
     BanRate: 1.01,
     HeroID: "Cho",
@@ -3073,7 +3073,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Cursed Hollow",
-    WinRate: 48.02,
+    WinRate: 48,
     PlayRate: 8.73,
     BanRate: 1.58,
     HeroID: "Chromie",
@@ -3084,7 +3084,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Cursed Hollow",
-    WinRate: 47.18,
+    WinRate: 49.1,
     PlayRate: 2.01,
     BanRate: 0.11,
     HeroID: "Dva",
@@ -3095,7 +3095,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Cursed Hollow",
-    WinRate: 61.82,
+    WinRate: 58.3,
     PlayRate: 89.91,
     BanRate: 83.33,
     HeroID: "Deathwing",
@@ -3106,7 +3106,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Cursed Hollow",
-    WinRate: 45.67,
+    WinRate: 45.9,
     PlayRate: 6.56,
     BanRate: 0.65,
     HeroID: "Deckard",
@@ -3117,7 +3117,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Cursed Hollow",
-    WinRate: 46.21,
+    WinRate: 45.5,
     PlayRate: 22.06,
     BanRate: 8.46,
     HeroID: "Dehaka",
@@ -3128,7 +3128,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Cursed Hollow",
-    WinRate: 46.68,
+    WinRate: 46.5,
     PlayRate: 43.47,
     BanRate: 17.96,
     HeroID: "Diablo",
@@ -3139,7 +3139,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Cursed Hollow",
-    WinRate: 52.53,
+    WinRate: 53.1,
     PlayRate: 44.89,
     BanRate: 19.63,
     HeroID: "Etc",
@@ -3150,7 +3150,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Cursed Hollow",
-    WinRate: 51.75,
+    WinRate: 52.7,
     PlayRate: 35.15,
     BanRate: 11.05,
     HeroID: "Falstad",
@@ -3161,7 +3161,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Cursed Hollow",
-    WinRate: 54.35,
+    WinRate: 54.7,
     PlayRate: 5.74,
     BanRate: 0.33,
     HeroID: "Fenix",
@@ -3172,7 +3172,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Cursed Hollow",
-    WinRate: 52.11,
+    WinRate: 57.2,
     PlayRate: 2.08,
     BanRate: 0.65,
     HeroID: "Gall",
@@ -3183,7 +3183,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Cursed Hollow",
-    WinRate: 43.89,
+    WinRate: 44.1,
     PlayRate: 43.48,
     BanRate: 29.39,
     HeroID: "Garrosh",
@@ -3194,7 +3194,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Cursed Hollow",
-    WinRate: 54.22,
+    WinRate: 50.1,
     PlayRate: 4.7,
     BanRate: 0.32,
     HeroID: "Gazlowe",
@@ -3205,7 +3205,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Cursed Hollow",
-    WinRate: 41.99,
+    WinRate: 41.9,
     PlayRate: 5.64,
     BanRate: 0.77,
     HeroID: "Genji",
@@ -3216,7 +3216,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Cursed Hollow",
-    WinRate: 50.2,
+    WinRate: 49.7,
     PlayRate: 24.54,
     BanRate: 4.69,
     HeroID: "Greymane",
@@ -3227,7 +3227,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Cursed Hollow",
-    WinRate: 45.95,
+    WinRate: 45,
     PlayRate: 12.5,
     BanRate: 2.62,
     HeroID: "Guldan",
@@ -3238,7 +3238,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Cursed Hollow",
-    WinRate: 45.78,
+    WinRate: 45.8,
     PlayRate: 16.64,
     BanRate: 2.51,
     HeroID: "Hanzo",
@@ -3249,7 +3249,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Cursed Hollow",
-    WinRate: 50.54,
+    WinRate: 52,
     PlayRate: 11.75,
     BanRate: 3.06,
     HeroID: "Illidan",
@@ -3260,7 +3260,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Cursed Hollow",
-    WinRate: 49.86,
+    WinRate: 52.4,
     PlayRate: 11.2,
     BanRate: 1.33,
     HeroID: "Imperius",
@@ -3271,7 +3271,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Cursed Hollow",
-    WinRate: 49.46,
+    WinRate: 50,
     PlayRate: 23.06,
     BanRate: 4.37,
     HeroID: "Jaina",
@@ -3282,7 +3282,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Cursed Hollow",
-    WinRate: 50.29,
+    WinRate: 50.1,
     PlayRate: 54.21,
     BanRate: 24.48,
     HeroID: "Johanna",
@@ -3293,7 +3293,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Cursed Hollow",
-    WinRate: 47.17,
+    WinRate: 48.9,
     PlayRate: 6.96,
     BanRate: 1.26,
     HeroID: "Junkrat",
@@ -3304,7 +3304,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Cursed Hollow",
-    WinRate: 50.22,
+    WinRate: 49.2,
     PlayRate: 69.47,
     BanRate: 51.27,
     HeroID: "Kaelthas",
@@ -3315,7 +3315,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Cursed Hollow",
-    WinRate: 45.64,
+    WinRate: 45.7,
     PlayRate: 14.55,
     BanRate: 7.37,
     HeroID: "Kelthuzad",
@@ -3326,7 +3326,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Cursed Hollow",
-    WinRate: 53.56,
+    WinRate: 56.6,
     PlayRate: 3.47,
     BanRate: 0.26,
     HeroID: "Kerrigan",
@@ -3337,7 +3337,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Cursed Hollow",
-    WinRate: 49.52,
+    WinRate: 50.5,
     PlayRate: 5.87,
     BanRate: 0.24,
     HeroID: "Kharazim",
@@ -3348,7 +3348,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Cursed Hollow",
-    WinRate: 50.1,
+    WinRate: 51.1,
     PlayRate: 11.57,
     BanRate: 1.79,
     HeroID: "Leoric",
@@ -3359,7 +3359,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Cursed Hollow",
-    WinRate: 49.62,
+    WinRate: 49.7,
     PlayRate: 25.39,
     BanRate: 8.55,
     HeroID: "Lili",
@@ -3370,7 +3370,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Cursed Hollow",
-    WinRate: 49.64,
+    WinRate: 50.1,
     PlayRate: 55.31,
     BanRate: 16.49,
     HeroID: "Liming",
@@ -3381,7 +3381,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Cursed Hollow",
-    WinRate: 43.98,
+    WinRate: 43.5,
     PlayRate: 9.24,
     BanRate: 2.64,
     HeroID: "Ltmorales",
@@ -3392,7 +3392,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Cursed Hollow",
-    WinRate: 50.86,
+    WinRate: 51.3,
     PlayRate: 22.45,
     BanRate: 6.02,
     HeroID: "Lucio",
@@ -3403,7 +3403,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Cursed Hollow",
-    WinRate: 51.79,
+    WinRate: 49.7,
     PlayRate: 16.82,
     BanRate: 2.39,
     HeroID: "Lunara",
@@ -3414,7 +3414,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Cursed Hollow",
-    WinRate: 51.61,
+    WinRate: 48.4,
     PlayRate: 4.17,
     BanRate: 0.83,
     HeroID: "Maiev",
@@ -3425,7 +3425,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Cursed Hollow",
-    WinRate: 55.47,
+    WinRate: 54.6,
     PlayRate: 24,
     BanRate: 8.82,
     HeroID: "Malganis",
@@ -3436,7 +3436,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Cursed Hollow",
-    WinRate: 48.38,
+    WinRate: 47.6,
     PlayRate: 10.62,
     BanRate: 1.47,
     HeroID: "Malfurion",
@@ -3447,7 +3447,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Cursed Hollow",
-    WinRate: 50.5,
+    WinRate: 52.7,
     PlayRate: 10.9,
     BanRate: 2.85,
     HeroID: "Malthael",
@@ -3458,7 +3458,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Cursed Hollow",
-    WinRate: 44.75,
+    WinRate: 41.2,
     PlayRate: 3.74,
     BanRate: 0.54,
     HeroID: "Medivh",
@@ -3469,7 +3469,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Cursed Hollow",
-    WinRate: 49.37,
+    WinRate: 50.4,
     PlayRate: 5.2,
     BanRate: 0.43,
     HeroID: "Mephisto",
@@ -3480,7 +3480,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Cursed Hollow",
-    WinRate: 49.31,
+    WinRate: 49.1,
     PlayRate: 22.89,
     BanRate: 2.01,
     HeroID: "Muradin",
@@ -3491,7 +3491,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Cursed Hollow",
-    WinRate: 47.19,
+    WinRate: 43.9,
     PlayRate: 5.38,
     BanRate: 0.73,
     HeroID: "Murky",
@@ -3502,7 +3502,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Cursed Hollow",
-    WinRate: 49.1,
+    WinRate: 49.8,
     PlayRate: 15.13,
     BanRate: 1.66,
     HeroID: "Nazeebo",
@@ -3513,7 +3513,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Cursed Hollow",
-    WinRate: 42.71,
+    WinRate: 45.4,
     PlayRate: 4.82,
     BanRate: 0.35,
     HeroID: "Nova",
@@ -3524,7 +3524,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Cursed Hollow",
-    WinRate: 47.08,
+    WinRate: 46,
     PlayRate: 7.1,
     BanRate: 0.54,
     HeroID: "Orphea",
@@ -3535,7 +3535,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Cursed Hollow",
-    WinRate: 46.72,
+    WinRate: 41.6,
     PlayRate: 1.16,
     BanRate: 0.24,
     HeroID: "Probius",
@@ -3546,7 +3546,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Cursed Hollow",
-    WinRate: 49.4,
+    WinRate: 47.7,
     PlayRate: 19.79,
     BanRate: 9.2,
     HeroID: "Qhira",
@@ -3557,7 +3557,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Cursed Hollow",
-    WinRate: 53.62,
+    WinRate: 54.5,
     PlayRate: 12.5,
     BanRate: 2.57,
     HeroID: "Ragnaros",
@@ -3568,7 +3568,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Cursed Hollow",
-    WinRate: 51.4,
+    WinRate: 50.8,
     PlayRate: 17.71,
     BanRate: 1.42,
     HeroID: "Raynor",
@@ -3579,7 +3579,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Cursed Hollow",
-    WinRate: 53.91,
+    WinRate: 56,
     PlayRate: 17.83,
     BanRate: 1.69,
     HeroID: "Rehgar",
@@ -3590,7 +3590,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Cursed Hollow",
-    WinRate: 55.11,
+    WinRate: 55.6,
     PlayRate: 6.57,
     BanRate: 1.57,
     HeroID: "Rexxar",
@@ -3601,7 +3601,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Cursed Hollow",
-    WinRate: 53.55,
+    WinRate: 53.9,
     PlayRate: 8.02,
     BanRate: 2.25,
     HeroID: "Samuro",
@@ -3612,7 +3612,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Cursed Hollow",
-    WinRate: 48,
+    WinRate: 43.1,
     PlayRate: 2.47,
     BanRate: 0.45,
     HeroID: "Sgthammer",
@@ -3623,7 +3623,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Cursed Hollow",
-    WinRate: 53.98,
+    WinRate: 54,
     PlayRate: 14.31,
     BanRate: 1.56,
     HeroID: "Sonya",
@@ -3634,7 +3634,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Cursed Hollow",
-    WinRate: 44.36,
+    WinRate: 42.1,
     PlayRate: 12.12,
     BanRate: 0.86,
     HeroID: "Stitches",
@@ -3645,7 +3645,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Cursed Hollow",
-    WinRate: 46.45,
+    WinRate: 46,
     PlayRate: 12.38,
     BanRate: 2.72,
     HeroID: "Stukov",
@@ -3656,7 +3656,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Cursed Hollow",
-    WinRate: 50.49,
+    WinRate: 52,
     PlayRate: 17.78,
     BanRate: 4.01,
     HeroID: "Sylvanas",
@@ -3667,7 +3667,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Cursed Hollow",
-    WinRate: 44.63,
+    WinRate: 45,
     PlayRate: 2.63,
     BanRate: 0.19,
     HeroID: "Tassadar",
@@ -3678,7 +3678,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Cursed Hollow",
-    WinRate: 55.16,
+    WinRate: 56.3,
     PlayRate: 12.55,
     BanRate: 3.75,
     HeroID: "Thebutcher",
@@ -3689,7 +3689,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Cursed Hollow",
-    WinRate: 51.92,
+    WinRate: 50.9,
     PlayRate: 3.6,
     BanRate: 1.32,
     HeroID: "Thelostvikings",
@@ -3700,7 +3700,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Cursed Hollow",
-    WinRate: 51.12,
+    WinRate: 49.8,
     PlayRate: 15.77,
     BanRate: 1.02,
     HeroID: "Thrall",
@@ -3711,7 +3711,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Cursed Hollow",
-    WinRate: 45.73,
+    WinRate: 42.1,
     PlayRate: 4.54,
     BanRate: 0.6,
     HeroID: "Tracer",
@@ -3722,7 +3722,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Cursed Hollow",
-    WinRate: 50.28,
+    WinRate: 51.4,
     PlayRate: 10.75,
     BanRate: 2.32,
     HeroID: "Tychus",
@@ -3733,7 +3733,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Cursed Hollow",
-    WinRate: 53.22,
+    WinRate: 52.2,
     PlayRate: 5.37,
     BanRate: 0.26,
     HeroID: "Tyrael",
@@ -3744,7 +3744,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Cursed Hollow",
-    WinRate: 47.48,
+    WinRate: 48.4,
     PlayRate: 5.77,
     BanRate: 0.29,
     HeroID: "Tyrande",
@@ -3755,7 +3755,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Cursed Hollow",
-    WinRate: 53.7,
+    WinRate: 53.1,
     PlayRate: 21.15,
     BanRate: 6.97,
     HeroID: "Uther",
@@ -3766,7 +3766,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Cursed Hollow",
-    WinRate: 51.53,
+    WinRate: 54.8,
     PlayRate: 6.47,
     BanRate: 0.98,
     HeroID: "Valeera",
@@ -3777,7 +3777,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Cursed Hollow",
-    WinRate: 50.93,
+    WinRate: 51.6,
     PlayRate: 23.19,
     BanRate: 3.32,
     HeroID: "Valla",
@@ -3788,7 +3788,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Cursed Hollow",
-    WinRate: 51.26,
+    WinRate: 50.9,
     PlayRate: 32.78,
     BanRate: 11.94,
     HeroID: "Varian",
@@ -3799,7 +3799,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Cursed Hollow",
-    WinRate: 47.86,
+    WinRate: 48.4,
     PlayRate: 4.76,
     BanRate: 0.36,
     HeroID: "Whitemane",
@@ -3810,7 +3810,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Cursed Hollow",
-    WinRate: 46.46,
+    WinRate: 45.9,
     PlayRate: 3.43,
     BanRate: 0.11,
     HeroID: "Xul",
@@ -3821,7 +3821,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Cursed Hollow",
-    WinRate: 46.22,
+    WinRate: 45.1,
     PlayRate: 3.39,
     BanRate: 0.28,
     HeroID: "Yrel",
@@ -3832,7 +3832,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Cursed Hollow",
-    WinRate: 53.9,
+    WinRate: 52.7,
     PlayRate: 10.2,
     BanRate: 1.59,
     HeroID: "Zagara",
@@ -3843,7 +3843,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Cursed Hollow",
-    WinRate: 48.54,
+    WinRate: 51.4,
     PlayRate: 3.72,
     BanRate: 0.28,
     HeroID: "Zarya",
@@ -3854,7 +3854,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Cursed Hollow",
-    WinRate: 48.86,
+    WinRate: 50.5,
     PlayRate: 12.78,
     BanRate: 4.8,
     HeroID: "Zeratul",
@@ -3865,7 +3865,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Cursed Hollow",
-    WinRate: 50.34,
+    WinRate: 49.9,
     PlayRate: 16.17,
     BanRate: 3.2,
     HeroID: "Zuljin",
@@ -3876,7 +3876,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Dragon Shire",
-    WinRate: 43.16,
+    WinRate: 43.5,
     PlayRate: 10.25,
     BanRate: 4.53,
     HeroID: "Abathur",
@@ -3887,7 +3887,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Dragon Shire",
-    WinRate: 47.38,
+    WinRate: 45.7,
     PlayRate: 34.94,
     BanRate: 26.73,
     HeroID: "Alarak",
@@ -3898,7 +3898,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Dragon Shire",
-    WinRate: 44.71,
+    WinRate: 43.3,
     PlayRate: 7.78,
     BanRate: 1.41,
     HeroID: "Alexstrasza",
@@ -3909,7 +3909,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Dragon Shire",
-    WinRate: 46.61,
+    WinRate: 44.8,
     PlayRate: 22.89,
     BanRate: 11.37,
     HeroID: "Ana",
@@ -3920,7 +3920,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Dragon Shire",
-    WinRate: 44.43,
+    WinRate: 44.8,
     PlayRate: 25.55,
     BanRate: 9.04,
     HeroID: "Anduin",
@@ -3931,7 +3931,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Dragon Shire",
-    WinRate: 48.63,
+    WinRate: 49.9,
     PlayRate: 13.93,
     BanRate: 3.85,
     HeroID: "Anubarak",
@@ -3942,7 +3942,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Dragon Shire",
-    WinRate: 46.52,
+    WinRate: 45.9,
     PlayRate: 11.97,
     BanRate: 1.62,
     HeroID: "Artanis",
@@ -3953,7 +3953,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Dragon Shire",
-    WinRate: 49.41,
+    WinRate: 49.4,
     PlayRate: 12.97,
     BanRate: 2.61,
     HeroID: "Arthas",
@@ -3964,7 +3964,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Dragon Shire",
-    WinRate: 58.22,
+    WinRate: 57.9,
     PlayRate: 55.58,
     BanRate: 35.02,
     HeroID: "Auriel",
@@ -3975,7 +3975,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Dragon Shire",
-    WinRate: 49.45,
+    WinRate: 50.1,
     PlayRate: 11.22,
     BanRate: 4.45,
     HeroID: "Azmodan",
@@ -3986,7 +3986,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Dragon Shire",
-    WinRate: 46.09,
+    WinRate: 45.5,
     PlayRate: 5.83,
     BanRate: 0.32,
     HeroID: "Blaze",
@@ -3997,7 +3997,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Dragon Shire",
-    WinRate: 50.8,
+    WinRate: 52,
     PlayRate: 33.86,
     BanRate: 10.18,
     HeroID: "Brightwing",
@@ -4008,7 +4008,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Dragon Shire",
-    WinRate: 49.92,
+    WinRate: 51.3,
     PlayRate: 4.4,
     BanRate: 0.38,
     HeroID: "Cassia",
@@ -4019,7 +4019,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Dragon Shire",
-    WinRate: 47.9,
+    WinRate: 48.4,
     PlayRate: 5.08,
     BanRate: 1.4,
     HeroID: "Chen",
@@ -4030,7 +4030,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Dragon Shire",
-    WinRate: 51.13,
+    WinRate: 56.1,
     PlayRate: 2.62,
     BanRate: 1.13,
     HeroID: "Cho",
@@ -4041,7 +4041,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Dragon Shire",
-    WinRate: 49.56,
+    WinRate: 49.6,
     PlayRate: 8.13,
     BanRate: 1.27,
     HeroID: "Chromie",
@@ -4052,7 +4052,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Dragon Shire",
-    WinRate: 49.05,
+    WinRate: 51.1,
     PlayRate: 1.89,
     BanRate: 0.13,
     HeroID: "Dva",
@@ -4063,7 +4063,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Dragon Shire",
-    WinRate: 54.99,
+    WinRate: 51.9,
     PlayRate: 89.98,
     BanRate: 82.97,
     HeroID: "Deathwing",
@@ -4074,7 +4074,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Dragon Shire",
-    WinRate: 42.93,
+    WinRate: 43.1,
     PlayRate: 5.5,
     BanRate: 0.45,
     HeroID: "Deckard",
@@ -4085,7 +4085,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Dragon Shire",
-    WinRate: 47.78,
+    WinRate: 47.1,
     PlayRate: 16.98,
     BanRate: 7.75,
     HeroID: "Dehaka",
@@ -4096,7 +4096,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Dragon Shire",
-    WinRate: 48.28,
+    WinRate: 48.1,
     PlayRate: 40.25,
     BanRate: 15.64,
     HeroID: "Diablo",
@@ -4107,7 +4107,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Dragon Shire",
-    WinRate: 53,
+    WinRate: 53.6,
     PlayRate: 44.23,
     BanRate: 19.65,
     HeroID: "Etc",
@@ -4118,7 +4118,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Dragon Shire",
-    WinRate: 51.74,
+    WinRate: 52.7,
     PlayRate: 30.63,
     BanRate: 9.99,
     HeroID: "Falstad",
@@ -4129,7 +4129,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Dragon Shire",
-    WinRate: 54.44,
+    WinRate: 54.8,
     PlayRate: 6.57,
     BanRate: 0.43,
     HeroID: "Fenix",
@@ -4140,7 +4140,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Dragon Shire",
-    WinRate: 51.13,
+    WinRate: 56.1,
     PlayRate: 2.13,
     BanRate: 0.65,
     HeroID: "Gall",
@@ -4151,7 +4151,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Dragon Shire",
-    WinRate: 47.38,
+    WinRate: 47.6,
     PlayRate: 48.42,
     BanRate: 32.23,
     HeroID: "Garrosh",
@@ -4162,7 +4162,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Dragon Shire",
-    WinRate: 54.66,
+    WinRate: 50.5,
     PlayRate: 5.61,
     BanRate: 0.41,
     HeroID: "Gazlowe",
@@ -4173,7 +4173,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Dragon Shire",
-    WinRate: 39.87,
+    WinRate: 39.8,
     PlayRate: 5.12,
     BanRate: 0.83,
     HeroID: "Genji",
@@ -4184,7 +4184,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Dragon Shire",
-    WinRate: 49.73,
+    WinRate: 49.2,
     PlayRate: 23.2,
     BanRate: 4.16,
     HeroID: "Greymane",
@@ -4195,7 +4195,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Dragon Shire",
-    WinRate: 46.63,
+    WinRate: 45.6,
     PlayRate: 13.32,
     BanRate: 2.63,
     HeroID: "Guldan",
@@ -4206,7 +4206,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Dragon Shire",
-    WinRate: 44.98,
+    WinRate: 45,
     PlayRate: 14.41,
     BanRate: 2.08,
     HeroID: "Hanzo",
@@ -4217,7 +4217,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Dragon Shire",
-    WinRate: 50.66,
+    WinRate: 52.1,
     PlayRate: 7.37,
     BanRate: 1.27,
     HeroID: "Illidan",
@@ -4228,7 +4228,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Dragon Shire",
-    WinRate: 46.36,
+    WinRate: 48.7,
     PlayRate: 12.73,
     BanRate: 1.9,
     HeroID: "Imperius",
@@ -4239,7 +4239,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Dragon Shire",
-    WinRate: 49.2,
+    WinRate: 49.7,
     PlayRate: 24.66,
     BanRate: 4.54,
     HeroID: "Jaina",
@@ -4250,7 +4250,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Dragon Shire",
-    WinRate: 50.81,
+    WinRate: 50.7,
     PlayRate: 53.86,
     BanRate: 24.94,
     HeroID: "Johanna",
@@ -4261,7 +4261,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Dragon Shire",
-    WinRate: 50.63,
+    WinRate: 52.5,
     PlayRate: 8.16,
     BanRate: 1.74,
     HeroID: "Junkrat",
@@ -4272,7 +4272,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Dragon Shire",
-    WinRate: 50.1,
+    WinRate: 49.1,
     PlayRate: 70.43,
     BanRate: 50.72,
     HeroID: "Kaelthas",
@@ -4283,7 +4283,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Dragon Shire",
-    WinRate: 50.86,
+    WinRate: 50.9,
     PlayRate: 15.01,
     BanRate: 7.18,
     HeroID: "Kelthuzad",
@@ -4294,7 +4294,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Dragon Shire",
-    WinRate: 53.45,
+    WinRate: 56.5,
     PlayRate: 3.63,
     BanRate: 0.22,
     HeroID: "Kerrigan",
@@ -4305,7 +4305,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Dragon Shire",
-    WinRate: 49.5,
+    WinRate: 50.5,
     PlayRate: 6.32,
     BanRate: 0.27,
     HeroID: "Kharazim",
@@ -4316,7 +4316,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Dragon Shire",
-    WinRate: 53.8,
+    WinRate: 54.8,
     PlayRate: 14.38,
     BanRate: 2.17,
     HeroID: "Leoric",
@@ -4327,7 +4327,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Dragon Shire",
-    WinRate: 49.68,
+    WinRate: 49.8,
     PlayRate: 25.17,
     BanRate: 8.34,
     HeroID: "Lili",
@@ -4338,7 +4338,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Dragon Shire",
-    WinRate: 48.88,
+    WinRate: 49.3,
     PlayRate: 50.41,
     BanRate: 15.48,
     HeroID: "Liming",
@@ -4349,7 +4349,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Dragon Shire",
-    WinRate: 46.09,
+    WinRate: 45.6,
     PlayRate: 9.6,
     BanRate: 2.71,
     HeroID: "Ltmorales",
@@ -4360,7 +4360,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Dragon Shire",
-    WinRate: 48.15,
+    WinRate: 48.6,
     PlayRate: 20.52,
     BanRate: 5.61,
     HeroID: "Lucio",
@@ -4371,7 +4371,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Dragon Shire",
-    WinRate: 52.55,
+    WinRate: 50.4,
     PlayRate: 18.26,
     BanRate: 2.33,
     HeroID: "Lunara",
@@ -4382,7 +4382,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Dragon Shire",
-    WinRate: 47.83,
+    WinRate: 44.8,
     PlayRate: 4.32,
     BanRate: 0.92,
     HeroID: "Maiev",
@@ -4393,7 +4393,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Dragon Shire",
-    WinRate: 52.41,
+    WinRate: 51.6,
     PlayRate: 22.39,
     BanRate: 8.46,
     HeroID: "Malganis",
@@ -4404,7 +4404,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Dragon Shire",
-    WinRate: 51.35,
+    WinRate: 50.6,
     PlayRate: 10.55,
     BanRate: 1.59,
     HeroID: "Malfurion",
@@ -4415,7 +4415,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Dragon Shire",
-    WinRate: 51.15,
+    WinRate: 53.4,
     PlayRate: 12.04,
     BanRate: 3.26,
     HeroID: "Malthael",
@@ -4426,7 +4426,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Dragon Shire",
-    WinRate: 45.73,
+    WinRate: 42.1,
     PlayRate: 3.21,
     BanRate: 0.37,
     HeroID: "Medivh",
@@ -4437,7 +4437,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Dragon Shire",
-    WinRate: 51.89,
+    WinRate: 53,
     PlayRate: 4.85,
     BanRate: 0.4,
     HeroID: "Mephisto",
@@ -4448,7 +4448,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Dragon Shire",
-    WinRate: 48.99,
+    WinRate: 48.8,
     PlayRate: 24.04,
     BanRate: 2.16,
     HeroID: "Muradin",
@@ -4459,7 +4459,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Dragon Shire",
-    WinRate: 57.1,
+    WinRate: 53.2,
     PlayRate: 4.95,
     BanRate: 0.69,
     HeroID: "Murky",
@@ -4470,7 +4470,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Dragon Shire",
-    WinRate: 49.96,
+    WinRate: 50.7,
     PlayRate: 16.9,
     BanRate: 1.61,
     HeroID: "Nazeebo",
@@ -4481,7 +4481,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Dragon Shire",
-    WinRate: 47.13,
+    WinRate: 50.1,
     PlayRate: 4.81,
     BanRate: 0.36,
     HeroID: "Nova",
@@ -4492,7 +4492,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Dragon Shire",
-    WinRate: 47.52,
+    WinRate: 46.5,
     PlayRate: 6.96,
     BanRate: 0.58,
     HeroID: "Orphea",
@@ -4503,7 +4503,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Dragon Shire",
-    WinRate: 46.59,
+    WinRate: 41.4,
     PlayRate: 1.46,
     BanRate: 0.28,
     HeroID: "Probius",
@@ -4514,7 +4514,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Dragon Shire",
-    WinRate: 45.2,
+    WinRate: 43.7,
     PlayRate: 21.13,
     BanRate: 9.91,
     HeroID: "Qhira",
@@ -4525,7 +4525,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Dragon Shire",
-    WinRate: 56.67,
+    WinRate: 57.6,
     PlayRate: 8.52,
     BanRate: 1.77,
     HeroID: "Ragnaros",
@@ -4536,7 +4536,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Dragon Shire",
-    WinRate: 49.18,
+    WinRate: 48.6,
     PlayRate: 18.58,
     BanRate: 1.75,
     HeroID: "Raynor",
@@ -4547,7 +4547,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Dragon Shire",
-    WinRate: 52.88,
+    WinRate: 55,
     PlayRate: 18.45,
     BanRate: 1.69,
     HeroID: "Rehgar",
@@ -4558,7 +4558,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Dragon Shire",
-    WinRate: 56.42,
+    WinRate: 57,
     PlayRate: 29.4,
     BanRate: 16.99,
     HeroID: "Rexxar",
@@ -4569,7 +4569,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Dragon Shire",
-    WinRate: 52.63,
+    WinRate: 53,
     PlayRate: 7.12,
     BanRate: 1.74,
     HeroID: "Samuro",
@@ -4580,7 +4580,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Dragon Shire",
-    WinRate: 47.78,
+    WinRate: 42.9,
     PlayRate: 2.62,
     BanRate: 0.5,
     HeroID: "Sgthammer",
@@ -4591,7 +4591,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Dragon Shire",
-    WinRate: 55.49,
+    WinRate: 55.5,
     PlayRate: 16.74,
     BanRate: 2.43,
     HeroID: "Sonya",
@@ -4602,7 +4602,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Dragon Shire",
-    WinRate: 47.24,
+    WinRate: 44.8,
     PlayRate: 12.67,
     BanRate: 0.98,
     HeroID: "Stitches",
@@ -4613,7 +4613,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Dragon Shire",
-    WinRate: 44.46,
+    WinRate: 44,
     PlayRate: 10.4,
     BanRate: 2.33,
     HeroID: "Stukov",
@@ -4624,7 +4624,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Dragon Shire",
-    WinRate: 48.78,
+    WinRate: 50.3,
     PlayRate: 18.1,
     BanRate: 3.45,
     HeroID: "Sylvanas",
@@ -4635,7 +4635,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Dragon Shire",
-    WinRate: 44.66,
+    WinRate: 45,
     PlayRate: 2.65,
     BanRate: 0.19,
     HeroID: "Tassadar",
@@ -4646,7 +4646,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Dragon Shire",
-    WinRate: 53.48,
+    WinRate: 54.6,
     PlayRate: 12.8,
     BanRate: 3.54,
     HeroID: "Thebutcher",
@@ -4657,7 +4657,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Dragon Shire",
-    WinRate: 53.37,
+    WinRate: 52.3,
     PlayRate: 1.83,
     BanRate: 0.64,
     HeroID: "Thelostvikings",
@@ -4668,7 +4668,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Dragon Shire",
-    WinRate: 48.06,
+    WinRate: 46.8,
     PlayRate: 17.7,
     BanRate: 1.25,
     HeroID: "Thrall",
@@ -4679,7 +4679,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Dragon Shire",
-    WinRate: 48.22,
+    WinRate: 44.4,
     PlayRate: 4.76,
     BanRate: 0.61,
     HeroID: "Tracer",
@@ -4690,7 +4690,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Dragon Shire",
-    WinRate: 45.91,
+    WinRate: 46.9,
     PlayRate: 12.28,
     BanRate: 2.66,
     HeroID: "Tychus",
@@ -4701,7 +4701,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Dragon Shire",
-    WinRate: 48.45,
+    WinRate: 47.5,
     PlayRate: 4.49,
     BanRate: 0.16,
     HeroID: "Tyrael",
@@ -4712,7 +4712,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Dragon Shire",
-    WinRate: 48.08,
+    WinRate: 49,
     PlayRate: 5.41,
     BanRate: 0.17,
     HeroID: "Tyrande",
@@ -4723,7 +4723,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Dragon Shire",
-    WinRate: 56.04,
+    WinRate: 55.5,
     PlayRate: 20.63,
     BanRate: 6.83,
     HeroID: "Uther",
@@ -4734,7 +4734,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Dragon Shire",
-    WinRate: 48.79,
+    WinRate: 51.9,
     PlayRate: 6.95,
     BanRate: 1.12,
     HeroID: "Valeera",
@@ -4745,7 +4745,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Dragon Shire",
-    WinRate: 51.11,
+    WinRate: 51.8,
     PlayRate: 25.59,
     BanRate: 3.57,
     HeroID: "Valla",
@@ -4756,7 +4756,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Dragon Shire",
-    WinRate: 50.05,
+    WinRate: 49.7,
     PlayRate: 33.12,
     BanRate: 11.8,
     HeroID: "Varian",
@@ -4767,7 +4767,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Dragon Shire",
-    WinRate: 50.5,
+    WinRate: 51.1,
     PlayRate: 5.25,
     BanRate: 0.51,
     HeroID: "Whitemane",
@@ -4778,7 +4778,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Dragon Shire",
-    WinRate: 50.54,
+    WinRate: 49.9,
     PlayRate: 3.27,
     BanRate: 0.19,
     HeroID: "Xul",
@@ -4789,7 +4789,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Dragon Shire",
-    WinRate: 51.17,
+    WinRate: 49.9,
     PlayRate: 4.34,
     BanRate: 0.34,
     HeroID: "Yrel",
@@ -4800,7 +4800,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Dragon Shire",
-    WinRate: 54.6,
+    WinRate: 53.3,
     PlayRate: 10.14,
     BanRate: 1.46,
     HeroID: "Zagara",
@@ -4811,7 +4811,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Dragon Shire",
-    WinRate: 44.25,
+    WinRate: 46.8,
     PlayRate: 2.99,
     BanRate: 0.24,
     HeroID: "Zarya",
@@ -4822,7 +4822,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Dragon Shire",
-    WinRate: 50.38,
+    WinRate: 52.1,
     PlayRate: 10.94,
     BanRate: 3.85,
     HeroID: "Zeratul",
@@ -4833,7 +4833,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Dragon Shire",
-    WinRate: 52.87,
+    WinRate: 52.4,
     PlayRate: 20.4,
     BanRate: 3.64,
     HeroID: "Zuljin",
@@ -4844,7 +4844,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Hanamura Temple",
-    WinRate: 47.41,
+    WinRate: 47.7,
     PlayRate: 7.45,
     BanRate: 3.03,
     HeroID: "Abathur",
@@ -4855,7 +4855,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Hanamura Temple",
-    WinRate: 47.26,
+    WinRate: 45.6,
     PlayRate: 37.98,
     BanRate: 28.31,
     HeroID: "Alarak",
@@ -4866,7 +4866,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Hanamura Temple",
-    WinRate: 49.66,
+    WinRate: 48.1,
     PlayRate: 7.61,
     BanRate: 1.6,
     HeroID: "Alexstrasza",
@@ -4877,7 +4877,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Hanamura Temple",
-    WinRate: 48.94,
+    WinRate: 47,
     PlayRate: 24.67,
     BanRate: 13.28,
     HeroID: "Ana",
@@ -4888,7 +4888,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Hanamura Temple",
-    WinRate: 45.62,
+    WinRate: 46,
     PlayRate: 28.4,
     BanRate: 10.11,
     HeroID: "Anduin",
@@ -4899,7 +4899,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Hanamura Temple",
-    WinRate: 48.31,
+    WinRate: 49.6,
     PlayRate: 16.32,
     BanRate: 4.59,
     HeroID: "Anubarak",
@@ -4910,7 +4910,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Hanamura Temple",
-    WinRate: 52.19,
+    WinRate: 51.5,
     PlayRate: 22.69,
     BanRate: 4.88,
     HeroID: "Artanis",
@@ -4921,7 +4921,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Hanamura Temple",
-    WinRate: 51.15,
+    WinRate: 51.2,
     PlayRate: 14.38,
     BanRate: 2.92,
     HeroID: "Arthas",
@@ -4932,7 +4932,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Hanamura Temple",
-    WinRate: 48.59,
+    WinRate: 48.3,
     PlayRate: 56.38,
     BanRate: 35.54,
     HeroID: "Auriel",
@@ -4943,7 +4943,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Hanamura Temple",
-    WinRate: 47.19,
+    WinRate: 47.8,
     PlayRate: 10.94,
     BanRate: 4.1,
     HeroID: "Azmodan",
@@ -4954,7 +4954,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Hanamura Temple",
-    WinRate: 46.66,
+    WinRate: 46,
     PlayRate: 6.99,
     BanRate: 0.34,
     HeroID: "Blaze",
@@ -4965,7 +4965,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Hanamura Temple",
-    WinRate: 49.4,
+    WinRate: 50.6,
     PlayRate: 17.84,
     BanRate: 4.41,
     HeroID: "Brightwing",
@@ -4976,7 +4976,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Hanamura Temple",
-    WinRate: 50.14,
+    WinRate: 51.6,
     PlayRate: 5.15,
     BanRate: 0.44,
     HeroID: "Cassia",
@@ -4987,7 +4987,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Hanamura Temple",
-    WinRate: 50.25,
+    WinRate: 50.8,
     PlayRate: 5.47,
     BanRate: 1.44,
     HeroID: "Chen",
@@ -4998,7 +4998,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Hanamura Temple",
-    WinRate: 43.04,
+    WinRate: 47.2,
     PlayRate: 3.67,
     BanRate: 1.54,
     HeroID: "Cho",
@@ -5009,7 +5009,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Hanamura Temple",
-    WinRate: 47.35,
+    WinRate: 47.4,
     PlayRate: 8.3,
     BanRate: 1.43,
     HeroID: "Chromie",
@@ -5020,7 +5020,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Hanamura Temple",
-    WinRate: 46.56,
+    WinRate: 48.5,
     PlayRate: 2.28,
     BanRate: 0.13,
     HeroID: "Dva",
@@ -5031,7 +5031,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Hanamura Temple",
-    WinRate: 60.46,
+    WinRate: 57,
     PlayRate: 89.61,
     BanRate: 83.14,
     HeroID: "Deathwing",
@@ -5042,7 +5042,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Hanamura Temple",
-    WinRate: 48.39,
+    WinRate: 48.6,
     PlayRate: 6.02,
     BanRate: 0.59,
     HeroID: "Deckard",
@@ -5053,7 +5053,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Hanamura Temple",
-    WinRate: 44.6,
+    WinRate: 43.9,
     PlayRate: 3.1,
     BanRate: 0.73,
     HeroID: "Dehaka",
@@ -5064,7 +5064,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Hanamura Temple",
-    WinRate: 40.96,
+    WinRate: 40.8,
     PlayRate: 29.25,
     BanRate: 14.06,
     HeroID: "Diablo",
@@ -5075,7 +5075,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Hanamura Temple",
-    WinRate: 53.15,
+    WinRate: 53.8,
     PlayRate: 46.93,
     BanRate: 20.68,
     HeroID: "Etc",
@@ -5086,7 +5086,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Hanamura Temple",
-    WinRate: 47.33,
+    WinRate: 48.2,
     PlayRate: 10.39,
     BanRate: 1.69,
     HeroID: "Falstad",
@@ -5097,7 +5097,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Hanamura Temple",
-    WinRate: 53.63,
+    WinRate: 54,
     PlayRate: 6.9,
     BanRate: 0.41,
     HeroID: "Fenix",
@@ -5108,7 +5108,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Hanamura Temple",
-    WinRate: 43.04,
+    WinRate: 47.2,
     PlayRate: 2.8,
     BanRate: 0.67,
     HeroID: "Gall",
@@ -5119,7 +5119,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Hanamura Temple",
-    WinRate: 46.61,
+    WinRate: 46.9,
     PlayRate: 49.45,
     BanRate: 33.77,
     HeroID: "Garrosh",
@@ -5130,7 +5130,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Hanamura Temple",
-    WinRate: 48.41,
+    WinRate: 44.8,
     PlayRate: 3.51,
     BanRate: 0.34,
     HeroID: "Gazlowe",
@@ -5141,7 +5141,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Hanamura Temple",
-    WinRate: 40.65,
+    WinRate: 40.6,
     PlayRate: 6.96,
     BanRate: 1.14,
     HeroID: "Genji",
@@ -5152,7 +5152,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Hanamura Temple",
-    WinRate: 50.97,
+    WinRate: 50.5,
     PlayRate: 23.31,
     BanRate: 4.93,
     HeroID: "Greymane",
@@ -5163,7 +5163,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Hanamura Temple",
-    WinRate: 45.13,
+    WinRate: 44.2,
     PlayRate: 13.65,
     BanRate: 2.8,
     HeroID: "Guldan",
@@ -5174,7 +5174,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Hanamura Temple",
-    WinRate: 46.19,
+    WinRate: 46.2,
     PlayRate: 14.27,
     BanRate: 2.71,
     HeroID: "Hanzo",
@@ -5185,7 +5185,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Hanamura Temple",
-    WinRate: 51.1,
+    WinRate: 52.6,
     PlayRate: 6.46,
     BanRate: 1.24,
     HeroID: "Illidan",
@@ -5196,7 +5196,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Hanamura Temple",
-    WinRate: 47.4,
+    WinRate: 49.8,
     PlayRate: 13.69,
     BanRate: 2.16,
     HeroID: "Imperius",
@@ -5207,7 +5207,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Hanamura Temple",
-    WinRate: 52.77,
+    WinRate: 53.3,
     PlayRate: 25.05,
     BanRate: 4.73,
     HeroID: "Jaina",
@@ -5218,7 +5218,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Hanamura Temple",
-    WinRate: 52.75,
+    WinRate: 52.6,
     PlayRate: 58.83,
     BanRate: 26.88,
     HeroID: "Johanna",
@@ -5229,7 +5229,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Hanamura Temple",
-    WinRate: 48.4,
+    WinRate: 50.2,
     PlayRate: 6.45,
     BanRate: 1.2,
     HeroID: "Junkrat",
@@ -5240,7 +5240,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Hanamura Temple",
-    WinRate: 49.62,
+    WinRate: 48.6,
     PlayRate: 70.07,
     BanRate: 51.32,
     HeroID: "Kaelthas",
@@ -5251,7 +5251,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Hanamura Temple",
-    WinRate: 53.92,
+    WinRate: 53.9,
     PlayRate: 17.8,
     BanRate: 8.79,
     HeroID: "Kelthuzad",
@@ -5262,7 +5262,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Hanamura Temple",
-    WinRate: 52.04,
+    WinRate: 55,
     PlayRate: 3.89,
     BanRate: 0.27,
     HeroID: "Kerrigan",
@@ -5273,7 +5273,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Hanamura Temple",
-    WinRate: 48.69,
+    WinRate: 49.7,
     PlayRate: 5.38,
     BanRate: 0.22,
     HeroID: "Kharazim",
@@ -5284,7 +5284,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Hanamura Temple",
-    WinRate: 45.75,
+    WinRate: 46.6,
     PlayRate: 12.98,
     BanRate: 2.21,
     HeroID: "Leoric",
@@ -5295,7 +5295,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Hanamura Temple",
-    WinRate: 52.4,
+    WinRate: 52.5,
     PlayRate: 27.64,
     BanRate: 9.25,
     HeroID: "Lili",
@@ -5306,7 +5306,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Hanamura Temple",
-    WinRate: 49.79,
+    WinRate: 50.2,
     PlayRate: 57,
     BanRate: 16.69,
     HeroID: "Liming",
@@ -5317,7 +5317,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Hanamura Temple",
-    WinRate: 47.37,
+    WinRate: 46.8,
     PlayRate: 10.75,
     BanRate: 3.47,
     HeroID: "Ltmorales",
@@ -5328,7 +5328,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Hanamura Temple",
-    WinRate: 51.94,
+    WinRate: 52.4,
     PlayRate: 27.38,
     BanRate: 7.61,
     HeroID: "Lucio",
@@ -5339,7 +5339,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Hanamura Temple",
-    WinRate: 54.21,
+    WinRate: 52,
     PlayRate: 20.19,
     BanRate: 2.96,
     HeroID: "Lunara",
@@ -5350,7 +5350,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Hanamura Temple",
-    WinRate: 50.49,
+    WinRate: 47.3,
     PlayRate: 4.99,
     BanRate: 0.85,
     HeroID: "Maiev",
@@ -5361,7 +5361,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Hanamura Temple",
-    WinRate: 57.31,
+    WinRate: 56.5,
     PlayRate: 26.81,
     BanRate: 10.9,
     HeroID: "Malganis",
@@ -5372,7 +5372,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Hanamura Temple",
-    WinRate: 48.74,
+    WinRate: 48,
     PlayRate: 11.99,
     BanRate: 1.55,
     HeroID: "Malfurion",
@@ -5383,7 +5383,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Hanamura Temple",
-    WinRate: 49.03,
+    WinRate: 51.2,
     PlayRate: 11.6,
     BanRate: 3.27,
     HeroID: "Malthael",
@@ -5394,7 +5394,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Hanamura Temple",
-    WinRate: 42.36,
+    WinRate: 39,
     PlayRate: 4.11,
     BanRate: 0.42,
     HeroID: "Medivh",
@@ -5405,7 +5405,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Hanamura Temple",
-    WinRate: 49.84,
+    WinRate: 50.9,
     PlayRate: 6.73,
     BanRate: 0.54,
     HeroID: "Mephisto",
@@ -5416,7 +5416,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Hanamura Temple",
-    WinRate: 48.18,
+    WinRate: 48,
     PlayRate: 25.03,
     BanRate: 2.28,
     HeroID: "Muradin",
@@ -5427,7 +5427,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Hanamura Temple",
-    WinRate: 42.69,
+    WinRate: 39.8,
     PlayRate: 2.16,
     BanRate: 0.42,
     HeroID: "Murky",
@@ -5438,7 +5438,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Hanamura Temple",
-    WinRate: 44.24,
+    WinRate: 44.9,
     PlayRate: 11.27,
     BanRate: 1.12,
     HeroID: "Nazeebo",
@@ -5449,7 +5449,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Hanamura Temple",
-    WinRate: 45.39,
+    WinRate: 48.3,
     PlayRate: 5.38,
     BanRate: 0.35,
     HeroID: "Nova",
@@ -5460,7 +5460,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Hanamura Temple",
-    WinRate: 48.47,
+    WinRate: 47.4,
     PlayRate: 7.66,
     BanRate: 0.64,
     HeroID: "Orphea",
@@ -5471,7 +5471,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Hanamura Temple",
-    WinRate: 45.97,
+    WinRate: 40.9,
     PlayRate: 1.14,
     BanRate: 0.3,
     HeroID: "Probius",
@@ -5482,7 +5482,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Hanamura Temple",
-    WinRate: 48.59,
+    WinRate: 46.9,
     PlayRate: 21.97,
     BanRate: 10.01,
     HeroID: "Qhira",
@@ -5493,7 +5493,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Hanamura Temple",
-    WinRate: 46.07,
+    WinRate: 46.8,
     PlayRate: 5.68,
     BanRate: 1.4,
     HeroID: "Ragnaros",
@@ -5504,7 +5504,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Hanamura Temple",
-    WinRate: 53.34,
+    WinRate: 52.7,
     PlayRate: 21.81,
     BanRate: 2,
     HeroID: "Raynor",
@@ -5515,7 +5515,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Hanamura Temple",
-    WinRate: 52.78,
+    WinRate: 54.9,
     PlayRate: 16.38,
     BanRate: 1.63,
     HeroID: "Rehgar",
@@ -5526,7 +5526,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Hanamura Temple",
-    WinRate: 60.65,
+    WinRate: 61.2,
     PlayRate: 16.53,
     BanRate: 7.63,
     HeroID: "Rexxar",
@@ -5537,7 +5537,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Hanamura Temple",
-    WinRate: 57.62,
+    WinRate: 58,
     PlayRate: 7.48,
     BanRate: 2.01,
     HeroID: "Samuro",
@@ -5548,7 +5548,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Hanamura Temple",
-    WinRate: 44.36,
+    WinRate: 39.8,
     PlayRate: 2.13,
     BanRate: 0.34,
     HeroID: "Sgthammer",
@@ -5559,7 +5559,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Hanamura Temple",
-    WinRate: 54.13,
+    WinRate: 54.2,
     PlayRate: 17.14,
     BanRate: 2.27,
     HeroID: "Sonya",
@@ -5570,7 +5570,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Hanamura Temple",
-    WinRate: 45.73,
+    WinRate: 43.4,
     PlayRate: 12.84,
     BanRate: 1.02,
     HeroID: "Stitches",
@@ -5581,7 +5581,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Hanamura Temple",
-    WinRate: 52.08,
+    WinRate: 51.6,
     PlayRate: 12.64,
     BanRate: 2.45,
     HeroID: "Stukov",
@@ -5592,7 +5592,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Hanamura Temple",
-    WinRate: 50.54,
+    WinRate: 52.1,
     PlayRate: 20.25,
     BanRate: 4.56,
     HeroID: "Sylvanas",
@@ -5603,7 +5603,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Hanamura Temple",
-    WinRate: 45.59,
+    WinRate: 46,
     PlayRate: 3.31,
     BanRate: 0.26,
     HeroID: "Tassadar",
@@ -5614,7 +5614,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Hanamura Temple",
-    WinRate: 51.77,
+    WinRate: 52.8,
     PlayRate: 11.27,
     BanRate: 3.3,
     HeroID: "Thebutcher",
@@ -5625,7 +5625,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Hanamura Temple",
-    WinRate: 39.13,
+    WinRate: 38.4,
     PlayRate: 0.99,
     BanRate: 0.53,
     HeroID: "Thelostvikings",
@@ -5636,7 +5636,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Hanamura Temple",
-    WinRate: 50.55,
+    WinRate: 49.3,
     PlayRate: 21.92,
     BanRate: 1.65,
     HeroID: "Thrall",
@@ -5647,7 +5647,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Hanamura Temple",
-    WinRate: 48.62,
+    WinRate: 44.8,
     PlayRate: 5.93,
     BanRate: 0.81,
     HeroID: "Tracer",
@@ -5658,7 +5658,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Hanamura Temple",
-    WinRate: 46.98,
+    WinRate: 48,
     PlayRate: 11.88,
     BanRate: 2.52,
     HeroID: "Tychus",
@@ -5669,7 +5669,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Hanamura Temple",
-    WinRate: 52.43,
+    WinRate: 51.4,
     PlayRate: 5.07,
     BanRate: 0.23,
     HeroID: "Tyrael",
@@ -5680,7 +5680,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Hanamura Temple",
-    WinRate: 50.13,
+    WinRate: 51.1,
     PlayRate: 5.32,
     BanRate: 0.2,
     HeroID: "Tyrande",
@@ -5691,7 +5691,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Hanamura Temple",
-    WinRate: 52.99,
+    WinRate: 52.4,
     PlayRate: 22.12,
     BanRate: 7.16,
     HeroID: "Uther",
@@ -5702,7 +5702,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Hanamura Temple",
-    WinRate: 47.16,
+    WinRate: 50.2,
     PlayRate: 6.87,
     BanRate: 1.2,
     HeroID: "Valeera",
@@ -5713,7 +5713,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Hanamura Temple",
-    WinRate: 50.23,
+    WinRate: 50.9,
     PlayRate: 28.75,
     BanRate: 4.25,
     HeroID: "Valla",
@@ -5724,7 +5724,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Hanamura Temple",
-    WinRate: 51.82,
+    WinRate: 51.4,
     PlayRate: 36.37,
     BanRate: 13.54,
     HeroID: "Varian",
@@ -5735,7 +5735,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Hanamura Temple",
-    WinRate: 52.31,
+    WinRate: 52.9,
     PlayRate: 5.95,
     BanRate: 0.43,
     HeroID: "Whitemane",
@@ -5746,7 +5746,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Hanamura Temple",
-    WinRate: 41,
+    WinRate: 40.5,
     PlayRate: 2.13,
     BanRate: 0.11,
     HeroID: "Xul",
@@ -5757,7 +5757,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Hanamura Temple",
-    WinRate: 49.45,
+    WinRate: 48.2,
     PlayRate: 3.9,
     BanRate: 0.26,
     HeroID: "Yrel",
@@ -5768,7 +5768,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Hanamura Temple",
-    WinRate: 52.59,
+    WinRate: 51.4,
     PlayRate: 5.35,
     BanRate: 0.68,
     HeroID: "Zagara",
@@ -5779,7 +5779,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Hanamura Temple",
-    WinRate: 48.22,
+    WinRate: 51.1,
     PlayRate: 5.15,
     BanRate: 0.61,
     HeroID: "Zarya",
@@ -5790,7 +5790,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Hanamura Temple",
-    WinRate: 47.77,
+    WinRate: 49.4,
     PlayRate: 9.79,
     BanRate: 4.37,
     HeroID: "Zeratul",
@@ -5801,7 +5801,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Hanamura Temple",
-    WinRate: 50.29,
+    WinRate: 49.8,
     PlayRate: 22.86,
     BanRate: 4.35,
     HeroID: "Zuljin",
@@ -5812,7 +5812,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Infernal Shrines",
-    WinRate: 46.74,
+    WinRate: 47.1,
     PlayRate: 10.74,
     BanRate: 4.95,
     HeroID: "Abathur",
@@ -5823,7 +5823,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Infernal Shrines",
-    WinRate: 46.04,
+    WinRate: 44.4,
     PlayRate: 34.42,
     BanRate: 26.96,
     HeroID: "Alarak",
@@ -5834,7 +5834,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Infernal Shrines",
-    WinRate: 48.4,
+    WinRate: 46.9,
     PlayRate: 15.66,
     BanRate: 4.26,
     HeroID: "Alexstrasza",
@@ -5845,7 +5845,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Infernal Shrines",
-    WinRate: 49.02,
+    WinRate: 47.1,
     PlayRate: 23.56,
     BanRate: 12.55,
     HeroID: "Ana",
@@ -5856,7 +5856,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Infernal Shrines",
-    WinRate: 45.98,
+    WinRate: 46.3,
     PlayRate: 26.3,
     BanRate: 9.46,
     HeroID: "Anduin",
@@ -5867,7 +5867,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Infernal Shrines",
-    WinRate: 48.2,
+    WinRate: 49.5,
     PlayRate: 13.54,
     BanRate: 3.82,
     HeroID: "Anubarak",
@@ -5878,7 +5878,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Infernal Shrines",
-    WinRate: 46.53,
+    WinRate: 45.9,
     PlayRate: 10.84,
     BanRate: 1.53,
     HeroID: "Artanis",
@@ -5889,7 +5889,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Infernal Shrines",
-    WinRate: 50.19,
+    WinRate: 50.2,
     PlayRate: 15.55,
     BanRate: 3.37,
     HeroID: "Arthas",
@@ -5900,7 +5900,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Infernal Shrines",
-    WinRate: 56.29,
+    WinRate: 55.9,
     PlayRate: 57.81,
     BanRate: 35.22,
     HeroID: "Auriel",
@@ -5911,7 +5911,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Infernal Shrines",
-    WinRate: 50.42,
+    WinRate: 51.1,
     PlayRate: 23.99,
     BanRate: 9.39,
     HeroID: "Azmodan",
@@ -5922,7 +5922,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Infernal Shrines",
-    WinRate: 48.83,
+    WinRate: 48.2,
     PlayRate: 8.59,
     BanRate: 0.55,
     HeroID: "Blaze",
@@ -5933,7 +5933,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Infernal Shrines",
-    WinRate: 46.81,
+    WinRate: 47.9,
     PlayRate: 17.14,
     BanRate: 3.82,
     HeroID: "Brightwing",
@@ -5944,7 +5944,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Infernal Shrines",
-    WinRate: 47.29,
+    WinRate: 48.6,
     PlayRate: 4.42,
     BanRate: 0.32,
     HeroID: "Cassia",
@@ -5955,7 +5955,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Infernal Shrines",
-    WinRate: 45.55,
+    WinRate: 46.1,
     PlayRate: 3.3,
     BanRate: 0.73,
     HeroID: "Chen",
@@ -5966,7 +5966,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Infernal Shrines",
-    WinRate: 56.04,
+    WinRate: 61.5,
     PlayRate: 3.33,
     BanRate: 1.33,
     HeroID: "Cho",
@@ -5977,7 +5977,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Infernal Shrines",
-    WinRate: 49.31,
+    WinRate: 49.3,
     PlayRate: 7.18,
     BanRate: 1.36,
     HeroID: "Chromie",
@@ -5988,7 +5988,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Infernal Shrines",
-    WinRate: 47.72,
+    WinRate: 49.7,
     PlayRate: 3.42,
     BanRate: 0.19,
     HeroID: "Dva",
@@ -5999,7 +5999,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Infernal Shrines",
-    WinRate: 57.78,
+    WinRate: 54.5,
     PlayRate: 89.66,
     BanRate: 83.17,
     HeroID: "Deathwing",
@@ -6010,7 +6010,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Infernal Shrines",
-    WinRate: 46.57,
+    WinRate: 46.8,
     PlayRate: 7.75,
     BanRate: 0.78,
     HeroID: "Deckard",
@@ -6021,7 +6021,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Infernal Shrines",
-    WinRate: 46.96,
+    WinRate: 46.3,
     PlayRate: 6.35,
     BanRate: 1.27,
     HeroID: "Dehaka",
@@ -6032,7 +6032,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Infernal Shrines",
-    WinRate: 44.38,
+    WinRate: 44.2,
     PlayRate: 40.88,
     BanRate: 17.04,
     HeroID: "Diablo",
@@ -6043,7 +6043,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Infernal Shrines",
-    WinRate: 52.81,
+    WinRate: 53.4,
     PlayRate: 43.22,
     BanRate: 20.31,
     HeroID: "Etc",
@@ -6054,7 +6054,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Infernal Shrines",
-    WinRate: 49.5,
+    WinRate: 50.4,
     PlayRate: 11.61,
     BanRate: 1.6,
     HeroID: "Falstad",
@@ -6065,7 +6065,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Infernal Shrines",
-    WinRate: 51.18,
+    WinRate: 51.5,
     PlayRate: 6.98,
     BanRate: 0.4,
     HeroID: "Fenix",
@@ -6076,7 +6076,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Infernal Shrines",
-    WinRate: 56.04,
+    WinRate: 61.5,
     PlayRate: 2.75,
     BanRate: 0.75,
     HeroID: "Gall",
@@ -6087,7 +6087,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Infernal Shrines",
-    WinRate: 45.88,
+    WinRate: 46.1,
     PlayRate: 43.63,
     BanRate: 30.49,
     HeroID: "Garrosh",
@@ -6098,7 +6098,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Infernal Shrines",
-    WinRate: 56.26,
+    WinRate: 52,
     PlayRate: 6.58,
     BanRate: 0.46,
     HeroID: "Gazlowe",
@@ -6109,7 +6109,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Infernal Shrines",
-    WinRate: 40.04,
+    WinRate: 40,
     PlayRate: 4.39,
     BanRate: 0.57,
     HeroID: "Genji",
@@ -6120,7 +6120,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Infernal Shrines",
-    WinRate: 49.76,
+    WinRate: 49.3,
     PlayRate: 22.45,
     BanRate: 4.08,
     HeroID: "Greymane",
@@ -6131,7 +6131,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Infernal Shrines",
-    WinRate: 48.86,
+    WinRate: 47.8,
     PlayRate: 24.61,
     BanRate: 7.48,
     HeroID: "Guldan",
@@ -6142,7 +6142,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Infernal Shrines",
-    WinRate: 44.67,
+    WinRate: 44.7,
     PlayRate: 14.15,
     BanRate: 2.34,
     HeroID: "Hanzo",
@@ -6153,7 +6153,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Infernal Shrines",
-    WinRate: 47.12,
+    WinRate: 48.5,
     PlayRate: 6.11,
     BanRate: 1.21,
     HeroID: "Illidan",
@@ -6164,7 +6164,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Infernal Shrines",
-    WinRate: 46.16,
+    WinRate: 48.5,
     PlayRate: 11.18,
     BanRate: 1.64,
     HeroID: "Imperius",
@@ -6175,7 +6175,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Infernal Shrines",
-    WinRate: 48.92,
+    WinRate: 49.4,
     PlayRate: 30.73,
     BanRate: 7.68,
     HeroID: "Jaina",
@@ -6186,7 +6186,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Infernal Shrines",
-    WinRate: 52.8,
+    WinRate: 52.6,
     PlayRate: 63.8,
     BanRate: 27.43,
     HeroID: "Johanna",
@@ -6197,7 +6197,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Infernal Shrines",
-    WinRate: 48,
+    WinRate: 49.8,
     PlayRate: 9.41,
     BanRate: 1.68,
     HeroID: "Junkrat",
@@ -6208,7 +6208,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Infernal Shrines",
-    WinRate: 52.13,
+    WinRate: 51.1,
     PlayRate: 80.77,
     BanRate: 56.58,
     HeroID: "Kaelthas",
@@ -6230,7 +6230,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Infernal Shrines",
-    WinRate: 53.26,
+    WinRate: 56.3,
     PlayRate: 7.21,
     BanRate: 0.92,
     HeroID: "Kerrigan",
@@ -6241,7 +6241,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Infernal Shrines",
-    WinRate: 52.88,
+    WinRate: 53.9,
     PlayRate: 5.18,
     BanRate: 0.28,
     HeroID: "Kharazim",
@@ -6252,7 +6252,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Infernal Shrines",
-    WinRate: 52.01,
+    WinRate: 53,
     PlayRate: 17.62,
     BanRate: 2.74,
     HeroID: "Leoric",
@@ -6263,7 +6263,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Infernal Shrines",
-    WinRate: 46.03,
+    WinRate: 46.1,
     PlayRate: 24.35,
     BanRate: 8.4,
     HeroID: "Lili",
@@ -6274,7 +6274,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Infernal Shrines",
-    WinRate: 47.57,
+    WinRate: 48,
     PlayRate: 36.68,
     BanRate: 13.53,
     HeroID: "Liming",
@@ -6285,7 +6285,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Infernal Shrines",
-    WinRate: 49.68,
+    WinRate: 49.1,
     PlayRate: 9.05,
     BanRate: 2.83,
     HeroID: "Ltmorales",
@@ -6296,7 +6296,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Infernal Shrines",
-    WinRate: 50.09,
+    WinRate: 50.6,
     PlayRate: 21.59,
     BanRate: 5.96,
     HeroID: "Lucio",
@@ -6307,7 +6307,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Infernal Shrines",
-    WinRate: 53.67,
+    WinRate: 51.5,
     PlayRate: 15.82,
     BanRate: 2.27,
     HeroID: "Lunara",
@@ -6318,7 +6318,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Infernal Shrines",
-    WinRate: 50.46,
+    WinRate: 47.3,
     PlayRate: 5.48,
     BanRate: 1.1,
     HeroID: "Maiev",
@@ -6329,7 +6329,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Infernal Shrines",
-    WinRate: 54.25,
+    WinRate: 53.4,
     PlayRate: 23.71,
     BanRate: 8.91,
     HeroID: "Malganis",
@@ -6340,7 +6340,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Infernal Shrines",
-    WinRate: 49.11,
+    WinRate: 48.4,
     PlayRate: 11.04,
     BanRate: 1.55,
     HeroID: "Malfurion",
@@ -6351,7 +6351,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Infernal Shrines",
-    WinRate: 49.85,
+    WinRate: 52,
     PlayRate: 12.75,
     BanRate: 3.5,
     HeroID: "Malthael",
@@ -6362,7 +6362,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Infernal Shrines",
-    WinRate: 44.52,
+    WinRate: 41,
     PlayRate: 3.45,
     BanRate: 0.39,
     HeroID: "Medivh",
@@ -6373,7 +6373,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Infernal Shrines",
-    WinRate: 52.51,
+    WinRate: 53.6,
     PlayRate: 7.24,
     BanRate: 0.54,
     HeroID: "Mephisto",
@@ -6384,7 +6384,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Infernal Shrines",
-    WinRate: 48.04,
+    WinRate: 47.8,
     PlayRate: 19.79,
     BanRate: 1.48,
     HeroID: "Muradin",
@@ -6395,7 +6395,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Infernal Shrines",
-    WinRate: 53.18,
+    WinRate: 49.5,
     PlayRate: 6.12,
     BanRate: 0.84,
     HeroID: "Murky",
@@ -6406,7 +6406,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Infernal Shrines",
-    WinRate: 49.65,
+    WinRate: 50.3,
     PlayRate: 16.31,
     BanRate: 2.1,
     HeroID: "Nazeebo",
@@ -6417,7 +6417,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Infernal Shrines",
-    WinRate: 44.63,
+    WinRate: 47.5,
     PlayRate: 3.48,
     BanRate: 0.29,
     HeroID: "Nova",
@@ -6428,7 +6428,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Infernal Shrines",
-    WinRate: 48.22,
+    WinRate: 47.2,
     PlayRate: 7.99,
     BanRate: 0.63,
     HeroID: "Orphea",
@@ -6439,7 +6439,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Infernal Shrines",
-    WinRate: 52.27,
+    WinRate: 46.5,
     PlayRate: 1.79,
     BanRate: 0.32,
     HeroID: "Probius",
@@ -6450,7 +6450,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Infernal Shrines",
-    WinRate: 47.55,
+    WinRate: 45.9,
     PlayRate: 18.48,
     BanRate: 9.29,
     HeroID: "Qhira",
@@ -6461,7 +6461,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Infernal Shrines",
-    WinRate: 56.29,
+    WinRate: 57.2,
     PlayRate: 17.21,
     BanRate: 4.02,
     HeroID: "Ragnaros",
@@ -6472,7 +6472,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Infernal Shrines",
-    WinRate: 50.47,
+    WinRate: 49.9,
     PlayRate: 18.03,
     BanRate: 1.59,
     HeroID: "Raynor",
@@ -6483,7 +6483,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Infernal Shrines",
-    WinRate: 54.45,
+    WinRate: 56.6,
     PlayRate: 18.4,
     BanRate: 1.59,
     HeroID: "Rehgar",
@@ -6494,7 +6494,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Infernal Shrines",
-    WinRate: 55.61,
+    WinRate: 56.2,
     PlayRate: 5.58,
     BanRate: 1.69,
     HeroID: "Rexxar",
@@ -6505,7 +6505,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Infernal Shrines",
-    WinRate: 48.19,
+    WinRate: 48.5,
     PlayRate: 5.79,
     BanRate: 1.51,
     HeroID: "Samuro",
@@ -6516,7 +6516,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Infernal Shrines",
-    WinRate: 48.32,
+    WinRate: 43.4,
     PlayRate: 3.91,
     BanRate: 0.91,
     HeroID: "Sgthammer",
@@ -6527,7 +6527,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Infernal Shrines",
-    WinRate: 56.32,
+    WinRate: 56.4,
     PlayRate: 24.53,
     BanRate: 4.07,
     HeroID: "Sonya",
@@ -6538,7 +6538,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Infernal Shrines",
-    WinRate: 44.19,
+    WinRate: 41.9,
     PlayRate: 12.16,
     BanRate: 0.93,
     HeroID: "Stitches",
@@ -6549,7 +6549,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Infernal Shrines",
-    WinRate: 49.13,
+    WinRate: 48.7,
     PlayRate: 14.62,
     BanRate: 3.78,
     HeroID: "Stukov",
@@ -6560,7 +6560,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Infernal Shrines",
-    WinRate: 48.55,
+    WinRate: 50,
     PlayRate: 21.1,
     BanRate: 4.91,
     HeroID: "Sylvanas",
@@ -6571,7 +6571,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Infernal Shrines",
-    WinRate: 45.23,
+    WinRate: 45.6,
     PlayRate: 3.56,
     BanRate: 0.24,
     HeroID: "Tassadar",
@@ -6582,7 +6582,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Infernal Shrines",
-    WinRate: 51.7,
+    WinRate: 52.8,
     PlayRate: 10.54,
     BanRate: 3.21,
     HeroID: "Thebutcher",
@@ -6593,7 +6593,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Infernal Shrines",
-    WinRate: 44.29,
+    WinRate: 43.4,
     PlayRate: 1.47,
     BanRate: 0.53,
     HeroID: "Thelostvikings",
@@ -6604,7 +6604,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Infernal Shrines",
-    WinRate: 47.98,
+    WinRate: 46.8,
     PlayRate: 14.11,
     BanRate: 1.14,
     HeroID: "Thrall",
@@ -6615,7 +6615,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Infernal Shrines",
-    WinRate: 48.78,
+    WinRate: 44.9,
     PlayRate: 3.79,
     BanRate: 0.48,
     HeroID: "Tracer",
@@ -6626,7 +6626,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Infernal Shrines",
-    WinRate: 48.74,
+    WinRate: 49.8,
     PlayRate: 11.53,
     BanRate: 2.46,
     HeroID: "Tychus",
@@ -6637,7 +6637,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Infernal Shrines",
-    WinRate: 50.5,
+    WinRate: 49.5,
     PlayRate: 4.93,
     BanRate: 0.26,
     HeroID: "Tyrael",
@@ -6648,7 +6648,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Infernal Shrines",
-    WinRate: 46.96,
+    WinRate: 47.8,
     PlayRate: 4.86,
     BanRate: 0.22,
     HeroID: "Tyrande",
@@ -6659,7 +6659,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Infernal Shrines",
-    WinRate: 52.24,
+    WinRate: 51.7,
     PlayRate: 20.72,
     BanRate: 6.61,
     HeroID: "Uther",
@@ -6670,7 +6670,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Infernal Shrines",
-    WinRate: 47.24,
+    WinRate: 50.2,
     PlayRate: 5.19,
     BanRate: 0.81,
     HeroID: "Valeera",
@@ -6681,7 +6681,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Infernal Shrines",
-    WinRate: 55.36,
+    WinRate: 56.1,
     PlayRate: 28.34,
     BanRate: 4.6,
     HeroID: "Valla",
@@ -6692,7 +6692,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Infernal Shrines",
-    WinRate: 47.78,
+    WinRate: 47.4,
     PlayRate: 28.39,
     BanRate: 10.66,
     HeroID: "Varian",
@@ -6703,7 +6703,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Infernal Shrines",
-    WinRate: 50.2,
+    WinRate: 50.8,
     PlayRate: 5.32,
     BanRate: 0.37,
     HeroID: "Whitemane",
@@ -6714,7 +6714,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Infernal Shrines",
-    WinRate: 52.62,
+    WinRate: 52,
     PlayRate: 5.8,
     BanRate: 0.29,
     HeroID: "Xul",
@@ -6725,7 +6725,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Infernal Shrines",
-    WinRate: 49.51,
+    WinRate: 48.3,
     PlayRate: 3.6,
     BanRate: 0.19,
     HeroID: "Yrel",
@@ -6736,7 +6736,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Infernal Shrines",
-    WinRate: 48.38,
+    WinRate: 47.3,
     PlayRate: 6.11,
     BanRate: 0.73,
     HeroID: "Zagara",
@@ -6747,7 +6747,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Infernal Shrines",
-    WinRate: 54.24,
+    WinRate: 57.4,
     PlayRate: 4.37,
     BanRate: 0.34,
     HeroID: "Zarya",
@@ -6758,7 +6758,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Infernal Shrines",
-    WinRate: 47.5,
+    WinRate: 49.1,
     PlayRate: 10.31,
     BanRate: 4,
     HeroID: "Zeratul",
@@ -6769,7 +6769,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Infernal Shrines",
-    WinRate: 49.8,
+    WinRate: 49.3,
     PlayRate: 18.71,
     BanRate: 3.55,
     HeroID: "Zuljin",
@@ -6780,7 +6780,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Sky Temple",
-    WinRate: 44.39,
+    WinRate: 44.7,
     PlayRate: 23.8,
     BanRate: 13.66,
     HeroID: "Abathur",
@@ -6791,7 +6791,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Sky Temple",
-    WinRate: 46.24,
+    WinRate: 44.6,
     PlayRate: 33.59,
     BanRate: 26.08,
     HeroID: "Alarak",
@@ -6802,7 +6802,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Sky Temple",
-    WinRate: 46.5,
+    WinRate: 45.1,
     PlayRate: 7.87,
     BanRate: 1.43,
     HeroID: "Alexstrasza",
@@ -6813,7 +6813,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Sky Temple",
-    WinRate: 48.13,
+    WinRate: 46.2,
     PlayRate: 21.77,
     BanRate: 11.71,
     HeroID: "Ana",
@@ -6824,7 +6824,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Sky Temple",
-    WinRate: 44.11,
+    WinRate: 44.4,
     PlayRate: 26.05,
     BanRate: 9.14,
     HeroID: "Anduin",
@@ -6835,7 +6835,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Sky Temple",
-    WinRate: 49.41,
+    WinRate: 50.7,
     PlayRate: 14.83,
     BanRate: 4.07,
     HeroID: "Anubarak",
@@ -6846,7 +6846,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Sky Temple",
-    WinRate: 50.18,
+    WinRate: 49.5,
     PlayRate: 13.1,
     BanRate: 1.94,
     HeroID: "Artanis",
@@ -6857,7 +6857,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Sky Temple",
-    WinRate: 49.47,
+    WinRate: 49.5,
     PlayRate: 14.22,
     BanRate: 2.81,
     HeroID: "Arthas",
@@ -6868,7 +6868,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Sky Temple",
-    WinRate: 55.84,
+    WinRate: 55.5,
     PlayRate: 54.74,
     BanRate: 34.44,
     HeroID: "Auriel",
@@ -6879,7 +6879,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Sky Temple",
-    WinRate: 48.69,
+    WinRate: 49.4,
     PlayRate: 13.92,
     BanRate: 5.18,
     HeroID: "Azmodan",
@@ -6890,7 +6890,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Sky Temple",
-    WinRate: 50.23,
+    WinRate: 49.6,
     PlayRate: 6.18,
     BanRate: 0.33,
     HeroID: "Blaze",
@@ -6901,7 +6901,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Sky Temple",
-    WinRate: 47.55,
+    WinRate: 48.7,
     PlayRate: 29.7,
     BanRate: 8.1,
     HeroID: "Brightwing",
@@ -6912,7 +6912,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Sky Temple",
-    WinRate: 48.6,
+    WinRate: 50,
     PlayRate: 4.77,
     BanRate: 0.44,
     HeroID: "Cassia",
@@ -6923,7 +6923,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Sky Temple",
-    WinRate: 48.28,
+    WinRate: 48.8,
     PlayRate: 3.54,
     BanRate: 0.81,
     HeroID: "Chen",
@@ -6934,7 +6934,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Sky Temple",
-    WinRate: 51.13,
+    WinRate: 56.1,
     PlayRate: 2.68,
     BanRate: 1.19,
     HeroID: "Cho",
@@ -6945,7 +6945,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Sky Temple",
-    WinRate: 47.41,
+    WinRate: 47.4,
     PlayRate: 6.38,
     BanRate: 0.93,
     HeroID: "Chromie",
@@ -6956,7 +6956,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Sky Temple",
-    WinRate: 48.36,
+    WinRate: 50.4,
     PlayRate: 2.14,
     BanRate: 0.1,
     HeroID: "Dva",
@@ -6967,7 +6967,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Sky Temple",
-    WinRate: 56.81,
+    WinRate: 53.6,
     PlayRate: 89.66,
     BanRate: 83.33,
     HeroID: "Deathwing",
@@ -6978,7 +6978,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Sky Temple",
-    WinRate: 48.8,
+    WinRate: 49,
     PlayRate: 5.89,
     BanRate: 0.58,
     HeroID: "Deckard",
@@ -6989,7 +6989,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Sky Temple",
-    WinRate: 46.64,
+    WinRate: 46,
     PlayRate: 17.35,
     BanRate: 7.34,
     HeroID: "Dehaka",
@@ -7000,7 +7000,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Sky Temple",
-    WinRate: 45.51,
+    WinRate: 45.4,
     PlayRate: 33.63,
     BanRate: 14.97,
     HeroID: "Diablo",
@@ -7011,7 +7011,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Sky Temple",
-    WinRate: 52.27,
+    WinRate: 52.9,
     PlayRate: 46.7,
     BanRate: 20.31,
     HeroID: "Etc",
@@ -7022,7 +7022,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Sky Temple",
-    WinRate: 52.78,
+    WinRate: 53.7,
     PlayRate: 35.84,
     BanRate: 12,
     HeroID: "Falstad",
@@ -7033,7 +7033,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Sky Temple",
-    WinRate: 50,
+    WinRate: 50.3,
     PlayRate: 6.41,
     BanRate: 0.34,
     HeroID: "Fenix",
@@ -7044,7 +7044,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Sky Temple",
-    WinRate: 51.13,
+    WinRate: 56.1,
     PlayRate: 2.13,
     BanRate: 0.65,
     HeroID: "Gall",
@@ -7055,7 +7055,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Sky Temple",
-    WinRate: 45.3,
+    WinRate: 45.5,
     PlayRate: 45.97,
     BanRate: 30.92,
     HeroID: "Garrosh",
@@ -7066,7 +7066,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Sky Temple",
-    WinRate: 57.79,
+    WinRate: 53.4,
     PlayRate: 5.15,
     BanRate: 0.4,
     HeroID: "Gazlowe",
@@ -7077,7 +7077,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Sky Temple",
-    WinRate: 41.01,
+    WinRate: 40.9,
     PlayRate: 5.37,
     BanRate: 0.73,
     HeroID: "Genji",
@@ -7088,7 +7088,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Sky Temple",
-    WinRate: 52.54,
+    WinRate: 52,
     PlayRate: 25.44,
     BanRate: 4.49,
     HeroID: "Greymane",
@@ -7099,7 +7099,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Sky Temple",
-    WinRate: 47.71,
+    WinRate: 46.7,
     PlayRate: 12.76,
     BanRate: 2.34,
     HeroID: "Guldan",
@@ -7110,7 +7110,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Sky Temple",
-    WinRate: 44.55,
+    WinRate: 44.6,
     PlayRate: 12.17,
     BanRate: 2.05,
     HeroID: "Hanzo",
@@ -7121,7 +7121,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Sky Temple",
-    WinRate: 49.86,
+    WinRate: 51.3,
     PlayRate: 9.45,
     BanRate: 2.09,
     HeroID: "Illidan",
@@ -7132,7 +7132,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Sky Temple",
-    WinRate: 49.52,
+    WinRate: 52.1,
     PlayRate: 11.41,
     BanRate: 1.58,
     HeroID: "Imperius",
@@ -7143,7 +7143,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Sky Temple",
-    WinRate: 52.34,
+    WinRate: 52.9,
     PlayRate: 25.13,
     BanRate: 4.59,
     HeroID: "Jaina",
@@ -7154,7 +7154,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Sky Temple",
-    WinRate: 52.62,
+    WinRate: 52.5,
     PlayRate: 56.81,
     BanRate: 25.58,
     HeroID: "Johanna",
@@ -7165,7 +7165,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Sky Temple",
-    WinRate: 46.3,
+    WinRate: 48,
     PlayRate: 5.9,
     BanRate: 0.99,
     HeroID: "Junkrat",
@@ -7176,7 +7176,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Sky Temple",
-    WinRate: 52.41,
+    WinRate: 51.3,
     PlayRate: 69.78,
     BanRate: 51.32,
     HeroID: "Kaelthas",
@@ -7187,7 +7187,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Sky Temple",
-    WinRate: 48.48,
+    WinRate: 48.5,
     PlayRate: 14.46,
     BanRate: 7.38,
     HeroID: "Kelthuzad",
@@ -7198,7 +7198,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Sky Temple",
-    WinRate: 54.78,
+    WinRate: 57.9,
     PlayRate: 3.49,
     BanRate: 0.32,
     HeroID: "Kerrigan",
@@ -7209,7 +7209,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Sky Temple",
-    WinRate: 48.7,
+    WinRate: 49.7,
     PlayRate: 6.17,
     BanRate: 0.2,
     HeroID: "Kharazim",
@@ -7220,7 +7220,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Sky Temple",
-    WinRate: 49.96,
+    WinRate: 50.9,
     PlayRate: 11.27,
     BanRate: 1.72,
     HeroID: "Leoric",
@@ -7231,7 +7231,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Sky Temple",
-    WinRate: 48.5,
+    WinRate: 48.6,
     PlayRate: 25.61,
     BanRate: 8.53,
     HeroID: "Lili",
@@ -7242,7 +7242,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Sky Temple",
-    WinRate: 47.97,
+    WinRate: 48.4,
     PlayRate: 49.98,
     BanRate: 15.19,
     HeroID: "Liming",
@@ -7253,7 +7253,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Sky Temple",
-    WinRate: 47.92,
+    WinRate: 47.4,
     PlayRate: 9.44,
     BanRate: 2.81,
     HeroID: "Ltmorales",
@@ -7264,7 +7264,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Sky Temple",
-    WinRate: 50.3,
+    WinRate: 50.8,
     PlayRate: 21.64,
     BanRate: 5.96,
     HeroID: "Lucio",
@@ -7275,7 +7275,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Sky Temple",
-    WinRate: 53.53,
+    WinRate: 51.3,
     PlayRate: 17.87,
     BanRate: 2.47,
     HeroID: "Lunara",
@@ -7286,7 +7286,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Sky Temple",
-    WinRate: 46.53,
+    WinRate: 43.6,
     PlayRate: 4.28,
     BanRate: 0.98,
     HeroID: "Maiev",
@@ -7297,7 +7297,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Sky Temple",
-    WinRate: 54.02,
+    WinRate: 53.2,
     PlayRate: 23.45,
     BanRate: 8.89,
     HeroID: "Malganis",
@@ -7308,7 +7308,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Sky Temple",
-    WinRate: 48.63,
+    WinRate: 47.9,
     PlayRate: 10.36,
     BanRate: 1.25,
     HeroID: "Malfurion",
@@ -7319,7 +7319,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Sky Temple",
-    WinRate: 51.16,
+    WinRate: 53.4,
     PlayRate: 10.89,
     BanRate: 2.8,
     HeroID: "Malthael",
@@ -7330,7 +7330,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Sky Temple",
-    WinRate: 43.7,
+    WinRate: 40.3,
     PlayRate: 3.64,
     BanRate: 0.44,
     HeroID: "Medivh",
@@ -7341,7 +7341,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Sky Temple",
-    WinRate: 51.96,
+    WinRate: 53.1,
     PlayRate: 5.37,
     BanRate: 0.4,
     HeroID: "Mephisto",
@@ -7352,7 +7352,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Sky Temple",
-    WinRate: 48.49,
+    WinRate: 48.3,
     PlayRate: 24.64,
     BanRate: 2.09,
     HeroID: "Muradin",
@@ -7363,7 +7363,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Sky Temple",
-    WinRate: 54.4,
+    WinRate: 50.7,
     PlayRate: 7.55,
     BanRate: 1.14,
     HeroID: "Murky",
@@ -7374,7 +7374,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Sky Temple",
-    WinRate: 45.9,
+    WinRate: 46.5,
     PlayRate: 15.6,
     BanRate: 1.49,
     HeroID: "Nazeebo",
@@ -7385,7 +7385,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Sky Temple",
-    WinRate: 44.03,
+    WinRate: 46.9,
     PlayRate: 4.66,
     BanRate: 0.33,
     HeroID: "Nova",
@@ -7396,7 +7396,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Sky Temple",
-    WinRate: 48,
+    WinRate: 46.9,
     PlayRate: 6.94,
     BanRate: 0.54,
     HeroID: "Orphea",
@@ -7407,7 +7407,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Sky Temple",
-    WinRate: 44.59,
+    WinRate: 39.7,
     PlayRate: 1.35,
     BanRate: 0.3,
     HeroID: "Probius",
@@ -7418,7 +7418,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Sky Temple",
-    WinRate: 47.4,
+    WinRate: 45.8,
     PlayRate: 19.63,
     BanRate: 9.28,
     HeroID: "Qhira",
@@ -7429,7 +7429,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Sky Temple",
-    WinRate: 55.56,
+    WinRate: 56.4,
     PlayRate: 12.34,
     BanRate: 2.6,
     HeroID: "Ragnaros",
@@ -7440,7 +7440,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Sky Temple",
-    WinRate: 53.06,
+    WinRate: 52.5,
     PlayRate: 18.93,
     BanRate: 1.59,
     HeroID: "Raynor",
@@ -7451,7 +7451,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Sky Temple",
-    WinRate: 54.31,
+    WinRate: 56.4,
     PlayRate: 18.83,
     BanRate: 1.77,
     HeroID: "Rehgar",
@@ -7462,7 +7462,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Sky Temple",
-    WinRate: 59.63,
+    WinRate: 60.2,
     PlayRate: 8.77,
     BanRate: 3.01,
     HeroID: "Rexxar",
@@ -7473,7 +7473,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Sky Temple",
-    WinRate: 50.11,
+    WinRate: 50.4,
     PlayRate: 8.78,
     BanRate: 2.54,
     HeroID: "Samuro",
@@ -7484,7 +7484,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Sky Temple",
-    WinRate: 45.14,
+    WinRate: 40.5,
     PlayRate: 2.29,
     BanRate: 0.56,
     HeroID: "Sgthammer",
@@ -7495,7 +7495,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Sky Temple",
-    WinRate: 55.44,
+    WinRate: 55.5,
     PlayRate: 18.02,
     BanRate: 2.2,
     HeroID: "Sonya",
@@ -7506,7 +7506,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Sky Temple",
-    WinRate: 45.98,
+    WinRate: 43.6,
     PlayRate: 11.81,
     BanRate: 0.94,
     HeroID: "Stitches",
@@ -7517,7 +7517,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Sky Temple",
-    WinRate: 48.43,
+    WinRate: 48,
     PlayRate: 10.52,
     BanRate: 2.41,
     HeroID: "Stukov",
@@ -7528,7 +7528,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Sky Temple",
-    WinRate: 50.99,
+    WinRate: 52.5,
     PlayRate: 19.25,
     BanRate: 4.05,
     HeroID: "Sylvanas",
@@ -7539,7 +7539,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Sky Temple",
-    WinRate: 39.79,
+    WinRate: 40.1,
     PlayRate: 2.82,
     BanRate: 0.22,
     HeroID: "Tassadar",
@@ -7550,7 +7550,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Sky Temple",
-    WinRate: 53.93,
+    WinRate: 55.1,
     PlayRate: 12.88,
     BanRate: 3.49,
     HeroID: "Thebutcher",
@@ -7561,7 +7561,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Sky Temple",
-    WinRate: 51.34,
+    WinRate: 50.4,
     PlayRate: 2.7,
     BanRate: 0.95,
     HeroID: "Thelostvikings",
@@ -7572,7 +7572,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Sky Temple",
-    WinRate: 50.13,
+    WinRate: 48.9,
     PlayRate: 16.36,
     BanRate: 0.97,
     HeroID: "Thrall",
@@ -7583,7 +7583,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Sky Temple",
-    WinRate: 44.92,
+    WinRate: 41.4,
     PlayRate: 4.76,
     BanRate: 0.67,
     HeroID: "Tracer",
@@ -7594,7 +7594,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Sky Temple",
-    WinRate: 48.94,
+    WinRate: 50,
     PlayRate: 10.54,
     BanRate: 2.28,
     HeroID: "Tychus",
@@ -7605,7 +7605,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Sky Temple",
-    WinRate: 50.2,
+    WinRate: 49.2,
     PlayRate: 5.41,
     BanRate: 0.34,
     HeroID: "Tyrael",
@@ -7616,7 +7616,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Sky Temple",
-    WinRate: 50.2,
+    WinRate: 51.2,
     PlayRate: 5.24,
     BanRate: 0.22,
     HeroID: "Tyrande",
@@ -7627,7 +7627,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Sky Temple",
-    WinRate: 55.38,
+    WinRate: 54.8,
     PlayRate: 21.96,
     BanRate: 6.73,
     HeroID: "Uther",
@@ -7638,7 +7638,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Sky Temple",
-    WinRate: 50.61,
+    WinRate: 53.8,
     PlayRate: 6.42,
     BanRate: 0.93,
     HeroID: "Valeera",
@@ -7649,7 +7649,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Sky Temple",
-    WinRate: 50.65,
+    WinRate: 51.4,
     PlayRate: 24.43,
     BanRate: 3.23,
     HeroID: "Valla",
@@ -7660,7 +7660,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Sky Temple",
-    WinRate: 48.39,
+    WinRate: 48,
     PlayRate: 33.24,
     BanRate: 12.11,
     HeroID: "Varian",
@@ -7671,7 +7671,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Sky Temple",
-    WinRate: 52.35,
+    WinRate: 52.9,
     PlayRate: 5.25,
     BanRate: 0.52,
     HeroID: "Whitemane",
@@ -7682,7 +7682,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Sky Temple",
-    WinRate: 50.55,
+    WinRate: 49.9,
     PlayRate: 4.53,
     BanRate: 0.25,
     HeroID: "Xul",
@@ -7693,7 +7693,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Sky Temple",
-    WinRate: 48.02,
+    WinRate: 46.8,
     PlayRate: 3.49,
     BanRate: 0.26,
     HeroID: "Yrel",
@@ -7704,7 +7704,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Sky Temple",
-    WinRate: 51.2,
+    WinRate: 50,
     PlayRate: 9.71,
     BanRate: 1.6,
     HeroID: "Zagara",
@@ -7715,7 +7715,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Sky Temple",
-    WinRate: 47.98,
+    WinRate: 50.8,
     PlayRate: 3.57,
     BanRate: 0.25,
     HeroID: "Zarya",
@@ -7726,7 +7726,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Sky Temple",
-    WinRate: 49.07,
+    WinRate: 50.8,
     PlayRate: 12.18,
     BanRate: 4.57,
     HeroID: "Zeratul",
@@ -7737,7 +7737,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Sky Temple",
-    WinRate: 45.73,
+    WinRate: 45.3,
     PlayRate: 16.75,
     BanRate: 3.37,
     HeroID: "Zuljin",
@@ -7748,7 +7748,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Tomb of the Spider Queen",
-    WinRate: 39.7,
+    WinRate: 40,
     PlayRate: 5.06,
     BanRate: 1.95,
     HeroID: "Abathur",
@@ -7759,7 +7759,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49,
+    WinRate: 47.3,
     PlayRate: 35.71,
     BanRate: 27.33,
     HeroID: "Alarak",
@@ -7770,7 +7770,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.69,
+    WinRate: 44.3,
     PlayRate: 8.8,
     BanRate: 1.69,
     HeroID: "Alexstrasza",
@@ -7781,7 +7781,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.22,
+    WinRate: 45.3,
     PlayRate: 24.9,
     BanRate: 13.13,
     HeroID: "Ana",
@@ -7792,7 +7792,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.16,
+    WinRate: 48.5,
     PlayRate: 28,
     BanRate: 10.46,
     HeroID: "Anduin",
@@ -7803,7 +7803,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.26,
+    WinRate: 47.5,
     PlayRate: 14.63,
     BanRate: 4.36,
     HeroID: "Anubarak",
@@ -7814,7 +7814,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.65,
+    WinRate: 47,
     PlayRate: 10.49,
     BanRate: 1.19,
     HeroID: "Artanis",
@@ -7825,7 +7825,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.15,
+    WinRate: 47.2,
     PlayRate: 13.49,
     BanRate: 2.49,
     HeroID: "Arthas",
@@ -7836,7 +7836,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Tomb of the Spider Queen",
-    WinRate: 55.13,
+    WinRate: 54.8,
     PlayRate: 58.06,
     BanRate: 35.15,
     HeroID: "Auriel",
@@ -7847,7 +7847,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.98,
+    WinRate: 48.6,
     PlayRate: 21.06,
     BanRate: 7.91,
     HeroID: "Azmodan",
@@ -7858,7 +7858,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.02,
+    WinRate: 46.4,
     PlayRate: 8.27,
     BanRate: 0.36,
     HeroID: "Blaze",
@@ -7869,7 +7869,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.82,
+    WinRate: 46.9,
     PlayRate: 14.89,
     BanRate: 3.38,
     HeroID: "Brightwing",
@@ -7880,7 +7880,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.58,
+    WinRate: 46.9,
     PlayRate: 4.26,
     BanRate: 0.38,
     HeroID: "Cassia",
@@ -7891,7 +7891,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.68,
+    WinRate: 49.2,
     PlayRate: 3.31,
     BanRate: 0.77,
     HeroID: "Chen",
@@ -7902,7 +7902,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.68,
+    WinRate: 54.5,
     PlayRate: 3.47,
     BanRate: 1.39,
     HeroID: "Cho",
@@ -7913,7 +7913,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.64,
+    WinRate: 46.6,
     PlayRate: 7.07,
     BanRate: 1.35,
     HeroID: "Chromie",
@@ -7924,7 +7924,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.39,
+    WinRate: 48.3,
     PlayRate: 2.34,
     BanRate: 0.11,
     HeroID: "Dva",
@@ -7935,7 +7935,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Tomb of the Spider Queen",
-    WinRate: 59.22,
+    WinRate: 55.8,
     PlayRate: 89.88,
     BanRate: 82.98,
     HeroID: "Deathwing",
@@ -7946,7 +7946,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.83,
+    WinRate: 48.1,
     PlayRate: 6.92,
     BanRate: 0.71,
     HeroID: "Deckard",
@@ -7957,7 +7957,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.43,
+    WinRate: 45.8,
     PlayRate: 3.3,
     BanRate: 0.47,
     HeroID: "Dehaka",
@@ -7968,7 +7968,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.65,
+    WinRate: 46.5,
     PlayRate: 40.78,
     BanRate: 18.04,
     HeroID: "Diablo",
@@ -7979,7 +7979,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Tomb of the Spider Queen",
-    WinRate: 53.87,
+    WinRate: 54.5,
     PlayRate: 42.5,
     BanRate: 20.56,
     HeroID: "Etc",
@@ -7990,7 +7990,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Tomb of the Spider Queen",
-    WinRate: 50.31,
+    WinRate: 51.2,
     PlayRate: 7.23,
     BanRate: 0.62,
     HeroID: "Falstad",
@@ -8001,7 +8001,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Tomb of the Spider Queen",
-    WinRate: 50.95,
+    WinRate: 51.3,
     PlayRate: 6.84,
     BanRate: 0.44,
     HeroID: "Fenix",
@@ -8012,7 +8012,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.68,
+    WinRate: 54.5,
     PlayRate: 2.84,
     BanRate: 0.75,
     HeroID: "Gall",
@@ -8023,7 +8023,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.93,
+    WinRate: 48.2,
     PlayRate: 48.92,
     BanRate: 34.13,
     HeroID: "Garrosh",
@@ -8034,7 +8034,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Tomb of the Spider Queen",
-    WinRate: 53.98,
+    WinRate: 49.9,
     PlayRate: 4.19,
     BanRate: 0.39,
     HeroID: "Gazlowe",
@@ -8045,7 +8045,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Tomb of the Spider Queen",
-    WinRate: 38.88,
+    WinRate: 38.8,
     PlayRate: 3.97,
     BanRate: 0.61,
     HeroID: "Genji",
@@ -8056,7 +8056,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.3,
+    WinRate: 47.8,
     PlayRate: 22.27,
     BanRate: 3.87,
     HeroID: "Greymane",
@@ -8067,7 +8067,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.53,
+    WinRate: 46.5,
     PlayRate: 25.83,
     BanRate: 7.29,
     HeroID: "Guldan",
@@ -8078,7 +8078,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Tomb of the Spider Queen",
-    WinRate: 43.84,
+    WinRate: 43.8,
     PlayRate: 13.16,
     BanRate: 2.01,
     HeroID: "Hanzo",
@@ -8089,7 +8089,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.82,
+    WinRate: 48.2,
     PlayRate: 4.6,
     BanRate: 0.69,
     HeroID: "Illidan",
@@ -8100,7 +8100,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.8,
+    WinRate: 48.2,
     PlayRate: 11.62,
     BanRate: 1.69,
     HeroID: "Imperius",
@@ -8111,7 +8111,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Tomb of the Spider Queen",
-    WinRate: 53.14,
+    WinRate: 53.7,
     PlayRate: 30.14,
     BanRate: 6.49,
     HeroID: "Jaina",
@@ -8122,7 +8122,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Tomb of the Spider Queen",
-    WinRate: 54.97,
+    WinRate: 54.8,
     PlayRate: 66.49,
     BanRate: 28.41,
     HeroID: "Johanna",
@@ -8133,7 +8133,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Tomb of the Spider Queen",
-    WinRate: 50,
+    WinRate: 51.9,
     PlayRate: 8.41,
     BanRate: 1.82,
     HeroID: "Junkrat",
@@ -8144,7 +8144,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.74,
+    WinRate: 50.7,
     PlayRate: 77.96,
     BanRate: 55.54,
     HeroID: "Kaelthas",
@@ -8155,7 +8155,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Tomb of the Spider Queen",
-    WinRate: 53.22,
+    WinRate: 53.2,
     PlayRate: 19.34,
     BanRate: 8.67,
     HeroID: "Kelthuzad",
@@ -8166,7 +8166,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Tomb of the Spider Queen",
-    WinRate: 54.61,
+    WinRate: 57.7,
     PlayRate: 5.26,
     BanRate: 0.37,
     HeroID: "Kerrigan",
@@ -8177,7 +8177,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.43,
+    WinRate: 50.4,
     PlayRate: 5.46,
     BanRate: 0.18,
     HeroID: "Kharazim",
@@ -8188,7 +8188,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.62,
+    WinRate: 50.6,
     PlayRate: 18.08,
     BanRate: 2.84,
     HeroID: "Leoric",
@@ -8199,7 +8199,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.94,
+    WinRate: 48,
     PlayRate: 25.21,
     BanRate: 8.72,
     HeroID: "Lili",
@@ -8210,7 +8210,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.66,
+    WinRate: 49.1,
     PlayRate: 38.41,
     BanRate: 14.1,
     HeroID: "Liming",
@@ -8221,7 +8221,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.18,
+    WinRate: 48.6,
     PlayRate: 9.87,
     BanRate: 2.91,
     HeroID: "Ltmorales",
@@ -8232,7 +8232,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.8,
+    WinRate: 49.3,
     PlayRate: 23.18,
     BanRate: 6.68,
     HeroID: "Lucio",
@@ -8243,7 +8243,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Tomb of the Spider Queen",
-    WinRate: 54.45,
+    WinRate: 52.2,
     PlayRate: 16.85,
     BanRate: 2.43,
     HeroID: "Lunara",
@@ -8254,7 +8254,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Tomb of the Spider Queen",
-    WinRate: 50.34,
+    WinRate: 47.2,
     PlayRate: 6.08,
     BanRate: 1.16,
     HeroID: "Maiev",
@@ -8265,7 +8265,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Tomb of the Spider Queen",
-    WinRate: 52.31,
+    WinRate: 51.5,
     PlayRate: 22.83,
     BanRate: 9.33,
     HeroID: "Malganis",
@@ -8276,7 +8276,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Tomb of the Spider Queen",
-    WinRate: 53.97,
+    WinRate: 53.1,
     PlayRate: 12.99,
     BanRate: 2.14,
     HeroID: "Malfurion",
@@ -8287,7 +8287,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.7,
+    WinRate: 54,
     PlayRate: 11.21,
     BanRate: 3.29,
     HeroID: "Malthael",
@@ -8298,7 +8298,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Tomb of the Spider Queen",
-    WinRate: 42.59,
+    WinRate: 39.2,
     PlayRate: 3.76,
     BanRate: 0.54,
     HeroID: "Medivh",
@@ -8309,7 +8309,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Tomb of the Spider Queen",
-    WinRate: 54.63,
+    WinRate: 55.8,
     PlayRate: 6.09,
     BanRate: 0.5,
     HeroID: "Mephisto",
@@ -8320,7 +8320,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.17,
+    WinRate: 45,
     PlayRate: 19.37,
     BanRate: 1.77,
     HeroID: "Muradin",
@@ -8331,7 +8331,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.39,
+    WinRate: 46,
     PlayRate: 3.28,
     BanRate: 0.52,
     HeroID: "Murky",
@@ -8342,7 +8342,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.85,
+    WinRate: 50.5,
     PlayRate: 32.19,
     BanRate: 4.71,
     HeroID: "Nazeebo",
@@ -8353,7 +8353,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Tomb of the Spider Queen",
-    WinRate: 40.12,
+    WinRate: 42.7,
     PlayRate: 3.58,
     BanRate: 0.35,
     HeroID: "Nova",
@@ -8364,7 +8364,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.41,
+    WinRate: 44.4,
     PlayRate: 7.41,
     BanRate: 0.6,
     HeroID: "Orphea",
@@ -8375,7 +8375,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Tomb of the Spider Queen",
-    WinRate: 52.31,
+    WinRate: 46.5,
     PlayRate: 1.69,
     BanRate: 0.24,
     HeroID: "Probius",
@@ -8386,7 +8386,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.45,
+    WinRate: 44.9,
     PlayRate: 18.32,
     BanRate: 9.03,
     HeroID: "Qhira",
@@ -8397,7 +8397,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Tomb of the Spider Queen",
-    WinRate: 55.12,
+    WinRate: 56,
     PlayRate: 26.18,
     BanRate: 7.94,
     HeroID: "Ragnaros",
@@ -8408,7 +8408,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.06,
+    WinRate: 50.5,
     PlayRate: 18.53,
     BanRate: 1.65,
     HeroID: "Raynor",
@@ -8419,7 +8419,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.86,
+    WinRate: 53.9,
     PlayRate: 18.84,
     BanRate: 1.89,
     HeroID: "Rehgar",
@@ -8430,7 +8430,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Tomb of the Spider Queen",
-    WinRate: 57.39,
+    WinRate: 57.9,
     PlayRate: 6.12,
     BanRate: 1.48,
     HeroID: "Rexxar",
@@ -8441,7 +8441,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.46,
+    WinRate: 49.8,
     PlayRate: 4.71,
     BanRate: 0.95,
     HeroID: "Samuro",
@@ -8452,7 +8452,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.23,
+    WinRate: 42.4,
     PlayRate: 2.33,
     BanRate: 0.5,
     HeroID: "Sgthammer",
@@ -8474,7 +8474,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.01,
+    WinRate: 45.5,
     PlayRate: 14.48,
     BanRate: 1.15,
     HeroID: "Stitches",
@@ -8485,7 +8485,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.05,
+    WinRate: 45.6,
     PlayRate: 14.38,
     BanRate: 3.48,
     HeroID: "Stukov",
@@ -8496,7 +8496,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.29,
+    WinRate: 49.8,
     PlayRate: 24.99,
     BanRate: 6.27,
     HeroID: "Sylvanas",
@@ -8507,7 +8507,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.64,
+    WinRate: 47,
     PlayRate: 4.4,
     BanRate: 0.29,
     HeroID: "Tassadar",
@@ -8518,7 +8518,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Tomb of the Spider Queen",
-    WinRate: 52.03,
+    WinRate: 53.1,
     PlayRate: 12.88,
     BanRate: 3.76,
     HeroID: "Thebutcher",
@@ -8529,7 +8529,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Tomb of the Spider Queen",
-    WinRate: 37.31,
+    WinRate: 36.6,
     PlayRate: 0.89,
     BanRate: 0.44,
     HeroID: "Thelostvikings",
@@ -8540,7 +8540,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.06,
+    WinRate: 49.8,
     PlayRate: 15.69,
     BanRate: 1.16,
     HeroID: "Thrall",
@@ -8551,7 +8551,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.32,
+    WinRate: 41.7,
     PlayRate: 4.25,
     BanRate: 0.51,
     HeroID: "Tracer",
@@ -8562,7 +8562,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Tomb of the Spider Queen",
-    WinRate: 45.7,
+    WinRate: 46.7,
     PlayRate: 11.77,
     BanRate: 2.63,
     HeroID: "Tychus",
@@ -8573,7 +8573,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Tomb of the Spider Queen",
-    WinRate: 47.29,
+    WinRate: 46.4,
     PlayRate: 4.04,
     BanRate: 0.2,
     HeroID: "Tyrael",
@@ -8584,7 +8584,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Tomb of the Spider Queen",
-    WinRate: 50.51,
+    WinRate: 51.5,
     PlayRate: 5.6,
     BanRate: 0.28,
     HeroID: "Tyrande",
@@ -8595,7 +8595,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Tomb of the Spider Queen",
-    WinRate: 56.45,
+    WinRate: 55.9,
     PlayRate: 20.9,
     BanRate: 6.69,
     HeroID: "Uther",
@@ -8606,7 +8606,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Tomb of the Spider Queen",
-    WinRate: 46.21,
+    WinRate: 49.1,
     PlayRate: 5.24,
     BanRate: 0.81,
     HeroID: "Valeera",
@@ -8617,7 +8617,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Tomb of the Spider Queen",
-    WinRate: 52.11,
+    WinRate: 52.8,
     PlayRate: 26.51,
     BanRate: 3.61,
     HeroID: "Valla",
@@ -8628,7 +8628,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Tomb of the Spider Queen",
-    WinRate: 48.59,
+    WinRate: 48.2,
     PlayRate: 29.48,
     BanRate: 11.11,
     HeroID: "Varian",
@@ -8639,7 +8639,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.15,
+    WinRate: 51.7,
     PlayRate: 5.78,
     BanRate: 0.5,
     HeroID: "Whitemane",
@@ -8650,7 +8650,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.93,
+    WinRate: 51.3,
     PlayRate: 11.92,
     BanRate: 1.32,
     HeroID: "Xul",
@@ -8661,7 +8661,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Tomb of the Spider Queen",
-    WinRate: 50.46,
+    WinRate: 49.2,
     PlayRate: 3.92,
     BanRate: 0.24,
     HeroID: "Yrel",
@@ -8672,7 +8672,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Tomb of the Spider Queen",
-    WinRate: 55.74,
+    WinRate: 54.5,
     PlayRate: 7.52,
     BanRate: 1.5,
     HeroID: "Zagara",
@@ -8683,7 +8683,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Tomb of the Spider Queen",
-    WinRate: 43.33,
+    WinRate: 45.9,
     PlayRate: 3.55,
     BanRate: 0.28,
     HeroID: "Zarya",
@@ -8694,7 +8694,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Tomb of the Spider Queen",
-    WinRate: 49.41,
+    WinRate: 51.1,
     PlayRate: 9.16,
     BanRate: 3.49,
     HeroID: "Zeratul",
@@ -8705,7 +8705,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Tomb of the Spider Queen",
-    WinRate: 51.79,
+    WinRate: 51.3,
     PlayRate: 18.57,
     BanRate: 3.58,
     HeroID: "Zuljin",
@@ -8716,7 +8716,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Towers of Doom",
-    WinRate: 49.35,
+    WinRate: 49.7,
     PlayRate: 16.66,
     BanRate: 8.93,
     HeroID: "Abathur",
@@ -8727,7 +8727,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Towers of Doom",
-    WinRate: 47.79,
+    WinRate: 46.1,
     PlayRate: 35.81,
     BanRate: 27.31,
     HeroID: "Alarak",
@@ -8738,7 +8738,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Towers of Doom",
-    WinRate: 49.68,
+    WinRate: 48.2,
     PlayRate: 7.6,
     BanRate: 1.31,
     HeroID: "Alexstrasza",
@@ -8749,7 +8749,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Towers of Doom",
-    WinRate: 48.45,
+    WinRate: 46.5,
     PlayRate: 24.95,
     BanRate: 12.57,
     HeroID: "Ana",
@@ -8760,7 +8760,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Towers of Doom",
-    WinRate: 47.23,
+    WinRate: 47.6,
     PlayRate: 27.4,
     BanRate: 9.79,
     HeroID: "Anduin",
@@ -8771,7 +8771,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Towers of Doom",
-    WinRate: 51.43,
+    WinRate: 52.8,
     PlayRate: 15.8,
     BanRate: 4.04,
     HeroID: "Anubarak",
@@ -8782,7 +8782,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Towers of Doom",
-    WinRate: 47.2,
+    WinRate: 46.6,
     PlayRate: 12.14,
     BanRate: 1.3,
     HeroID: "Artanis",
@@ -8793,7 +8793,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Towers of Doom",
-    WinRate: 50.94,
+    WinRate: 51,
     PlayRate: 12.93,
     BanRate: 2.54,
     HeroID: "Arthas",
@@ -8804,7 +8804,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Towers of Doom",
-    WinRate: 55.7,
+    WinRate: 55.4,
     PlayRate: 56.58,
     BanRate: 35.42,
     HeroID: "Auriel",
@@ -8815,7 +8815,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Towers of Doom",
-    WinRate: 50.82,
+    WinRate: 51.5,
     PlayRate: 15.01,
     BanRate: 5.97,
     HeroID: "Azmodan",
@@ -8826,7 +8826,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Towers of Doom",
-    WinRate: 48.05,
+    WinRate: 47.4,
     PlayRate: 6.53,
     BanRate: 0.32,
     HeroID: "Blaze",
@@ -8837,7 +8837,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Towers of Doom",
-    WinRate: 48.39,
+    WinRate: 49.6,
     PlayRate: 25.68,
     BanRate: 6.88,
     HeroID: "Brightwing",
@@ -8848,7 +8848,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Towers of Doom",
-    WinRate: 44.79,
+    WinRate: 46.1,
     PlayRate: 4.63,
     BanRate: 0.36,
     HeroID: "Cassia",
@@ -8859,7 +8859,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Towers of Doom",
-    WinRate: 51.16,
+    WinRate: 51.7,
     PlayRate: 3.72,
     BanRate: 0.81,
     HeroID: "Chen",
@@ -8870,7 +8870,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Towers of Doom",
-    WinRate: 48.16,
+    WinRate: 52.8,
     PlayRate: 2.81,
     BanRate: 1.16,
     HeroID: "Cho",
@@ -8881,7 +8881,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Towers of Doom",
-    WinRate: 45.82,
+    WinRate: 45.8,
     PlayRate: 12.73,
     BanRate: 3.38,
     HeroID: "Chromie",
@@ -8892,7 +8892,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Towers of Doom",
-    WinRate: 43.33,
+    WinRate: 45.1,
     PlayRate: 2.33,
     BanRate: 0.11,
     HeroID: "Dva",
@@ -8903,7 +8903,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Towers of Doom",
-    WinRate: 57.03,
+    WinRate: 53.8,
     PlayRate: 89.9,
     BanRate: 83.24,
     HeroID: "Deathwing",
@@ -8914,7 +8914,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Towers of Doom",
-    WinRate: 43.89,
+    WinRate: 44.1,
     PlayRate: 6.54,
     BanRate: 0.65,
     HeroID: "Deckard",
@@ -8925,7 +8925,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Towers of Doom",
-    WinRate: 46.88,
+    WinRate: 46.2,
     PlayRate: 15.54,
     BanRate: 6.03,
     HeroID: "Dehaka",
@@ -8936,7 +8936,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Towers of Doom",
-    WinRate: 46.83,
+    WinRate: 46.7,
     PlayRate: 40.25,
     BanRate: 16.98,
     HeroID: "Diablo",
@@ -8947,7 +8947,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Towers of Doom",
-    WinRate: 51.94,
+    WinRate: 52.5,
     PlayRate: 44.08,
     BanRate: 19.46,
     HeroID: "Etc",
@@ -8958,7 +8958,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Towers of Doom",
-    WinRate: 50.67,
+    WinRate: 51.6,
     PlayRate: 24.86,
     BanRate: 7.77,
     HeroID: "Falstad",
@@ -8969,7 +8969,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Towers of Doom",
-    WinRate: 54.89,
+    WinRate: 55.2,
     PlayRate: 6.01,
     BanRate: 0.43,
     HeroID: "Fenix",
@@ -8980,7 +8980,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Towers of Doom",
-    WinRate: 48.16,
+    WinRate: 52.8,
     PlayRate: 2.34,
     BanRate: 0.69,
     HeroID: "Gall",
@@ -8991,7 +8991,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Towers of Doom",
-    WinRate: 46.51,
+    WinRate: 46.8,
     PlayRate: 48.19,
     BanRate: 32.46,
     HeroID: "Garrosh",
@@ -9002,7 +9002,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Towers of Doom",
-    WinRate: 47.58,
+    WinRate: 44,
     PlayRate: 4.24,
     BanRate: 0.48,
     HeroID: "Gazlowe",
@@ -9013,7 +9013,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Towers of Doom",
-    WinRate: 41.73,
+    WinRate: 41.6,
     PlayRate: 6.03,
     BanRate: 0.82,
     HeroID: "Genji",
@@ -9024,7 +9024,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Towers of Doom",
-    WinRate: 49.95,
+    WinRate: 49.4,
     PlayRate: 23.53,
     BanRate: 4.37,
     HeroID: "Greymane",
@@ -9035,7 +9035,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Towers of Doom",
-    WinRate: 42.18,
+    WinRate: 41.3,
     PlayRate: 12.57,
     BanRate: 2.68,
     HeroID: "Guldan",
@@ -9046,7 +9046,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Towers of Doom",
-    WinRate: 44.96,
+    WinRate: 45,
     PlayRate: 16.06,
     BanRate: 2.63,
     HeroID: "Hanzo",
@@ -9057,7 +9057,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Towers of Doom",
-    WinRate: 49.94,
+    WinRate: 51.4,
     PlayRate: 7.03,
     BanRate: 1.71,
     HeroID: "Illidan",
@@ -9068,7 +9068,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Towers of Doom",
-    WinRate: 51.28,
+    WinRate: 53.9,
     PlayRate: 12.33,
     BanRate: 1.52,
     HeroID: "Imperius",
@@ -9079,7 +9079,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Towers of Doom",
-    WinRate: 51.47,
+    WinRate: 52,
     PlayRate: 23.68,
     BanRate: 4.52,
     HeroID: "Jaina",
@@ -9090,7 +9090,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Towers of Doom",
-    WinRate: 49.78,
+    WinRate: 49.6,
     PlayRate: 54.33,
     BanRate: 24.78,
     HeroID: "Johanna",
@@ -9101,7 +9101,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Towers of Doom",
-    WinRate: 44.72,
+    WinRate: 46.4,
     PlayRate: 8.18,
     BanRate: 1.68,
     HeroID: "Junkrat",
@@ -9112,7 +9112,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Towers of Doom",
-    WinRate: 48.37,
+    WinRate: 47.4,
     PlayRate: 69.1,
     BanRate: 50.97,
     HeroID: "Kaelthas",
@@ -9123,7 +9123,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Towers of Doom",
-    WinRate: 48.55,
+    WinRate: 48.6,
     PlayRate: 16.72,
     BanRate: 8.38,
     HeroID: "Kelthuzad",
@@ -9134,7 +9134,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Towers of Doom",
-    WinRate: 53.56,
+    WinRate: 56.6,
     PlayRate: 3.86,
     BanRate: 0.17,
     HeroID: "Kerrigan",
@@ -9145,7 +9145,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Towers of Doom",
-    WinRate: 50.53,
+    WinRate: 51.5,
     PlayRate: 5.9,
     BanRate: 0.23,
     HeroID: "Kharazim",
@@ -9156,7 +9156,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Towers of Doom",
-    WinRate: 48.09,
+    WinRate: 49,
     PlayRate: 14.76,
     BanRate: 2.24,
     HeroID: "Leoric",
@@ -9167,7 +9167,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Towers of Doom",
-    WinRate: 48.25,
+    WinRate: 48.3,
     PlayRate: 24.68,
     BanRate: 8.13,
     HeroID: "Lili",
@@ -9178,7 +9178,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Towers of Doom",
-    WinRate: 50.81,
+    WinRate: 51.3,
     PlayRate: 57.8,
     BanRate: 17.11,
     HeroID: "Liming",
@@ -9189,7 +9189,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Towers of Doom",
-    WinRate: 47.75,
+    WinRate: 47.2,
     PlayRate: 8.85,
     BanRate: 2.41,
     HeroID: "Ltmorales",
@@ -9200,7 +9200,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Towers of Doom",
-    WinRate: 51.08,
+    WinRate: 51.6,
     PlayRate: 22.31,
     BanRate: 6.12,
     HeroID: "Lucio",
@@ -9211,7 +9211,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Towers of Doom",
-    WinRate: 57.15,
+    WinRate: 54.8,
     PlayRate: 18.35,
     BanRate: 2.88,
     HeroID: "Lunara",
@@ -9222,7 +9222,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Towers of Doom",
-    WinRate: 47.32,
+    WinRate: 44.4,
     PlayRate: 4.85,
     BanRate: 1.08,
     HeroID: "Maiev",
@@ -9233,7 +9233,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Towers of Doom",
-    WinRate: 53.21,
+    WinRate: 52.4,
     PlayRate: 24.2,
     BanRate: 9.52,
     HeroID: "Malganis",
@@ -9244,7 +9244,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Towers of Doom",
-    WinRate: 48.64,
+    WinRate: 47.9,
     PlayRate: 10.85,
     BanRate: 1.48,
     HeroID: "Malfurion",
@@ -9255,7 +9255,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Towers of Doom",
-    WinRate: 51.68,
+    WinRate: 53.9,
     PlayRate: 12.98,
     BanRate: 3.58,
     HeroID: "Malthael",
@@ -9266,7 +9266,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Towers of Doom",
-    WinRate: 46.58,
+    WinRate: 42.9,
     PlayRate: 4.45,
     BanRate: 0.61,
     HeroID: "Medivh",
@@ -9277,7 +9277,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Towers of Doom",
-    WinRate: 51.67,
+    WinRate: 52.8,
     PlayRate: 5.46,
     BanRate: 0.43,
     HeroID: "Mephisto",
@@ -9288,7 +9288,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Towers of Doom",
-    WinRate: 49.89,
+    WinRate: 49.7,
     PlayRate: 23.16,
     BanRate: 1.86,
     HeroID: "Muradin",
@@ -9299,7 +9299,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Towers of Doom",
-    WinRate: 52.02,
+    WinRate: 48.4,
     PlayRate: 3.88,
     BanRate: 0.56,
     HeroID: "Murky",
@@ -9310,7 +9310,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Towers of Doom",
-    WinRate: 50.17,
+    WinRate: 50.9,
     PlayRate: 15.65,
     BanRate: 1.6,
     HeroID: "Nazeebo",
@@ -9321,7 +9321,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Towers of Doom",
-    WinRate: 46.81,
+    WinRate: 49.8,
     PlayRate: 5.44,
     BanRate: 0.48,
     HeroID: "Nova",
@@ -9332,7 +9332,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Towers of Doom",
-    WinRate: 44.66,
+    WinRate: 43.7,
     PlayRate: 6.81,
     BanRate: 0.58,
     HeroID: "Orphea",
@@ -9343,7 +9343,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Towers of Doom",
-    WinRate: 57.14,
+    WinRate: 50.8,
     PlayRate: 1.29,
     BanRate: 0.26,
     HeroID: "Probius",
@@ -9354,7 +9354,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Towers of Doom",
-    WinRate: 49.63,
+    WinRate: 47.9,
     PlayRate: 19.42,
     BanRate: 9.41,
     HeroID: "Qhira",
@@ -9365,7 +9365,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Towers of Doom",
-    WinRate: 49.85,
+    WinRate: 50.6,
     PlayRate: 5.89,
     BanRate: 1.34,
     HeroID: "Ragnaros",
@@ -9376,7 +9376,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Towers of Doom",
-    WinRate: 52.85,
+    WinRate: 52.3,
     PlayRate: 19.5,
     BanRate: 1.81,
     HeroID: "Raynor",
@@ -9387,7 +9387,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Towers of Doom",
-    WinRate: 51.69,
+    WinRate: 53.7,
     PlayRate: 16.86,
     BanRate: 1.6,
     HeroID: "Rehgar",
@@ -9398,7 +9398,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Towers of Doom",
-    WinRate: 58.49,
+    WinRate: 59.1,
     PlayRate: 6.27,
     BanRate: 1.92,
     HeroID: "Rexxar",
@@ -9409,7 +9409,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Towers of Doom",
-    WinRate: 54.3,
+    WinRate: 54.6,
     PlayRate: 7.24,
     BanRate: 2.01,
     HeroID: "Samuro",
@@ -9420,7 +9420,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Towers of Doom",
-    WinRate: 50.87,
+    WinRate: 45.7,
     PlayRate: 2.55,
     BanRate: 0.62,
     HeroID: "Sgthammer",
@@ -9431,7 +9431,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Towers of Doom",
-    WinRate: 52.12,
+    WinRate: 52.2,
     PlayRate: 14.95,
     BanRate: 1.65,
     HeroID: "Sonya",
@@ -9442,7 +9442,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Towers of Doom",
-    WinRate: 49.32,
+    WinRate: 46.8,
     PlayRate: 15.88,
     BanRate: 1.63,
     HeroID: "Stitches",
@@ -9453,7 +9453,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Towers of Doom",
-    WinRate: 48.56,
+    WinRate: 48.1,
     PlayRate: 12.63,
     BanRate: 3.05,
     HeroID: "Stukov",
@@ -9464,7 +9464,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Towers of Doom",
-    WinRate: 51.9,
+    WinRate: 53.5,
     PlayRate: 21.84,
     BanRate: 5.26,
     HeroID: "Sylvanas",
@@ -9475,7 +9475,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Towers of Doom",
-    WinRate: 43.18,
+    WinRate: 43.5,
     PlayRate: 2.93,
     BanRate: 0.22,
     HeroID: "Tassadar",
@@ -9486,7 +9486,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Towers of Doom",
-    WinRate: 55.48,
+    WinRate: 56.6,
     PlayRate: 11.88,
     BanRate: 3.54,
     HeroID: "Thebutcher",
@@ -9497,7 +9497,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Towers of Doom",
-    WinRate: 57.26,
+    WinRate: 56.2,
     PlayRate: 2.81,
     BanRate: 1.14,
     HeroID: "Thelostvikings",
@@ -9508,7 +9508,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Towers of Doom",
-    WinRate: 48.91,
+    WinRate: 47.7,
     PlayRate: 17.62,
     BanRate: 1.23,
     HeroID: "Thrall",
@@ -9519,7 +9519,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Towers of Doom",
-    WinRate: 48.98,
+    WinRate: 45.1,
     PlayRate: 4.97,
     BanRate: 0.68,
     HeroID: "Tracer",
@@ -9530,7 +9530,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Towers of Doom",
-    WinRate: 49.01,
+    WinRate: 50.1,
     PlayRate: 11.51,
     BanRate: 2.33,
     HeroID: "Tychus",
@@ -9541,7 +9541,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Towers of Doom",
-    WinRate: 45.73,
+    WinRate: 44.9,
     PlayRate: 4.64,
     BanRate: 0.24,
     HeroID: "Tyrael",
@@ -9552,7 +9552,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Towers of Doom",
-    WinRate: 47.76,
+    WinRate: 48.7,
     PlayRate: 5.97,
     BanRate: 0.26,
     HeroID: "Tyrande",
@@ -9563,7 +9563,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Towers of Doom",
-    WinRate: 55.39,
+    WinRate: 54.8,
     PlayRate: 22.14,
     BanRate: 7.12,
     HeroID: "Uther",
@@ -9574,7 +9574,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Towers of Doom",
-    WinRate: 46.43,
+    WinRate: 49.4,
     PlayRate: 6.89,
     BanRate: 1.15,
     HeroID: "Valeera",
@@ -9585,7 +9585,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Towers of Doom",
-    WinRate: 49.41,
+    WinRate: 50.1,
     PlayRate: 23.88,
     BanRate: 3.39,
     HeroID: "Valla",
@@ -9596,7 +9596,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Towers of Doom",
-    WinRate: 50.05,
+    WinRate: 49.7,
     PlayRate: 31.96,
     BanRate: 11.47,
     HeroID: "Varian",
@@ -9607,7 +9607,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Towers of Doom",
-    WinRate: 49.49,
+    WinRate: 50,
     PlayRate: 5.17,
     BanRate: 0.54,
     HeroID: "Whitemane",
@@ -9618,7 +9618,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Towers of Doom",
-    WinRate: 55.9,
+    WinRate: 55.2,
     PlayRate: 5.93,
     BanRate: 0.46,
     HeroID: "Xul",
@@ -9629,7 +9629,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Towers of Doom",
-    WinRate: 51.51,
+    WinRate: 50.3,
     PlayRate: 3.81,
     BanRate: 0.25,
     HeroID: "Yrel",
@@ -9640,7 +9640,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Towers of Doom",
-    WinRate: 54.46,
+    WinRate: 53.2,
     PlayRate: 7.67,
     BanRate: 1.2,
     HeroID: "Zagara",
@@ -9651,7 +9651,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Towers of Doom",
-    WinRate: 51.38,
+    WinRate: 54.4,
     PlayRate: 3.91,
     BanRate: 0.26,
     HeroID: "Zarya",
@@ -9662,7 +9662,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Towers of Doom",
-    WinRate: 50.38,
+    WinRate: 52.1,
     PlayRate: 12.94,
     BanRate: 4.9,
     HeroID: "Zeratul",
@@ -9673,7 +9673,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Towers of Doom",
-    WinRate: 50.86,
+    WinRate: 50.4,
     PlayRate: 17.31,
     BanRate: 3.69,
     HeroID: "Zuljin",
@@ -9684,7 +9684,7 @@ var dataOriginal = [
   {
     HeroName: "Abathur",
     Map: "Volskaya Foundry",
-    WinRate: 48.44,
+    WinRate: 48.8,
     PlayRate: 9.01,
     BanRate: 4.04,
     HeroID: "Abathur",
@@ -9695,7 +9695,7 @@ var dataOriginal = [
   {
     HeroName: "Alarak",
     Map: "Volskaya Foundry",
-    WinRate: 48.57,
+    WinRate: 46.9,
     PlayRate: 37.93,
     BanRate: 28.55,
     HeroID: "Alarak",
@@ -9706,7 +9706,7 @@ var dataOriginal = [
   {
     HeroName: "Alexstrasza",
     Map: "Volskaya Foundry",
-    WinRate: 49.28,
+    WinRate: 47.8,
     PlayRate: 12.28,
     BanRate: 2.95,
     HeroID: "Alexstrasza",
@@ -9717,7 +9717,7 @@ var dataOriginal = [
   {
     HeroName: "Ana",
     Map: "Volskaya Foundry",
-    WinRate: 50.13,
+    WinRate: 48.1,
     PlayRate: 26.05,
     BanRate: 13.53,
     HeroID: "Ana",
@@ -9728,7 +9728,7 @@ var dataOriginal = [
   {
     HeroName: "Anduin",
     Map: "Volskaya Foundry",
-    WinRate: 45,
+    WinRate: 45.3,
     PlayRate: 27.78,
     BanRate: 10.21,
     HeroID: "Anduin",
@@ -9739,7 +9739,7 @@ var dataOriginal = [
   {
     HeroName: "Anub'arak",
     Map: "Volskaya Foundry",
-    WinRate: 48.51,
+    WinRate: 49.8,
     PlayRate: 15.48,
     BanRate: 4.38,
     HeroID: "Anubarak",
@@ -9750,7 +9750,7 @@ var dataOriginal = [
   {
     HeroName: "Artanis",
     Map: "Volskaya Foundry",
-    WinRate: 47.05,
+    WinRate: 46.4,
     PlayRate: 11.92,
     BanRate: 1.74,
     HeroID: "Artanis",
@@ -9761,7 +9761,7 @@ var dataOriginal = [
   {
     HeroName: "Arthas",
     Map: "Volskaya Foundry",
-    WinRate: 48.07,
+    WinRate: 48.1,
     PlayRate: 13.9,
     BanRate: 2.72,
     HeroID: "Arthas",
@@ -9772,7 +9772,7 @@ var dataOriginal = [
   {
     HeroName: "Auriel",
     Map: "Volskaya Foundry",
-    WinRate: 52.97,
+    WinRate: 52.6,
     PlayRate: 57.11,
     BanRate: 35.67,
     HeroID: "Auriel",
@@ -9783,7 +9783,7 @@ var dataOriginal = [
   {
     HeroName: "Azmodan",
     Map: "Volskaya Foundry",
-    WinRate: 50.3,
+    WinRate: 51,
     PlayRate: 14.36,
     BanRate: 5.27,
     HeroID: "Azmodan",
@@ -9794,7 +9794,7 @@ var dataOriginal = [
   {
     HeroName: "Blaze",
     Map: "Volskaya Foundry",
-    WinRate: 47.91,
+    WinRate: 47.3,
     PlayRate: 9.25,
     BanRate: 0.71,
     HeroID: "Blaze",
@@ -9805,7 +9805,7 @@ var dataOriginal = [
   {
     HeroName: "Brightwing",
     Map: "Volskaya Foundry",
-    WinRate: 48.53,
+    WinRate: 49.7,
     PlayRate: 16.42,
     BanRate: 3.78,
     HeroID: "Brightwing",
@@ -9816,7 +9816,7 @@ var dataOriginal = [
   {
     HeroName: "Cassia",
     Map: "Volskaya Foundry",
-    WinRate: 45.51,
+    WinRate: 46.8,
     PlayRate: 4.72,
     BanRate: 0.44,
     HeroID: "Cassia",
@@ -9827,7 +9827,7 @@ var dataOriginal = [
   {
     HeroName: "Chen",
     Map: "Volskaya Foundry",
-    WinRate: 47.48,
+    WinRate: 48,
     PlayRate: 4.09,
     BanRate: 0.88,
     HeroID: "Chen",
@@ -9838,7 +9838,7 @@ var dataOriginal = [
   {
     HeroName: "Cho",
     Map: "Volskaya Foundry",
-    WinRate: 46.28,
+    WinRate: 50.8,
     PlayRate: 3.33,
     BanRate: 1.33,
     HeroID: "Cho",
@@ -9849,7 +9849,7 @@ var dataOriginal = [
   {
     HeroName: "Chromie",
     Map: "Volskaya Foundry",
-    WinRate: 50.06,
+    WinRate: 50.1,
     PlayRate: 13.97,
     BanRate: 2.94,
     HeroID: "Chromie",
@@ -9860,7 +9860,7 @@ var dataOriginal = [
   {
     HeroName: "D.Va",
     Map: "Volskaya Foundry",
-    WinRate: 45.01,
+    WinRate: 46.9,
     PlayRate: 3.1,
     BanRate: 0.21,
     HeroID: "Dva",
@@ -9871,7 +9871,7 @@ var dataOriginal = [
   {
     HeroName: "Deathwing",
     Map: "Volskaya Foundry",
-    WinRate: 55.93,
+    WinRate: 52.7,
     PlayRate: 90.62,
     BanRate: 83.8,
     HeroID: "Deathwing",
@@ -9882,7 +9882,7 @@ var dataOriginal = [
   {
     HeroName: "Deckard",
     Map: "Volskaya Foundry",
-    WinRate: 49.66,
+    WinRate: 49.9,
     PlayRate: 9.73,
     BanRate: 0.88,
     HeroID: "Deckard",
@@ -9893,7 +9893,7 @@ var dataOriginal = [
   {
     HeroName: "Dehaka",
     Map: "Volskaya Foundry",
-    WinRate: 40.34,
+    WinRate: 39.8,
     PlayRate: 3.12,
     BanRate: 0.71,
     HeroID: "Dehaka",
@@ -9904,7 +9904,7 @@ var dataOriginal = [
   {
     HeroName: "Diablo",
     Map: "Volskaya Foundry",
-    WinRate: 46.99,
+    WinRate: 46.8,
     PlayRate: 34.29,
     BanRate: 15.72,
     HeroID: "Diablo",
@@ -9915,7 +9915,7 @@ var dataOriginal = [
   {
     HeroName: "E.T.C.",
     Map: "Volskaya Foundry",
-    WinRate: 52.46,
+    WinRate: 53.1,
     PlayRate: 45.19,
     BanRate: 20.82,
     HeroID: "Etc",
@@ -9926,7 +9926,7 @@ var dataOriginal = [
   {
     HeroName: "Falstad",
     Map: "Volskaya Foundry",
-    WinRate: 50.82,
+    WinRate: 51.7,
     PlayRate: 9.76,
     BanRate: 1.1,
     HeroID: "Falstad",
@@ -9937,7 +9937,7 @@ var dataOriginal = [
   {
     HeroName: "Fenix",
     Map: "Volskaya Foundry",
-    WinRate: 48.79,
+    WinRate: 49.1,
     PlayRate: 6.13,
     BanRate: 0.31,
     HeroID: "Fenix",
@@ -9948,7 +9948,7 @@ var dataOriginal = [
   {
     HeroName: "Gall",
     Map: "Volskaya Foundry",
-    WinRate: 46.28,
+    WinRate: 50.8,
     PlayRate: 2.65,
     BanRate: 0.66,
     HeroID: "Gall",
@@ -9959,7 +9959,7 @@ var dataOriginal = [
   {
     HeroName: "Garrosh",
     Map: "Volskaya Foundry",
-    WinRate: 48.6,
+    WinRate: 48.9,
     PlayRate: 52.76,
     BanRate: 35.98,
     HeroID: "Garrosh",
@@ -9970,7 +9970,7 @@ var dataOriginal = [
   {
     HeroName: "Gazlowe",
     Map: "Volskaya Foundry",
-    WinRate: 53.26,
+    WinRate: 49.3,
     PlayRate: 6.02,
     BanRate: 0.65,
     HeroID: "Gazlowe",
@@ -9981,7 +9981,7 @@ var dataOriginal = [
   {
     HeroName: "Genji",
     Map: "Volskaya Foundry",
-    WinRate: 40.3,
+    WinRate: 40.2,
     PlayRate: 5.23,
     BanRate: 0.79,
     HeroID: "Genji",
@@ -9992,7 +9992,7 @@ var dataOriginal = [
   {
     HeroName: "Greymane",
     Map: "Volskaya Foundry",
-    WinRate: 50.02,
+    WinRate: 49.5,
     PlayRate: 20.01,
     BanRate: 4.29,
     HeroID: "Greymane",
@@ -10003,7 +10003,7 @@ var dataOriginal = [
   {
     HeroName: "Gul'dan",
     Map: "Volskaya Foundry",
-    WinRate: 44.88,
+    WinRate: 43.9,
     PlayRate: 15.8,
     BanRate: 3.64,
     HeroID: "Guldan",
@@ -10014,7 +10014,7 @@ var dataOriginal = [
   {
     HeroName: "Hanzo",
     Map: "Volskaya Foundry",
-    WinRate: 45.17,
+    WinRate: 45.2,
     PlayRate: 14.01,
     BanRate: 2.52,
     HeroID: "Hanzo",
@@ -10025,7 +10025,7 @@ var dataOriginal = [
   {
     HeroName: "Illidan",
     Map: "Volskaya Foundry",
-    WinRate: 44.9,
+    WinRate: 46.2,
     PlayRate: 5.03,
     BanRate: 0.94,
     HeroID: "Illidan",
@@ -10036,7 +10036,7 @@ var dataOriginal = [
   {
     HeroName: "Imperius",
     Map: "Volskaya Foundry",
-    WinRate: 46.16,
+    WinRate: 48.5,
     PlayRate: 14.09,
     BanRate: 2.17,
     HeroID: "Imperius",
@@ -10047,7 +10047,7 @@ var dataOriginal = [
   {
     HeroName: "Jaina",
     Map: "Volskaya Foundry",
-    WinRate: 49.18,
+    WinRate: 49.7,
     PlayRate: 22.84,
     BanRate: 5.16,
     HeroID: "Jaina",
@@ -10058,7 +10058,7 @@ var dataOriginal = [
   {
     HeroName: "Johanna",
     Map: "Volskaya Foundry",
-    WinRate: 51.47,
+    WinRate: 51.3,
     PlayRate: 59.82,
     BanRate: 26.94,
     HeroID: "Johanna",
@@ -10069,7 +10069,7 @@ var dataOriginal = [
   {
     HeroName: "Junkrat",
     Map: "Volskaya Foundry",
-    WinRate: 43.43,
+    WinRate: 45.1,
     PlayRate: 10.63,
     BanRate: 2.07,
     HeroID: "Junkrat",
@@ -10080,7 +10080,7 @@ var dataOriginal = [
   {
     HeroName: "Kael'thas",
     Map: "Volskaya Foundry",
-    WinRate: 49.91,
+    WinRate: 48.9,
     PlayRate: 73.83,
     BanRate: 54.84,
     HeroID: "Kaelthas",
@@ -10091,7 +10091,7 @@ var dataOriginal = [
   {
     HeroName: "Kel'Thuzad",
     Map: "Volskaya Foundry",
-    WinRate: 49.38,
+    WinRate: 49.4,
     PlayRate: 20.78,
     BanRate: 10,
     HeroID: "Kelthuzad",
@@ -10102,7 +10102,7 @@ var dataOriginal = [
   {
     HeroName: "Kerrigan",
     Map: "Volskaya Foundry",
-    WinRate: 53.28,
+    WinRate: 56.3,
     PlayRate: 3.81,
     BanRate: 0.32,
     HeroID: "Kerrigan",
@@ -10113,7 +10113,7 @@ var dataOriginal = [
   {
     HeroName: "Kharazim",
     Map: "Volskaya Foundry",
-    WinRate: 49.32,
+    WinRate: 50.3,
     PlayRate: 5.19,
     BanRate: 0.26,
     HeroID: "Kharazim",
@@ -10124,7 +10124,7 @@ var dataOriginal = [
   {
     HeroName: "Leoric",
     Map: "Volskaya Foundry",
-    WinRate: 50.05,
+    WinRate: 51,
     PlayRate: 14.55,
     BanRate: 2.09,
     HeroID: "Leoric",
@@ -10135,7 +10135,7 @@ var dataOriginal = [
   {
     HeroName: "Li Li",
     Map: "Volskaya Foundry",
-    WinRate: 50,
+    WinRate: 50.1,
     PlayRate: 25.03,
     BanRate: 8.41,
     HeroID: "Lili",
@@ -10146,7 +10146,7 @@ var dataOriginal = [
   {
     HeroName: "Li-Ming",
     Map: "Volskaya Foundry",
-    WinRate: 49.63,
+    WinRate: 50.1,
     PlayRate: 56.21,
     BanRate: 17.83,
     HeroID: "Liming",
@@ -10157,7 +10157,7 @@ var dataOriginal = [
   {
     HeroName: "Lt. Morales",
     Map: "Volskaya Foundry",
-    WinRate: 48.92,
+    WinRate: 48.4,
     PlayRate: 9.76,
     BanRate: 2.91,
     HeroID: "Ltmorales",
@@ -10168,7 +10168,7 @@ var dataOriginal = [
   {
     HeroName: "Lúcio",
     Map: "Volskaya Foundry",
-    WinRate: 51.04,
+    WinRate: 51.5,
     PlayRate: 24,
     BanRate: 6.61,
     HeroID: "Lucio",
@@ -10179,7 +10179,7 @@ var dataOriginal = [
   {
     HeroName: "Lunara",
     Map: "Volskaya Foundry",
-    WinRate: 50.84,
+    WinRate: 48.8,
     PlayRate: 16.74,
     BanRate: 2.37,
     HeroID: "Lunara",
@@ -10190,7 +10190,7 @@ var dataOriginal = [
   {
     HeroName: "Maiev",
     Map: "Volskaya Foundry",
-    WinRate: 48.9,
+    WinRate: 45.8,
     PlayRate: 6.35,
     BanRate: 1.16,
     HeroID: "Maiev",
@@ -10201,7 +10201,7 @@ var dataOriginal = [
   {
     HeroName: "Mal'Ganis",
     Map: "Volskaya Foundry",
-    WinRate: 52.38,
+    WinRate: 51.6,
     PlayRate: 27.2,
     BanRate: 11.1,
     HeroID: "Malganis",
@@ -10212,7 +10212,7 @@ var dataOriginal = [
   {
     HeroName: "Malfurion",
     Map: "Volskaya Foundry",
-    WinRate: 49.49,
+    WinRate: 48.7,
     PlayRate: 12.44,
     BanRate: 1.8,
     HeroID: "Malfurion",
@@ -10223,7 +10223,7 @@ var dataOriginal = [
   {
     HeroName: "Malthael",
     Map: "Volskaya Foundry",
-    WinRate: 47.51,
+    WinRate: 49.6,
     PlayRate: 11.19,
     BanRate: 3.1,
     HeroID: "Malthael",
@@ -10234,7 +10234,7 @@ var dataOriginal = [
   {
     HeroName: "Medivh",
     Map: "Volskaya Foundry",
-    WinRate: 42.54,
+    WinRate: 39.2,
     PlayRate: 4.61,
     BanRate: 0.65,
     HeroID: "Medivh",
@@ -10245,7 +10245,7 @@ var dataOriginal = [
   {
     HeroName: "Mephisto",
     Map: "Volskaya Foundry",
-    WinRate: 52.94,
+    WinRate: 54.1,
     PlayRate: 8.17,
     BanRate: 0.63,
     HeroID: "Mephisto",
@@ -10256,7 +10256,7 @@ var dataOriginal = [
   {
     HeroName: "Muradin",
     Map: "Volskaya Foundry",
-    WinRate: 48.8,
+    WinRate: 48.6,
     PlayRate: 23.3,
     BanRate: 1.96,
     HeroID: "Muradin",
@@ -10267,7 +10267,7 @@ var dataOriginal = [
   {
     HeroName: "Murky",
     Map: "Volskaya Foundry",
-    WinRate: 54.55,
+    WinRate: 50.8,
     PlayRate: 4.03,
     BanRate: 0.48,
     HeroID: "Murky",
@@ -10278,7 +10278,7 @@ var dataOriginal = [
   {
     HeroName: "Nazeebo",
     Map: "Volskaya Foundry",
-    WinRate: 54.68,
+    WinRate: 55.4,
     PlayRate: 24.53,
     BanRate: 2.63,
     HeroID: "Nazeebo",
@@ -10289,7 +10289,7 @@ var dataOriginal = [
   {
     HeroName: "Nova",
     Map: "Volskaya Foundry",
-    WinRate: 44.7,
+    WinRate: 47.6,
     PlayRate: 4.11,
     BanRate: 0.3,
     HeroID: "Nova",
@@ -10300,7 +10300,7 @@ var dataOriginal = [
   {
     HeroName: "Orphea",
     Map: "Volskaya Foundry",
-    WinRate: 49.12,
+    WinRate: 48,
     PlayRate: 8.02,
     BanRate: 0.74,
     HeroID: "Orphea",
@@ -10311,7 +10311,7 @@ var dataOriginal = [
   {
     HeroName: "Probius",
     Map: "Volskaya Foundry",
-    WinRate: 47.44,
+    WinRate: 42.2,
     PlayRate: 1.69,
     BanRate: 0.25,
     HeroID: "Probius",
@@ -10322,7 +10322,7 @@ var dataOriginal = [
   {
     HeroName: "Qhira",
     Map: "Volskaya Foundry",
-    WinRate: 46.7,
+    WinRate: 45.1,
     PlayRate: 20.79,
     BanRate: 10.08,
     HeroID: "Qhira",
@@ -10333,7 +10333,7 @@ var dataOriginal = [
   {
     HeroName: "Ragnaros",
     Map: "Volskaya Foundry",
-    WinRate: 53.02,
+    WinRate: 53.9,
     PlayRate: 9.75,
     BanRate: 2.18,
     HeroID: "Ragnaros",
@@ -10344,7 +10344,7 @@ var dataOriginal = [
   {
     HeroName: "Raynor",
     Map: "Volskaya Foundry",
-    WinRate: 51.01,
+    WinRate: 50.4,
     PlayRate: 19.92,
     BanRate: 1.68,
     HeroID: "Raynor",
@@ -10355,7 +10355,7 @@ var dataOriginal = [
   {
     HeroName: "Rehgar",
     Map: "Volskaya Foundry",
-    WinRate: 52.63,
+    WinRate: 54.7,
     PlayRate: 14.25,
     BanRate: 1.36,
     HeroID: "Rehgar",
@@ -10366,7 +10366,7 @@ var dataOriginal = [
   {
     HeroName: "Rexxar",
     Map: "Volskaya Foundry",
-    WinRate: 53.88,
+    WinRate: 54.4,
     PlayRate: 7.43,
     BanRate: 2.57,
     HeroID: "Rexxar",
@@ -10377,7 +10377,7 @@ var dataOriginal = [
   {
     HeroName: "Samuro",
     Map: "Volskaya Foundry",
-    WinRate: 57.25,
+    WinRate: 57.6,
     PlayRate: 6.24,
     BanRate: 1.65,
     HeroID: "Samuro",
@@ -10388,7 +10388,7 @@ var dataOriginal = [
   {
     HeroName: "Sgt. Hammer",
     Map: "Volskaya Foundry",
-    WinRate: 46.7,
+    WinRate: 41.9,
     PlayRate: 3.19,
     BanRate: 0.74,
     HeroID: "Sgthammer",
@@ -10399,7 +10399,7 @@ var dataOriginal = [
   {
     HeroName: "Sonya",
     Map: "Volskaya Foundry",
-    WinRate: 54.89,
+    WinRate: 54.9,
     PlayRate: 14.07,
     BanRate: 1.83,
     HeroID: "Sonya",
@@ -10410,7 +10410,7 @@ var dataOriginal = [
   {
     HeroName: "Stitches",
     Map: "Volskaya Foundry",
-    WinRate: 47.12,
+    WinRate: 44.7,
     PlayRate: 14.68,
     BanRate: 1.27,
     HeroID: "Stitches",
@@ -10421,7 +10421,7 @@ var dataOriginal = [
   {
     HeroName: "Stukov",
     Map: "Volskaya Foundry",
-    WinRate: 47.42,
+    WinRate: 47,
     PlayRate: 17.27,
     BanRate: 4.51,
     HeroID: "Stukov",
@@ -10432,7 +10432,7 @@ var dataOriginal = [
   {
     HeroName: "Sylvanas",
     Map: "Volskaya Foundry",
-    WinRate: 49.31,
+    WinRate: 50.8,
     PlayRate: 18.92,
     BanRate: 3.9,
     HeroID: "Sylvanas",
@@ -10443,7 +10443,7 @@ var dataOriginal = [
   {
     HeroName: "Tassadar",
     Map: "Volskaya Foundry",
-    WinRate: 43.36,
+    WinRate: 43.7,
     PlayRate: 3.17,
     BanRate: 0.29,
     HeroID: "Tassadar",
@@ -10454,7 +10454,7 @@ var dataOriginal = [
   {
     HeroName: "The Butcher",
     Map: "Volskaya Foundry",
-    WinRate: 55.53,
+    WinRate: 56.7,
     PlayRate: 10.67,
     BanRate: 3.44,
     HeroID: "Thebutcher",
@@ -10465,7 +10465,7 @@ var dataOriginal = [
   {
     HeroName: "The Lost Vikings",
     Map: "Volskaya Foundry",
-    WinRate: 41.73,
+    WinRate: 40.9,
     PlayRate: 1.32,
     BanRate: 0.46,
     HeroID: "Thelostvikings",
@@ -10476,7 +10476,7 @@ var dataOriginal = [
   {
     HeroName: "Thrall",
     Map: "Volskaya Foundry",
-    WinRate: 52.14,
+    WinRate: 50.8,
     PlayRate: 21.43,
     BanRate: 1.33,
     HeroID: "Thrall",
@@ -10487,7 +10487,7 @@ var dataOriginal = [
   {
     HeroName: "Tracer",
     Map: "Volskaya Foundry",
-    WinRate: 47.23,
+    WinRate: 43.5,
     PlayRate: 4.1,
     BanRate: 0.7,
     HeroID: "Tracer",
@@ -10498,7 +10498,7 @@ var dataOriginal = [
   {
     HeroName: "Tychus",
     Map: "Volskaya Foundry",
-    WinRate: 48.05,
+    WinRate: 49.1,
     PlayRate: 11.96,
     BanRate: 2.63,
     HeroID: "Tychus",
@@ -10509,7 +10509,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrael",
     Map: "Volskaya Foundry",
-    WinRate: 49.71,
+    WinRate: 48.8,
     PlayRate: 4.92,
     BanRate: 0.31,
     HeroID: "Tyrael",
@@ -10520,7 +10520,7 @@ var dataOriginal = [
   {
     HeroName: "Tyrande",
     Map: "Volskaya Foundry",
-    WinRate: 50.52,
+    WinRate: 51.5,
     PlayRate: 4.76,
     BanRate: 0.22,
     HeroID: "Tyrande",
@@ -10531,7 +10531,7 @@ var dataOriginal = [
   {
     HeroName: "Uther",
     Map: "Volskaya Foundry",
-    WinRate: 55.18,
+    WinRate: 54.6,
     PlayRate: 21.41,
     BanRate: 6.95,
     HeroID: "Uther",
@@ -10542,7 +10542,7 @@ var dataOriginal = [
   {
     HeroName: "Valeera",
     Map: "Volskaya Foundry",
-    WinRate: 47.58,
+    WinRate: 50.6,
     PlayRate: 5.35,
     BanRate: 0.91,
     HeroID: "Valeera",
@@ -10553,7 +10553,7 @@ var dataOriginal = [
   {
     HeroName: "Valla",
     Map: "Volskaya Foundry",
-    WinRate: 52.05,
+    WinRate: 52.8,
     PlayRate: 25.39,
     BanRate: 3.57,
     HeroID: "Valla",
@@ -10564,7 +10564,7 @@ var dataOriginal = [
   {
     HeroName: "Varian",
     Map: "Volskaya Foundry",
-    WinRate: 50.45,
+    WinRate: 50.1,
     PlayRate: 32.03,
     BanRate: 11.82,
     HeroID: "Varian",
@@ -10575,7 +10575,7 @@ var dataOriginal = [
   {
     HeroName: "Whitemane",
     Map: "Volskaya Foundry",
-    WinRate: 51.52,
+    WinRate: 52.1,
     PlayRate: 6.01,
     BanRate: 0.49,
     HeroID: "Whitemane",
@@ -10586,7 +10586,7 @@ var dataOriginal = [
   {
     HeroName: "Xul",
     Map: "Volskaya Foundry",
-    WinRate: 52.21,
+    WinRate: 51.6,
     PlayRate: 3.4,
     BanRate: 0.21,
     HeroID: "Xul",
@@ -10597,7 +10597,7 @@ var dataOriginal = [
   {
     HeroName: "Yrel",
     Map: "Volskaya Foundry",
-    WinRate: 48.22,
+    WinRate: 47,
     PlayRate: 4.26,
     BanRate: 0.3,
     HeroID: "Yrel",
@@ -10608,7 +10608,7 @@ var dataOriginal = [
   {
     HeroName: "Zagara",
     Map: "Volskaya Foundry",
-    WinRate: 55.07,
+    WinRate: 53.8,
     PlayRate: 6.25,
     BanRate: 0.75,
     HeroID: "Zagara",
@@ -10619,7 +10619,7 @@ var dataOriginal = [
   {
     HeroName: "Zarya",
     Map: "Volskaya Foundry",
-    WinRate: 48.83,
+    WinRate: 51.7,
     PlayRate: 5.6,
     BanRate: 0.44,
     HeroID: "Zarya",
@@ -10630,7 +10630,7 @@ var dataOriginal = [
   {
     HeroName: "Zeratul",
     Map: "Volskaya Foundry",
-    WinRate: 49.76,
+    WinRate: 51.5,
     PlayRate: 9.67,
     BanRate: 3.96,
     HeroID: "Zeratul",
@@ -10641,7 +10641,7 @@ var dataOriginal = [
   {
     HeroName: "Zul'jin",
     Map: "Volskaya Foundry",
-    WinRate: 56.31,
+    WinRate: 55.8,
     PlayRate: 26.36,
     BanRate: 4.97,
     HeroID: "Zuljin",
