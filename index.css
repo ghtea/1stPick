@@ -264,19 +264,19 @@ div[class="roleSupport"] {
 }
 
 .difficulty1 > div {
-  background-image: linear-gradient(0deg, #000429, #b5e51c, #000429);
+  background-image: linear-gradient(-90deg, #f1ffc1, #b5e51c);
 }
 .difficulty2 > div {
-  background-image: linear-gradient(0deg, #000429, #ffd21f, #000429);
+  background-image: linear-gradient(-90deg, #ffe993, #ffd21f);
 }
 .difficulty3 > div {
-  background-image: linear-gradient(0deg, #000429, #ff8f20, #000429);
+  background-image: linear-gradient(-90deg, #ffbe7d, #ff8f20);
 }
 .difficulty4 > div {
-  background-image: linear-gradient(0deg, #000429, #d43601, #000429);
+  background-image: linear-gradient(-90deg, #f77246, #d43601);
 }
 .difficulty5 > div {
-  background-image: linear-gradient(0deg, #000429, #740000, #000429);
+  background-image: linear-gradient(-90deg, #af2c2c, #740000);
 }
 
 #tblGood tr:nth-child(n + 2) > :nth-child(4) {
@@ -297,7 +297,7 @@ div[class="roleSupport"] {
   position: relative;
 }
 
-input[type="checkbox"] {
+input.cbxPicked {
   /* Double-sized Checkboxes */
   -ms-transform: scale(1.3); /* IE */
   -moz-transform: scale(1.3); /* FF */
