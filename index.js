@@ -274,7 +274,9 @@ function hideSome() {
 
 function checkSome() {
   for (var rowNum = 0; rowNum < numHero; rowNum++) {
-    var currentRow = document.querySelectorAll("#tableMain tbody tr")[rowNum];
+    var currentRow = document.querySelectorAll("#tableMain tbody tr")[
+      rowNum + 1
+    ];
     var currentChecked = document.querySelectorAll(
       "#tableMain tbody tr .cbxPerHero"
     )[rowNum].checked;
