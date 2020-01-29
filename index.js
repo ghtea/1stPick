@@ -286,7 +286,7 @@ function checkSome() {
       currentRow.classList.remove("rowShow");
     }
   }
-
+}
 
 window.onload = showAll();
 sltMap.addEventListener("change", function() {
