@@ -277,7 +277,7 @@ function checkSome() {
     var currentRow = document.querySelectorAll("#tableMain tr")[rowNum];
     var currentChecked = document.querySelectorAll("#tableMain tr .cbxPerHero")[
       rowNum
-    ];
+    ].value;
     if (currentChecked == true) {
       currentRow.classList.remove("rowHide");
       currentRow.classList.add("rowShow");
