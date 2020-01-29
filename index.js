@@ -279,11 +279,9 @@ function checkSome() {
       "#tableMain tbody tr .cbxPerHero"
     )[rowNum].value;
     if (currentChecked == true) {
-      currentRow.classList.remove("rowHide");
-      currentRow.classList.add("rowShow");
+      currentRow.classList.add("rowCheck");
     } else {
-      currentRow.classList.add("rowHide");
-      currentRow.classList.remove("rowShow");
+      currentRow.classList.remove("rowCheck");
     }
   }
 }
