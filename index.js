@@ -56,14 +56,15 @@ function listToMatrix(list, elementsPerSubArray) {
 function showAll() {
   var currentMap = document.getElementById("sltMap").value;
   /*var currentDifficulty = document.getElementById("sltDifficulty").value;*/
-  var currentRatio = document.getElementById("rgRatio").value;
 
   var idxStart = currentMap * numHero;
   var idxEnd = currentMap * numHero + numHero;
   dataMap = dataOriginal.slice(idxStart, idxEnd);
 
   var rows = document.getElementsByClassName("rowTableMain");
+
   /* about Ratio */
+  var currentRatio = document.getElementById("rgRatio").value;
   for (var i = 0; i < numHero; i++) {
     dataMap[i]["Point"] =
       (100 - currentRatio) * (dataMap[i]["WinRate"] / 50 / stdWinRate) +
@@ -173,7 +174,6 @@ function hideSome() {
   var rows = document.getElementsByClassName("rowTableMain");
 
   var currentDifficulty = document.getElementById("sltDifficulty").value;
-  var currentRatio = document.getElementById("rgRatio").value;
 
   var currentRoleCheckedTank = cbxRoleTank.checked;
   var currentRoleCheckedBruiser = cbxRoleBruiser.checked;
@@ -183,6 +183,7 @@ function hideSome() {
   var currentRoleCheckedSupport = cbxRoleSupport.checked;
 
   /* about Ratio */
+  var currentRatio = document.getElementById("rgRatio").value;
   for (var i = 0; i < numHero; i++) {
     dataMap[i]["Point"] =
       (100 - currentRatio) * (dataMap[i]["WinRate"] / 50 / stdWinRate) +
@@ -300,7 +301,6 @@ btnClear.addEventListener("click", function() {
 });
 
 rgRatio.addEventListener("change", function() {
-  showAll();
   hideSome();
   checkSome();
 });
