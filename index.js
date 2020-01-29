@@ -273,6 +273,7 @@ function hideSome() {
 }
 
 function checkSome() {
+  console.log(this);
   var currentHero = this.parentElement.parentElement.getAttribute("id");
   if (this.checked == true) {
     document.getElementById(currentHero).classList.add("rowCheck");
