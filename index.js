@@ -301,6 +301,7 @@ btnClear.addEventListener("click", function() {
 });
 
 rgRatio.addEventListener("change", function() {
+  showAll();
   hideSome();
   checkSome();
 });
