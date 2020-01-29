@@ -278,8 +278,8 @@ function checkSome() {
     var currentChecked = document.querySelectorAll(
       "#tableMain tbody tr .cbxPerHero"
     )[rowNum].value;
-    console.log(currentChecked);
-    if (currentChecked == true) {
+    /*console.log(currentChecked);*/
+    if (currentChecked == on) {
       currentRow.classList.add("rowCheck");
     } else {
       currentRow.classList.remove("rowCheck");
