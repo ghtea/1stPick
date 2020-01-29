@@ -273,14 +273,20 @@ function hideSome() {
 }
 
 function checkSome() {
-  console.log(this);
-  var currentHero = this.parentElement.parentElement.getAttribute("id");
-  if (this.checked == true) {
-    document.getElementById(currentHero).classList.add("rowCheck");
-  } else {
-    document.getElementById(currentHero).classList.remove("rowCheck");
+  for (var rowNum = 1; rowNum <= numHero; rowNum++) {
+    var currentRow = document.querySelectorAll("#tableMain tr")[rowNum];
+    var currentChecked = document.querySelectorAll("#tableMain tr .cbxPerHero")[
+      rowNum
+    ];
+    if (currentChecked == true) {
+      currentRow.classList.remove("rowHide");
+      currentRow.classList.add("rowShow");
+    } else {
+      currentRow.classList.add("rowHide");
+      currentRow.classList.remove("rowShow");
+    }
   }
-}
+
 
 window.onload = showAll();
 sltMap.addEventListener("change", function() {
@@ -302,7 +308,6 @@ btnClear.addEventListener("click", function() {
 });
 
 rgRatio.addEventListener("change", function() {
-  showAll();
   hideSome();
   checkSome();
 });
