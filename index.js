@@ -273,11 +273,11 @@ function hideSome() {
 }
 
 function checkSome() {
-  for (var rowNum = 1; rowNum <= numHero; rowNum++) {
-    var currentRow = document.querySelectorAll("#tableMain tr")[rowNum];
-    var currentChecked = document.querySelectorAll("#tableMain tr .cbxPerHero")[
-      rowNum
-    ].value;
+  for (var rowNum = 0; rowNum < numHero; rowNum++) {
+    var currentRow = document.querySelectorAll("#tableMain tbody tr")[rowNum];
+    var currentChecked = document.querySelectorAll(
+      "#tableMain tbody tr .cbxPerHero"
+    )[rowNum].value;
     if (currentChecked == true) {
       currentRow.classList.remove("rowHide");
       currentRow.classList.add("rowShow");
