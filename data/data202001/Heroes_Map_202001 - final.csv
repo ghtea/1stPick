@@ -1,969 +1,969 @@
 HeroName,Map,WinRate,PlayRate,BanRate,HeroID,Role,Difficulty,Point
-Abathur,Alterac Pass,51.2,18.89,10.19,Abathur,Support,5,0
-Alarak,Alterac Pass,48.2,36.01,27.82,Alarak,Melee,4,0
-Alexstrasza,Alterac Pass,47.1,9.46,1.9,Alexstrasza,Healer,3,0
-Ana,Alterac Pass,47.9,24.44,12.16,Ana,Healer,4,0
-Anduin,Alterac Pass,45.4,27.08,9.88,Anduin,Healer,2,0
-Anub'arak,Alterac Pass,51.3,15.91,4.48,Anubarak,Tank,3,0
-Artanis,Alterac Pass,46,11.66,1.54,Artanis,Bruiser,2,0
-Arthas,Alterac Pass,49.4,14.8,2.97,Arthas,Tank,3,0
-Auriel,Alterac Pass,55.1,56.47,35.01,Auriel,Healer,4,0
-Azmodan,Alterac Pass,50.8,15.02,5.72,Azmodan,Ranged,2,0
-Blaze,Alterac Pass,48.1,7.32,0.43,Blaze,Tank,3,0
-Brightwing,Alterac Pass,47.8,19.42,4.75,Brightwing,Healer,2,0
-Cassia,Alterac Pass,46.8,4.61,0.46,Cassia,Ranged,3,0
-Chen,Alterac Pass,49.8,3.88,0.79,Chen,Bruiser,4,0
-Cho,Alterac Pass,52.4,2.95,1.27,Cho,Tank,5,0
-Chromie,Alterac Pass,50.2,10.19,1.91,Chromie,Ranged,4,0
-D.Va,Alterac Pass,49.6,2.35,0.11,Dva,Bruiser,4,0
-Deathwing,Alterac Pass,57.7,90.72,83.95,Deathwing,Bruiser,2,0
-Deckard,Alterac Pass,46.5,7.91,0.77,Deckard,Healer,3,0
-Dehaka,Alterac Pass,45.8,8.38,2.5,Dehaka,Bruiser,3,0
-Diablo,Alterac Pass,45.3,36.02,15.79,Diablo,Tank,2,0
-E.T.C.,Alterac Pass,52.5,44.95,20.54,Etc,Tank,3,0
-Falstad,Alterac Pass,53.9,18.7,4.14,Falstad,Ranged,3,0
-Fenix,Alterac Pass,53.1,6.29,0.4,Fenix,Ranged,3,0
-Gall,Alterac Pass,52.4,2.23,0.56,Gall,Ranged,4,0
-Garrosh,Alterac Pass,47.7,48.71,33.37,Garrosh,Tank,3,0
-Gazlowe,Alterac Pass,45,5.06,0.36,Gazlowe,Melee,3,0
-Genji,Alterac Pass,41.5,5.5,0.88,Genji,Ranged,3,0
-Greymane,Alterac Pass,49.9,21.9,4.19,Greymane,Ranged,3,0
-Gul'dan,Alterac Pass,45.8,15.18,3.18,Guldan,Ranged,3,0
-Hanzo,Alterac Pass,46,16.11,2.51,Hanzo,Ranged,3,0
-Illidan,Alterac Pass,48.8,8.18,1.9,Illidan,Melee,4,0
-Imperius,Alterac Pass,50.1,12.89,1.73,Imperius,Bruiser,2,0
-Jaina,Alterac Pass,51.2,24.1,4.98,Jaina,Ranged,2,0
-Johanna,Alterac Pass,49.9,58.7,26.79,Johanna,Tank,2,0
-Junkrat,Alterac Pass,48.6,11.24,3.26,Junkrat,Ranged,3,0
-Kael'thas,Alterac Pass,49.9,71.71,53.16,Kaelthas,Ranged,1,0
-Kel'Thuzad,Alterac Pass,47.5,17.69,9.23,Kelthuzad,Ranged,3,0
-Kerrigan,Alterac Pass,56.8,3.9,0.33,Kerrigan,Melee,4,0
-Kharazim,Alterac Pass,47,5.45,0.26,Kharazim,Healer,3,0
-Leoric,Alterac Pass,51.3,12.56,2,Leoric,Bruiser,2,0
-Li Li,Alterac Pass,48.4,26.62,8.7,Lili,Healer,1,0
-Li-Ming,Alterac Pass,50.7,55.74,16.49,Liming,Ranged,2,0
-Lt. Morales,Alterac Pass,46.6,9.27,2.84,Ltmorales,Healer,3,0
-Lúcio,Alterac Pass,53,23.73,6.74,Lucio,Healer,3,0
-Lunara,Alterac Pass,50.3,17.63,2.44,Lunara,Ranged,2,0
-Maiev,Alterac Pass,42.9,4.77,0.99,Maiev,Melee,4,0
-Mal'Ganis,Alterac Pass,56.8,26.22,10.03,Malganis,Tank,3,0
-Malfurion,Alterac Pass,49.1,11.48,1.57,Malfurion,Healer,3,0
-Malthael,Alterac Pass,51.1,10.57,2.62,Malthael,Bruiser,4,0
-Medivh,Alterac Pass,40.9,4.32,0.68,Medivh,Support,5,0
-Mephisto,Alterac Pass,48.6,6.64,0.51,Mephisto,Ranged,3,0
-Muradin,Alterac Pass,47.6,24.03,1.96,Muradin,Tank,1,0
-Murky,Alterac Pass,48.9,4.87,0.69,Murky,Melee,4,0
-Nazeebo,Alterac Pass,50.1,17.22,1.77,Nazeebo,Ranged,2,0
-Nova,Alterac Pass,46,4.35,0.35,Nova,Ranged,3,0
-Orphea,Alterac Pass,46.9,7.31,0.72,Orphea,Ranged,3,0
-Probius,Alterac Pass,42.5,1.63,0.31,Probius,Ranged,4,0
-Qhira,Alterac Pass,46.5,20.8,9.93,Qhira,Melee,2,0
-Ragnaros,Alterac Pass,55.3,16.04,3.99,Ragnaros,Bruiser,3,0
-Raynor,Alterac Pass,52.2,18.64,1.6,Raynor,Ranged,1,0
-Rehgar,Alterac Pass,55.6,17.18,1.6,Rehgar,Healer,3,0
-Rexxar,Alterac Pass,54.5,8.72,2.7,Rexxar,Bruiser,3,0
-Samuro,Alterac Pass,52,7.43,2.04,Samuro,Melee,3,0
-Sgt. Hammer,Alterac Pass,42.4,2.98,0.59,Sgthammer,Ranged,3,0
-Sonya,Alterac Pass,53.4,14.85,1.84,Sonya,Bruiser,2,0
-Stitches,Alterac Pass,44,13.74,1.32,Stitches,Tank,2,0
-Stukov,Alterac Pass,51.2,14.56,3.48,Stukov,Healer,3,0
-Sylvanas,Alterac Pass,50.2,19.48,4.08,Sylvanas,Ranged,3,0
-Tassadar,Alterac Pass,45.8,2.9,0.2,Tassadar,Support,4,0
-The Butcher,Alterac Pass,55.8,12.09,3.72,Thebutcher,Melee,2,0
-The Lost Vikings,Alterac Pass,52.1,2.53,1.02,Thelostvikings,Support,5,0
-Thrall,Alterac Pass,48.6,18.33,1.28,Thrall,Bruiser,2,0
-Tracer,Alterac Pass,45.4,4.71,0.77,Tracer,Ranged,4,0
-Tychus,Alterac Pass,49.2,11.24,2.31,Tychus,Ranged,2,0
-Tyrael,Alterac Pass,48.1,4.87,0.23,Tyrael,Tank,3,0
-Tyrande,Alterac Pass,49.2,5.25,0.22,Tyrande,Healer,3,0
-Uther,Alterac Pass,52.7,21.56,6.98,Uther,Healer,3,0
-Valeera,Alterac Pass,53.7,5.64,0.99,Valeera,Melee,4,0
-Valla,Alterac Pass,53.7,24.97,3.59,Valla,Ranged,2,0
-Varian,Alterac Pass,49.3,34.1,12.93,Varian,Bruiser,1,0
-Whitemane,Alterac Pass,53.7,5.66,0.53,Whitemane,Healer,4,0
-Xul,Alterac Pass,50.6,3.44,0.16,Xul,Bruiser,3,0
-Yrel,Alterac Pass,50.4,4.4,0.24,Yrel,Bruiser,4,0
-Zagara,Alterac Pass,50.6,7.97,1.13,Zagara,Ranged,3,0
-Zarya,Alterac Pass,49.6,4.38,0.31,Zarya,Support,4,0
-Zeratul,Alterac Pass,49.2,12.08,4.6,Zeratul,Melee,3,0
-Zul'jin,Alterac Pass,50.4,20.11,3.8,Zuljin,Ranged,3,0
-Abathur,Battlefield of Eternity,39.1,4.9,1.66,Abathur,Support,5,0
-Alarak,Battlefield of Eternity,46.5,33.31,25.05,Alarak,Melee,4,0
-Alexstrasza,Battlefield of Eternity,45.4,7.12,1.43,Alexstrasza,Healer,3,0
-Ana,Battlefield of Eternity,49.9,22.4,11.6,Ana,Healer,4,0
-Anduin,Battlefield of Eternity,46.1,25.86,9.31,Anduin,Healer,2,0
-Anub'arak,Battlefield of Eternity,50.3,13.43,3.53,Anubarak,Tank,3,0
-Artanis,Battlefield of Eternity,49.4,48.8,15.65,Artanis,Bruiser,2,0
-Arthas,Battlefield of Eternity,51.4,14.09,2.79,Arthas,Tank,3,0
-Auriel,Battlefield of Eternity,53.4,56.99,33.21,Auriel,Healer,4,0
-Azmodan,Battlefield of Eternity,48.7,7.56,3.08,Azmodan,Ranged,2,0
-Blaze,Battlefield of Eternity,47,6.1,0.3,Blaze,Tank,3,0
-Brightwing,Battlefield of Eternity,48.4,13.15,2.97,Brightwing,Healer,2,0
-Cassia,Battlefield of Eternity,46.7,4.97,0.53,Cassia,Ranged,3,0
-Chen,Battlefield of Eternity,52.2,3.88,0.89,Chen,Bruiser,4,0
-Cho,Battlefield of Eternity,55.9,2.98,1.12,Cho,Tank,5,0
-Chromie,Battlefield of Eternity,50.6,8.08,1.46,Chromie,Ranged,4,0
-D.Va,Battlefield of Eternity,48.2,2.1,0.11,Dva,Bruiser,4,0
-Deathwing,Battlefield of Eternity,56,88.98,81.08,Deathwing,Bruiser,2,0
-Deckard,Battlefield of Eternity,45.6,5.99,0.66,Deckard,Healer,3,0
-Dehaka,Battlefield of Eternity,49.1,1.97,0.25,Dehaka,Bruiser,3,0
-Diablo,Battlefield of Eternity,45.9,38.29,16.21,Diablo,Tank,2,0
-E.T.C.,Battlefield of Eternity,53.2,41.8,18.68,Etc,Tank,3,0
-Falstad,Battlefield of Eternity,48.6,6.55,0.68,Falstad,Ranged,3,0
-Fenix,Battlefield of Eternity,52.5,5.03,0.34,Fenix,Ranged,3,0
-Gall,Battlefield of Eternity,55.9,2.39,0.52,Gall,Ranged,4,0
-Garrosh,Battlefield of Eternity,49.8,46.21,30.25,Garrosh,Tank,3,0
-Gazlowe,Battlefield of Eternity,47.3,4.46,0.51,Gazlowe,Melee,3,0
-Genji,Battlefield of Eternity,38.2,4.23,0.63,Genji,Ranged,3,0
-Greymane,Battlefield of Eternity,49.2,42.1,13.79,Greymane,Ranged,3,0
-Gul'dan,Battlefield of Eternity,43.3,10.41,1.92,Guldan,Ranged,3,0
-Hanzo,Battlefield of Eternity,42.8,19.21,5.36,Hanzo,Ranged,3,0
-Illidan,Battlefield of Eternity,45,4.68,0.73,Illidan,Melee,4,0
-Imperius,Battlefield of Eternity,50.3,11.96,1.62,Imperius,Bruiser,2,0
-Jaina,Battlefield of Eternity,51.5,19.95,3.28,Jaina,Ranged,2,0
-Johanna,Battlefield of Eternity,50.2,59.24,26.31,Johanna,Tank,2,0
-Junkrat,Battlefield of Eternity,45,3.95,0.72,Junkrat,Ranged,3,0
-Kael'thas,Battlefield of Eternity,51.2,64.06,47.43,Kaelthas,Ranged,1,0
-Kel'Thuzad,Battlefield of Eternity,54.8,12.64,5.3,Kelthuzad,Ranged,3,0
-Kerrigan,Battlefield of Eternity,57.9,2.62,0.15,Kerrigan,Melee,4,0
-Kharazim,Battlefield of Eternity,50.2,7.58,0.3,Kharazim,Healer,3,0
-Leoric,Battlefield of Eternity,48.6,10.17,1.42,Leoric,Bruiser,2,0
-Li Li,Battlefield of Eternity,46.1,31.84,10.48,Lili,Healer,1,0
-Li-Ming,Battlefield of Eternity,53,61.33,16.94,Liming,Ranged,2,0
-Lt. Morales,Battlefield of Eternity,50.7,12.58,3.59,Ltmorales,Healer,3,0
-Lúcio,Battlefield of Eternity,53.7,22.41,6.16,Lucio,Healer,3,0
-Lunara,Battlefield of Eternity,49.7,26.27,5.87,Lunara,Ranged,2,0
-Maiev,Battlefield of Eternity,48.1,3.87,0.87,Maiev,Melee,4,0
-Mal'Ganis,Battlefield of Eternity,56.3,22.82,8.35,Malganis,Tank,3,0
-Malfurion,Battlefield of Eternity,50.1,10.32,1.66,Malfurion,Healer,3,0
-Malthael,Battlefield of Eternity,53,12.6,3.78,Malthael,Bruiser,4,0
-Medivh,Battlefield of Eternity,40.7,2.76,0.35,Medivh,Support,5,0
-Mephisto,Battlefield of Eternity,53.7,4.37,0.44,Mephisto,Ranged,3,0
-Muradin,Battlefield of Eternity,47.2,25.59,2.12,Muradin,Tank,1,0
-Murky,Battlefield of Eternity,45.6,1.96,0.36,Murky,Melee,4,0
-Nazeebo,Battlefield of Eternity,47.4,10.91,1.31,Nazeebo,Ranged,2,0
-Nova,Battlefield of Eternity,44.8,3.58,0.24,Nova,Ranged,3,0
-Orphea,Battlefield of Eternity,48.2,5.26,0.46,Orphea,Ranged,3,0
-Probius,Battlefield of Eternity,50,1.05,0.24,Probius,Ranged,4,0
-Qhira,Battlefield of Eternity,46.3,16.93,7.9,Qhira,Melee,2,0
-Ragnaros,Battlefield of Eternity,52.9,5.7,1.14,Ragnaros,Bruiser,3,0
-Raynor,Battlefield of Eternity,51.2,28.54,4.58,Raynor,Ranged,1,0
-Rehgar,Battlefield of Eternity,54.1,17.43,1.83,Rehgar,Healer,3,0
-Rexxar,Battlefield of Eternity,57.4,6.11,1.75,Rexxar,Bruiser,3,0
-Samuro,Battlefield of Eternity,50,6.67,1.44,Samuro,Melee,3,0
-Sgt. Hammer,Battlefield of Eternity,43.5,4,0.89,Sgthammer,Ranged,3,0
-Sonya,Battlefield of Eternity,51.7,14.88,1.54,Sonya,Bruiser,2,0
-Stitches,Battlefield of Eternity,41.8,10.23,0.87,Stitches,Tank,2,0
-Stukov,Battlefield of Eternity,50.5,12.75,2.61,Stukov,Healer,3,0
-Sylvanas,Battlefield of Eternity,47.5,19.09,4.61,Sylvanas,Ranged,3,0
-Tassadar,Battlefield of Eternity,44,2.91,0.31,Tassadar,Support,4,0
-The Butcher,Battlefield of Eternity,50.1,9.28,2.94,Thebutcher,Melee,2,0
-The Lost Vikings,Battlefield of Eternity,42.5,0.75,0.35,Thelostvikings,Support,5,0
-Thrall,Battlefield of Eternity,49.1,18.37,0.95,Thrall,Bruiser,2,0
-Tracer,Battlefield of Eternity,39.1,3.96,0.43,Tracer,Ranged,4,0
-Tychus,Battlefield of Eternity,49.7,9.88,2.43,Tychus,Ranged,2,0
-Tyrael,Battlefield of Eternity,48.9,4.69,0.2,Tyrael,Tank,3,0
-Tyrande,Battlefield of Eternity,47,8.96,0.8,Tyrande,Healer,3,0
-Uther,Battlefield of Eternity,53.1,19.38,5.87,Uther,Healer,3,0
-Valeera,Battlefield of Eternity,46,5.09,0.85,Valeera,Melee,4,0
-Valla,Battlefield of Eternity,55.2,76.18,27.43,Valla,Ranged,2,0
-Varian,Battlefield of Eternity,50.3,34.89,11.6,Varian,Bruiser,1,0
-Whitemane,Battlefield of Eternity,49.9,5.29,0.37,Whitemane,Healer,4,0
-Xul,Battlefield of Eternity,44.4,1.65,0.11,Xul,Bruiser,3,0
-Yrel,Battlefield of Eternity,47.8,3.17,0.29,Yrel,Bruiser,4,0
-Zagara,Battlefield of Eternity,47,4.28,0.48,Zagara,Ranged,3,0
-Zarya,Battlefield of Eternity,48.3,4.13,0.44,Zarya,Support,4,0
-Zeratul,Battlefield of Eternity,48.4,6.99,2.42,Zeratul,Melee,3,0
-Zul'jin,Battlefield of Eternity,49.5,27.75,8.07,Zuljin,Ranged,3,0
-Abathur,Braxis Holdout,45.3,4.17,1.41,Abathur,Support,5,0
-Alarak,Braxis Holdout,47.8,34.08,24.59,Alarak,Melee,4,0
-Alexstrasza,Braxis Holdout,44.6,9.34,1.91,Alexstrasza,Healer,3,0
-Ana,Braxis Holdout,46.6,26.04,12.53,Ana,Healer,4,0
-Anduin,Braxis Holdout,46,25.73,8.8,Anduin,Healer,2,0
-Anub'arak,Braxis Holdout,47.7,12.89,3.45,Anubarak,Tank,3,0
-Artanis,Braxis Holdout,50.3,12.64,2.01,Artanis,Bruiser,2,0
-Arthas,Braxis Holdout,50.7,13.5,2.43,Arthas,Tank,3,0
-Auriel,Braxis Holdout,53.6,59.23,33.89,Auriel,Healer,4,0
-Azmodan,Braxis Holdout,53.5,12.23,4.31,Azmodan,Ranged,2,0
-Blaze,Braxis Holdout,49.6,7.71,0.57,Blaze,Tank,3,0
-Brightwing,Braxis Holdout,52.5,18.89,4.42,Brightwing,Healer,2,0
-Cassia,Braxis Holdout,47.2,3.95,0.3,Cassia,Ranged,3,0
-Chen,Braxis Holdout,47.9,5.93,1.68,Chen,Bruiser,4,0
-Cho,Braxis Holdout,48.3,3.59,1.23,Cho,Tank,5,0
-Chromie,Braxis Holdout,50.8,12.19,2.61,Chromie,Ranged,4,0
-D.Va,Braxis Holdout,49.2,2.55,0.19,Dva,Bruiser,4,0
-Deathwing,Braxis Holdout,56,90.06,82.56,Deathwing,Bruiser,2,0
-Deckard,Braxis Holdout,48.7,7.42,0.64,Deckard,Healer,3,0
-Dehaka,Braxis Holdout,44.4,4.87,1.33,Dehaka,Bruiser,3,0
-Diablo,Braxis Holdout,45.8,33.94,13.91,Diablo,Tank,2,0
-E.T.C.,Braxis Holdout,53.3,41.16,17.76,Etc,Tank,3,0
-Falstad,Braxis Holdout,48.8,8.72,1.12,Falstad,Ranged,3,0
-Fenix,Braxis Holdout,55.5,9.81,1.15,Fenix,Ranged,3,0
-Gall,Braxis Holdout,48.1,3.04,0.67,Gall,Ranged,4,0
-Garrosh,Braxis Holdout,50,51.11,32.85,Garrosh,Tank,3,0
-Gazlowe,Braxis Holdout,47.1,4.92,0.42,Gazlowe,Melee,3,0
-Genji,Braxis Holdout,43.4,6.83,1.08,Genji,Ranged,3,0
-Greymane,Braxis Holdout,50.2,17.99,3.03,Greymane,Ranged,3,0
-Gul'dan,Braxis Holdout,46.9,40.5,11.37,Guldan,Ranged,3,0
-Hanzo,Braxis Holdout,44.4,11.06,1.56,Hanzo,Ranged,3,0
-Illidan,Braxis Holdout,45.6,3.84,0.64,Illidan,Melee,4,0
-Imperius,Braxis Holdout,53.1,11.35,2.05,Imperius,Bruiser,2,0
-Jaina,Braxis Holdout,48.7,26.18,5.02,Jaina,Ranged,2,0
-Johanna,Braxis Holdout,51.8,58,24.04,Johanna,Tank,2,0
-Junkrat,Braxis Holdout,49.8,9.87,1.7,Junkrat,Ranged,3,0
-Kael'thas,Braxis Holdout,50.2,76.38,52.59,Kaelthas,Ranged,1,0
-Kel'Thuzad,Braxis Holdout,52.7,21.98,8.32,Kelthuzad,Ranged,3,0
-Kerrigan,Braxis Holdout,56.1,2.97,0.12,Kerrigan,Melee,4,0
-Kharazim,Braxis Holdout,49.4,4.06,0.24,Kharazim,Healer,3,0
-Leoric,Braxis Holdout,53.2,16.02,2.93,Leoric,Bruiser,2,0
-Li Li,Braxis Holdout,49.1,22.3,6.95,Lili,Healer,1,0
-Li-Ming,Braxis Holdout,51.7,37.37,12.43,Liming,Ranged,2,0
-Lt. Morales,Braxis Holdout,52.7,12.95,3.56,Ltmorales,Healer,3,0
-Lúcio,Braxis Holdout,51.4,21.67,5.67,Lucio,Healer,3,0
-Lunara,Braxis Holdout,51.9,15.29,2.02,Lunara,Ranged,2,0
-Maiev,Braxis Holdout,46.3,5.16,1.04,Maiev,Melee,4,0
-Mal'Ganis,Braxis Holdout,53,22.24,8.04,Malganis,Tank,3,0
-Malfurion,Braxis Holdout,49.7,12.71,1.63,Malfurion,Healer,3,0
-Malthael,Braxis Holdout,54.1,13.29,3.9,Malthael,Bruiser,4,0
-Medivh,Braxis Holdout,40.6,2.84,0.41,Medivh,Support,5,0
-Mephisto,Braxis Holdout,50.3,5.98,0.43,Mephisto,Ranged,3,0
-Muradin,Braxis Holdout,48,21.79,1.77,Muradin,Tank,1,0
-Murky,Braxis Holdout,35.9,1.74,0.31,Murky,Melee,4,0
-Nazeebo,Braxis Holdout,46.5,11.82,1.16,Nazeebo,Ranged,2,0
-Nova,Braxis Holdout,43.8,3.17,0.22,Nova,Ranged,3,0
-Orphea,Braxis Holdout,51.9,6.47,0.55,Orphea,Ranged,3,0
-Probius,Braxis Holdout,43.5,1.8,0.33,Probius,Ranged,4,0
-Qhira,Braxis Holdout,49,19.24,8.51,Qhira,Melee,2,0
-Ragnaros,Braxis Holdout,47.5,41.92,19.77,Ragnaros,Bruiser,3,0
-Raynor,Braxis Holdout,50.4,20.18,1.52,Raynor,Ranged,1,0
-Rehgar,Braxis Holdout,52.9,12.74,1.08,Rehgar,Healer,3,0
-Rexxar,Braxis Holdout,60.4,45.62,27.6,Rexxar,Bruiser,3,0
-Samuro,Braxis Holdout,52.6,4.61,0.95,Samuro,Melee,3,0
-Sgt. Hammer,Braxis Holdout,44,4.1,0.74,Sgthammer,Ranged,3,0
-Sonya,Braxis Holdout,55.2,17.86,2.88,Sonya,Bruiser,2,0
-Stitches,Braxis Holdout,44.5,13.94,0.97,Stitches,Tank,2,0
-Stukov,Braxis Holdout,49.5,18.22,4.58,Stukov,Healer,3,0
-Sylvanas,Braxis Holdout,49.1,21.06,4.58,Sylvanas,Ranged,3,0
-Tassadar,Braxis Holdout,42.4,2.61,0.24,Tassadar,Support,4,0
-The Butcher,Braxis Holdout,51.3,9.19,2.9,Thebutcher,Melee,2,0
-The Lost Vikings,Braxis Holdout,34.9,0.67,0.36,Thelostvikings,Support,5,0
-Thrall,Braxis Holdout,45.2,16.26,1.3,Thrall,Bruiser,2,0
-Tracer,Braxis Holdout,38.9,3,0.5,Tracer,Ranged,4,0
-Tychus,Braxis Holdout,48.1,10.82,2.45,Tychus,Ranged,2,0
-Tyrael,Braxis Holdout,43.5,3.56,0.16,Tyrael,Tank,3,0
-Tyrande,Braxis Holdout,49.4,4.92,0.22,Tyrande,Healer,3,0
-Uther,Braxis Holdout,51.7,15.27,4.85,Uther,Healer,3,0
-Valeera,Braxis Holdout,47.9,4.37,0.7,Valeera,Melee,4,0
-Valla,Braxis Holdout,49.6,25.58,3.33,Valla,Ranged,2,0
-Varian,Braxis Holdout,47.5,28.96,10.98,Varian,Bruiser,1,0
-Whitemane,Braxis Holdout,47.2,5.17,0.37,Whitemane,Healer,4,0
-Xul,Braxis Holdout,43,2.79,0.17,Xul,Bruiser,3,0
-Yrel,Braxis Holdout,45.4,4.49,0.47,Yrel,Bruiser,4,0
-Zagara,Braxis Holdout,51.7,9.75,1.36,Zagara,Ranged,3,0
-Zarya,Braxis Holdout,53.2,5.04,0.44,Zarya,Support,4,0
-Zeratul,Braxis Holdout,49.8,5.09,1.98,Zeratul,Melee,3,0
-Zul'jin,Braxis Holdout,53.8,23.27,3.62,Zuljin,Ranged,3,0
-Abathur,Cursed Hollow,47.8,31.31,17.43,Abathur,Support,5,0
-Alarak,Cursed Hollow,45.3,33.13,25.69,Alarak,Melee,4,0
-Alexstrasza,Cursed Hollow,51,8.83,1.62,Alexstrasza,Healer,3,0
-Ana,Cursed Hollow,49.2,21.95,11.81,Ana,Healer,4,0
-Anduin,Cursed Hollow,47.5,26.34,9.4,Anduin,Healer,2,0
-Anub'arak,Cursed Hollow,51.2,14.09,3.68,Anubarak,Tank,3,0
-Artanis,Cursed Hollow,49.8,10.96,1.41,Artanis,Bruiser,2,0
-Arthas,Cursed Hollow,51.1,13.94,2.67,Arthas,Tank,3,0
-Auriel,Cursed Hollow,54,54.52,33.97,Auriel,Healer,4,0
-Azmodan,Cursed Hollow,50.1,15.16,6.12,Azmodan,Ranged,2,0
-Blaze,Cursed Hollow,49.6,6.38,0.29,Blaze,Tank,3,0
-Brightwing,Cursed Hollow,49.8,28.62,7.87,Brightwing,Healer,2,0
-Cassia,Cursed Hollow,49.3,4.37,0.34,Cassia,Ranged,3,0
-Chen,Cursed Hollow,54.6,3.64,0.55,Chen,Bruiser,4,0
-Cho,Cursed Hollow,57.5,2.44,1.01,Cho,Tank,5,0
-Chromie,Cursed Hollow,48,8.73,1.58,Chromie,Ranged,4,0
-D.Va,Cursed Hollow,49.1,2.01,0.11,Dva,Bruiser,4,0
-Deathwing,Cursed Hollow,58.3,89.91,83.33,Deathwing,Bruiser,2,0
-Deckard,Cursed Hollow,45.9,6.56,0.65,Deckard,Healer,3,0
-Dehaka,Cursed Hollow,45.5,22.06,8.46,Dehaka,Bruiser,3,0
-Diablo,Cursed Hollow,46.5,43.47,17.96,Diablo,Tank,2,0
-E.T.C.,Cursed Hollow,53.1,44.89,19.63,Etc,Tank,3,0
-Falstad,Cursed Hollow,52.7,35.15,11.05,Falstad,Ranged,3,0
-Fenix,Cursed Hollow,54.7,5.74,0.33,Fenix,Ranged,3,0
-Gall,Cursed Hollow,57.2,2.08,0.65,Gall,Ranged,4,0
-Garrosh,Cursed Hollow,44.1,43.48,29.39,Garrosh,Tank,3,0
-Gazlowe,Cursed Hollow,50.1,4.7,0.32,Gazlowe,Melee,3,0
-Genji,Cursed Hollow,41.9,5.64,0.77,Genji,Ranged,3,0
-Greymane,Cursed Hollow,49.7,24.54,4.69,Greymane,Ranged,3,0
-Gul'dan,Cursed Hollow,45,12.5,2.62,Guldan,Ranged,3,0
-Hanzo,Cursed Hollow,45.8,16.64,2.51,Hanzo,Ranged,3,0
-Illidan,Cursed Hollow,52,11.75,3.06,Illidan,Melee,4,0
-Imperius,Cursed Hollow,52.4,11.2,1.33,Imperius,Bruiser,2,0
-Jaina,Cursed Hollow,50,23.06,4.37,Jaina,Ranged,2,0
-Johanna,Cursed Hollow,50.1,54.21,24.48,Johanna,Tank,2,0
-Junkrat,Cursed Hollow,48.9,6.96,1.26,Junkrat,Ranged,3,0
-Kael'thas,Cursed Hollow,49.2,69.47,51.27,Kaelthas,Ranged,1,0
-Kel'Thuzad,Cursed Hollow,45.7,14.55,7.37,Kelthuzad,Ranged,3,0
-Kerrigan,Cursed Hollow,56.6,3.47,0.26,Kerrigan,Melee,4,0
-Kharazim,Cursed Hollow,50.5,5.87,0.24,Kharazim,Healer,3,0
-Leoric,Cursed Hollow,51.1,11.57,1.79,Leoric,Bruiser,2,0
-Li Li,Cursed Hollow,49.7,25.39,8.55,Lili,Healer,1,0
-Li-Ming,Cursed Hollow,50.1,55.31,16.49,Liming,Ranged,2,0
-Lt. Morales,Cursed Hollow,43.5,9.24,2.64,Ltmorales,Healer,3,0
-Lúcio,Cursed Hollow,51.3,22.45,6.02,Lucio,Healer,3,0
-Lunara,Cursed Hollow,49.7,16.82,2.39,Lunara,Ranged,2,0
-Maiev,Cursed Hollow,48.4,4.17,0.83,Maiev,Melee,4,0
-Mal'Ganis,Cursed Hollow,54.6,24,8.82,Malganis,Tank,3,0
-Malfurion,Cursed Hollow,47.6,10.62,1.47,Malfurion,Healer,3,0
-Malthael,Cursed Hollow,52.7,10.9,2.85,Malthael,Bruiser,4,0
-Medivh,Cursed Hollow,41.2,3.74,0.54,Medivh,Support,5,0
-Mephisto,Cursed Hollow,50.4,5.2,0.43,Mephisto,Ranged,3,0
-Muradin,Cursed Hollow,49.1,22.89,2.01,Muradin,Tank,1,0
-Murky,Cursed Hollow,43.9,5.38,0.73,Murky,Melee,4,0
-Nazeebo,Cursed Hollow,49.8,15.13,1.66,Nazeebo,Ranged,2,0
-Nova,Cursed Hollow,45.4,4.82,0.35,Nova,Ranged,3,0
-Orphea,Cursed Hollow,46,7.1,0.54,Orphea,Ranged,3,0
-Probius,Cursed Hollow,41.6,1.16,0.24,Probius,Ranged,4,0
-Qhira,Cursed Hollow,47.7,19.79,9.2,Qhira,Melee,2,0
-Ragnaros,Cursed Hollow,54.5,12.5,2.57,Ragnaros,Bruiser,3,0
-Raynor,Cursed Hollow,50.8,17.71,1.42,Raynor,Ranged,1,0
-Rehgar,Cursed Hollow,56,17.83,1.69,Rehgar,Healer,3,0
-Rexxar,Cursed Hollow,55.6,6.57,1.57,Rexxar,Bruiser,3,0
-Samuro,Cursed Hollow,53.9,8.02,2.25,Samuro,Melee,3,0
-Sgt. Hammer,Cursed Hollow,43.1,2.47,0.45,Sgthammer,Ranged,3,0
-Sonya,Cursed Hollow,54,14.31,1.56,Sonya,Bruiser,2,0
-Stitches,Cursed Hollow,42.1,12.12,0.86,Stitches,Tank,2,0
-Stukov,Cursed Hollow,46,12.38,2.72,Stukov,Healer,3,0
-Sylvanas,Cursed Hollow,52,17.78,4.01,Sylvanas,Ranged,3,0
-Tassadar,Cursed Hollow,45,2.63,0.19,Tassadar,Support,4,0
-The Butcher,Cursed Hollow,56.3,12.55,3.75,Thebutcher,Melee,2,0
-The Lost Vikings,Cursed Hollow,50.9,3.6,1.32,Thelostvikings,Support,5,0
-Thrall,Cursed Hollow,49.8,15.77,1.02,Thrall,Bruiser,2,0
-Tracer,Cursed Hollow,42.1,4.54,0.6,Tracer,Ranged,4,0
-Tychus,Cursed Hollow,51.4,10.75,2.32,Tychus,Ranged,2,0
-Tyrael,Cursed Hollow,52.2,5.37,0.26,Tyrael,Tank,3,0
-Tyrande,Cursed Hollow,48.4,5.77,0.29,Tyrande,Healer,3,0
-Uther,Cursed Hollow,53.1,21.15,6.97,Uther,Healer,3,0
-Valeera,Cursed Hollow,54.8,6.47,0.98,Valeera,Melee,4,0
-Valla,Cursed Hollow,51.6,23.19,3.32,Valla,Ranged,2,0
-Varian,Cursed Hollow,50.9,32.78,11.94,Varian,Bruiser,1,0
-Whitemane,Cursed Hollow,48.4,4.76,0.36,Whitemane,Healer,4,0
-Xul,Cursed Hollow,45.9,3.43,0.11,Xul,Bruiser,3,0
-Yrel,Cursed Hollow,45.1,3.39,0.28,Yrel,Bruiser,4,0
-Zagara,Cursed Hollow,52.7,10.2,1.59,Zagara,Ranged,3,0
-Zarya,Cursed Hollow,51.4,3.72,0.28,Zarya,Support,4,0
-Zeratul,Cursed Hollow,50.5,12.78,4.8,Zeratul,Melee,3,0
-Zul'jin,Cursed Hollow,49.9,16.17,3.2,Zuljin,Ranged,3,0
-Abathur,Dragon Shire,43.5,10.25,4.53,Abathur,Support,5,0
-Alarak,Dragon Shire,45.7,34.94,26.73,Alarak,Melee,4,0
-Alexstrasza,Dragon Shire,43.3,7.78,1.41,Alexstrasza,Healer,3,0
-Ana,Dragon Shire,44.8,22.89,11.37,Ana,Healer,4,0
-Anduin,Dragon Shire,44.8,25.55,9.04,Anduin,Healer,2,0
-Anub'arak,Dragon Shire,49.9,13.93,3.85,Anubarak,Tank,3,0
-Artanis,Dragon Shire,45.9,11.97,1.62,Artanis,Bruiser,2,0
-Arthas,Dragon Shire,49.4,12.97,2.61,Arthas,Tank,3,0
-Auriel,Dragon Shire,57.9,55.58,35.02,Auriel,Healer,4,0
-Azmodan,Dragon Shire,50.1,11.22,4.45,Azmodan,Ranged,2,0
-Blaze,Dragon Shire,45.5,5.83,0.32,Blaze,Tank,3,0
-Brightwing,Dragon Shire,52,33.86,10.18,Brightwing,Healer,2,0
-Cassia,Dragon Shire,51.3,4.4,0.38,Cassia,Ranged,3,0
-Chen,Dragon Shire,48.4,5.08,1.4,Chen,Bruiser,4,0
-Cho,Dragon Shire,56.1,2.62,1.13,Cho,Tank,5,0
-Chromie,Dragon Shire,49.6,8.13,1.27,Chromie,Ranged,4,0
-D.Va,Dragon Shire,51.1,1.89,0.13,Dva,Bruiser,4,0
-Deathwing,Dragon Shire,51.9,89.98,82.97,Deathwing,Bruiser,2,0
-Deckard,Dragon Shire,43.1,5.5,0.45,Deckard,Healer,3,0
-Dehaka,Dragon Shire,47.1,16.98,7.75,Dehaka,Bruiser,3,0
-Diablo,Dragon Shire,48.1,40.25,15.64,Diablo,Tank,2,0
-E.T.C.,Dragon Shire,53.6,44.23,19.65,Etc,Tank,3,0
-Falstad,Dragon Shire,52.7,30.63,9.99,Falstad,Ranged,3,0
-Fenix,Dragon Shire,54.8,6.57,0.43,Fenix,Ranged,3,0
-Gall,Dragon Shire,56.1,2.13,0.65,Gall,Ranged,4,0
-Garrosh,Dragon Shire,47.6,48.42,32.23,Garrosh,Tank,3,0
-Gazlowe,Dragon Shire,50.5,5.61,0.41,Gazlowe,Melee,3,0
-Genji,Dragon Shire,39.8,5.12,0.83,Genji,Ranged,3,0
-Greymane,Dragon Shire,49.2,23.2,4.16,Greymane,Ranged,3,0
-Gul'dan,Dragon Shire,45.6,13.32,2.63,Guldan,Ranged,3,0
-Hanzo,Dragon Shire,45,14.41,2.08,Hanzo,Ranged,3,0
-Illidan,Dragon Shire,52.1,7.37,1.27,Illidan,Melee,4,0
-Imperius,Dragon Shire,48.7,12.73,1.9,Imperius,Bruiser,2,0
-Jaina,Dragon Shire,49.7,24.66,4.54,Jaina,Ranged,2,0
-Johanna,Dragon Shire,50.7,53.86,24.94,Johanna,Tank,2,0
-Junkrat,Dragon Shire,52.5,8.16,1.74,Junkrat,Ranged,3,0
-Kael'thas,Dragon Shire,49.1,70.43,50.72,Kaelthas,Ranged,1,0
-Kel'Thuzad,Dragon Shire,50.9,15.01,7.18,Kelthuzad,Ranged,3,0
-Kerrigan,Dragon Shire,56.5,3.63,0.22,Kerrigan,Melee,4,0
-Kharazim,Dragon Shire,50.5,6.32,0.27,Kharazim,Healer,3,0
-Leoric,Dragon Shire,54.8,14.38,2.17,Leoric,Bruiser,2,0
-Li Li,Dragon Shire,49.8,25.17,8.34,Lili,Healer,1,0
-Li-Ming,Dragon Shire,49.3,50.41,15.48,Liming,Ranged,2,0
-Lt. Morales,Dragon Shire,45.6,9.6,2.71,Ltmorales,Healer,3,0
-Lúcio,Dragon Shire,48.6,20.52,5.61,Lucio,Healer,3,0
-Lunara,Dragon Shire,50.4,18.26,2.33,Lunara,Ranged,2,0
-Maiev,Dragon Shire,44.8,4.32,0.92,Maiev,Melee,4,0
-Mal'Ganis,Dragon Shire,51.6,22.39,8.46,Malganis,Tank,3,0
-Malfurion,Dragon Shire,50.6,10.55,1.59,Malfurion,Healer,3,0
-Malthael,Dragon Shire,53.4,12.04,3.26,Malthael,Bruiser,4,0
-Medivh,Dragon Shire,42.1,3.21,0.37,Medivh,Support,5,0
-Mephisto,Dragon Shire,53,4.85,0.4,Mephisto,Ranged,3,0
-Muradin,Dragon Shire,48.8,24.04,2.16,Muradin,Tank,1,0
-Murky,Dragon Shire,53.2,4.95,0.69,Murky,Melee,4,0
-Nazeebo,Dragon Shire,50.7,16.9,1.61,Nazeebo,Ranged,2,0
-Nova,Dragon Shire,50.1,4.81,0.36,Nova,Ranged,3,0
-Orphea,Dragon Shire,46.5,6.96,0.58,Orphea,Ranged,3,0
-Probius,Dragon Shire,41.4,1.46,0.28,Probius,Ranged,4,0
-Qhira,Dragon Shire,43.7,21.13,9.91,Qhira,Melee,2,0
-Ragnaros,Dragon Shire,57.6,8.52,1.77,Ragnaros,Bruiser,3,0
-Raynor,Dragon Shire,48.6,18.58,1.75,Raynor,Ranged,1,0
-Rehgar,Dragon Shire,55,18.45,1.69,Rehgar,Healer,3,0
-Rexxar,Dragon Shire,57,29.4,16.99,Rexxar,Bruiser,3,0
-Samuro,Dragon Shire,53,7.12,1.74,Samuro,Melee,3,0
-Sgt. Hammer,Dragon Shire,42.9,2.62,0.5,Sgthammer,Ranged,3,0
-Sonya,Dragon Shire,55.5,16.74,2.43,Sonya,Bruiser,2,0
-Stitches,Dragon Shire,44.8,12.67,0.98,Stitches,Tank,2,0
-Stukov,Dragon Shire,44,10.4,2.33,Stukov,Healer,3,0
-Sylvanas,Dragon Shire,50.3,18.1,3.45,Sylvanas,Ranged,3,0
-Tassadar,Dragon Shire,45,2.65,0.19,Tassadar,Support,4,0
-The Butcher,Dragon Shire,54.6,12.8,3.54,Thebutcher,Melee,2,0
-The Lost Vikings,Dragon Shire,52.3,1.83,0.64,Thelostvikings,Support,5,0
-Thrall,Dragon Shire,46.8,17.7,1.25,Thrall,Bruiser,2,0
-Tracer,Dragon Shire,44.4,4.76,0.61,Tracer,Ranged,4,0
-Tychus,Dragon Shire,46.9,12.28,2.66,Tychus,Ranged,2,0
-Tyrael,Dragon Shire,47.5,4.49,0.16,Tyrael,Tank,3,0
-Tyrande,Dragon Shire,49,5.41,0.17,Tyrande,Healer,3,0
-Uther,Dragon Shire,55.5,20.63,6.83,Uther,Healer,3,0
-Valeera,Dragon Shire,51.9,6.95,1.12,Valeera,Melee,4,0
-Valla,Dragon Shire,51.8,25.59,3.57,Valla,Ranged,2,0
-Varian,Dragon Shire,49.7,33.12,11.8,Varian,Bruiser,1,0
-Whitemane,Dragon Shire,51.1,5.25,0.51,Whitemane,Healer,4,0
-Xul,Dragon Shire,49.9,3.27,0.19,Xul,Bruiser,3,0
-Yrel,Dragon Shire,49.9,4.34,0.34,Yrel,Bruiser,4,0
-Zagara,Dragon Shire,53.3,10.14,1.46,Zagara,Ranged,3,0
-Zarya,Dragon Shire,46.8,2.99,0.24,Zarya,Support,4,0
-Zeratul,Dragon Shire,52.1,10.94,3.85,Zeratul,Melee,3,0
-Zul'jin,Dragon Shire,52.4,20.4,3.64,Zuljin,Ranged,3,0
-Abathur,Hanamura Temple,47.7,7.45,3.03,Abathur,Support,5,0
-Alarak,Hanamura Temple,45.6,37.98,28.31,Alarak,Melee,4,0
-Alexstrasza,Hanamura Temple,48.1,7.61,1.6,Alexstrasza,Healer,3,0
-Ana,Hanamura Temple,47,24.67,13.28,Ana,Healer,4,0
-Anduin,Hanamura Temple,46,28.4,10.11,Anduin,Healer,2,0
-Anub'arak,Hanamura Temple,49.6,16.32,4.59,Anubarak,Tank,3,0
-Artanis,Hanamura Temple,51.5,22.69,4.88,Artanis,Bruiser,2,0
-Arthas,Hanamura Temple,51.2,14.38,2.92,Arthas,Tank,3,0
-Auriel,Hanamura Temple,48.3,56.38,35.54,Auriel,Healer,4,0
-Azmodan,Hanamura Temple,47.8,10.94,4.1,Azmodan,Ranged,2,0
-Blaze,Hanamura Temple,46,6.99,0.34,Blaze,Tank,3,0
-Brightwing,Hanamura Temple,50.6,17.84,4.41,Brightwing,Healer,2,0
-Cassia,Hanamura Temple,51.6,5.15,0.44,Cassia,Ranged,3,0
-Chen,Hanamura Temple,50.8,5.47,1.44,Chen,Bruiser,4,0
-Cho,Hanamura Temple,47.2,3.67,1.54,Cho,Tank,5,0
-Chromie,Hanamura Temple,47.4,8.3,1.43,Chromie,Ranged,4,0
-D.Va,Hanamura Temple,48.5,2.28,0.13,Dva,Bruiser,4,0
-Deathwing,Hanamura Temple,57,89.61,83.14,Deathwing,Bruiser,2,0
-Deckard,Hanamura Temple,48.6,6.02,0.59,Deckard,Healer,3,0
-Dehaka,Hanamura Temple,43.9,3.1,0.73,Dehaka,Bruiser,3,0
-Diablo,Hanamura Temple,40.8,29.25,14.06,Diablo,Tank,2,0
-E.T.C.,Hanamura Temple,53.8,46.93,20.68,Etc,Tank,3,0
-Falstad,Hanamura Temple,48.2,10.39,1.69,Falstad,Ranged,3,0
-Fenix,Hanamura Temple,54,6.9,0.41,Fenix,Ranged,3,0
-Gall,Hanamura Temple,47.2,2.8,0.67,Gall,Ranged,4,0
-Garrosh,Hanamura Temple,46.9,49.45,33.77,Garrosh,Tank,3,0
-Gazlowe,Hanamura Temple,44.8,3.51,0.34,Gazlowe,Melee,3,0
-Genji,Hanamura Temple,40.6,6.96,1.14,Genji,Ranged,3,0
-Greymane,Hanamura Temple,50.5,23.31,4.93,Greymane,Ranged,3,0
-Gul'dan,Hanamura Temple,44.2,13.65,2.8,Guldan,Ranged,3,0
-Hanzo,Hanamura Temple,46.2,14.27,2.71,Hanzo,Ranged,3,0
-Illidan,Hanamura Temple,52.6,6.46,1.24,Illidan,Melee,4,0
-Imperius,Hanamura Temple,49.8,13.69,2.16,Imperius,Bruiser,2,0
-Jaina,Hanamura Temple,53.3,25.05,4.73,Jaina,Ranged,2,0
-Johanna,Hanamura Temple,52.6,58.83,26.88,Johanna,Tank,2,0
-Junkrat,Hanamura Temple,50.2,6.45,1.2,Junkrat,Ranged,3,0
-Kael'thas,Hanamura Temple,48.6,70.07,51.32,Kaelthas,Ranged,1,0
-Kel'Thuzad,Hanamura Temple,53.9,17.8,8.79,Kelthuzad,Ranged,3,0
-Kerrigan,Hanamura Temple,55,3.89,0.27,Kerrigan,Melee,4,0
-Kharazim,Hanamura Temple,49.7,5.38,0.22,Kharazim,Healer,3,0
-Leoric,Hanamura Temple,46.6,12.98,2.21,Leoric,Bruiser,2,0
-Li Li,Hanamura Temple,52.5,27.64,9.25,Lili,Healer,1,0
-Li-Ming,Hanamura Temple,50.2,57,16.69,Liming,Ranged,2,0
-Lt. Morales,Hanamura Temple,46.8,10.75,3.47,Ltmorales,Healer,3,0
-Lúcio,Hanamura Temple,52.4,27.38,7.61,Lucio,Healer,3,0
-Lunara,Hanamura Temple,52,20.19,2.96,Lunara,Ranged,2,0
-Maiev,Hanamura Temple,47.3,4.99,0.85,Maiev,Melee,4,0
-Mal'Ganis,Hanamura Temple,56.5,26.81,10.9,Malganis,Tank,3,0
-Malfurion,Hanamura Temple,48,11.99,1.55,Malfurion,Healer,3,0
-Malthael,Hanamura Temple,51.2,11.6,3.27,Malthael,Bruiser,4,0
-Medivh,Hanamura Temple,39,4.11,0.42,Medivh,Support,5,0
-Mephisto,Hanamura Temple,50.9,6.73,0.54,Mephisto,Ranged,3,0
-Muradin,Hanamura Temple,48,25.03,2.28,Muradin,Tank,1,0
-Murky,Hanamura Temple,39.8,2.16,0.42,Murky,Melee,4,0
-Nazeebo,Hanamura Temple,44.9,11.27,1.12,Nazeebo,Ranged,2,0
-Nova,Hanamura Temple,48.3,5.38,0.35,Nova,Ranged,3,0
-Orphea,Hanamura Temple,47.4,7.66,0.64,Orphea,Ranged,3,0
-Probius,Hanamura Temple,40.9,1.14,0.3,Probius,Ranged,4,0
-Qhira,Hanamura Temple,46.9,21.97,10.01,Qhira,Melee,2,0
-Ragnaros,Hanamura Temple,46.8,5.68,1.4,Ragnaros,Bruiser,3,0
-Raynor,Hanamura Temple,52.7,21.81,2,Raynor,Ranged,1,0
-Rehgar,Hanamura Temple,54.9,16.38,1.63,Rehgar,Healer,3,0
-Rexxar,Hanamura Temple,61.2,16.53,7.63,Rexxar,Bruiser,3,0
-Samuro,Hanamura Temple,58,7.48,2.01,Samuro,Melee,3,0
-Sgt. Hammer,Hanamura Temple,39.8,2.13,0.34,Sgthammer,Ranged,3,0
-Sonya,Hanamura Temple,54.2,17.14,2.27,Sonya,Bruiser,2,0
-Stitches,Hanamura Temple,43.4,12.84,1.02,Stitches,Tank,2,0
-Stukov,Hanamura Temple,51.6,12.64,2.45,Stukov,Healer,3,0
-Sylvanas,Hanamura Temple,52.1,20.25,4.56,Sylvanas,Ranged,3,0
-Tassadar,Hanamura Temple,46,3.31,0.26,Tassadar,Support,4,0
-The Butcher,Hanamura Temple,52.8,11.27,3.3,Thebutcher,Melee,2,0
-The Lost Vikings,Hanamura Temple,38.4,0.99,0.53,Thelostvikings,Support,5,0
-Thrall,Hanamura Temple,49.3,21.92,1.65,Thrall,Bruiser,2,0
-Tracer,Hanamura Temple,44.8,5.93,0.81,Tracer,Ranged,4,0
-Tychus,Hanamura Temple,48,11.88,2.52,Tychus,Ranged,2,0
-Tyrael,Hanamura Temple,51.4,5.07,0.23,Tyrael,Tank,3,0
-Tyrande,Hanamura Temple,51.1,5.32,0.2,Tyrande,Healer,3,0
-Uther,Hanamura Temple,52.4,22.12,7.16,Uther,Healer,3,0
-Valeera,Hanamura Temple,50.2,6.87,1.2,Valeera,Melee,4,0
-Valla,Hanamura Temple,50.9,28.75,4.25,Valla,Ranged,2,0
-Varian,Hanamura Temple,51.4,36.37,13.54,Varian,Bruiser,1,0
-Whitemane,Hanamura Temple,52.9,5.95,0.43,Whitemane,Healer,4,0
-Xul,Hanamura Temple,40.5,2.13,0.11,Xul,Bruiser,3,0
-Yrel,Hanamura Temple,48.2,3.9,0.26,Yrel,Bruiser,4,0
-Zagara,Hanamura Temple,51.4,5.35,0.68,Zagara,Ranged,3,0
-Zarya,Hanamura Temple,51.1,5.15,0.61,Zarya,Support,4,0
-Zeratul,Hanamura Temple,49.4,9.79,4.37,Zeratul,Melee,3,0
-Zul'jin,Hanamura Temple,49.8,22.86,4.35,Zuljin,Ranged,3,0
-Abathur,Infernal Shrines,47.1,10.74,4.95,Abathur,Support,5,0
-Alarak,Infernal Shrines,44.4,34.42,26.96,Alarak,Melee,4,0
-Alexstrasza,Infernal Shrines,46.9,15.66,4.26,Alexstrasza,Healer,3,0
-Ana,Infernal Shrines,47.1,23.56,12.55,Ana,Healer,4,0
-Anduin,Infernal Shrines,46.3,26.3,9.46,Anduin,Healer,2,0
-Anub'arak,Infernal Shrines,49.5,13.54,3.82,Anubarak,Tank,3,0
-Artanis,Infernal Shrines,45.9,10.84,1.53,Artanis,Bruiser,2,0
-Arthas,Infernal Shrines,50.2,15.55,3.37,Arthas,Tank,3,0
-Auriel,Infernal Shrines,55.9,57.81,35.22,Auriel,Healer,4,0
-Azmodan,Infernal Shrines,51.1,23.99,9.39,Azmodan,Ranged,2,0
-Blaze,Infernal Shrines,48.2,8.59,0.55,Blaze,Tank,3,0
-Brightwing,Infernal Shrines,47.9,17.14,3.82,Brightwing,Healer,2,0
-Cassia,Infernal Shrines,48.6,4.42,0.32,Cassia,Ranged,3,0
-Chen,Infernal Shrines,46.1,3.3,0.73,Chen,Bruiser,4,0
-Cho,Infernal Shrines,61.5,3.33,1.33,Cho,Tank,5,0
-Chromie,Infernal Shrines,49.3,7.18,1.36,Chromie,Ranged,4,0
-D.Va,Infernal Shrines,49.7,3.42,0.19,Dva,Bruiser,4,0
-Deathwing,Infernal Shrines,54.5,89.66,83.17,Deathwing,Bruiser,2,0
-Deckard,Infernal Shrines,46.8,7.75,0.78,Deckard,Healer,3,0
-Dehaka,Infernal Shrines,46.3,6.35,1.27,Dehaka,Bruiser,3,0
-Diablo,Infernal Shrines,44.2,40.88,17.04,Diablo,Tank,2,0
-E.T.C.,Infernal Shrines,53.4,43.22,20.31,Etc,Tank,3,0
-Falstad,Infernal Shrines,50.4,11.61,1.6,Falstad,Ranged,3,0
-Fenix,Infernal Shrines,51.5,6.98,0.4,Fenix,Ranged,3,0
-Gall,Infernal Shrines,61.5,2.75,0.75,Gall,Ranged,4,0
-Garrosh,Infernal Shrines,46.1,43.63,30.49,Garrosh,Tank,3,0
-Gazlowe,Infernal Shrines,52,6.58,0.46,Gazlowe,Melee,3,0
-Genji,Infernal Shrines,40,4.39,0.57,Genji,Ranged,3,0
-Greymane,Infernal Shrines,49.3,22.45,4.08,Greymane,Ranged,3,0
-Gul'dan,Infernal Shrines,47.8,24.61,7.48,Guldan,Ranged,3,0
-Hanzo,Infernal Shrines,44.7,14.15,2.34,Hanzo,Ranged,3,0
-Illidan,Infernal Shrines,48.5,6.11,1.21,Illidan,Melee,4,0
-Imperius,Infernal Shrines,48.5,11.18,1.64,Imperius,Bruiser,2,0
-Jaina,Infernal Shrines,49.4,30.73,7.68,Jaina,Ranged,2,0
-Johanna,Infernal Shrines,52.6,63.8,27.43,Johanna,Tank,2,0
-Junkrat,Infernal Shrines,49.8,9.41,1.68,Junkrat,Ranged,3,0
-Kael'thas,Infernal Shrines,51.1,80.77,56.58,Kaelthas,Ranged,1,0
-Kel'Thuzad,Infernal Shrines,51.3,18.32,8.52,Kelthuzad,Ranged,3,0
-Kerrigan,Infernal Shrines,56.3,7.21,0.92,Kerrigan,Melee,4,0
-Kharazim,Infernal Shrines,53.9,5.18,0.28,Kharazim,Healer,3,0
-Leoric,Infernal Shrines,53,17.62,2.74,Leoric,Bruiser,2,0
-Li Li,Infernal Shrines,46.1,24.35,8.4,Lili,Healer,1,0
-Li-Ming,Infernal Shrines,48,36.68,13.53,Liming,Ranged,2,0
-Lt. Morales,Infernal Shrines,49.1,9.05,2.83,Ltmorales,Healer,3,0
-Lúcio,Infernal Shrines,50.6,21.59,5.96,Lucio,Healer,3,0
-Lunara,Infernal Shrines,51.5,15.82,2.27,Lunara,Ranged,2,0
-Maiev,Infernal Shrines,47.3,5.48,1.1,Maiev,Melee,4,0
-Mal'Ganis,Infernal Shrines,53.4,23.71,8.91,Malganis,Tank,3,0
-Malfurion,Infernal Shrines,48.4,11.04,1.55,Malfurion,Healer,3,0
-Malthael,Infernal Shrines,52,12.75,3.5,Malthael,Bruiser,4,0
-Medivh,Infernal Shrines,41,3.45,0.39,Medivh,Support,5,0
-Mephisto,Infernal Shrines,53.6,7.24,0.54,Mephisto,Ranged,3,0
-Muradin,Infernal Shrines,47.8,19.79,1.48,Muradin,Tank,1,0
-Murky,Infernal Shrines,49.5,6.12,0.84,Murky,Melee,4,0
-Nazeebo,Infernal Shrines,50.3,16.31,2.1,Nazeebo,Ranged,2,0
-Nova,Infernal Shrines,47.5,3.48,0.29,Nova,Ranged,3,0
-Orphea,Infernal Shrines,47.2,7.99,0.63,Orphea,Ranged,3,0
-Probius,Infernal Shrines,46.5,1.79,0.32,Probius,Ranged,4,0
-Qhira,Infernal Shrines,45.9,18.48,9.29,Qhira,Melee,2,0
-Ragnaros,Infernal Shrines,57.2,17.21,4.02,Ragnaros,Bruiser,3,0
-Raynor,Infernal Shrines,49.9,18.03,1.59,Raynor,Ranged,1,0
-Rehgar,Infernal Shrines,56.6,18.4,1.59,Rehgar,Healer,3,0
-Rexxar,Infernal Shrines,56.2,5.58,1.69,Rexxar,Bruiser,3,0
-Samuro,Infernal Shrines,48.5,5.79,1.51,Samuro,Melee,3,0
-Sgt. Hammer,Infernal Shrines,43.4,3.91,0.91,Sgthammer,Ranged,3,0
-Sonya,Infernal Shrines,56.4,24.53,4.07,Sonya,Bruiser,2,0
-Stitches,Infernal Shrines,41.9,12.16,0.93,Stitches,Tank,2,0
-Stukov,Infernal Shrines,48.7,14.62,3.78,Stukov,Healer,3,0
-Sylvanas,Infernal Shrines,50,21.1,4.91,Sylvanas,Ranged,3,0
-Tassadar,Infernal Shrines,45.6,3.56,0.24,Tassadar,Support,4,0
-The Butcher,Infernal Shrines,52.8,10.54,3.21,Thebutcher,Melee,2,0
-The Lost Vikings,Infernal Shrines,43.4,1.47,0.53,Thelostvikings,Support,5,0
-Thrall,Infernal Shrines,46.8,14.11,1.14,Thrall,Bruiser,2,0
-Tracer,Infernal Shrines,44.9,3.79,0.48,Tracer,Ranged,4,0
-Tychus,Infernal Shrines,49.8,11.53,2.46,Tychus,Ranged,2,0
-Tyrael,Infernal Shrines,49.5,4.93,0.26,Tyrael,Tank,3,0
-Tyrande,Infernal Shrines,47.8,4.86,0.22,Tyrande,Healer,3,0
-Uther,Infernal Shrines,51.7,20.72,6.61,Uther,Healer,3,0
-Valeera,Infernal Shrines,50.2,5.19,0.81,Valeera,Melee,4,0
-Valla,Infernal Shrines,56.1,28.34,4.6,Valla,Ranged,2,0
-Varian,Infernal Shrines,47.4,28.39,10.66,Varian,Bruiser,1,0
-Whitemane,Infernal Shrines,50.8,5.32,0.37,Whitemane,Healer,4,0
-Xul,Infernal Shrines,52,5.8,0.29,Xul,Bruiser,3,0
-Yrel,Infernal Shrines,48.3,3.6,0.19,Yrel,Bruiser,4,0
-Zagara,Infernal Shrines,47.3,6.11,0.73,Zagara,Ranged,3,0
-Zarya,Infernal Shrines,57.4,4.37,0.34,Zarya,Support,4,0
-Zeratul,Infernal Shrines,49.1,10.31,4,Zeratul,Melee,3,0
-Zul'jin,Infernal Shrines,49.3,18.71,3.55,Zuljin,Ranged,3,0
-Abathur,Sky Temple,44.7,23.8,13.66,Abathur,Support,5,0
-Alarak,Sky Temple,44.6,33.59,26.08,Alarak,Melee,4,0
-Alexstrasza,Sky Temple,45.1,7.87,1.43,Alexstrasza,Healer,3,0
-Ana,Sky Temple,46.2,21.77,11.71,Ana,Healer,4,0
-Anduin,Sky Temple,44.4,26.05,9.14,Anduin,Healer,2,0
-Anub'arak,Sky Temple,50.7,14.83,4.07,Anubarak,Tank,3,0
-Artanis,Sky Temple,49.5,13.1,1.94,Artanis,Bruiser,2,0
-Arthas,Sky Temple,49.5,14.22,2.81,Arthas,Tank,3,0
-Auriel,Sky Temple,55.5,54.74,34.44,Auriel,Healer,4,0
-Azmodan,Sky Temple,49.4,13.92,5.18,Azmodan,Ranged,2,0
-Blaze,Sky Temple,49.6,6.18,0.33,Blaze,Tank,3,0
-Brightwing,Sky Temple,48.7,29.7,8.1,Brightwing,Healer,2,0
-Cassia,Sky Temple,50,4.77,0.44,Cassia,Ranged,3,0
-Chen,Sky Temple,48.8,3.54,0.81,Chen,Bruiser,4,0
-Cho,Sky Temple,56.1,2.68,1.19,Cho,Tank,5,0
-Chromie,Sky Temple,47.4,6.38,0.93,Chromie,Ranged,4,0
-D.Va,Sky Temple,50.4,2.14,0.1,Dva,Bruiser,4,0
-Deathwing,Sky Temple,53.6,89.66,83.33,Deathwing,Bruiser,2,0
-Deckard,Sky Temple,49,5.89,0.58,Deckard,Healer,3,0
-Dehaka,Sky Temple,46,17.35,7.34,Dehaka,Bruiser,3,0
-Diablo,Sky Temple,45.4,33.63,14.97,Diablo,Tank,2,0
-E.T.C.,Sky Temple,52.9,46.7,20.31,Etc,Tank,3,0
-Falstad,Sky Temple,53.7,35.84,12,Falstad,Ranged,3,0
-Fenix,Sky Temple,50.3,6.41,0.34,Fenix,Ranged,3,0
-Gall,Sky Temple,56.1,2.13,0.65,Gall,Ranged,4,0
-Garrosh,Sky Temple,45.5,45.97,30.92,Garrosh,Tank,3,0
-Gazlowe,Sky Temple,53.4,5.15,0.4,Gazlowe,Melee,3,0
-Genji,Sky Temple,40.9,5.37,0.73,Genji,Ranged,3,0
-Greymane,Sky Temple,52,25.44,4.49,Greymane,Ranged,3,0
-Gul'dan,Sky Temple,46.7,12.76,2.34,Guldan,Ranged,3,0
-Hanzo,Sky Temple,44.6,12.17,2.05,Hanzo,Ranged,3,0
-Illidan,Sky Temple,51.3,9.45,2.09,Illidan,Melee,4,0
-Imperius,Sky Temple,52.1,11.41,1.58,Imperius,Bruiser,2,0
-Jaina,Sky Temple,52.9,25.13,4.59,Jaina,Ranged,2,0
-Johanna,Sky Temple,52.5,56.81,25.58,Johanna,Tank,2,0
-Junkrat,Sky Temple,48,5.9,0.99,Junkrat,Ranged,3,0
-Kael'thas,Sky Temple,51.3,69.78,51.32,Kaelthas,Ranged,1,0
-Kel'Thuzad,Sky Temple,48.5,14.46,7.38,Kelthuzad,Ranged,3,0
-Kerrigan,Sky Temple,57.9,3.49,0.32,Kerrigan,Melee,4,0
-Kharazim,Sky Temple,49.7,6.17,0.2,Kharazim,Healer,3,0
-Leoric,Sky Temple,50.9,11.27,1.72,Leoric,Bruiser,2,0
-Li Li,Sky Temple,48.6,25.61,8.53,Lili,Healer,1,0
-Li-Ming,Sky Temple,48.4,49.98,15.19,Liming,Ranged,2,0
-Lt. Morales,Sky Temple,47.4,9.44,2.81,Ltmorales,Healer,3,0
-Lúcio,Sky Temple,50.8,21.64,5.96,Lucio,Healer,3,0
-Lunara,Sky Temple,51.3,17.87,2.47,Lunara,Ranged,2,0
-Maiev,Sky Temple,43.6,4.28,0.98,Maiev,Melee,4,0
-Mal'Ganis,Sky Temple,53.2,23.45,8.89,Malganis,Tank,3,0
-Malfurion,Sky Temple,47.9,10.36,1.25,Malfurion,Healer,3,0
-Malthael,Sky Temple,53.4,10.89,2.8,Malthael,Bruiser,4,0
-Medivh,Sky Temple,40.3,3.64,0.44,Medivh,Support,5,0
-Mephisto,Sky Temple,53.1,5.37,0.4,Mephisto,Ranged,3,0
-Muradin,Sky Temple,48.3,24.64,2.09,Muradin,Tank,1,0
-Murky,Sky Temple,50.7,7.55,1.14,Murky,Melee,4,0
-Nazeebo,Sky Temple,46.5,15.6,1.49,Nazeebo,Ranged,2,0
-Nova,Sky Temple,46.9,4.66,0.33,Nova,Ranged,3,0
-Orphea,Sky Temple,46.9,6.94,0.54,Orphea,Ranged,3,0
-Probius,Sky Temple,39.7,1.35,0.3,Probius,Ranged,4,0
-Qhira,Sky Temple,45.8,19.63,9.28,Qhira,Melee,2,0
-Ragnaros,Sky Temple,56.4,12.34,2.6,Ragnaros,Bruiser,3,0
-Raynor,Sky Temple,52.5,18.93,1.59,Raynor,Ranged,1,0
-Rehgar,Sky Temple,56.4,18.83,1.77,Rehgar,Healer,3,0
-Rexxar,Sky Temple,60.2,8.77,3.01,Rexxar,Bruiser,3,0
-Samuro,Sky Temple,50.4,8.78,2.54,Samuro,Melee,3,0
-Sgt. Hammer,Sky Temple,40.5,2.29,0.56,Sgthammer,Ranged,3,0
-Sonya,Sky Temple,55.5,18.02,2.2,Sonya,Bruiser,2,0
-Stitches,Sky Temple,43.6,11.81,0.94,Stitches,Tank,2,0
-Stukov,Sky Temple,48,10.52,2.41,Stukov,Healer,3,0
-Sylvanas,Sky Temple,52.5,19.25,4.05,Sylvanas,Ranged,3,0
-Tassadar,Sky Temple,40.1,2.82,0.22,Tassadar,Support,4,0
-The Butcher,Sky Temple,55.1,12.88,3.49,Thebutcher,Melee,2,0
-The Lost Vikings,Sky Temple,50.4,2.7,0.95,Thelostvikings,Support,5,0
-Thrall,Sky Temple,48.9,16.36,0.97,Thrall,Bruiser,2,0
-Tracer,Sky Temple,41.4,4.76,0.67,Tracer,Ranged,4,0
-Tychus,Sky Temple,50,10.54,2.28,Tychus,Ranged,2,0
-Tyrael,Sky Temple,49.2,5.41,0.34,Tyrael,Tank,3,0
-Tyrande,Sky Temple,51.2,5.24,0.22,Tyrande,Healer,3,0
-Uther,Sky Temple,54.8,21.96,6.73,Uther,Healer,3,0
-Valeera,Sky Temple,53.8,6.42,0.93,Valeera,Melee,4,0
-Valla,Sky Temple,51.4,24.43,3.23,Valla,Ranged,2,0
-Varian,Sky Temple,48,33.24,12.11,Varian,Bruiser,1,0
-Whitemane,Sky Temple,52.9,5.25,0.52,Whitemane,Healer,4,0
-Xul,Sky Temple,49.9,4.53,0.25,Xul,Bruiser,3,0
-Yrel,Sky Temple,46.8,3.49,0.26,Yrel,Bruiser,4,0
-Zagara,Sky Temple,50,9.71,1.6,Zagara,Ranged,3,0
-Zarya,Sky Temple,50.8,3.57,0.25,Zarya,Support,4,0
-Zeratul,Sky Temple,50.8,12.18,4.57,Zeratul,Melee,3,0
-Zul'jin,Sky Temple,45.3,16.75,3.37,Zuljin,Ranged,3,0
-Abathur,Tomb of the Spider Queen,40,5.06,1.95,Abathur,Support,5,0
-Alarak,Tomb of the Spider Queen,47.3,35.71,27.33,Alarak,Melee,4,0
-Alexstrasza,Tomb of the Spider Queen,44.3,8.8,1.69,Alexstrasza,Healer,3,0
-Ana,Tomb of the Spider Queen,45.3,24.9,13.13,Ana,Healer,4,0
-Anduin,Tomb of the Spider Queen,48.5,28,10.46,Anduin,Healer,2,0
-Anub'arak,Tomb of the Spider Queen,47.5,14.63,4.36,Anubarak,Tank,3,0
-Artanis,Tomb of the Spider Queen,47,10.49,1.19,Artanis,Bruiser,2,0
-Arthas,Tomb of the Spider Queen,47.2,13.49,2.49,Arthas,Tank,3,0
-Auriel,Tomb of the Spider Queen,54.8,58.06,35.15,Auriel,Healer,4,0
-Azmodan,Tomb of the Spider Queen,48.6,21.06,7.91,Azmodan,Ranged,2,0
-Blaze,Tomb of the Spider Queen,46.4,8.27,0.36,Blaze,Tank,3,0
-Brightwing,Tomb of the Spider Queen,46.9,14.89,3.38,Brightwing,Healer,2,0
-Cassia,Tomb of the Spider Queen,46.9,4.26,0.38,Cassia,Ranged,3,0
-Chen,Tomb of the Spider Queen,49.2,3.31,0.77,Chen,Bruiser,4,0
-Cho,Tomb of the Spider Queen,54.5,3.47,1.39,Cho,Tank,5,0
-Chromie,Tomb of the Spider Queen,46.6,7.07,1.35,Chromie,Ranged,4,0
-D.Va,Tomb of the Spider Queen,48.3,2.34,0.11,Dva,Bruiser,4,0
-Deathwing,Tomb of the Spider Queen,55.8,89.88,82.98,Deathwing,Bruiser,2,0
-Deckard,Tomb of the Spider Queen,48.1,6.92,0.71,Deckard,Healer,3,0
-Dehaka,Tomb of the Spider Queen,45.8,3.3,0.47,Dehaka,Bruiser,3,0
-Diablo,Tomb of the Spider Queen,46.5,40.78,18.04,Diablo,Tank,2,0
-E.T.C.,Tomb of the Spider Queen,54.5,42.5,20.56,Etc,Tank,3,0
-Falstad,Tomb of the Spider Queen,51.2,7.23,0.62,Falstad,Ranged,3,0
-Fenix,Tomb of the Spider Queen,51.3,6.84,0.44,Fenix,Ranged,3,0
-Gall,Tomb of the Spider Queen,54.5,2.84,0.75,Gall,Ranged,4,0
-Garrosh,Tomb of the Spider Queen,48.2,48.92,34.13,Garrosh,Tank,3,0
-Gazlowe,Tomb of the Spider Queen,49.9,4.19,0.39,Gazlowe,Melee,3,0
-Genji,Tomb of the Spider Queen,38.8,3.97,0.61,Genji,Ranged,3,0
-Greymane,Tomb of the Spider Queen,47.8,22.27,3.87,Greymane,Ranged,3,0
-Gul'dan,Tomb of the Spider Queen,46.5,25.83,7.29,Guldan,Ranged,3,0
-Hanzo,Tomb of the Spider Queen,43.8,13.16,2.01,Hanzo,Ranged,3,0
-Illidan,Tomb of the Spider Queen,48.2,4.6,0.69,Illidan,Melee,4,0
-Imperius,Tomb of the Spider Queen,48.2,11.62,1.69,Imperius,Bruiser,2,0
-Jaina,Tomb of the Spider Queen,53.7,30.14,6.49,Jaina,Ranged,2,0
-Johanna,Tomb of the Spider Queen,54.8,66.49,28.41,Johanna,Tank,2,0
-Junkrat,Tomb of the Spider Queen,51.9,8.41,1.82,Junkrat,Ranged,3,0
-Kael'thas,Tomb of the Spider Queen,50.7,77.96,55.54,Kaelthas,Ranged,1,0
-Kel'Thuzad,Tomb of the Spider Queen,53.2,19.34,8.67,Kelthuzad,Ranged,3,0
-Kerrigan,Tomb of the Spider Queen,57.7,5.26,0.37,Kerrigan,Melee,4,0
-Kharazim,Tomb of the Spider Queen,50.4,5.46,0.18,Kharazim,Healer,3,0
-Leoric,Tomb of the Spider Queen,50.6,18.08,2.84,Leoric,Bruiser,2,0
-Li Li,Tomb of the Spider Queen,48,25.21,8.72,Lili,Healer,1,0
-Li-Ming,Tomb of the Spider Queen,49.1,38.41,14.1,Liming,Ranged,2,0
-Lt. Morales,Tomb of the Spider Queen,48.6,9.87,2.91,Ltmorales,Healer,3,0
-Lúcio,Tomb of the Spider Queen,49.3,23.18,6.68,Lucio,Healer,3,0
-Lunara,Tomb of the Spider Queen,52.2,16.85,2.43,Lunara,Ranged,2,0
-Maiev,Tomb of the Spider Queen,47.2,6.08,1.16,Maiev,Melee,4,0
-Mal'Ganis,Tomb of the Spider Queen,51.5,22.83,9.33,Malganis,Tank,3,0
-Malfurion,Tomb of the Spider Queen,53.1,12.99,2.14,Malfurion,Healer,3,0
-Malthael,Tomb of the Spider Queen,54,11.21,3.29,Malthael,Bruiser,4,0
-Medivh,Tomb of the Spider Queen,39.2,3.76,0.54,Medivh,Support,5,0
-Mephisto,Tomb of the Spider Queen,55.8,6.09,0.5,Mephisto,Ranged,3,0
-Muradin,Tomb of the Spider Queen,45,19.37,1.77,Muradin,Tank,1,0
-Murky,Tomb of the Spider Queen,46,3.28,0.52,Murky,Melee,4,0
-Nazeebo,Tomb of the Spider Queen,50.5,32.19,4.71,Nazeebo,Ranged,2,0
-Nova,Tomb of the Spider Queen,42.7,3.58,0.35,Nova,Ranged,3,0
-Orphea,Tomb of the Spider Queen,44.4,7.41,0.6,Orphea,Ranged,3,0
-Probius,Tomb of the Spider Queen,46.5,1.69,0.24,Probius,Ranged,4,0
-Qhira,Tomb of the Spider Queen,44.9,18.32,9.03,Qhira,Melee,2,0
-Ragnaros,Tomb of the Spider Queen,56,26.18,7.94,Ragnaros,Bruiser,3,0
-Raynor,Tomb of the Spider Queen,50.5,18.53,1.65,Raynor,Ranged,1,0
-Rehgar,Tomb of the Spider Queen,53.9,18.84,1.89,Rehgar,Healer,3,0
-Rexxar,Tomb of the Spider Queen,57.9,6.12,1.48,Rexxar,Bruiser,3,0
-Samuro,Tomb of the Spider Queen,49.8,4.71,0.95,Samuro,Melee,3,0
-Sgt. Hammer,Tomb of the Spider Queen,42.4,2.33,0.5,Sgthammer,Ranged,3,0
-Sonya,Tomb of the Spider Queen,52.8,16.16,2.02,Sonya,Bruiser,2,0
-Stitches,Tomb of the Spider Queen,45.5,14.48,1.15,Stitches,Tank,2,0
-Stukov,Tomb of the Spider Queen,45.6,14.38,3.48,Stukov,Healer,3,0
-Sylvanas,Tomb of the Spider Queen,49.8,24.99,6.27,Sylvanas,Ranged,3,0
-Tassadar,Tomb of the Spider Queen,47,4.4,0.29,Tassadar,Support,4,0
-The Butcher,Tomb of the Spider Queen,53.1,12.88,3.76,Thebutcher,Melee,2,0
-The Lost Vikings,Tomb of the Spider Queen,36.6,0.89,0.44,Thelostvikings,Support,5,0
-Thrall,Tomb of the Spider Queen,49.8,15.69,1.16,Thrall,Bruiser,2,0
-Tracer,Tomb of the Spider Queen,41.7,4.25,0.51,Tracer,Ranged,4,0
-Tychus,Tomb of the Spider Queen,46.7,11.77,2.63,Tychus,Ranged,2,0
-Tyrael,Tomb of the Spider Queen,46.4,4.04,0.2,Tyrael,Tank,3,0
-Tyrande,Tomb of the Spider Queen,51.5,5.6,0.28,Tyrande,Healer,3,0
-Uther,Tomb of the Spider Queen,55.9,20.9,6.69,Uther,Healer,3,0
-Valeera,Tomb of the Spider Queen,49.1,5.24,0.81,Valeera,Melee,4,0
-Valla,Tomb of the Spider Queen,52.8,26.51,3.61,Valla,Ranged,2,0
-Varian,Tomb of the Spider Queen,48.2,29.48,11.11,Varian,Bruiser,1,0
-Whitemane,Tomb of the Spider Queen,51.7,5.78,0.5,Whitemane,Healer,4,0
-Xul,Tomb of the Spider Queen,51.3,11.92,1.32,Xul,Bruiser,3,0
-Yrel,Tomb of the Spider Queen,49.2,3.92,0.24,Yrel,Bruiser,4,0
-Zagara,Tomb of the Spider Queen,54.5,7.52,1.5,Zagara,Ranged,3,0
-Zarya,Tomb of the Spider Queen,45.9,3.55,0.28,Zarya,Support,4,0
-Zeratul,Tomb of the Spider Queen,51.1,9.16,3.49,Zeratul,Melee,3,0
-Zul'jin,Tomb of the Spider Queen,51.3,18.57,3.58,Zuljin,Ranged,3,0
-Abathur,Towers of Doom,49.7,16.66,8.93,Abathur,Support,5,0
-Alarak,Towers of Doom,46.1,35.81,27.31,Alarak,Melee,4,0
-Alexstrasza,Towers of Doom,48.2,7.6,1.31,Alexstrasza,Healer,3,0
-Ana,Towers of Doom,46.5,24.95,12.57,Ana,Healer,4,0
-Anduin,Towers of Doom,47.6,27.4,9.79,Anduin,Healer,2,0
-Anub'arak,Towers of Doom,52.8,15.8,4.04,Anubarak,Tank,3,0
-Artanis,Towers of Doom,46.6,12.14,1.3,Artanis,Bruiser,2,0
-Arthas,Towers of Doom,51,12.93,2.54,Arthas,Tank,3,0
-Auriel,Towers of Doom,55.4,56.58,35.42,Auriel,Healer,4,0
-Azmodan,Towers of Doom,51.5,15.01,5.97,Azmodan,Ranged,2,0
-Blaze,Towers of Doom,47.4,6.53,0.32,Blaze,Tank,3,0
-Brightwing,Towers of Doom,49.6,25.68,6.88,Brightwing,Healer,2,0
-Cassia,Towers of Doom,46.1,4.63,0.36,Cassia,Ranged,3,0
-Chen,Towers of Doom,51.7,3.72,0.81,Chen,Bruiser,4,0
-Cho,Towers of Doom,52.8,2.81,1.16,Cho,Tank,5,0
-Chromie,Towers of Doom,45.8,12.73,3.38,Chromie,Ranged,4,0
-D.Va,Towers of Doom,45.1,2.33,0.11,Dva,Bruiser,4,0
-Deathwing,Towers of Doom,53.8,89.9,83.24,Deathwing,Bruiser,2,0
-Deckard,Towers of Doom,44.1,6.54,0.65,Deckard,Healer,3,0
-Dehaka,Towers of Doom,46.2,15.54,6.03,Dehaka,Bruiser,3,0
-Diablo,Towers of Doom,46.7,40.25,16.98,Diablo,Tank,2,0
-E.T.C.,Towers of Doom,52.5,44.08,19.46,Etc,Tank,3,0
-Falstad,Towers of Doom,51.6,24.86,7.77,Falstad,Ranged,3,0
-Fenix,Towers of Doom,55.2,6.01,0.43,Fenix,Ranged,3,0
-Gall,Towers of Doom,52.8,2.34,0.69,Gall,Ranged,4,0
-Garrosh,Towers of Doom,46.8,48.19,32.46,Garrosh,Tank,3,0
-Gazlowe,Towers of Doom,44,4.24,0.48,Gazlowe,Melee,3,0
-Genji,Towers of Doom,41.6,6.03,0.82,Genji,Ranged,3,0
-Greymane,Towers of Doom,49.4,23.53,4.37,Greymane,Ranged,3,0
-Gul'dan,Towers of Doom,41.3,12.57,2.68,Guldan,Ranged,3,0
-Hanzo,Towers of Doom,45,16.06,2.63,Hanzo,Ranged,3,0
-Illidan,Towers of Doom,51.4,7.03,1.71,Illidan,Melee,4,0
-Imperius,Towers of Doom,53.9,12.33,1.52,Imperius,Bruiser,2,0
-Jaina,Towers of Doom,52,23.68,4.52,Jaina,Ranged,2,0
-Johanna,Towers of Doom,49.6,54.33,24.78,Johanna,Tank,2,0
-Junkrat,Towers of Doom,46.4,8.18,1.68,Junkrat,Ranged,3,0
-Kael'thas,Towers of Doom,47.4,69.1,50.97,Kaelthas,Ranged,1,0
-Kel'Thuzad,Towers of Doom,48.6,16.72,8.38,Kelthuzad,Ranged,3,0
-Kerrigan,Towers of Doom,56.6,3.86,0.17,Kerrigan,Melee,4,0
-Kharazim,Towers of Doom,51.5,5.9,0.23,Kharazim,Healer,3,0
-Leoric,Towers of Doom,49,14.76,2.24,Leoric,Bruiser,2,0
-Li Li,Towers of Doom,48.3,24.68,8.13,Lili,Healer,1,0
-Li-Ming,Towers of Doom,51.3,57.8,17.11,Liming,Ranged,2,0
-Lt. Morales,Towers of Doom,47.2,8.85,2.41,Ltmorales,Healer,3,0
-Lúcio,Towers of Doom,51.6,22.31,6.12,Lucio,Healer,3,0
-Lunara,Towers of Doom,54.8,18.35,2.88,Lunara,Ranged,2,0
-Maiev,Towers of Doom,44.4,4.85,1.08,Maiev,Melee,4,0
-Mal'Ganis,Towers of Doom,52.4,24.2,9.52,Malganis,Tank,3,0
-Malfurion,Towers of Doom,47.9,10.85,1.48,Malfurion,Healer,3,0
-Malthael,Towers of Doom,53.9,12.98,3.58,Malthael,Bruiser,4,0
-Medivh,Towers of Doom,42.9,4.45,0.61,Medivh,Support,5,0
-Mephisto,Towers of Doom,52.8,5.46,0.43,Mephisto,Ranged,3,0
-Muradin,Towers of Doom,49.7,23.16,1.86,Muradin,Tank,1,0
-Murky,Towers of Doom,48.4,3.88,0.56,Murky,Melee,4,0
-Nazeebo,Towers of Doom,50.9,15.65,1.6,Nazeebo,Ranged,2,0
-Nova,Towers of Doom,49.8,5.44,0.48,Nova,Ranged,3,0
-Orphea,Towers of Doom,43.7,6.81,0.58,Orphea,Ranged,3,0
-Probius,Towers of Doom,50.8,1.29,0.26,Probius,Ranged,4,0
-Qhira,Towers of Doom,47.9,19.42,9.41,Qhira,Melee,2,0
-Ragnaros,Towers of Doom,50.6,5.89,1.34,Ragnaros,Bruiser,3,0
-Raynor,Towers of Doom,52.3,19.5,1.81,Raynor,Ranged,1,0
-Rehgar,Towers of Doom,53.7,16.86,1.6,Rehgar,Healer,3,0
-Rexxar,Towers of Doom,59.1,6.27,1.92,Rexxar,Bruiser,3,0
-Samuro,Towers of Doom,54.6,7.24,2.01,Samuro,Melee,3,0
-Sgt. Hammer,Towers of Doom,45.7,2.55,0.62,Sgthammer,Ranged,3,0
-Sonya,Towers of Doom,52.2,14.95,1.65,Sonya,Bruiser,2,0
-Stitches,Towers of Doom,46.8,15.88,1.63,Stitches,Tank,2,0
-Stukov,Towers of Doom,48.1,12.63,3.05,Stukov,Healer,3,0
-Sylvanas,Towers of Doom,53.5,21.84,5.26,Sylvanas,Ranged,3,0
-Tassadar,Towers of Doom,43.5,2.93,0.22,Tassadar,Support,4,0
-The Butcher,Towers of Doom,56.6,11.88,3.54,Thebutcher,Melee,2,0
-The Lost Vikings,Towers of Doom,56.2,2.81,1.14,Thelostvikings,Support,5,0
-Thrall,Towers of Doom,47.7,17.62,1.23,Thrall,Bruiser,2,0
-Tracer,Towers of Doom,45.1,4.97,0.68,Tracer,Ranged,4,0
-Tychus,Towers of Doom,50.1,11.51,2.33,Tychus,Ranged,2,0
-Tyrael,Towers of Doom,44.9,4.64,0.24,Tyrael,Tank,3,0
-Tyrande,Towers of Doom,48.7,5.97,0.26,Tyrande,Healer,3,0
-Uther,Towers of Doom,54.8,22.14,7.12,Uther,Healer,3,0
-Valeera,Towers of Doom,49.4,6.89,1.15,Valeera,Melee,4,0
-Valla,Towers of Doom,50.1,23.88,3.39,Valla,Ranged,2,0
-Varian,Towers of Doom,49.7,31.96,11.47,Varian,Bruiser,1,0
-Whitemane,Towers of Doom,50,5.17,0.54,Whitemane,Healer,4,0
-Xul,Towers of Doom,55.2,5.93,0.46,Xul,Bruiser,3,0
-Yrel,Towers of Doom,50.3,3.81,0.25,Yrel,Bruiser,4,0
-Zagara,Towers of Doom,53.2,7.67,1.2,Zagara,Ranged,3,0
-Zarya,Towers of Doom,54.4,3.91,0.26,Zarya,Support,4,0
-Zeratul,Towers of Doom,52.1,12.94,4.9,Zeratul,Melee,3,0
-Zul'jin,Towers of Doom,50.4,17.31,3.69,Zuljin,Ranged,3,0
-Abathur,Volskaya Foundry,48.8,9.01,4.04,Abathur,Support,5,0
-Alarak,Volskaya Foundry,46.9,37.93,28.55,Alarak,Melee,4,0
-Alexstrasza,Volskaya Foundry,47.8,12.28,2.95,Alexstrasza,Healer,3,0
-Ana,Volskaya Foundry,48.1,26.05,13.53,Ana,Healer,4,0
-Anduin,Volskaya Foundry,45.3,27.78,10.21,Anduin,Healer,2,0
-Anub'arak,Volskaya Foundry,49.8,15.48,4.38,Anubarak,Tank,3,0
-Artanis,Volskaya Foundry,46.4,11.92,1.74,Artanis,Bruiser,2,0
-Arthas,Volskaya Foundry,48.1,13.9,2.72,Arthas,Tank,3,0
-Auriel,Volskaya Foundry,52.6,57.11,35.67,Auriel,Healer,4,0
-Azmodan,Volskaya Foundry,51,14.36,5.27,Azmodan,Ranged,2,0
-Blaze,Volskaya Foundry,47.3,9.25,0.71,Blaze,Tank,3,0
-Brightwing,Volskaya Foundry,49.7,16.42,3.78,Brightwing,Healer,2,0
-Cassia,Volskaya Foundry,46.8,4.72,0.44,Cassia,Ranged,3,0
-Chen,Volskaya Foundry,48,4.09,0.88,Chen,Bruiser,4,0
-Cho,Volskaya Foundry,50.8,3.33,1.33,Cho,Tank,5,0
-Chromie,Volskaya Foundry,50.1,13.97,2.94,Chromie,Ranged,4,0
-D.Va,Volskaya Foundry,46.9,3.1,0.21,Dva,Bruiser,4,0
-Deathwing,Volskaya Foundry,52.7,90.62,83.8,Deathwing,Bruiser,2,0
-Deckard,Volskaya Foundry,49.9,9.73,0.88,Deckard,Healer,3,0
-Dehaka,Volskaya Foundry,39.8,3.12,0.71,Dehaka,Bruiser,3,0
-Diablo,Volskaya Foundry,46.8,34.29,15.72,Diablo,Tank,2,0
-E.T.C.,Volskaya Foundry,53.1,45.19,20.82,Etc,Tank,3,0
-Falstad,Volskaya Foundry,51.7,9.76,1.1,Falstad,Ranged,3,0
-Fenix,Volskaya Foundry,49.1,6.13,0.31,Fenix,Ranged,3,0
-Gall,Volskaya Foundry,50.8,2.65,0.66,Gall,Ranged,4,0
-Garrosh,Volskaya Foundry,48.9,52.76,35.98,Garrosh,Tank,3,0
-Gazlowe,Volskaya Foundry,49.3,6.02,0.65,Gazlowe,Melee,3,0
-Genji,Volskaya Foundry,40.2,5.23,0.79,Genji,Ranged,3,0
-Greymane,Volskaya Foundry,49.5,20.01,4.29,Greymane,Ranged,3,0
-Gul'dan,Volskaya Foundry,43.9,15.8,3.64,Guldan,Ranged,3,0
-Hanzo,Volskaya Foundry,45.2,14.01,2.52,Hanzo,Ranged,3,0
-Illidan,Volskaya Foundry,46.2,5.03,0.94,Illidan,Melee,4,0
-Imperius,Volskaya Foundry,48.5,14.09,2.17,Imperius,Bruiser,2,0
-Jaina,Volskaya Foundry,49.7,22.84,5.16,Jaina,Ranged,2,0
-Johanna,Volskaya Foundry,51.3,59.82,26.94,Johanna,Tank,2,0
-Junkrat,Volskaya Foundry,45.1,10.63,2.07,Junkrat,Ranged,3,0
-Kael'thas,Volskaya Foundry,48.9,73.83,54.84,Kaelthas,Ranged,1,0
-Kel'Thuzad,Volskaya Foundry,49.4,20.78,10,Kelthuzad,Ranged,3,0
-Kerrigan,Volskaya Foundry,56.3,3.81,0.32,Kerrigan,Melee,4,0
-Kharazim,Volskaya Foundry,50.3,5.19,0.26,Kharazim,Healer,3,0
-Leoric,Volskaya Foundry,51,14.55,2.09,Leoric,Bruiser,2,0
-Li Li,Volskaya Foundry,50.1,25.03,8.41,Lili,Healer,1,0
-Li-Ming,Volskaya Foundry,50.1,56.21,17.83,Liming,Ranged,2,0
-Lt. Morales,Volskaya Foundry,48.4,9.76,2.91,Ltmorales,Healer,3,0
-Lúcio,Volskaya Foundry,51.5,24,6.61,Lucio,Healer,3,0
-Lunara,Volskaya Foundry,48.8,16.74,2.37,Lunara,Ranged,2,0
-Maiev,Volskaya Foundry,45.8,6.35,1.16,Maiev,Melee,4,0
-Mal'Ganis,Volskaya Foundry,51.6,27.2,11.1,Malganis,Tank,3,0
-Malfurion,Volskaya Foundry,48.7,12.44,1.8,Malfurion,Healer,3,0
-Malthael,Volskaya Foundry,49.6,11.19,3.1,Malthael,Bruiser,4,0
-Medivh,Volskaya Foundry,39.2,4.61,0.65,Medivh,Support,5,0
-Mephisto,Volskaya Foundry,54.1,8.17,0.63,Mephisto,Ranged,3,0
-Muradin,Volskaya Foundry,48.6,23.3,1.96,Muradin,Tank,1,0
-Murky,Volskaya Foundry,50.8,4.03,0.48,Murky,Melee,4,0
-Nazeebo,Volskaya Foundry,55.4,24.53,2.63,Nazeebo,Ranged,2,0
-Nova,Volskaya Foundry,47.6,4.11,0.3,Nova,Ranged,3,0
-Orphea,Volskaya Foundry,48,8.02,0.74,Orphea,Ranged,3,0
-Probius,Volskaya Foundry,42.2,1.69,0.25,Probius,Ranged,4,0
-Qhira,Volskaya Foundry,45.1,20.79,10.08,Qhira,Melee,2,0
-Ragnaros,Volskaya Foundry,53.9,9.75,2.18,Ragnaros,Bruiser,3,0
-Raynor,Volskaya Foundry,50.4,19.92,1.68,Raynor,Ranged,1,0
-Rehgar,Volskaya Foundry,54.7,14.25,1.36,Rehgar,Healer,3,0
-Rexxar,Volskaya Foundry,54.4,7.43,2.57,Rexxar,Bruiser,3,0
-Samuro,Volskaya Foundry,57.6,6.24,1.65,Samuro,Melee,3,0
-Sgt. Hammer,Volskaya Foundry,41.9,3.19,0.74,Sgthammer,Ranged,3,0
-Sonya,Volskaya Foundry,54.9,14.07,1.83,Sonya,Bruiser,2,0
-Stitches,Volskaya Foundry,44.7,14.68,1.27,Stitches,Tank,2,0
-Stukov,Volskaya Foundry,47,17.27,4.51,Stukov,Healer,3,0
-Sylvanas,Volskaya Foundry,50.8,18.92,3.9,Sylvanas,Ranged,3,0
-Tassadar,Volskaya Foundry,43.7,3.17,0.29,Tassadar,Support,4,0
-The Butcher,Volskaya Foundry,56.7,10.67,3.44,Thebutcher,Melee,2,0
-The Lost Vikings,Volskaya Foundry,40.9,1.32,0.46,Thelostvikings,Support,5,0
-Thrall,Volskaya Foundry,50.8,21.43,1.33,Thrall,Bruiser,2,0
-Tracer,Volskaya Foundry,43.5,4.1,0.7,Tracer,Ranged,4,0
-Tychus,Volskaya Foundry,49.1,11.96,2.63,Tychus,Ranged,2,0
-Tyrael,Volskaya Foundry,48.8,4.92,0.31,Tyrael,Tank,3,0
-Tyrande,Volskaya Foundry,51.5,4.76,0.22,Tyrande,Healer,3,0
-Uther,Volskaya Foundry,54.6,21.41,6.95,Uther,Healer,3,0
-Valeera,Volskaya Foundry,50.6,5.35,0.91,Valeera,Melee,4,0
-Valla,Volskaya Foundry,52.8,25.39,3.57,Valla,Ranged,2,0
-Varian,Volskaya Foundry,50.1,32.03,11.82,Varian,Bruiser,1,0
-Whitemane,Volskaya Foundry,52.1,6.01,0.49,Whitemane,Healer,4,0
-Xul,Volskaya Foundry,51.6,3.4,0.21,Xul,Bruiser,3,0
-Yrel,Volskaya Foundry,47,4.26,0.3,Yrel,Bruiser,4,0
-Zagara,Volskaya Foundry,53.8,6.25,0.75,Zagara,Ranged,3,0
-Zarya,Volskaya Foundry,51.7,5.6,0.44,Zarya,Support,4,0
-Zeratul,Volskaya Foundry,51.5,9.67,3.96,Zeratul,Melee,3,0
-Zul'jin,Volskaya Foundry,55.8,26.36,4.97,Zuljin,Ranged,3,0
+Abathur,Alterac Pass,50.77,19.12,10.21,Abathur,Support,5,0
+Alarak,Alterac Pass,49.81,35.35,27.17,Alarak,Melee,4,0
+Alexstrasza,Alterac Pass,48.44,9.47,1.88,Alexstrasza,Healer,3,0
+Ana,Alterac Pass,49.7,24.52,12,Ana,Healer,4,0
+Anduin,Alterac Pass,45.27,26.96,9.81,Anduin,Healer,2,0
+Anub'arak,Alterac Pass,50,16.05,4.48,Anubarak,Tank,3,0
+Artanis,Alterac Pass,46.49,11.54,1.54,Artanis,Bruiser,2,0
+Arthas,Alterac Pass,49.29,14.76,2.97,Arthas,Tank,3,0
+Auriel,Alterac Pass,55.46,57.51,36.4,Auriel,Healer,4,0
+Azmodan,Alterac Pass,49.4,14.86,5.51,Azmodan,Ranged,2,0
+Blaze,Alterac Pass,48.38,7.35,0.44,Blaze,Tank,3,0
+Brightwing,Alterac Pass,46.27,19.31,4.74,Brightwing,Healer,2,0
+Cassia,Alterac Pass,45.45,4.57,0.47,Cassia,Ranged,3,0
+Chen,Alterac Pass,49.9,3.97,0.78,Chen,Bruiser,4,0
+Cho,Alterac Pass,47.08,3.06,1.35,Cho,Tank,5,0
+Chromie,Alterac Pass,49.81,10.18,1.86,Chromie,Ranged,4,0
+D.Va,Alterac Pass,47.74,2.3,0.1,Dva,Bruiser,4,0
+Deathwing,Alterac Pass,60.53,90.49,83.88,Deathwing,Bruiser,2,0
+Deckard,Alterac Pass,46.87,8.01,0.76,Deckard,Healer,3,0
+Dehaka,Alterac Pass,45.76,8.4,2.54,Dehaka,Bruiser,3,0
+Diablo,Alterac Pass,45.99,35.84,15.68,Diablo,Tank,2,0
+E.T.C.,Alterac Pass,51.85,44.97,20.55,Etc,Tank,3,0
+Falstad,Alterac Pass,53.01,18.71,4.13,Falstad,Ranged,3,0
+Fenix,Alterac Pass,52.58,6.41,0.39,Fenix,Ranged,3,0
+Gall,Alterac Pass,47.08,2.31,0.6,Gall,Ranged,4,0
+Garrosh,Alterac Pass,46.8,48.61,33.38,Garrosh,Tank,3,0
+Gazlowe,Alterac Pass,48.34,5.03,0.34,Gazlowe,Melee,3,0
+Genji,Alterac Pass,41.02,5.49,0.85,Genji,Ranged,3,0
+Greymane,Alterac Pass,50.44,21.84,4.27,Greymane,Ranged,3,0
+Gul'dan,Alterac Pass,46.57,14.99,3.14,Guldan,Ranged,3,0
+Hanzo,Alterac Pass,45.49,15.96,2.45,Hanzo,Ranged,3,0
+Illidan,Alterac Pass,47.33,8.24,1.95,Illidan,Melee,4,0
+Imperius,Alterac Pass,47.91,12.7,1.71,Imperius,Bruiser,2,0
+Jaina,Alterac Pass,50.52,24.13,5.1,Jaina,Ranged,2,0
+Johanna,Alterac Pass,50.17,58.83,26.74,Johanna,Tank,2,0
+Junkrat,Alterac Pass,47.42,11.08,3.13,Junkrat,Ranged,3,0
+Kael'thas,Alterac Pass,50.37,71.44,52.91,Kaelthas,Ranged,1,0
+Kel'Thuzad,Alterac Pass,48.37,17.6,9.21,Kelthuzad,Ranged,3,0
+Kerrigan,Alterac Pass,54.88,4.01,0.32,Kerrigan,Melee,4,0
+Kharazim,Alterac Pass,45.61,5.51,0.27,Kharazim,Healer,3,0
+Leoric,Alterac Pass,50.94,12.57,1.95,Leoric,Bruiser,2,0
+Li Li,Alterac Pass,48.28,26.24,8.56,Lili,Healer,1,0
+Li-Ming,Alterac Pass,50.34,55.64,16.48,Liming,Ranged,2,0
+Lt. Morales,Alterac Pass,47.26,9.17,2.82,Ltmorales,Healer,3,0
+Lúcio,Alterac Pass,52.32,23.64,6.74,Lucio,Healer,3,0
+Lunara,Alterac Pass,52.79,17.75,2.5,Lunara,Ranged,2,0
+Maiev,Alterac Pass,45.99,4.84,1.04,Maiev,Melee,4,0
+Mal'Ganis,Alterac Pass,57.74,26.08,10.11,Malganis,Tank,3,0
+Malfurion,Alterac Pass,49.6,11.64,1.59,Malfurion,Healer,3,0
+Malthael,Alterac Pass,49.42,10.7,2.64,Malthael,Bruiser,4,0
+Medivh,Alterac Pass,45,4.27,0.67,Medivh,Support,5,0
+Mephisto,Alterac Pass,48.81,6.84,0.56,Mephisto,Ranged,3,0
+Muradin,Alterac Pass,47.68,23.91,1.93,Muradin,Tank,1,0
+Murky,Alterac Pass,51.87,4.83,0.68,Murky,Melee,4,0
+Nazeebo,Alterac Pass,49.51,17.12,1.76,Nazeebo,Ranged,2,0
+Nova,Alterac Pass,42.52,4.28,0.38,Nova,Ranged,3,0
+Orphea,Alterac Pass,47.16,7.4,0.73,Orphea,Ranged,3,0
+Probius,Alterac Pass,47.32,1.57,0.29,Probius,Ranged,4,0
+Qhira,Alterac Pass,48.29,20.34,9.6,Qhira,Melee,2,0
+Ragnaros,Alterac Pass,54.36,16.3,4.04,Ragnaros,Bruiser,3,0
+Raynor,Alterac Pass,52.82,18.68,1.59,Raynor,Ranged,1,0
+Rehgar,Alterac Pass,53.88,17.15,1.61,Rehgar,Healer,3,0
+Rexxar,Alterac Pass,54.06,8.66,2.7,Rexxar,Bruiser,3,0
+Samuro,Alterac Pass,51.8,7.41,2.06,Samuro,Melee,3,0
+Sgt. Hammer,Alterac Pass,47.53,2.96,0.57,Sgthammer,Ranged,3,0
+Sonya,Alterac Pass,53.01,14.73,1.85,Sonya,Bruiser,2,0
+Stitches,Alterac Pass,46.77,13.66,1.26,Stitches,Tank,2,0
+Stukov,Alterac Pass,51.26,14.59,3.5,Stukov,Healer,3,0
+Sylvanas,Alterac Pass,48.9,19.39,4.16,Sylvanas,Ranged,3,0
+Tassadar,Alterac Pass,44.75,2.93,0.21,Tassadar,Support,4,0
+The Butcher,Alterac Pass,54.75,11.87,3.62,Thebutcher,Melee,2,0
+The Lost Vikings,Alterac Pass,54.2,2.5,1.02,Thelostvikings,Support,5,0
+Thrall,Alterac Pass,49.49,18.3,1.27,Thrall,Bruiser,2,0
+Tracer,Alterac Pass,48.66,4.71,0.77,Tracer,Ranged,4,0
+Tychus,Alterac Pass,48.58,11.03,2.26,Tychus,Ranged,2,0
+Tyrael,Alterac Pass,48.78,4.85,0.25,Tyrael,Tank,3,0
+Tyrande,Alterac Pass,48.94,5.21,0.21,Tyrande,Healer,3,0
+Uther,Alterac Pass,53.54,21.72,7.05,Uther,Healer,3,0
+Valeera,Alterac Pass,50,5.64,0.98,Valeera,Melee,4,0
+Valla,Alterac Pass,53.2,24.84,3.5,Valla,Ranged,2,0
+Varian,Alterac Pass,50.16,33.91,12.72,Varian,Bruiser,1,0
+Whitemane,Alterac Pass,52.62,5.78,0.56,Whitemane,Healer,4,0
+Xul,Alterac Pass,50.86,3.39,0.16,Xul,Bruiser,3,0
+Yrel,Alterac Pass,51.15,4.28,0.24,Yrel,Bruiser,4,0
+Zagara,Alterac Pass,51.38,7.91,1.13,Zagara,Ranged,3,0
+Zarya,Alterac Pass,46.9,4.31,0.3,Zarya,Support,4,0
+Zeratul,Alterac Pass,48.06,12.14,4.61,Zeratul,Melee,3,0
+Zul'jin,Alterac Pass,50.7,20.11,3.75,Zuljin,Ranged,3,0
+Abathur,Battlefield of Eternity,39.63,5.02,1.66,Abathur,Support,5,0
+Alarak,Battlefield of Eternity,48.19,32.8,24.54,Alarak,Melee,4,0
+Alexstrasza,Battlefield of Eternity,47.29,7.17,1.43,Alexstrasza,Healer,3,0
+Ana,Battlefield of Eternity,50.67,22.79,11.64,Ana,Healer,4,0
+Anduin,Battlefield of Eternity,45.45,25.85,9.25,Anduin,Healer,2,0
+Anub'arak,Battlefield of Eternity,48.92,13.52,3.47,Anubarak,Tank,3,0
+Artanis,Battlefield of Eternity,50.08,49.11,15.86,Artanis,Bruiser,2,0
+Arthas,Battlefield of Eternity,50.79,14.2,2.78,Arthas,Tank,3,0
+Auriel,Battlefield of Eternity,53.71,57.93,34.54,Auriel,Healer,4,0
+Azmodan,Battlefield of Eternity,48.01,7.5,2.98,Azmodan,Ranged,2,0
+Blaze,Battlefield of Eternity,48.34,6.1,0.3,Blaze,Tank,3,0
+Brightwing,Battlefield of Eternity,47.71,13.13,2.94,Brightwing,Healer,2,0
+Cassia,Battlefield of Eternity,45.57,4.94,0.52,Cassia,Ranged,3,0
+Chen,Battlefield of Eternity,51.22,3.89,0.85,Chen,Bruiser,4,0
+Cho,Battlefield of Eternity,50.5,3.06,1.17,Cho,Tank,5,0
+Chromie,Battlefield of Eternity,51.14,7.93,1.4,Chromie,Ranged,4,0
+D.Va,Battlefield of Eternity,46.63,2.14,0.11,Dva,Bruiser,4,0
+Deathwing,Battlefield of Eternity,58.87,89.08,81.13,Deathwing,Bruiser,2,0
+Deckard,Battlefield of Eternity,45.78,6.01,0.63,Deckard,Healer,3,0
+Dehaka,Battlefield of Eternity,49.12,2.04,0.27,Dehaka,Bruiser,3,0
+Diablo,Battlefield of Eternity,46.18,38.13,16.25,Diablo,Tank,2,0
+E.T.C.,Battlefield of Eternity,52.49,41.74,18.66,Etc,Tank,3,0
+Falstad,Battlefield of Eternity,46.93,6.52,0.65,Falstad,Ranged,3,0
+Fenix,Battlefield of Eternity,52.29,5.1,0.34,Fenix,Ranged,3,0
+Gall,Battlefield of Eternity,50.5,2.41,0.52,Gall,Ranged,4,0
+Garrosh,Battlefield of Eternity,49.96,46.05,30.18,Garrosh,Tank,3,0
+Gazlowe,Battlefield of Eternity,50.56,4.38,0.48,Gazlowe,Melee,3,0
+Genji,Battlefield of Eternity,38.61,4.18,0.6,Genji,Ranged,3,0
+Greymane,Battlefield of Eternity,49.84,42.35,14.05,Greymane,Ranged,3,0
+Gul'dan,Battlefield of Eternity,45.2,10.27,1.91,Guldan,Ranged,3,0
+Hanzo,Battlefield of Eternity,42.07,19.14,5.3,Hanzo,Ranged,3,0
+Illidan,Battlefield of Eternity,44.25,4.7,0.75,Illidan,Melee,4,0
+Imperius,Battlefield of Eternity,47.62,11.79,1.58,Imperius,Bruiser,2,0
+Jaina,Battlefield of Eternity,50.79,19.85,3.29,Jaina,Ranged,2,0
+Johanna,Battlefield of Eternity,50.18,59.56,26.52,Johanna,Tank,2,0
+Junkrat,Battlefield of Eternity,44.1,3.9,0.69,Junkrat,Ranged,3,0
+Kael'thas,Battlefield of Eternity,52.41,64.18,47.45,Kaelthas,Ranged,1,0
+Kel'Thuzad,Battlefield of Eternity,54.53,12.77,5.36,Kelthuzad,Ranged,3,0
+Kerrigan,Battlefield of Eternity,55.24,2.77,0.16,Kerrigan,Melee,4,0
+Kharazim,Battlefield of Eternity,49.32,7.62,0.29,Kharazim,Healer,3,0
+Leoric,Battlefield of Eternity,48.09,10.21,1.41,Leoric,Bruiser,2,0
+Li Li,Battlefield of Eternity,45.97,31.76,10.4,Lili,Healer,1,0
+Li-Ming,Battlefield of Eternity,52.3,61.56,16.9,Liming,Ranged,2,0
+Lt. Morales,Battlefield of Eternity,50.84,12.5,3.61,Ltmorales,Healer,3,0
+Lúcio,Battlefield of Eternity,53.79,22.61,6.22,Lucio,Healer,3,0
+Lunara,Battlefield of Eternity,52.06,26.29,5.79,Lunara,Ranged,2,0
+Maiev,Battlefield of Eternity,51.04,3.86,0.86,Maiev,Melee,4,0
+Mal'Ganis,Battlefield of Eternity,57.12,22.87,8.42,Malganis,Tank,3,0
+Malfurion,Battlefield of Eternity,51.52,10.5,1.68,Malfurion,Healer,3,0
+Malthael,Battlefield of Eternity,50.98,12.67,3.79,Malthael,Bruiser,4,0
+Medivh,Battlefield of Eternity,43.15,2.75,0.35,Medivh,Support,5,0
+Mephisto,Battlefield of Eternity,51.94,4.44,0.45,Mephisto,Ranged,3,0
+Muradin,Battlefield of Eternity,47.38,25.6,2.1,Muradin,Tank,1,0
+Murky,Battlefield of Eternity,47.64,1.95,0.37,Murky,Melee,4,0
+Nazeebo,Battlefield of Eternity,46.94,10.8,1.27,Nazeebo,Ranged,2,0
+Nova,Battlefield of Eternity,43.05,3.52,0.25,Nova,Ranged,3,0
+Orphea,Battlefield of Eternity,49.19,5.43,0.45,Orphea,Ranged,3,0
+Probius,Battlefield of Eternity,54.96,1.04,0.22,Probius,Ranged,4,0
+Qhira,Battlefield of Eternity,47.74,16.78,7.84,Qhira,Melee,2,0
+Ragnaros,Battlefield of Eternity,52.09,5.77,1.17,Ragnaros,Bruiser,3,0
+Raynor,Battlefield of Eternity,51.73,28.75,4.67,Raynor,Ranged,1,0
+Rehgar,Battlefield of Eternity,52.23,17.4,1.81,Rehgar,Healer,3,0
+Rexxar,Battlefield of Eternity,56.13,6.04,1.73,Rexxar,Bruiser,3,0
+Samuro,Battlefield of Eternity,48.99,6.62,1.4,Samuro,Melee,3,0
+Sgt. Hammer,Battlefield of Eternity,48.41,3.98,0.86,Sgthammer,Ranged,3,0
+Sonya,Battlefield of Eternity,51.8,14.87,1.55,Sonya,Bruiser,2,0
+Stitches,Battlefield of Eternity,44.12,10.29,0.88,Stitches,Tank,2,0
+Stukov,Battlefield of Eternity,51.29,12.72,2.63,Stukov,Healer,3,0
+Sylvanas,Battlefield of Eternity,46.48,19.11,4.56,Sylvanas,Ranged,3,0
+Tassadar,Battlefield of Eternity,44.76,2.93,0.32,Tassadar,Support,4,0
+The Butcher,Battlefield of Eternity,49.17,9.25,2.92,Thebutcher,Melee,2,0
+The Lost Vikings,Battlefield of Eternity,42.65,0.77,0.35,Thelostvikings,Support,5,0
+Thrall,Battlefield of Eternity,50.56,18.28,0.97,Thrall,Bruiser,2,0
+Tracer,Battlefield of Eternity,42.27,3.88,0.43,Tracer,Ranged,4,0
+Tychus,Battlefield of Eternity,49.17,9.87,2.42,Tychus,Ranged,2,0
+Tyrael,Battlefield of Eternity,50.56,4.67,0.19,Tyrael,Tank,3,0
+Tyrande,Battlefield of Eternity,46.07,8.91,0.78,Tyrande,Healer,3,0
+Uther,Battlefield of Eternity,53.89,19.49,5.97,Uther,Healer,3,0
+Valeera,Battlefield of Eternity,43.26,4.97,0.82,Valeera,Melee,4,0
+Valla,Battlefield of Eternity,54.23,76.38,27.41,Valla,Ranged,2,0
+Varian,Battlefield of Eternity,50.53,34.71,11.44,Varian,Bruiser,1,0
+Whitemane,Battlefield of Eternity,48.81,5.33,0.38,Whitemane,Healer,4,0
+Xul,Battlefield of Eternity,46.03,1.68,0.11,Xul,Bruiser,3,0
+Yrel,Battlefield of Eternity,50,3.05,0.27,Yrel,Bruiser,4,0
+Zagara,Battlefield of Eternity,48.41,4.18,0.45,Zagara,Ranged,3,0
+Zarya,Battlefield of Eternity,46.18,4.09,0.43,Zarya,Support,4,0
+Zeratul,Battlefield of Eternity,46.75,7,2.42,Zeratul,Melee,3,0
+Zul'jin,Battlefield of Eternity,49.86,27.66,7.96,Zuljin,Ranged,3,0
+Abathur,Braxis Holdout,45.11,4.23,1.43,Abathur,Support,5,0
+Alarak,Braxis Holdout,49.42,33.72,24.1,Alarak,Melee,4,0
+Alexstrasza,Braxis Holdout,45.32,9.2,1.89,Alexstrasza,Healer,3,0
+Ana,Braxis Holdout,48.73,26.4,12.67,Ana,Healer,4,0
+Anduin,Braxis Holdout,45.42,25.96,8.78,Anduin,Healer,2,0
+Anub'arak,Braxis Holdout,46.49,12.97,3.49,Anubarak,Tank,3,0
+Artanis,Braxis Holdout,50.73,12.71,2.06,Artanis,Bruiser,2,0
+Arthas,Braxis Holdout,51.25,13.52,2.37,Arthas,Tank,3,0
+Auriel,Braxis Holdout,54.19,60.19,35.21,Auriel,Healer,4,0
+Azmodan,Braxis Holdout,51.89,12.1,4.2,Azmodan,Ranged,2,0
+Blaze,Braxis Holdout,50.52,7.78,0.58,Blaze,Tank,3,0
+Brightwing,Braxis Holdout,51.11,18.88,4.39,Brightwing,Healer,2,0
+Cassia,Braxis Holdout,46.42,3.94,0.3,Cassia,Ranged,3,0
+Chen,Braxis Holdout,46.66,5.96,1.68,Chen,Bruiser,4,0
+Cho,Braxis Holdout,43.57,3.59,1.22,Cho,Tank,5,0
+Chromie,Braxis Holdout,50.53,12.03,2.57,Chromie,Ranged,4,0
+D.Va,Braxis Holdout,47.2,2.52,0.19,Dva,Bruiser,4,0
+Deathwing,Braxis Holdout,58.93,90.09,82.5,Deathwing,Bruiser,2,0
+Deckard,Braxis Holdout,48.24,7.55,0.66,Deckard,Healer,3,0
+Dehaka,Braxis Holdout,45.17,4.91,1.37,Dehaka,Bruiser,3,0
+Diablo,Braxis Holdout,45.69,34.07,13.79,Diablo,Tank,2,0
+E.T.C.,Braxis Holdout,52.56,41.23,17.84,Etc,Tank,3,0
+Falstad,Braxis Holdout,48.15,8.7,1.13,Falstad,Ranged,3,0
+Fenix,Braxis Holdout,55.17,10.11,1.21,Fenix,Ranged,3,0
+Gall,Braxis Holdout,43.57,3.06,0.7,Gall,Ranged,4,0
+Garrosh,Braxis Holdout,50,51.03,32.77,Garrosh,Tank,3,0
+Gazlowe,Braxis Holdout,51.45,4.94,0.43,Gazlowe,Melee,3,0
+Genji,Braxis Holdout,42.86,7,1.13,Genji,Ranged,3,0
+Greymane,Braxis Holdout,50.59,17.85,3.01,Greymane,Ranged,3,0
+Gul'dan,Braxis Holdout,47.79,40.4,11.34,Guldan,Ranged,3,0
+Hanzo,Braxis Holdout,44.97,10.95,1.55,Hanzo,Ranged,3,0
+Illidan,Braxis Holdout,43.39,3.82,0.62,Illidan,Melee,4,0
+Imperius,Braxis Holdout,50.5,11.37,2.11,Imperius,Bruiser,2,0
+Jaina,Braxis Holdout,47.9,25.95,4.92,Jaina,Ranged,2,0
+Johanna,Braxis Holdout,52.1,58.24,24.28,Johanna,Tank,2,0
+Junkrat,Braxis Holdout,47.64,9.82,1.64,Junkrat,Ranged,3,0
+Kael'thas,Braxis Holdout,51.5,76.46,52.62,Kaelthas,Ranged,1,0
+Kel'Thuzad,Braxis Holdout,52.76,22,8.27,Kelthuzad,Ranged,3,0
+Kerrigan,Braxis Holdout,52.25,3.02,0.12,Kerrigan,Melee,4,0
+Kharazim,Braxis Holdout,48.64,4.11,0.23,Kharazim,Healer,3,0
+Leoric,Braxis Holdout,52.41,15.96,2.94,Leoric,Bruiser,2,0
+Li Li,Braxis Holdout,49.06,22.11,6.86,Lili,Healer,1,0
+Li-Ming,Braxis Holdout,51.54,37.34,12.31,Liming,Ranged,2,0
+Lt. Morales,Braxis Holdout,53.53,12.98,3.55,Ltmorales,Healer,3,0
+Lúcio,Braxis Holdout,50.52,21.74,5.65,Lucio,Healer,3,0
+Lunara,Braxis Holdout,53.98,15.2,2,Lunara,Ranged,2,0
+Maiev,Braxis Holdout,49.63,5.25,1.03,Maiev,Melee,4,0
+Mal'Ganis,Braxis Holdout,53.57,22.11,8.03,Malganis,Tank,3,0
+Malfurion,Braxis Holdout,50.84,12.7,1.6,Malfurion,Healer,3,0
+Malthael,Braxis Holdout,51.9,13.47,3.96,Malthael,Bruiser,4,0
+Medivh,Braxis Holdout,44.01,2.78,0.4,Medivh,Support,5,0
+Mephisto,Braxis Holdout,49.34,6.14,0.47,Mephisto,Ranged,3,0
+Muradin,Braxis Holdout,48.43,21.73,1.73,Muradin,Tank,1,0
+Murky,Braxis Holdout,39.21,1.75,0.34,Murky,Melee,4,0
+Nazeebo,Braxis Holdout,46.04,11.65,1.12,Nazeebo,Ranged,2,0
+Nova,Braxis Holdout,41.63,3.11,0.22,Nova,Ranged,3,0
+Orphea,Braxis Holdout,53.44,6.61,0.57,Orphea,Ranged,3,0
+Probius,Braxis Holdout,48.54,1.8,0.31,Probius,Ranged,4,0
+Qhira,Braxis Holdout,50.72,19.11,8.33,Qhira,Melee,2,0
+Ragnaros,Braxis Holdout,47.23,41.94,19.75,Ragnaros,Bruiser,3,0
+Raynor,Braxis Holdout,51.04,20.11,1.51,Raynor,Ranged,1,0
+Rehgar,Braxis Holdout,50.19,12.68,1.06,Rehgar,Healer,3,0
+Rexxar,Braxis Holdout,59.57,45.91,27.89,Rexxar,Bruiser,3,0
+Samuro,Braxis Holdout,52.08,4.66,0.93,Samuro,Melee,3,0
+Sgt. Hammer,Braxis Holdout,48.02,4,0.71,Sgthammer,Ranged,3,0
+Sonya,Braxis Holdout,55.08,17.93,2.95,Sonya,Bruiser,2,0
+Stitches,Braxis Holdout,46.68,13.96,1.04,Stitches,Tank,2,0
+Stukov,Braxis Holdout,50.45,18.23,4.57,Stukov,Healer,3,0
+Sylvanas,Braxis Holdout,47.62,21.36,4.62,Sylvanas,Ranged,3,0
+Tassadar,Braxis Holdout,41.25,2.61,0.23,Tassadar,Support,4,0
+The Butcher,Braxis Holdout,50.7,9.07,2.85,Thebutcher,Melee,2,0
+The Lost Vikings,Braxis Holdout,37.5,0.66,0.36,Thelostvikings,Support,5,0
+Thrall,Braxis Holdout,46.26,16.31,1.27,Thrall,Bruiser,2,0
+Tracer,Braxis Holdout,42.61,3.01,0.49,Tracer,Ranged,4,0
+Tychus,Braxis Holdout,46.88,10.9,2.43,Tychus,Ranged,2,0
+Tyrael,Braxis Holdout,45.27,3.59,0.17,Tyrael,Tank,3,0
+Tyrande,Braxis Holdout,48.61,4.91,0.22,Tyrande,Healer,3,0
+Uther,Braxis Holdout,51.91,15.38,4.95,Uther,Healer,3,0
+Valeera,Braxis Holdout,45.16,4.33,0.67,Valeera,Melee,4,0
+Valla,Braxis Holdout,48.93,25.61,3.29,Valla,Ranged,2,0
+Varian,Braxis Holdout,47.62,28.87,10.83,Varian,Bruiser,1,0
+Whitemane,Braxis Holdout,47.14,5.28,0.39,Whitemane,Healer,4,0
+Xul,Braxis Holdout,43.86,2.74,0.16,Xul,Bruiser,3,0
+Yrel,Braxis Holdout,46.5,4.51,0.51,Yrel,Bruiser,4,0
+Zagara,Braxis Holdout,52.62,9.64,1.35,Zagara,Ranged,3,0
+Zarya,Braxis Holdout,50.76,4.97,0.45,Zarya,Support,4,0
+Zeratul,Braxis Holdout,48.51,5.14,2,Zeratul,Melee,3,0
+Zul'jin,Braxis Holdout,54.4,23.28,3.63,Zuljin,Ranged,3,0
+Abathur,Cursed Hollow,48.07,31.56,17.42,Abathur,Support,5,0
+Alarak,Cursed Hollow,46.91,32.51,25.07,Alarak,Melee,4,0
+Alexstrasza,Cursed Hollow,52.83,8.75,1.62,Alexstrasza,Healer,3,0
+Ana,Cursed Hollow,50.85,22.13,11.88,Ana,Healer,4,0
+Anduin,Cursed Hollow,47.1,26.18,9.33,Anduin,Healer,2,0
+Anub'arak,Cursed Hollow,49.73,14.06,3.7,Anubarak,Tank,3,0
+Artanis,Cursed Hollow,50.16,10.96,1.37,Artanis,Bruiser,2,0
+Arthas,Cursed Hollow,51.27,13.99,2.72,Arthas,Tank,3,0
+Auriel,Cursed Hollow,54.22,55.67,35.42,Auriel,Healer,4,0
+Azmodan,Cursed Hollow,49.41,14.97,6,Azmodan,Ranged,2,0
+Blaze,Cursed Hollow,49.48,6.28,0.29,Blaze,Tank,3,0
+Brightwing,Cursed Hollow,48.5,28.64,7.78,Brightwing,Healer,2,0
+Cassia,Cursed Hollow,47.21,4.34,0.32,Cassia,Ranged,3,0
+Chen,Cursed Hollow,53.56,3.69,0.54,Chen,Bruiser,4,0
+Cho,Cursed Hollow,52.81,2.48,1.04,Cho,Tank,5,0
+Chromie,Cursed Hollow,48.13,8.69,1.54,Chromie,Ranged,4,0
+D.Va,Cursed Hollow,48.36,2,0.11,Dva,Bruiser,4,0
+Deathwing,Cursed Hollow,61.93,89.95,83.39,Deathwing,Bruiser,2,0
+Deckard,Cursed Hollow,45.44,6.72,0.66,Deckard,Healer,3,0
+Dehaka,Cursed Hollow,46.43,22.17,8.42,Dehaka,Bruiser,3,0
+Diablo,Cursed Hollow,46.38,43.27,17.7,Diablo,Tank,2,0
+E.T.C.,Cursed Hollow,52.82,44.94,19.72,Etc,Tank,3,0
+Falstad,Cursed Hollow,51.6,35.1,10.98,Falstad,Ranged,3,0
+Fenix,Cursed Hollow,54.46,5.9,0.34,Fenix,Ranged,3,0
+Gall,Cursed Hollow,52.81,2.07,0.63,Gall,Ranged,4,0
+Garrosh,Cursed Hollow,43.93,43.4,29.31,Garrosh,Tank,3,0
+Gazlowe,Cursed Hollow,54.07,4.67,0.32,Gazlowe,Melee,3,0
+Genji,Cursed Hollow,42.44,5.61,0.76,Genji,Ranged,3,0
+Greymane,Cursed Hollow,49.77,24.7,4.75,Greymane,Ranged,3,0
+Gul'dan,Cursed Hollow,45.53,12.26,2.53,Guldan,Ranged,3,0
+Hanzo,Cursed Hollow,46.38,16.45,2.44,Hanzo,Ranged,3,0
+Illidan,Cursed Hollow,50.82,11.87,3.14,Illidan,Melee,4,0
+Imperius,Cursed Hollow,49.9,11.14,1.35,Imperius,Bruiser,2,0
+Jaina,Cursed Hollow,49.52,22.9,4.31,Jaina,Ranged,2,0
+Johanna,Cursed Hollow,50.59,54.27,24.43,Johanna,Tank,2,0
+Junkrat,Cursed Hollow,46.95,6.94,1.23,Junkrat,Ranged,3,0
+Kael'thas,Cursed Hollow,50.09,69.5,51.3,Kaelthas,Ranged,1,0
+Kel'Thuzad,Cursed Hollow,46.01,14.66,7.42,Kelthuzad,Ranged,3,0
+Kerrigan,Cursed Hollow,54,3.59,0.25,Kerrigan,Melee,4,0
+Kharazim,Cursed Hollow,49.4,5.97,0.25,Kharazim,Healer,3,0
+Leoric,Cursed Hollow,49.56,11.65,1.79,Leoric,Bruiser,2,0
+Li Li,Cursed Hollow,49.87,25.37,8.56,Lili,Healer,1,0
+Li-Ming,Cursed Hollow,49.86,55.5,16.66,Liming,Ranged,2,0
+Lt. Morales,Cursed Hollow,43.63,9.15,2.61,Ltmorales,Healer,3,0
+Lúcio,Cursed Hollow,50.9,22.62,6.01,Lucio,Healer,3,0
+Lunara,Cursed Hollow,51.58,16.71,2.4,Lunara,Ranged,2,0
+Maiev,Cursed Hollow,51.41,4.12,0.82,Maiev,Melee,4,0
+Mal'Ganis,Cursed Hollow,55.25,24.07,8.9,Malganis,Tank,3,0
+Malfurion,Cursed Hollow,48.26,10.56,1.47,Malfurion,Healer,3,0
+Malthael,Cursed Hollow,50.87,11.06,2.88,Malthael,Bruiser,4,0
+Medivh,Cursed Hollow,45.33,3.74,0.54,Medivh,Support,5,0
+Mephisto,Cursed Hollow,49.68,5.35,0.45,Mephisto,Ranged,3,0
+Muradin,Cursed Hollow,49.04,22.76,2.03,Muradin,Tank,1,0
+Murky,Cursed Hollow,46.83,5.32,0.71,Murky,Melee,4,0
+Nazeebo,Cursed Hollow,48.73,15.07,1.62,Nazeebo,Ranged,2,0
+Nova,Cursed Hollow,43.04,4.77,0.35,Nova,Ranged,3,0
+Orphea,Cursed Hollow,46.92,7.19,0.54,Orphea,Ranged,3,0
+Probius,Cursed Hollow,43.79,1.19,0.24,Probius,Ranged,4,0
+Qhira,Cursed Hollow,49.79,19.5,9.01,Qhira,Melee,2,0
+Ragnaros,Cursed Hollow,53.36,12.59,2.61,Ragnaros,Bruiser,3,0
+Raynor,Cursed Hollow,51.7,17.78,1.46,Raynor,Ranged,1,0
+Rehgar,Cursed Hollow,53.59,17.97,1.67,Rehgar,Healer,3,0
+Rexxar,Cursed Hollow,55.92,6.56,1.63,Rexxar,Bruiser,3,0
+Samuro,Cursed Hollow,53.34,8.14,2.27,Samuro,Melee,3,0
+Sgt. Hammer,Cursed Hollow,47.34,2.48,0.5,Sgthammer,Ranged,3,0
+Sonya,Cursed Hollow,54.05,14.33,1.6,Sonya,Bruiser,2,0
+Stitches,Cursed Hollow,44.25,12.08,0.84,Stitches,Tank,2,0
+Stukov,Cursed Hollow,46.29,12.32,2.69,Stukov,Healer,3,0
+Sylvanas,Cursed Hollow,50.42,18.02,4.03,Sylvanas,Ranged,3,0
+Tassadar,Cursed Hollow,44.53,2.64,0.2,Tassadar,Support,4,0
+The Butcher,Cursed Hollow,54.86,12.37,3.68,Thebutcher,Melee,2,0
+The Lost Vikings,Cursed Hollow,51.34,3.63,1.32,Thelostvikings,Support,5,0
+Thrall,Cursed Hollow,50.99,15.81,0.98,Thrall,Bruiser,2,0
+Tracer,Cursed Hollow,45.35,4.56,0.61,Tracer,Ranged,4,0
+Tychus,Cursed Hollow,49.52,10.73,2.29,Tychus,Ranged,2,0
+Tyrael,Cursed Hollow,52.29,5.41,0.25,Tyrael,Tank,3,0
+Tyrande,Cursed Hollow,48.01,5.76,0.29,Tyrande,Healer,3,0
+Uther,Cursed Hollow,54.49,21.36,7.09,Uther,Healer,3,0
+Valeera,Cursed Hollow,52.65,6.48,0.96,Valeera,Melee,4,0
+Valla,Cursed Hollow,51.29,23.13,3.37,Valla,Ranged,2,0
+Varian,Cursed Hollow,51.22,32.51,11.8,Varian,Bruiser,1,0
+Whitemane,Cursed Hollow,48.67,4.81,0.38,Whitemane,Healer,4,0
+Xul,Cursed Hollow,46.27,3.36,0.11,Xul,Bruiser,3,0
+Yrel,Cursed Hollow,46.64,3.42,0.28,Yrel,Bruiser,4,0
+Zagara,Cursed Hollow,53.67,10.21,1.57,Zagara,Ranged,3,0
+Zarya,Cursed Hollow,49.11,3.75,0.25,Zarya,Support,4,0
+Zeratul,Cursed Hollow,49.08,12.92,4.82,Zeratul,Melee,3,0
+Zul'jin,Cursed Hollow,50,16.07,3.26,Zuljin,Ranged,3,0
+Abathur,Dragon Shire,43.42,10.52,4.71,Abathur,Support,5,0
+Alarak,Dragon Shire,47.46,34.46,26.16,Alarak,Melee,4,0
+Alexstrasza,Dragon Shire,44.92,7.67,1.37,Alexstrasza,Healer,3,0
+Ana,Dragon Shire,46.75,23.03,11.47,Ana,Healer,4,0
+Anduin,Dragon Shire,44.26,25.38,8.92,Anduin,Healer,2,0
+Anub'arak,Dragon Shire,49.18,14.03,3.81,Anubarak,Tank,3,0
+Artanis,Dragon Shire,46.89,11.96,1.57,Artanis,Bruiser,2,0
+Arthas,Dragon Shire,49.79,12.89,2.59,Arthas,Tank,3,0
+Auriel,Dragon Shire,57.89,56.51,36.3,Auriel,Healer,4,0
+Azmodan,Dragon Shire,49.03,11,4.3,Azmodan,Ranged,2,0
+Blaze,Dragon Shire,46.22,5.85,0.34,Blaze,Tank,3,0
+Brightwing,Dragon Shire,50.69,34.02,10.21,Brightwing,Healer,2,0
+Cassia,Dragon Shire,49.45,4.33,0.38,Cassia,Ranged,3,0
+Chen,Dragon Shire,47.88,5.02,1.34,Chen,Bruiser,4,0
+Cho,Dragon Shire,51.23,2.68,1.16,Cho,Tank,5,0
+Chromie,Dragon Shire,49.27,8.04,1.22,Chromie,Ranged,4,0
+D.Va,Dragon Shire,49.82,1.89,0.14,Dva,Bruiser,4,0
+Deathwing,Dragon Shire,54.88,89.79,82.85,Deathwing,Bruiser,2,0
+Deckard,Dragon Shire,42.67,5.69,0.47,Deckard,Healer,3,0
+Dehaka,Dragon Shire,47.89,17,7.73,Dehaka,Bruiser,3,0
+Diablo,Dragon Shire,48.42,40.21,15.48,Diablo,Tank,2,0
+E.T.C.,Dragon Shire,53.02,44.25,19.65,Etc,Tank,3,0
+Falstad,Dragon Shire,51.44,30.75,10.07,Falstad,Ranged,3,0
+Fenix,Dragon Shire,54.55,6.65,0.43,Fenix,Ranged,3,0
+Gall,Dragon Shire,51.23,2.14,0.63,Gall,Ranged,4,0
+Garrosh,Dragon Shire,47.24,48.14,32.15,Garrosh,Tank,3,0
+Gazlowe,Dragon Shire,54.24,5.62,0.42,Gazlowe,Melee,3,0
+Genji,Dragon Shire,39.63,5.17,0.85,Genji,Ranged,3,0
+Greymane,Dragon Shire,50.18,23.1,4.13,Greymane,Ranged,3,0
+Gul'dan,Dragon Shire,46.55,13.11,2.57,Guldan,Ranged,3,0
+Hanzo,Dragon Shire,45.29,14.1,2.03,Hanzo,Ranged,3,0
+Illidan,Dragon Shire,50.52,7.3,1.32,Illidan,Melee,4,0
+Imperius,Dragon Shire,46.35,12.62,1.88,Imperius,Bruiser,2,0
+Jaina,Dragon Shire,49.44,24.31,4.46,Jaina,Ranged,2,0
+Johanna,Dragon Shire,51.17,54.06,25.07,Johanna,Tank,2,0
+Junkrat,Dragon Shire,50.35,7.91,1.67,Junkrat,Ranged,3,0
+Kael'thas,Dragon Shire,50.71,70.38,50.56,Kaelthas,Ranged,1,0
+Kel'Thuzad,Dragon Shire,50.59,15,7.1,Kelthuzad,Ranged,3,0
+Kerrigan,Dragon Shire,54.33,3.82,0.23,Kerrigan,Melee,4,0
+Kharazim,Dragon Shire,50.36,6.22,0.26,Kharazim,Healer,3,0
+Leoric,Dragon Shire,53.88,14.33,2.16,Leoric,Bruiser,2,0
+Li Li,Dragon Shire,49.76,24.93,8.23,Lili,Healer,1,0
+Li-Ming,Dragon Shire,48.77,50.47,15.48,Liming,Ranged,2,0
+Lt. Morales,Dragon Shire,45.53,9.61,2.73,Ltmorales,Healer,3,0
+Lúcio,Dragon Shire,48.33,20.53,5.66,Lucio,Healer,3,0
+Lunara,Dragon Shire,52.71,18.27,2.3,Lunara,Ranged,2,0
+Maiev,Dragon Shire,47.54,4.33,0.91,Maiev,Melee,4,0
+Mal'Ganis,Dragon Shire,51.97,22.35,8.49,Malganis,Tank,3,0
+Malfurion,Dragon Shire,50.9,10.58,1.56,Malfurion,Healer,3,0
+Malthael,Dragon Shire,51.44,12.11,3.29,Malthael,Bruiser,4,0
+Medivh,Dragon Shire,45,3.23,0.37,Medivh,Support,5,0
+Mephisto,Dragon Shire,52.17,5.03,0.44,Mephisto,Ranged,3,0
+Muradin,Dragon Shire,48.69,23.81,2.16,Muradin,Tank,1,0
+Murky,Dragon Shire,57.18,4.92,0.68,Murky,Melee,4,0
+Nazeebo,Dragon Shire,50.14,16.83,1.59,Nazeebo,Ranged,2,0
+Nova,Dragon Shire,47.43,4.81,0.34,Nova,Ranged,3,0
+Orphea,Dragon Shire,47.18,6.96,0.56,Orphea,Ranged,3,0
+Probius,Dragon Shire,45.83,1.45,0.26,Probius,Ranged,4,0
+Qhira,Dragon Shire,45.25,20.78,9.66,Qhira,Melee,2,0
+Ragnaros,Dragon Shire,56.3,8.5,1.78,Ragnaros,Bruiser,3,0
+Raynor,Dragon Shire,48.8,18.54,1.74,Raynor,Ranged,1,0
+Rehgar,Dragon Shire,53.56,18.51,1.68,Rehgar,Healer,3,0
+Rexxar,Dragon Shire,56.63,29.55,16.98,Rexxar,Bruiser,3,0
+Samuro,Dragon Shire,51.95,7.22,1.78,Samuro,Melee,3,0
+Sgt. Hammer,Dragon Shire,47.6,2.54,0.46,Sgthammer,Ranged,3,0
+Sonya,Dragon Shire,55.32,16.8,2.44,Sonya,Bruiser,2,0
+Stitches,Dragon Shire,46.83,12.62,0.96,Stitches,Tank,2,0
+Stukov,Dragon Shire,44.57,10.44,2.31,Stukov,Healer,3,0
+Sylvanas,Dragon Shire,48.63,18.17,3.41,Sylvanas,Ranged,3,0
+Tassadar,Dragon Shire,44.99,2.6,0.19,Tassadar,Support,4,0
+The Butcher,Dragon Shire,53.45,12.67,3.47,Thebutcher,Melee,2,0
+The Lost Vikings,Dragon Shire,53.72,1.82,0.65,Thelostvikings,Support,5,0
+Thrall,Dragon Shire,47.84,17.72,1.21,Thrall,Bruiser,2,0
+Tracer,Dragon Shire,47.38,4.75,0.6,Tracer,Ranged,4,0
+Tychus,Dragon Shire,45.26,12,2.57,Tychus,Ranged,2,0
+Tyrael,Dragon Shire,48.4,4.44,0.17,Tyrael,Tank,3,0
+Tyrande,Dragon Shire,49.04,5.36,0.16,Tyrande,Healer,3,0
+Uther,Dragon Shire,56.08,20.74,6.99,Uther,Healer,3,0
+Valeera,Dragon Shire,49.08,6.84,1.11,Valeera,Melee,4,0
+Valla,Dragon Shire,50.81,25.46,3.51,Valla,Ranged,2,0
+Varian,Dragon Shire,50.16,32.74,11.67,Varian,Bruiser,1,0
+Whitemane,Dragon Shire,50.58,5.32,0.53,Whitemane,Healer,4,0
+Xul,Dragon Shire,50.52,3.19,0.19,Xul,Bruiser,3,0
+Yrel,Dragon Shire,50.55,4.3,0.34,Yrel,Bruiser,4,0
+Zagara,Dragon Shire,54.57,10.12,1.42,Zagara,Ranged,3,0
+Zarya,Dragon Shire,44.94,3,0.23,Zarya,Support,4,0
+Zeratul,Dragon Shire,50.43,10.97,3.82,Zeratul,Melee,3,0
+Zul'jin,Dragon Shire,52.97,20.41,3.69,Zuljin,Ranged,3,0
+Abathur,Hanamura Temple,47.25,7.63,3.1,Abathur,Support,5,0
+Alarak,Hanamura Temple,46.96,37.35,27.63,Alarak,Melee,4,0
+Alexstrasza,Hanamura Temple,49.74,7.52,1.56,Alexstrasza,Healer,3,0
+Ana,Hanamura Temple,48.59,24.69,13.26,Ana,Healer,4,0
+Anduin,Hanamura Temple,45.76,28.32,10.01,Anduin,Healer,2,0
+Anub'arak,Hanamura Temple,48.11,16.55,4.69,Anubarak,Tank,3,0
+Artanis,Hanamura Temple,52.71,22.56,4.92,Artanis,Bruiser,2,0
+Arthas,Hanamura Temple,51.17,14.35,2.94,Arthas,Tank,3,0
+Auriel,Hanamura Temple,48.45,57.09,36.65,Auriel,Healer,4,0
+Azmodan,Hanamura Temple,46.84,10.86,3.98,Azmodan,Ranged,2,0
+Blaze,Hanamura Temple,46.79,6.91,0.33,Blaze,Tank,3,0
+Brightwing,Hanamura Temple,50,17.7,4.4,Brightwing,Healer,2,0
+Cassia,Hanamura Temple,49.61,5.16,0.44,Cassia,Ranged,3,0
+Chen,Hanamura Temple,50.3,5.53,1.37,Chen,Bruiser,4,0
+Cho,Hanamura Temple,43.64,3.69,1.54,Cho,Tank,5,0
+Chromie,Hanamura Temple,47.53,8.17,1.38,Chromie,Ranged,4,0
+D.Va,Hanamura Temple,46.18,2.33,0.14,Dva,Bruiser,4,0
+Deathwing,Hanamura Temple,59.88,89.31,82.83,Deathwing,Bruiser,2,0
+Deckard,Hanamura Temple,48.15,6.16,0.61,Deckard,Healer,3,0
+Dehaka,Hanamura Temple,42.86,3.11,0.72,Dehaka,Bruiser,3,0
+Diablo,Hanamura Temple,41.24,29.16,14.04,Diablo,Tank,2,0
+E.T.C.,Hanamura Temple,52.91,46.79,20.76,Etc,Tank,3,0
+Falstad,Hanamura Temple,47.84,10.33,1.7,Falstad,Ranged,3,0
+Fenix,Hanamura Temple,53.99,7.01,0.39,Fenix,Ranged,3,0
+Gall,Hanamura Temple,43.64,2.85,0.7,Gall,Ranged,4,0
+Garrosh,Hanamura Temple,46.89,49.2,33.6,Garrosh,Tank,3,0
+Gazlowe,Hanamura Temple,48.44,3.54,0.36,Gazlowe,Melee,3,0
+Genji,Hanamura Temple,39.57,6.95,1.14,Genji,Ranged,3,0
+Greymane,Hanamura Temple,51.19,23.2,4.85,Greymane,Ranged,3,0
+Gul'dan,Hanamura Temple,45.1,13.56,2.77,Guldan,Ranged,3,0
+Hanzo,Hanamura Temple,46.07,14.12,2.64,Hanzo,Ranged,3,0
+Illidan,Hanamura Temple,50.78,6.43,1.22,Illidan,Melee,4,0
+Imperius,Hanamura Temple,47.08,13.65,2.14,Imperius,Bruiser,2,0
+Jaina,Hanamura Temple,52.83,24.99,4.7,Jaina,Ranged,2,0
+Johanna,Hanamura Temple,53.08,58.74,26.87,Johanna,Tank,2,0
+Junkrat,Hanamura Temple,48.45,6.38,1.16,Junkrat,Ranged,3,0
+Kael'thas,Hanamura Temple,49.5,69.8,51.18,Kaelthas,Ranged,1,0
+Kel'Thuzad,Hanamura Temple,53.62,17.59,8.65,Kelthuzad,Ranged,3,0
+Kerrigan,Hanamura Temple,52.6,3.97,0.25,Kerrigan,Melee,4,0
+Kharazim,Hanamura Temple,49.16,5.42,0.24,Kharazim,Healer,3,0
+Leoric,Hanamura Temple,46.18,12.88,2.23,Leoric,Bruiser,2,0
+Li Li,Hanamura Temple,52.17,27.26,9.06,Lili,Healer,1,0
+Li-Ming,Hanamura Temple,49.78,56.77,16.6,Liming,Ranged,2,0
+Lt. Morales,Hanamura Temple,48.06,10.62,3.41,Ltmorales,Healer,3,0
+Lúcio,Hanamura Temple,52.47,27.48,7.69,Lucio,Healer,3,0
+Lunara,Hanamura Temple,54.12,20.23,3.01,Lunara,Ranged,2,0
+Maiev,Hanamura Temple,50.31,4.97,0.9,Maiev,Melee,4,0
+Mal'Ganis,Hanamura Temple,57.37,26.55,10.83,Malganis,Tank,3,0
+Malfurion,Hanamura Temple,48.93,11.97,1.53,Malfurion,Healer,3,0
+Malthael,Hanamura Temple,49.96,11.65,3.22,Malthael,Bruiser,4,0
+Medivh,Hanamura Temple,41.58,4.11,0.42,Medivh,Support,5,0
+Mephisto,Hanamura Temple,49.46,6.89,0.6,Mephisto,Ranged,3,0
+Muradin,Hanamura Temple,48.09,25.03,2.24,Muradin,Tank,1,0
+Murky,Hanamura Temple,43.93,2.14,0.4,Murky,Melee,4,0
+Nazeebo,Hanamura Temple,44.16,11.13,1.12,Nazeebo,Ranged,2,0
+Nova,Hanamura Temple,46.33,5.35,0.35,Nova,Ranged,3,0
+Orphea,Hanamura Temple,48.03,7.72,0.63,Orphea,Ranged,3,0
+Probius,Hanamura Temple,44.85,1.14,0.29,Probius,Ranged,4,0
+Qhira,Hanamura Temple,48.95,21.63,9.83,Qhira,Melee,2,0
+Ragnaros,Hanamura Temple,47.59,5.77,1.4,Ragnaros,Bruiser,3,0
+Raynor,Hanamura Temple,53.27,21.64,1.99,Raynor,Ranged,1,0
+Rehgar,Hanamura Temple,52.16,16.54,1.61,Rehgar,Healer,3,0
+Rexxar,Hanamura Temple,60.14,16.46,7.63,Rexxar,Bruiser,3,0
+Samuro,Hanamura Temple,56.72,7.46,1.96,Samuro,Melee,3,0
+Sgt. Hammer,Hanamura Temple,43.68,2.06,0.34,Sgthammer,Ranged,3,0
+Sonya,Hanamura Temple,54.3,17.17,2.34,Sonya,Bruiser,2,0
+Stitches,Hanamura Temple,45.28,12.84,1.05,Stitches,Tank,2,0
+Stukov,Hanamura Temple,52.6,12.58,2.41,Stukov,Healer,3,0
+Sylvanas,Hanamura Temple,50.69,20.38,4.64,Sylvanas,Ranged,3,0
+Tassadar,Hanamura Temple,45.59,3.29,0.26,Tassadar,Support,4,0
+The Butcher,Hanamura Temple,52.05,11.15,3.27,Thebutcher,Melee,2,0
+The Lost Vikings,Hanamura Temple,40.79,1,0.53,Thelostvikings,Support,5,0
+Thrall,Hanamura Temple,50.55,21.93,1.63,Thrall,Bruiser,2,0
+Tracer,Hanamura Temple,49.14,5.89,0.81,Tracer,Ranged,4,0
+Tychus,Hanamura Temple,47.25,11.75,2.47,Tychus,Ranged,2,0
+Tyrael,Hanamura Temple,52.02,5.02,0.24,Tyrael,Tank,3,0
+Tyrande,Hanamura Temple,48.67,5.38,0.22,Tyrande,Healer,3,0
+Uther,Hanamura Temple,52.42,22.29,7.3,Uther,Healer,3,0
+Valeera,Hanamura Temple,46.85,6.71,1.17,Valeera,Melee,4,0
+Valla,Hanamura Temple,50.41,28.69,4.18,Valla,Ranged,2,0
+Varian,Hanamura Temple,51.25,36.2,13.52,Varian,Bruiser,1,0
+Whitemane,Hanamura Temple,52.1,5.92,0.45,Whitemane,Healer,4,0
+Xul,Hanamura Temple,42.45,2.09,0.12,Xul,Bruiser,3,0
+Yrel,Hanamura Temple,49.05,3.85,0.25,Yrel,Bruiser,4,0
+Zagara,Hanamura Temple,52.13,5.31,0.65,Zagara,Ranged,3,0
+Zarya,Hanamura Temple,48.43,5.13,0.59,Zarya,Support,4,0
+Zeratul,Hanamura Temple,48.09,9.84,4.32,Zeratul,Melee,3,0
+Zul'jin,Hanamura Temple,50.27,22.75,4.27,Zuljin,Ranged,3,0
+Abathur,Infernal Shrines,46.62,11,5.03,Abathur,Support,5,0
+Alarak,Infernal Shrines,45.86,33.88,26.44,Alarak,Melee,4,0
+Alexstrasza,Infernal Shrines,47.88,15.5,4.21,Alexstrasza,Healer,3,0
+Ana,Infernal Shrines,48.91,23.71,12.57,Ana,Healer,4,0
+Anduin,Infernal Shrines,45.48,26.35,9.45,Anduin,Healer,2,0
+Anub'arak,Infernal Shrines,48.39,13.62,3.79,Anubarak,Tank,3,0
+Artanis,Infernal Shrines,46.38,10.68,1.5,Artanis,Bruiser,2,0
+Arthas,Infernal Shrines,50.25,15.63,3.39,Arthas,Tank,3,0
+Auriel,Infernal Shrines,56.09,58.85,36.46,Auriel,Healer,4,0
+Azmodan,Infernal Shrines,50.36,23.95,9.29,Azmodan,Ranged,2,0
+Blaze,Infernal Shrines,49.04,8.63,0.56,Blaze,Tank,3,0
+Brightwing,Infernal Shrines,47.39,17.2,3.85,Brightwing,Healer,2,0
+Cassia,Infernal Shrines,47.25,4.41,0.34,Cassia,Ranged,3,0
+Chen,Infernal Shrines,45.52,3.28,0.71,Chen,Bruiser,4,0
+Cho,Infernal Shrines,55.95,3.47,1.38,Cho,Tank,5,0
+Chromie,Infernal Shrines,48.82,7.1,1.32,Chromie,Ranged,4,0
+D.Va,Infernal Shrines,48.64,3.39,0.18,Dva,Bruiser,4,0
+Deathwing,Infernal Shrines,57.76,89.63,83.18,Deathwing,Bruiser,2,0
+Deckard,Infernal Shrines,46.9,7.91,0.8,Deckard,Healer,3,0
+Dehaka,Infernal Shrines,47.25,6.36,1.27,Dehaka,Bruiser,3,0
+Diablo,Infernal Shrines,44.61,40.83,16.97,Diablo,Tank,2,0
+E.T.C.,Infernal Shrines,52.67,43.12,20.29,Etc,Tank,3,0
+Falstad,Infernal Shrines,50.03,11.55,1.55,Falstad,Ranged,3,0
+Fenix,Infernal Shrines,50.46,7.14,0.42,Fenix,Ranged,3,0
+Gall,Infernal Shrines,55.95,2.82,0.73,Gall,Ranged,4,0
+Garrosh,Infernal Shrines,46.28,43.61,30.47,Garrosh,Tank,3,0
+Gazlowe,Infernal Shrines,55.41,6.47,0.44,Gazlowe,Melee,3,0
+Genji,Infernal Shrines,39.12,4.39,0.56,Genji,Ranged,3,0
+Greymane,Infernal Shrines,49.2,22.51,4.14,Greymane,Ranged,3,0
+Gul'dan,Infernal Shrines,48.68,24.69,7.45,Guldan,Ranged,3,0
+Hanzo,Infernal Shrines,45.15,13.97,2.25,Hanzo,Ranged,3,0
+Illidan,Infernal Shrines,46.57,6.02,1.22,Illidan,Melee,4,0
+Imperius,Infernal Shrines,46.06,11.29,1.67,Imperius,Bruiser,2,0
+Jaina,Infernal Shrines,48.55,30.75,7.66,Jaina,Ranged,2,0
+Johanna,Infernal Shrines,52.62,64.1,27.52,Johanna,Tank,2,0
+Junkrat,Infernal Shrines,48.2,9.22,1.63,Junkrat,Ranged,3,0
+Kael'thas,Infernal Shrines,52.44,80.78,56.74,Kaelthas,Ranged,1,0
+Kel'Thuzad,Infernal Shrines,51.22,18.34,8.44,Kelthuzad,Ranged,3,0
+Kerrigan,Infernal Shrines,53.79,7.45,0.96,Kerrigan,Melee,4,0
+Kharazim,Infernal Shrines,52.22,5.19,0.29,Kharazim,Healer,3,0
+Leoric,Infernal Shrines,52.37,17.55,2.74,Leoric,Bruiser,2,0
+Li Li,Infernal Shrines,46.05,24.18,8.35,Lili,Healer,1,0
+Li-Ming,Infernal Shrines,47.98,36.77,13.59,Liming,Ranged,2,0
+Lt. Morales,Infernal Shrines,50.2,8.97,2.8,Ltmorales,Healer,3,0
+Lúcio,Infernal Shrines,49.8,21.64,5.95,Lucio,Healer,3,0
+Lunara,Infernal Shrines,53.58,15.9,2.28,Lunara,Ranged,2,0
+Maiev,Infernal Shrines,51.31,5.59,1.09,Maiev,Melee,4,0
+Mal'Ganis,Infernal Shrines,53.99,23.7,8.96,Malganis,Tank,3,0
+Malfurion,Infernal Shrines,49.74,11.08,1.52,Malfurion,Healer,3,0
+Malthael,Infernal Shrines,50.37,12.82,3.54,Malthael,Bruiser,4,0
+Medivh,Infernal Shrines,43.97,3.43,0.39,Medivh,Support,5,0
+Mephisto,Infernal Shrines,53.69,7.33,0.6,Mephisto,Ranged,3,0
+Muradin,Infernal Shrines,47.98,19.62,1.45,Muradin,Tank,1,0
+Murky,Infernal Shrines,53.91,6.16,0.83,Murky,Melee,4,0
+Nazeebo,Infernal Shrines,49.76,16.12,2.04,Nazeebo,Ranged,2,0
+Nova,Infernal Shrines,44.25,3.42,0.29,Nova,Ranged,3,0
+Orphea,Infernal Shrines,47.27,8.15,0.63,Orphea,Ranged,3,0
+Probius,Infernal Shrines,52.81,1.74,0.3,Probius,Ranged,4,0
+Qhira,Infernal Shrines,47.74,18.29,9.06,Qhira,Melee,2,0
+Ragnaros,Infernal Shrines,56.46,17.32,4.1,Ragnaros,Bruiser,3,0
+Raynor,Infernal Shrines,50.57,17.99,1.57,Raynor,Ranged,1,0
+Rehgar,Infernal Shrines,54.3,18.47,1.64,Rehgar,Healer,3,0
+Rexxar,Infernal Shrines,55.34,5.49,1.65,Rexxar,Bruiser,3,0
+Samuro,Infernal Shrines,47.94,5.69,1.47,Samuro,Melee,3,0
+Sgt. Hammer,Infernal Shrines,47.38,3.85,0.89,Sgthammer,Ranged,3,0
+Sonya,Infernal Shrines,56.2,24.35,4.02,Sonya,Bruiser,2,0
+Stitches,Infernal Shrines,43.77,12.23,0.95,Stitches,Tank,2,0
+Stukov,Infernal Shrines,49.2,14.66,3.78,Stukov,Healer,3,0
+Sylvanas,Infernal Shrines,48.61,21.19,4.92,Sylvanas,Ranged,3,0
+Tassadar,Infernal Shrines,45.25,3.52,0.25,Tassadar,Support,4,0
+The Butcher,Infernal Shrines,51.39,10.52,3.15,Thebutcher,Melee,2,0
+The Lost Vikings,Infernal Shrines,45.03,1.46,0.52,Thelostvikings,Support,5,0
+Thrall,Infernal Shrines,47.98,14.26,1.15,Thrall,Bruiser,2,0
+Tracer,Infernal Shrines,48.78,3.83,0.52,Tracer,Ranged,4,0
+Tychus,Infernal Shrines,48.73,11.49,2.44,Tychus,Ranged,2,0
+Tyrael,Infernal Shrines,51.28,4.85,0.24,Tyrael,Tank,3,0
+Tyrande,Infernal Shrines,47.33,4.87,0.21,Tyrande,Healer,3,0
+Uther,Infernal Shrines,52.15,20.9,6.77,Uther,Healer,3,0
+Valeera,Infernal Shrines,46.1,5.19,0.81,Valeera,Melee,4,0
+Valla,Infernal Shrines,55.45,28.21,4.53,Valla,Ranged,2,0
+Varian,Infernal Shrines,47.77,28.04,10.47,Varian,Bruiser,1,0
+Whitemane,Infernal Shrines,51.23,5.43,0.4,Whitemane,Healer,4,0
+Xul,Infernal Shrines,52.53,5.81,0.28,Xul,Bruiser,3,0
+Yrel,Infernal Shrines,48.63,3.6,0.2,Yrel,Bruiser,4,0
+Zagara,Infernal Shrines,48.96,6.08,0.72,Zagara,Ranged,3,0
+Zarya,Infernal Shrines,54.88,4.34,0.33,Zarya,Support,4,0
+Zeratul,Infernal Shrines,47.98,10.3,3.98,Zeratul,Melee,3,0
+Zul'jin,Infernal Shrines,49.59,18.7,3.58,Zuljin,Ranged,3,0
+Abathur,Sky Temple,44.71,23.99,13.77,Abathur,Support,5,0
+Alarak,Sky Temple,46.01,33.09,25.54,Alarak,Melee,4,0
+Alexstrasza,Sky Temple,46.73,7.78,1.4,Alexstrasza,Healer,3,0
+Ana,Sky Temple,48.04,22.02,11.69,Ana,Healer,4,0
+Anduin,Sky Temple,44.45,26.05,9.09,Anduin,Healer,2,0
+Anub'arak,Sky Temple,49.43,15.01,4.1,Anubarak,Tank,3,0
+Artanis,Sky Temple,49.53,13.1,1.92,Artanis,Bruiser,2,0
+Arthas,Sky Temple,48.83,14.28,2.81,Arthas,Tank,3,0
+Auriel,Sky Temple,55.97,55.88,35.91,Auriel,Healer,4,0
+Azmodan,Sky Temple,48.54,13.84,5.09,Azmodan,Ranged,2,0
+Blaze,Sky Temple,50.74,6.2,0.33,Blaze,Tank,3,0
+Brightwing,Sky Temple,47.41,29.87,8.14,Brightwing,Healer,2,0
+Cassia,Sky Temple,48.56,4.78,0.45,Cassia,Ranged,3,0
+Chen,Sky Temple,48.55,3.57,0.79,Chen,Bruiser,4,0
+Cho,Sky Temple,51.63,2.69,1.16,Cho,Tank,5,0
+Chromie,Sky Temple,46.74,6.36,0.93,Chromie,Ranged,4,0
+D.Va,Sky Temple,47.26,2.13,0.09,Dva,Bruiser,4,0
+Deathwing,Sky Temple,57.1,89.69,83.43,Deathwing,Bruiser,2,0
+Deckard,Sky Temple,49.71,6.02,0.59,Deckard,Healer,3,0
+Dehaka,Sky Temple,46.44,17.42,7.4,Dehaka,Bruiser,3,0
+Diablo,Sky Temple,45.78,33.54,14.82,Diablo,Tank,2,0
+E.T.C.,Sky Temple,52.61,46.66,20.21,Etc,Tank,3,0
+Falstad,Sky Temple,52.81,35.93,12.05,Falstad,Ranged,3,0
+Fenix,Sky Temple,50.71,6.5,0.34,Fenix,Ranged,3,0
+Gall,Sky Temple,51.63,2.21,0.68,Gall,Ranged,4,0
+Garrosh,Sky Temple,45.31,45.98,30.94,Garrosh,Tank,3,0
+Gazlowe,Sky Temple,57.69,5.13,0.4,Gazlowe,Melee,3,0
+Genji,Sky Temple,40.53,5.43,0.74,Genji,Ranged,3,0
+Greymane,Sky Temple,52.1,25.53,4.48,Greymane,Ranged,3,0
+Gul'dan,Sky Temple,47.05,12.7,2.37,Guldan,Ranged,3,0
+Hanzo,Sky Temple,44.33,12.08,2.04,Hanzo,Ranged,3,0
+Illidan,Sky Temple,49.62,9.55,2.13,Illidan,Melee,4,0
+Imperius,Sky Temple,49.39,11.32,1.57,Imperius,Bruiser,2,0
+Jaina,Sky Temple,52.25,25.16,4.57,Jaina,Ranged,2,0
+Johanna,Sky Temple,52.65,56.96,25.68,Johanna,Tank,2,0
+Junkrat,Sky Temple,47.12,5.84,0.99,Junkrat,Ranged,3,0
+Kael'thas,Sky Temple,52.64,69.74,51.24,Kaelthas,Ranged,1,0
+Kel'Thuzad,Sky Temple,48.7,14.45,7.28,Kelthuzad,Ranged,3,0
+Kerrigan,Sky Temple,55.24,3.6,0.34,Kerrigan,Melee,4,0
+Kharazim,Sky Temple,48.92,6.27,0.24,Kharazim,Healer,3,0
+Leoric,Sky Temple,50.36,11.28,1.72,Leoric,Bruiser,2,0
+Li Li,Sky Temple,48.5,25.41,8.42,Lili,Healer,1,0
+Li-Ming,Sky Temple,47.98,50.12,15.28,Liming,Ranged,2,0
+Lt. Morales,Sky Temple,48.43,9.33,2.8,Ltmorales,Healer,3,0
+Lúcio,Sky Temple,49.84,21.74,5.94,Lucio,Healer,3,0
+Lunara,Sky Temple,53.13,17.88,2.5,Lunara,Ranged,2,0
+Maiev,Sky Temple,47.26,4.42,1.01,Maiev,Melee,4,0
+Mal'Ganis,Sky Temple,53.78,23.59,8.95,Malganis,Tank,3,0
+Malfurion,Sky Temple,49.15,10.34,1.25,Malfurion,Healer,3,0
+Malthael,Sky Temple,51.59,10.99,2.78,Malthael,Bruiser,4,0
+Medivh,Sky Temple,43.25,3.61,0.44,Medivh,Support,5,0
+Mephisto,Sky Temple,52.13,5.39,0.43,Mephisto,Ranged,3,0
+Muradin,Sky Temple,48.34,24.54,2.09,Muradin,Tank,1,0
+Murky,Sky Temple,54.09,7.52,1.13,Murky,Melee,4,0
+Nazeebo,Sky Temple,46.06,15.41,1.46,Nazeebo,Ranged,2,0
+Nova,Sky Temple,43.75,4.64,0.36,Nova,Ranged,3,0
+Orphea,Sky Temple,47.11,7.15,0.58,Orphea,Ranged,3,0
+Probius,Sky Temple,44.64,1.33,0.29,Probius,Ranged,4,0
+Qhira,Sky Temple,47.46,19.46,9.17,Qhira,Melee,2,0
+Ragnaros,Sky Temple,55.43,12.47,2.63,Ragnaros,Bruiser,3,0
+Raynor,Sky Temple,52.94,18.8,1.59,Raynor,Ranged,1,0
+Rehgar,Sky Temple,54.21,18.75,1.75,Rehgar,Healer,3,0
+Rexxar,Sky Temple,59.01,8.8,3.04,Rexxar,Bruiser,3,0
+Samuro,Sky Temple,50.45,8.77,2.55,Samuro,Melee,3,0
+Sgt. Hammer,Sky Temple,43.75,2.31,0.52,Sgthammer,Ranged,3,0
+Sonya,Sky Temple,55.63,17.98,2.29,Sonya,Bruiser,2,0
+Stitches,Sky Temple,45.75,11.65,0.91,Stitches,Tank,2,0
+Stukov,Sky Temple,48.06,10.65,2.47,Stukov,Healer,3,0
+Sylvanas,Sky Temple,51.59,19.43,4.01,Sylvanas,Ranged,3,0
+Tassadar,Sky Temple,40.34,2.77,0.2,Tassadar,Support,4,0
+The Butcher,Sky Temple,54.1,12.74,3.49,Thebutcher,Melee,2,0
+The Lost Vikings,Sky Temple,50.9,2.66,0.94,Thelostvikings,Support,5,0
+Thrall,Sky Temple,49.98,16.32,0.94,Thrall,Bruiser,2,0
+Tracer,Sky Temple,45.77,4.78,0.67,Tracer,Ranged,4,0
+Tychus,Sky Temple,48.95,10.58,2.27,Tychus,Ranged,2,0
+Tyrael,Sky Temple,49.82,5.48,0.34,Tyrael,Tank,3,0
+Tyrande,Sky Temple,49.39,5.32,0.21,Tyrande,Healer,3,0
+Uther,Sky Temple,55.46,22.08,6.89,Uther,Healer,3,0
+Valeera,Sky Temple,50.52,6.33,0.9,Valeera,Melee,4,0
+Valla,Sky Temple,50.94,24.39,3.24,Valla,Ranged,2,0
+Varian,Sky Temple,48.52,32.95,11.96,Varian,Bruiser,1,0
+Whitemane,Sky Temple,52.05,5.38,0.52,Whitemane,Healer,4,0
+Xul,Sky Temple,51.55,4.45,0.24,Xul,Bruiser,3,0
+Yrel,Sky Temple,48.12,3.56,0.25,Yrel,Bruiser,4,0
+Zagara,Sky Temple,51.18,9.75,1.56,Zagara,Ranged,3,0
+Zarya,Sky Temple,46.94,3.58,0.23,Zarya,Support,4,0
+Zeratul,Sky Temple,48.86,12.24,4.61,Zeratul,Melee,3,0
+Zul'jin,Sky Temple,45.85,16.74,3.4,Zuljin,Ranged,3,0
+Abathur,Tomb of the Spider Queen,40.27,5.2,2.01,Abathur,Support,5,0
+Alarak,Tomb of the Spider Queen,48.92,35.28,26.94,Alarak,Melee,4,0
+Alexstrasza,Tomb of the Spider Queen,45.83,8.66,1.65,Alexstrasza,Healer,3,0
+Ana,Tomb of the Spider Queen,47.3,25.33,13.27,Ana,Healer,4,0
+Anduin,Tomb of the Spider Queen,47.86,28.15,10.47,Anduin,Healer,2,0
+Anub'arak,Tomb of the Spider Queen,46.53,14.81,4.33,Anubarak,Tank,3,0
+Artanis,Tomb of the Spider Queen,48.07,10.52,1.17,Artanis,Bruiser,2,0
+Arthas,Tomb of the Spider Queen,47.09,13.47,2.46,Arthas,Tank,3,0
+Auriel,Tomb of the Spider Queen,55.32,59.25,36.64,Auriel,Healer,4,0
+Azmodan,Tomb of the Spider Queen,47.73,21.06,7.77,Azmodan,Ranged,2,0
+Blaze,Tomb of the Spider Queen,47.12,8.37,0.39,Blaze,Tank,3,0
+Brightwing,Tomb of the Spider Queen,46.44,15,3.39,Brightwing,Healer,2,0
+Cassia,Tomb of the Spider Queen,45.3,4.13,0.35,Cassia,Ranged,3,0
+Chen,Tomb of the Spider Queen,48.24,3.39,0.75,Chen,Bruiser,4,0
+Cho,Tomb of the Spider Queen,50.88,3.59,1.47,Cho,Tank,5,0
+Chromie,Tomb of the Spider Queen,47.2,6.99,1.33,Chromie,Ranged,4,0
+D.Va,Tomb of the Spider Queen,46.65,2.34,0.12,Dva,Bruiser,4,0
+Deathwing,Tomb of the Spider Queen,59.2,90.07,83.22,Deathwing,Bruiser,2,0
+Deckard,Tomb of the Spider Queen,47.73,7.15,0.73,Deckard,Healer,3,0
+Dehaka,Tomb of the Spider Queen,47.14,3.29,0.47,Dehaka,Bruiser,3,0
+Diablo,Tomb of the Spider Queen,46.41,40.81,17.86,Diablo,Tank,2,0
+E.T.C.,Tomb of the Spider Queen,53.85,42.48,20.54,Etc,Tank,3,0
+Falstad,Tomb of the Spider Queen,51.33,7.18,0.63,Falstad,Ranged,3,0
+Fenix,Tomb of the Spider Queen,51.38,6.96,0.45,Fenix,Ranged,3,0
+Gall,Tomb of the Spider Queen,50.88,2.88,0.76,Gall,Ranged,4,0
+Garrosh,Tomb of the Spider Queen,48.21,48.93,34.2,Garrosh,Tank,3,0
+Gazlowe,Tomb of the Spider Queen,54.2,4.17,0.4,Gazlowe,Melee,3,0
+Genji,Tomb of the Spider Queen,39.31,4,0.6,Genji,Ranged,3,0
+Greymane,Tomb of the Spider Queen,48.13,22.38,3.92,Greymane,Ranged,3,0
+Gul'dan,Tomb of the Spider Queen,47.34,25.71,7.25,Guldan,Ranged,3,0
+Hanzo,Tomb of the Spider Queen,43.64,12.95,1.95,Hanzo,Ranged,3,0
+Illidan,Tomb of the Spider Queen,46.15,4.59,0.71,Illidan,Melee,4,0
+Imperius,Tomb of the Spider Queen,45.92,11.6,1.69,Imperius,Bruiser,2,0
+Jaina,Tomb of the Spider Queen,53.41,30.28,6.49,Jaina,Ranged,2,0
+Johanna,Tomb of the Spider Queen,54.74,66.66,28.58,Johanna,Tank,2,0
+Junkrat,Tomb of the Spider Queen,50.24,8.29,1.78,Junkrat,Ranged,3,0
+Kael'thas,Tomb of the Spider Queen,51.8,78.13,55.68,Kaelthas,Ranged,1,0
+Kel'Thuzad,Tomb of the Spider Queen,53.17,19.42,8.74,Kelthuzad,Ranged,3,0
+Kerrigan,Tomb of the Spider Queen,55.29,5.48,0.37,Kerrigan,Melee,4,0
+Kharazim,Tomb of the Spider Queen,48.07,5.53,0.22,Kharazim,Healer,3,0
+Leoric,Tomb of the Spider Queen,49.98,18.19,2.77,Leoric,Bruiser,2,0
+Li Li,Tomb of the Spider Queen,47.67,25.1,8.66,Lili,Healer,1,0
+Li-Ming,Tomb of the Spider Queen,48.65,38.62,14.26,Liming,Ranged,2,0
+Lt. Morales,Tomb of the Spider Queen,48.75,9.89,2.92,Ltmorales,Healer,3,0
+Lúcio,Tomb of the Spider Queen,49.01,23.28,6.62,Lucio,Healer,3,0
+Lunara,Tomb of the Spider Queen,53.99,17.01,2.43,Lunara,Ranged,2,0
+Maiev,Tomb of the Spider Queen,50.62,6.22,1.17,Maiev,Melee,4,0
+Mal'Ganis,Tomb of the Spider Queen,52.32,22.68,9.3,Malganis,Tank,3,0
+Malfurion,Tomb of the Spider Queen,53.95,13.04,2.11,Malfurion,Healer,3,0
+Malthael,Tomb of the Spider Queen,50.31,11.39,3.31,Malthael,Bruiser,4,0
+Medivh,Tomb of the Spider Queen,42.32,3.85,0.53,Medivh,Support,5,0
+Mephisto,Tomb of the Spider Queen,54.32,6.32,0.57,Mephisto,Ranged,3,0
+Muradin,Tomb of the Spider Queen,45.62,19.44,1.77,Muradin,Tank,1,0
+Murky,Tomb of the Spider Queen,48.4,3.25,0.53,Murky,Melee,4,0
+Nazeebo,Tomb of the Spider Queen,50.23,32.17,4.75,Nazeebo,Ranged,2,0
+Nova,Tomb of the Spider Queen,41.03,3.6,0.35,Nova,Ranged,3,0
+Orphea,Tomb of the Spider Queen,45.31,7.58,0.62,Orphea,Ranged,3,0
+Probius,Tomb of the Spider Queen,51.32,1.65,0.23,Probius,Ranged,4,0
+Qhira,Tomb of the Spider Queen,46.59,18.05,8.83,Qhira,Melee,2,0
+Ragnaros,Tomb of the Spider Queen,54.69,26.33,7.99,Ragnaros,Bruiser,3,0
+Raynor,Tomb of the Spider Queen,50.6,18.6,1.62,Raynor,Ranged,1,0
+Rehgar,Tomb of the Spider Queen,51.64,18.79,1.88,Rehgar,Healer,3,0
+Rexxar,Tomb of the Spider Queen,58,6.13,1.47,Rexxar,Bruiser,3,0
+Samuro,Tomb of the Spider Queen,49.09,4.72,0.95,Samuro,Melee,3,0
+Sgt. Hammer,Tomb of the Spider Queen,47.47,2.33,0.48,Sgthammer,Ranged,3,0
+Sonya,Tomb of the Spider Queen,53.15,16.18,2.05,Sonya,Bruiser,2,0
+Stitches,Tomb of the Spider Queen,47.91,14.43,1.17,Stitches,Tank,2,0
+Stukov,Tomb of the Spider Queen,46.22,14.31,3.47,Stukov,Healer,3,0
+Sylvanas,Tomb of the Spider Queen,48.03,25.2,6.25,Sylvanas,Ranged,3,0
+Tassadar,Tomb of the Spider Queen,46.74,4.38,0.28,Tassadar,Support,4,0
+The Butcher,Tomb of the Spider Queen,52.57,12.81,3.73,Thebutcher,Melee,2,0
+The Lost Vikings,Tomb of the Spider Queen,36.62,0.89,0.45,Thelostvikings,Support,5,0
+Thrall,Tomb of the Spider Queen,51,15.72,1.16,Thrall,Bruiser,2,0
+Tracer,Tomb of the Spider Queen,45.27,4.16,0.48,Tracer,Ranged,4,0
+Tychus,Tomb of the Spider Queen,45.81,11.77,2.64,Tychus,Ranged,2,0
+Tyrael,Tomb of the Spider Queen,47.44,4.08,0.21,Tyrael,Tank,3,0
+Tyrande,Tomb of the Spider Queen,51.16,5.62,0.27,Tyrande,Healer,3,0
+Uther,Tomb of the Spider Queen,56.5,21.21,6.87,Uther,Healer,3,0
+Valeera,Tomb of the Spider Queen,46.3,5.23,0.78,Valeera,Melee,4,0
+Valla,Tomb of the Spider Queen,52.03,26.57,3.65,Valla,Ranged,2,0
+Varian,Tomb of the Spider Queen,48.86,29.26,10.98,Varian,Bruiser,1,0
+Whitemane,Tomb of the Spider Queen,51.16,5.86,0.5,Whitemane,Healer,4,0
+Xul,Tomb of the Spider Queen,51.65,11.9,1.34,Xul,Bruiser,3,0
+Yrel,Tomb of the Spider Queen,50.17,3.9,0.25,Yrel,Bruiser,4,0
+Zagara,Tomb of the Spider Queen,54.84,7.46,1.49,Zagara,Ranged,3,0
+Zarya,Tomb of the Spider Queen,44.28,3.59,0.27,Zarya,Support,4,0
+Zeratul,Tomb of the Spider Queen,48.59,9.25,3.52,Zeratul,Melee,3,0
+Zul'jin,Tomb of the Spider Queen,52.03,18.4,3.52,Zuljin,Ranged,3,0
+Abathur,Towers of Doom,49.52,16.69,8.88,Abathur,Support,5,0
+Alarak,Towers of Doom,47.59,35.23,26.7,Alarak,Melee,4,0
+Alexstrasza,Towers of Doom,50.3,7.45,1.3,Alexstrasza,Healer,3,0
+Ana,Towers of Doom,48.81,25.09,12.59,Ana,Healer,4,0
+Anduin,Towers of Doom,47.43,27.28,9.64,Anduin,Healer,2,0
+Anub'arak,Towers of Doom,51.06,15.85,4.09,Anubarak,Tank,3,0
+Artanis,Towers of Doom,47,11.99,1.32,Artanis,Bruiser,2,0
+Arthas,Towers of Doom,50.6,12.91,2.53,Arthas,Tank,3,0
+Auriel,Towers of Doom,55.53,57.64,36.75,Auriel,Healer,4,0
+Azmodan,Towers of Doom,50.64,15.07,5.88,Azmodan,Ranged,2,0
+Blaze,Towers of Doom,48.11,6.43,0.34,Blaze,Tank,3,0
+Brightwing,Towers of Doom,48.32,25.74,6.83,Brightwing,Healer,2,0
+Cassia,Towers of Doom,44.89,4.56,0.37,Cassia,Ranged,3,0
+Chen,Towers of Doom,50.31,3.76,0.78,Chen,Bruiser,4,0
+Cho,Towers of Doom,48.11,2.8,1.16,Cho,Tank,5,0
+Chromie,Towers of Doom,45.92,12.69,3.32,Chromie,Ranged,4,0
+D.Va,Towers of Doom,43.3,2.34,0.12,Dva,Bruiser,4,0
+Deathwing,Towers of Doom,57.04,89.76,83.13,Deathwing,Bruiser,2,0
+Deckard,Towers of Doom,43.59,6.61,0.65,Deckard,Healer,3,0
+Dehaka,Towers of Doom,47.52,15.56,6.05,Dehaka,Bruiser,3,0
+Diablo,Towers of Doom,46.98,40.05,16.78,Diablo,Tank,2,0
+E.T.C.,Towers of Doom,52.09,43.96,19.52,Etc,Tank,3,0
+Falstad,Towers of Doom,50.56,25.02,7.73,Falstad,Ranged,3,0
+Fenix,Towers of Doom,54.45,6.1,0.44,Fenix,Ranged,3,0
+Gall,Towers of Doom,48.11,2.36,0.71,Gall,Ranged,4,0
+Garrosh,Towers of Doom,46.27,48,32.34,Garrosh,Tank,3,0
+Gazlowe,Towers of Doom,48.59,4.21,0.48,Gazlowe,Melee,3,0
+Genji,Towers of Doom,41.58,5.93,0.8,Genji,Ranged,3,0
+Greymane,Towers of Doom,49.87,23.38,4.37,Greymane,Ranged,3,0
+Gul'dan,Towers of Doom,42.54,12.46,2.67,Guldan,Ranged,3,0
+Hanzo,Towers of Doom,45.07,15.94,2.59,Hanzo,Ranged,3,0
+Illidan,Towers of Doom,49.65,7.09,1.72,Illidan,Melee,4,0
+Imperius,Towers of Doom,52.18,12.29,1.48,Imperius,Bruiser,2,0
+Jaina,Towers of Doom,51.43,23.59,4.47,Jaina,Ranged,2,0
+Johanna,Towers of Doom,49.89,54.33,24.79,Johanna,Tank,2,0
+Junkrat,Towers of Doom,45.34,8.01,1.61,Junkrat,Ranged,3,0
+Kael'thas,Towers of Doom,48.61,68.97,50.84,Kaelthas,Ranged,1,0
+Kel'Thuzad,Towers of Doom,48.33,16.66,8.3,Kelthuzad,Ranged,3,0
+Kerrigan,Towers of Doom,53.26,4,0.19,Kerrigan,Melee,4,0
+Kharazim,Towers of Doom,50,5.99,0.24,Kharazim,Healer,3,0
+Leoric,Towers of Doom,48.79,14.9,2.32,Leoric,Bruiser,2,0
+Li Li,Towers of Doom,47.95,24.37,7.96,Lili,Healer,1,0
+Li-Ming,Towers of Doom,50.6,57.78,17.2,Liming,Ranged,2,0
+Lt. Morales,Towers of Doom,48.05,8.75,2.36,Ltmorales,Healer,3,0
+Lúcio,Towers of Doom,51.29,22.31,6.13,Lucio,Healer,3,0
+Lunara,Towers of Doom,56.75,18.32,2.9,Lunara,Ranged,2,0
+Maiev,Towers of Doom,47.27,4.8,1.04,Maiev,Melee,4,0
+Mal'Ganis,Towers of Doom,53.14,24.22,9.55,Malganis,Tank,3,0
+Malfurion,Towers of Doom,48.74,10.91,1.51,Malfurion,Healer,3,0
+Malthael,Towers of Doom,51.79,13.06,3.53,Malthael,Bruiser,4,0
+Medivh,Towers of Doom,47.09,4.44,0.6,Medivh,Support,5,0
+Mephisto,Towers of Doom,51.56,5.67,0.5,Mephisto,Ranged,3,0
+Muradin,Towers of Doom,50,23.13,1.86,Muradin,Tank,1,0
+Murky,Towers of Doom,50.85,3.85,0.55,Murky,Melee,4,0
+Nazeebo,Towers of Doom,49.8,15.5,1.58,Nazeebo,Ranged,2,0
+Nova,Towers of Doom,47.08,5.38,0.48,Nova,Ranged,3,0
+Orphea,Towers of Doom,45.59,6.86,0.59,Orphea,Ranged,3,0
+Probius,Towers of Doom,56.44,1.26,0.24,Probius,Ranged,4,0
+Qhira,Towers of Doom,49.28,19.08,9.17,Qhira,Melee,2,0
+Ragnaros,Towers of Doom,49.52,5.86,1.34,Ragnaros,Bruiser,3,0
+Raynor,Towers of Doom,53.01,19.42,1.85,Raynor,Ranged,1,0
+Rehgar,Towers of Doom,51.18,16.92,1.6,Rehgar,Healer,3,0
+Rexxar,Towers of Doom,58.18,6.28,1.91,Rexxar,Bruiser,3,0
+Samuro,Towers of Doom,54.39,7.27,2.03,Samuro,Melee,3,0
+Sgt. Hammer,Towers of Doom,50.16,2.49,0.6,Sgthammer,Ranged,3,0
+Sonya,Towers of Doom,52.43,14.85,1.67,Sonya,Bruiser,2,0
+Stitches,Towers of Doom,48.65,15.92,1.61,Stitches,Tank,2,0
+Stukov,Towers of Doom,48.36,12.49,3.03,Stukov,Healer,3,0
+Sylvanas,Towers of Doom,51.97,22.04,5.33,Sylvanas,Ranged,3,0
+Tassadar,Towers of Doom,43.09,2.92,0.22,Tassadar,Support,4,0
+The Butcher,Towers of Doom,55.78,11.75,3.52,Thebutcher,Melee,2,0
+The Lost Vikings,Towers of Doom,56.6,2.78,1.13,Thelostvikings,Support,5,0
+Thrall,Towers of Doom,48.63,17.74,1.21,Thrall,Bruiser,2,0
+Tracer,Towers of Doom,49.13,4.94,0.67,Tracer,Ranged,4,0
+Tychus,Towers of Doom,49.42,11.31,2.26,Tychus,Ranged,2,0
+Tyrael,Towers of Doom,46.52,4.69,0.23,Tyrael,Tank,3,0
+Tyrande,Towers of Doom,48.46,5.9,0.24,Tyrande,Healer,3,0
+Uther,Towers of Doom,55.1,22.2,7.21,Uther,Healer,3,0
+Valeera,Towers of Doom,46.75,6.9,1.16,Valeera,Melee,4,0
+Valla,Towers of Doom,49.32,23.9,3.33,Valla,Ranged,2,0
+Varian,Towers of Doom,50.21,31.62,11.29,Varian,Bruiser,1,0
+Whitemane,Towers of Doom,50,5.33,0.53,Whitemane,Healer,4,0
+Xul,Towers of Doom,55.61,5.9,0.47,Xul,Bruiser,3,0
+Yrel,Towers of Doom,50.27,3.74,0.26,Yrel,Bruiser,4,0
+Zagara,Towers of Doom,54.26,7.62,1.21,Zagara,Ranged,3,0
+Zarya,Towers of Doom,51.62,3.9,0.25,Zarya,Support,4,0
+Zeratul,Towers of Doom,50.78,12.93,4.92,Zeratul,Melee,3,0
+Zul'jin,Towers of Doom,50.89,17.2,3.65,Zuljin,Ranged,3,0
+Abathur,Volskaya Foundry,48.84,9.13,4.05,Abathur,Support,5,0
+Alarak,Volskaya Foundry,49.17,37.44,28.02,Alarak,Melee,4,0
+Alexstrasza,Volskaya Foundry,48.49,12.24,2.96,Alexstrasza,Healer,3,0
+Ana,Volskaya Foundry,49.59,26.27,13.5,Ana,Healer,4,0
+Anduin,Volskaya Foundry,45.64,27.6,10.15,Anduin,Healer,2,0
+Anub'arak,Volskaya Foundry,48.95,15.59,4.34,Anubarak,Tank,3,0
+Artanis,Volskaya Foundry,47.23,11.93,1.73,Artanis,Bruiser,2,0
+Arthas,Volskaya Foundry,47.5,13.95,2.75,Arthas,Tank,3,0
+Auriel,Volskaya Foundry,52.98,58.33,37.23,Auriel,Healer,4,0
+Azmodan,Volskaya Foundry,51.1,14.25,5.19,Azmodan,Ranged,2,0
+Blaze,Volskaya Foundry,47.88,9.19,0.69,Blaze,Tank,3,0
+Brightwing,Volskaya Foundry,48.88,16.58,3.81,Brightwing,Healer,2,0
+Cassia,Volskaya Foundry,46.09,4.65,0.44,Cassia,Ranged,3,0
+Chen,Volskaya Foundry,47.31,4.23,0.88,Chen,Bruiser,4,0
+Cho,Volskaya Foundry,46.56,3.34,1.35,Cho,Tank,5,0
+Chromie,Volskaya Foundry,49.83,13.69,2.87,Chromie,Ranged,4,0
+D.Va,Volskaya Foundry,44.04,3.12,0.2,Dva,Bruiser,4,0
+Deathwing,Volskaya Foundry,56.18,90.55,83.82,Deathwing,Bruiser,2,0
+Deckard,Volskaya Foundry,49.65,9.75,0.9,Deckard,Healer,3,0
+Dehaka,Volskaya Foundry,40.92,3.18,0.75,Dehaka,Bruiser,3,0
+Diablo,Volskaya Foundry,46.49,34.04,15.46,Diablo,Tank,2,0
+E.T.C.,Volskaya Foundry,52.42,45.23,20.83,Etc,Tank,3,0
+Falstad,Volskaya Foundry,50.94,9.68,1.09,Falstad,Ranged,3,0
+Fenix,Volskaya Foundry,49.47,6.19,0.3,Fenix,Ranged,3,0
+Gall,Volskaya Foundry,46.56,2.69,0.7,Gall,Ranged,4,0
+Garrosh,Volskaya Foundry,48.39,52.56,35.91,Garrosh,Tank,3,0
+Gazlowe,Volskaya Foundry,52.52,5.95,0.65,Gazlowe,Melee,3,0
+Genji,Volskaya Foundry,40.25,5.22,0.82,Genji,Ranged,3,0
+Greymane,Volskaya Foundry,49.9,19.96,4.26,Greymane,Ranged,3,0
+Gul'dan,Volskaya Foundry,45.18,15.58,3.59,Guldan,Ranged,3,0
+Hanzo,Volskaya Foundry,45.74,13.85,2.46,Hanzo,Ranged,3,0
+Illidan,Volskaya Foundry,45.47,4.98,0.93,Illidan,Melee,4,0
+Imperius,Volskaya Foundry,46.92,14.07,2.16,Imperius,Bruiser,2,0
+Jaina,Volskaya Foundry,49.21,22.79,5.1,Jaina,Ranged,2,0
+Johanna,Volskaya Foundry,51.79,60.26,27.11,Johanna,Tank,2,0
+Junkrat,Volskaya Foundry,43.58,10.42,1.99,Junkrat,Ranged,3,0
+Kael'thas,Volskaya Foundry,50.15,73.64,54.68,Kaelthas,Ranged,1,0
+Kel'Thuzad,Volskaya Foundry,48.91,20.71,9.92,Kelthuzad,Ranged,3,0
+Kerrigan,Volskaya Foundry,53.44,3.94,0.32,Kerrigan,Melee,4,0
+Kharazim,Volskaya Foundry,49.44,5.26,0.26,Kharazim,Healer,3,0
+Leoric,Volskaya Foundry,50.15,14.59,2.11,Leoric,Bruiser,2,0
+Li Li,Volskaya Foundry,49.87,24.98,8.37,Lili,Healer,1,0
+Li-Ming,Volskaya Foundry,49.77,56.39,17.8,Liming,Ranged,2,0
+Lt. Morales,Volskaya Foundry,49.13,9.65,2.89,Ltmorales,Healer,3,0
+Lúcio,Volskaya Foundry,51.28,24.08,6.59,Lucio,Healer,3,0
+Lunara,Volskaya Foundry,50.84,16.8,2.42,Lunara,Ranged,2,0
+Maiev,Volskaya Foundry,47.46,6.45,1.19,Maiev,Melee,4,0
+Mal'Ganis,Volskaya Foundry,52.48,27.16,11.14,Malganis,Tank,3,0
+Malfurion,Volskaya Foundry,49.15,12.46,1.82,Malfurion,Healer,3,0
+Malthael,Volskaya Foundry,47.48,11.26,3.13,Malthael,Bruiser,4,0
+Medivh,Volskaya Foundry,43.01,4.59,0.63,Medivh,Support,5,0
+Mephisto,Volskaya Foundry,52.87,8.35,0.66,Mephisto,Ranged,3,0
+Muradin,Volskaya Foundry,48.56,23.18,1.98,Muradin,Tank,1,0
+Murky,Volskaya Foundry,54.77,3.92,0.47,Murky,Melee,4,0
+Nazeebo,Volskaya Foundry,54.48,24.49,2.64,Nazeebo,Ranged,2,0
+Nova,Volskaya Foundry,44.61,4.15,0.29,Nova,Ranged,3,0
+Orphea,Volskaya Foundry,49.45,8.02,0.71,Orphea,Ranged,3,0
+Probius,Volskaya Foundry,47.88,1.71,0.24,Probius,Ranged,4,0
+Qhira,Volskaya Foundry,46.5,20.47,9.8,Qhira,Melee,2,0
+Ragnaros,Volskaya Foundry,52.65,9.72,2.21,Ragnaros,Bruiser,3,0
+Raynor,Volskaya Foundry,50.97,19.88,1.66,Raynor,Ranged,1,0
+Rehgar,Volskaya Foundry,52.72,14.25,1.34,Rehgar,Healer,3,0
+Rexxar,Volskaya Foundry,53.95,7.39,2.59,Rexxar,Bruiser,3,0
+Samuro,Volskaya Foundry,56.93,6.22,1.64,Samuro,Melee,3,0
+Sgt. Hammer,Volskaya Foundry,46.56,3.2,0.76,Sgthammer,Ranged,3,0
+Sonya,Volskaya Foundry,55.01,14.04,1.83,Sonya,Bruiser,2,0
+Stitches,Volskaya Foundry,46.98,14.54,1.25,Stitches,Tank,2,0
+Stukov,Volskaya Foundry,47.14,17.29,4.55,Stukov,Healer,3,0
+Sylvanas,Volskaya Foundry,48.96,19.12,3.94,Sylvanas,Ranged,3,0
+Tassadar,Volskaya Foundry,43.59,3.2,0.29,Tassadar,Support,4,0
+The Butcher,Volskaya Foundry,55.41,10.59,3.36,Thebutcher,Melee,2,0
+The Lost Vikings,Volskaya Foundry,42.11,1.31,0.48,Thelostvikings,Support,5,0
+Thrall,Volskaya Foundry,52.46,21.54,1.32,Thrall,Bruiser,2,0
+Tracer,Volskaya Foundry,46.74,4.15,0.71,Tracer,Ranged,4,0
+Tychus,Volskaya Foundry,47.53,11.83,2.52,Tychus,Ranged,2,0
+Tyrael,Volskaya Foundry,49.67,4.94,0.29,Tyrael,Tank,3,0
+Tyrande,Volskaya Foundry,49.86,4.82,0.22,Tyrande,Healer,3,0
+Uther,Volskaya Foundry,55.25,21.62,7.12,Uther,Healer,3,0
+Valeera,Volskaya Foundry,47.96,5.33,0.91,Valeera,Melee,4,0
+Valla,Volskaya Foundry,52.13,25.25,3.54,Valla,Ranged,2,0
+Varian,Volskaya Foundry,50.11,31.74,11.65,Varian,Bruiser,1,0
+Whitemane,Volskaya Foundry,51.37,6.17,0.5,Whitemane,Healer,4,0
+Xul,Volskaya Foundry,51.55,3.4,0.19,Xul,Bruiser,3,0
+Yrel,Volskaya Foundry,48.32,4.21,0.32,Yrel,Bruiser,4,0
+Zagara,Volskaya Foundry,54.45,6.26,0.75,Zagara,Ranged,3,0
+Zarya,Volskaya Foundry,49.33,5.55,0.45,Zarya,Support,4,0
+Zeratul,Volskaya Foundry,48.92,9.73,3.97,Zeratul,Melee,3,0
+Zul'jin,Volskaya Foundry,56.05,26.38,4.95,Zuljin,Ranged,3,0
