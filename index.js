@@ -2,6 +2,10 @@
 var test = dataOriginal[1]['BanRate']; */
 
 /* almost constant variables, initialization, functions*/
+var URLfront = "https://www.heroesprofile.com/Global/Matchups/?hero=";
+var URLback =
+  "&timeframe_type=minor&timeframe=2.49.2.77981,2.49.1.77692,2.49.1.77662&game_type=sl";
+
 var numHero = 88;
 var dataMap = [];
 var dataMapRole = [];
@@ -99,7 +103,16 @@ function showAll() {
     row.classList.add("rowRole" + dataSorted[i]["Role"]);
 
     cell1.innerHTML =
-      "<img src=" + "heroImages/" + dataSorted[i]["HeroID"] + ".png" + ">";
+      "<a href=" +
+      URLfront +
+      dataSorted[i]["URLID"] +
+      URLback +
+      "> <img src=" +
+      "heroImages/" +
+      dataSorted[i]["HeroID"] +
+      ".png" +
+      ">" +
+      "</a>";
 
     switch (dataSorted[i]["Role"]) {
       case "Tank":
