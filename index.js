@@ -24,6 +24,8 @@ var cbxRoleRanged = document.getElementById("cbxRoleRanged");
 var cbxRoleHealer = document.getElementById("cbxRoleHealer");
 var cbxRoleSupport = document.getElementById("cbxRoleSupport");
 var btnClear = document.getElementById("btnClear");
+var divScroll = document.getElementById("divScroll");
+var btnScroll = document.getElementById("btnScroll");
 
 var numSizeWin = 4.6;
 var numSizePlay = 0.3;
@@ -39,6 +41,7 @@ function compaireFunc(key) {
   };
 }
 
+/* 아래 listToMatrix 이용 안하는 듯?*/
 function listToMatrix(list, elementsPerSubArray) {
   var matrix = [],
     i,
@@ -289,6 +292,10 @@ function checkSome() {
   }
 }
 
+function scrollToTop() {
+  window.scrollTo(0, 0);
+}
+
 window.onload = showAll();
 sltMap.addEventListener("change", function() {
   showAll();
@@ -321,3 +328,5 @@ cbxRoleMelee.addEventListener("change", hideSome);
 cbxRoleRanged.addEventListener("change", hideSome);
 cbxRoleHealer.addEventListener("change", hideSome);
 cbxRoleSupport.addEventListener("change", hideSome);
+
+btnScroll.addEventListener("click", scrollToTop);
