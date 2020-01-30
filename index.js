@@ -103,7 +103,7 @@ function showAll() {
     row.classList.add("rowRole" + dataSorted[i]["Role"]);
 
     cell1.innerHTML =
-      "<a href=" +
+      "<a target='_blank' rel='noopener noreferrer' href=" +
       URLfront +
       dataSorted[i]["URLID"] +
       URLback +
