@@ -184,7 +184,8 @@ h1 {
 .rowHide {
   display: none;
 }
-.rowCheck {
+.rowCheck td:nth-child(2),
+.rowCheck td:nth-child(3) {
   opacity: 0.2;
 }
 
