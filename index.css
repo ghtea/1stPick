@@ -1,4 +1,6 @@
-@media (max-width: 374px) {
+@import url('https://fonts.googleapis.com/css?family=Barlow&display=swap');
+
+@media (max-width: 375px) {
   html {
     font-size: 13px;
     zoom: 85%;
@@ -6,7 +8,7 @@
 }
 
 html {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family:'Barlow', Helvetica, Arial, sans-serif !important;
   font-size: 16px;
 }
 
@@ -40,7 +42,7 @@ h1 {
 }
 
 #divInput {
-  background-image: linear-gradient(-180deg, #20286e, #0f1445);
+  background-image: linear-gradient(-180deg, #3F0C8E, #0F1B6D);
   border-radius: 15px 15px 0 0;
   padding-top: 10px;
 }
@@ -50,10 +52,11 @@ h1 {
   font-size: 0.8rem;
 }
 
-#divRatio {
+#divRatio, #divRatio2 {
   height: 35px;
   width: 335px;
-  margin-left: 30px;
+  margin-left: auto !important;
+  margin-right: auto !important;
   display: flex;
   justify-content: center;
   align-items: center;
@@ -64,12 +67,13 @@ h1 {
   padding: 5px;
 }
 
-/* Win Rate */
-#divRatio > :nth-child(1) {
+/* Winrate and 3 more*/
+#divRatio > div, #divRatio2 > div {
   display: table;
   width: 70px;
 }
-#divRatio > :nth-child(1) > div {
+
+.txtRg {
   width: 70px;
   height: 35px;
   display: table-cell;
@@ -77,16 +81,13 @@ h1 {
 }
 
 /* ratio bar */
-#divRatio > :nth-child(2) {
+#divRatio > :nth-child(2), #divRatio2 > :nth-child(2){
   width: 175px;
 }
 
-/* Number of Games */
-#divRatio > :nth-child(3) {
+/* Number of Games,  Bronze Games, Mastee Games */
+#divRatio > :nth-child(3), #divRatio2 > :nth-child(1), #divRatio2 > :nth-child(3) {
   font-size: 0.9rem;
-  width: 70px;
-  display: table-cell;
-  vertical-align: middle;
 }
 
 #divSlt {
@@ -135,15 +136,9 @@ h1 {
 
 #divRatio > p,
 #divRatio > input,
-#divContact > p,
-#divContact > a {
-  position: static;
-  display: inline;
-}
+#divRatio2 > p,
+#divRatio2 > input,
 
-#divContact > a {
-  color: white;
-}
 
 /* table */
 #tableMain {
@@ -156,16 +151,16 @@ h1 {
 }
 
 .col1 {
-  width: 56px;
+  width: 55px;
 }
 .col2 {
-  width: 18px;
+  width: 20px;
 }
 .col3 {
-  width: 41px;
+  width: 45px;
 }
 .col4 {
-  width: 210px;
+  width: 205px;
 }
 .col5 {
   width: 50px;
@@ -178,7 +173,7 @@ h1 {
 
 #tableMain tr:nth-child(n + 2) {
   height: 56px;
-  border-bottom: 3px solid #20286e !important ;
+  border-bottom: 3px solid #0F1B6D !important ;
 }
 
 .rowHide {
@@ -202,7 +197,7 @@ h1 {
 }
 
 #tableMain th {
-  background-color: #0f1445;
+  background-color: #0F1B6D;
   color: white;
   height: 45px;
   font-size: 0.9rem;
@@ -213,10 +208,14 @@ h1 {
   border: none;
 }
 
-td a img {
+.btnHero {
+  border: none;
+}
+
+.btnHero img {
   border-radius: 15%;
   border-width: 0px;
-  padding: 3px;
+  padding: 1px;
   width: 50px;
   height: 50px;
   /*position: absolute; top:0; left:50px; z-index: 10;";*/
@@ -317,19 +316,33 @@ input.cbxPerHero {
   transform: scale(1.3);
 }
 
-#dataDate {
-  background-color: #0f1445;
+#dataFrom {
+  background-color: #0F1B6D;
   border-radius: 0 0 15px 15px;
   margin-top: 0px;
   padding-top: 10px;
   padding-bottom: 10px;
 }
 
+#dataFrom a {
+  color: white;
+}
+
+#divContact > p,
+#divContact > a {
+  position: static;
+  display: inline;
+}
+
+#divContact > a {
+  color: white;
+}
+
 #divScroll {
   position: fixed;
   bottom: 60px;
   right: 10px;
-  background-image: linear-gradient(-180deg, #20286e, #0f1445);
+  background-image: linear-gradient(-180deg, #3F0C8E, #0F1B6D);
   width: 60px;
   height: 50px;
   font-size: 1.2rem;
@@ -346,4 +359,116 @@ input.cbxPerHero {
 
 #btnScroll {
   display: none;
+}
+
+#divBonus {
+  visibility: hidden;
+  display: flex;
+  align-items: flex-start;
+  padding: 5px;
+  background-image: linear-gradient(-180deg, #3F0C8E, #0F1B6D);
+  z-index: 1;
+  width: 357px;
+  position: fixed;
+  bottom: 15px;
+  opacity: 0.95;
+  border-radius: 15px;
+  border: 4px solid #000429;
+}
+
+@media (min-height: 1000px) {
+  #divBonus {
+    top: 750px;
+  }
+}
+
+#divMainHero{
+  position: absolute;
+  top: 7px;
+  left: 17px;
+  font-size: 1.2rem;
+}
+
+#divCloseBonus {
+  position: absolute;
+  right: 0px;
+  top: 7px;
+}
+
+#btnCloseBonus {
+  border: none;
+  font-size: 1.2rem;
+  color:white;
+}
+
+#divBonusLeft, #divBonusRight {
+  width: 50%;
+}
+
+#divBonusLeft p, #divBonusRight p {
+  /* height: 20px !important; doesnt work */
+  height:17px;
+  padding-top:15px;
+}
+
+#divBonusLeft > div, #divBonusRight > div {
+  overflow: auto;
+  height: 170px;
+}
+
+#divBonusLeft > div {
+  border-radius: 9px 0 0 9px;
+  background-color: rgba(0, 255, 0, 0.3)
+}
+
+#divBonusRight > div{
+  border-radius: 0 9px 9px 0;
+  background-color: rgba(255, 0, 0, 0.3);
+}
+
+
+.divHeroBox {
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-wrap: wrap; 
+}
+
+.divHeroSmallSet{
+  position: relative;
+
+}
+
+.divHeroSmallSet p {
+  position: absolute;
+  vertical-align:text-top;
+  top:-5px;
+  left: 0px;
+  z-index: 1;
+}
+
+.divHeroSmallSet img {
+  position: relative;
+  top:0px;
+  left:4px;
+  border-radius: 15%;
+  border-width:1px;  
+  border-style:solid;
+  margin: 7px;
+  width: 36px;
+  height: 36px;
+}
+
+
+
+.lvlGold {
+  border-color: #fee101;
+}
+
+.lvlSilver {
+  border-color: #d7d7d7;
+}
+
+.lvlBronze {
+  border-color: #a77044;
 }
