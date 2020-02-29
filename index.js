@@ -57,7 +57,7 @@ var iMessage = 0;
 function changeMessage() {
   let pMessage = document.getElementById("pMessage");
   
-  let messages = ['updated: 2020. 2. 26. (UTC +9)', 'Do you have <a href="https://forms.gle/iw1yCZ2RAv2Htys36"> any opinions </a> on this website?', 'please use <a href="https://api.heroesprofile.com/upload"> Heroes Profile Uploader </a>', "'Add to Home Screen' on your iPhone Safari"]
+  let messages = ['updated: 2020. 3. 1. (UTC +9)', 'Do you have <a href="https://forms.gle/iw1yCZ2RAv2Htys36"> any opinions </a> on this website?', 'please use <a href="https://api.heroesprofile.com/upload"> Heroes Profile Uploader </a>', "'Add to Home Screen' on your iPhone Safari"]
   
   pMessage.innerHTML = messages[iMessage];
   
